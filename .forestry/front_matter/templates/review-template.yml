@@ -11,3 +11,5 @@ fields:
 - type: boolean
   name: toc
   label: toc
+pages:
+- content/blog/test.md
