@@ -1,13 +1,17 @@
 ---
-title: "What is Cardano, is it worth investing in?"
-image: "images/post/08.webp"
-date: 2021-01-24T18:19:25+06:00
-author: "Lubana Era"
-tags: ["Cardano"]
-categories: ["Cardano"]
-draft: false
----
+title: What is Cardano, is it worth investing in?
+image: images/post/08.webp
+date: 2021-01-24T18:19:25.000+06:00
+author: Lubana Era
+tags:
+- Cardano
+categories:
+- Cardano
+description: 'This is the meta description '
+toc: false
+url: ''
 
+---
 ## What is Cardano and Is It worth Purchasing Cardano (ADA)?
 
 ## What is Cardano? Is it a cryptocurrency? Is it similar to Bitcoin?

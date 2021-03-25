@@ -30,3 +30,5 @@ fields:
   name: url
   label: url
   description: e.g. --&gt; bitcoin-inflation-hedge
+pages:
+- content/blog/what-is-cardano-worth-investing.md
