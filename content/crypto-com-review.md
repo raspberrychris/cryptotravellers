@@ -3,6 +3,7 @@ title: "Crypto.com Review"
 image: "images/about.jpg"
 draft: false
 toc: true
+url: crypto-com-review2
 ---
 
 {{< notice "note" >}}
