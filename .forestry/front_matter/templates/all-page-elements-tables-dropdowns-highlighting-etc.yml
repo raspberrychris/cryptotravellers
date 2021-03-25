@@ -1,0 +1,10 @@
+---
+label: All Page Elements (Tables, Dropdowns, highlighting etc)
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
