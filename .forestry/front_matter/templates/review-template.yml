@@ -11,5 +11,19 @@ fields:
 - type: boolean
   name: toc
   label: toc
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
+- content/blog/how-to-buy-cardano-ada-right-now.md
 - content/blog/test.md
