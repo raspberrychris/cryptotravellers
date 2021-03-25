@@ -26,3 +26,5 @@ fields:
 - type: boolean
   name: toc
   label: toc
+pages:
+- content/blog/how-to-buy-cardano-ada-right-now.md
