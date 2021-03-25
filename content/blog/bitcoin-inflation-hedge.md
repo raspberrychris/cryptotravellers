@@ -8,6 +8,7 @@ author: "Lubana Era"
 tags: ["Bitcoin"]
 categories: ["Crypto"]
 toc: true
+url: bitcoin-inflation-hedge
 ---
 
 ## Introduction
