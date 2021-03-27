@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 description: "this is meta description"
-draft: true
+draft: false
 url: privacy-policy
 ---
 

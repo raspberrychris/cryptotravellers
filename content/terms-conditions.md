@@ -2,6 +2,7 @@
 title: Terms And Conditions
 description: this is meta description
 draft: false
+url: terms-conditions
 
 ---
 #### Responsibility of Contributors
