@@ -4,7 +4,7 @@ categories = []
 date = 2021-03-27T12:00:00Z
 description = "In this step by step guide, learn how to safely and securely buy Ethereum in the UK."
 draft = true
-image = ""
+image = "/uploads/how-to-buy-ethereum-uk.jpg"
 tags = []
 title = "Cheaply Buy Ethereum in the UK (2021 Guide)"
 toc = true
@@ -21,7 +21,7 @@ Buying Ethereum (ETH) as a UK resident was once difficult and expensive. But in 
 
 It's now easier than ever before!
 
-## Cheapest Way to Buy Ethereum
+## Cheapest Way to Buy Ethereum in the UK
 
 ## Buy Ethereum in the United Kingdom 
 
