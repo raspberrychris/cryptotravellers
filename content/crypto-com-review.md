@@ -2,7 +2,13 @@
 title: "Crypto.com Review"
 image: "images/about.jpg"
 draft: false
+image: "images/post/01.jpg"
+date: 2021-02-05T16:56:47+06:00
+author: "Luna Sanchez"
+tags: ["Bitcoin"]
+categories: ["Crypto"]
 toc: true
+url: crypto-com-review
 
 ---
 
