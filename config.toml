@@ -75,7 +75,7 @@ favicon = "images/favicon.png"
 description = "This is meta description"
 author = "Crypto Travellers"
 # contact form action
-contact_form_action = "https://formspree.io/f/xyylglop" # contact form works with https://formspree.io
+contact_form_action = "method="POST" https://formspree.io/f/xyylglop" # contact form works with https://formspree.io
 # search
 search = true
 # main section
