@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-8">
-        <form action="action="https://formspree.io/f/xyylglop"
+        <form action="action="{{site.Params.contact_form_action}}"
         method="POST">
           <div class="mb-4">
             <label for="name" class="form-label">Your Name</label>
@@ -49,5 +49,3 @@
 </form>
 
 {{ end }}
-
-{{site.Params.contact_form_action}}
