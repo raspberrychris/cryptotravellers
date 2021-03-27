@@ -2,7 +2,7 @@
 author = "Luna Sanchez"
 categories = []
 date = 2021-03-27T12:00:00Z
-description = ""
+description = "In this step by step guide, learn how to safely and securely buy Ethereum in the UK."
 draft = true
 image = ""
 tags = []
