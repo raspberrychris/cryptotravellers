@@ -11,7 +11,6 @@ toc = true
 url = "buy-ethereum-uk"
 
 +++
-
 # Cheaply Buy Ethereum in the UK (2021 Guide)
 
 The second-largest cryptocurrency network, Ethereum (ETH) supports loads of ERC-20 tokens on its blockchain. This means that you can trade it just about anywhere too!
@@ -23,3 +22,11 @@ Buying Ethereum (ETH) as a UK resident was once difficult and expensive. But in 
 It's now easier than ever before!
 
 ## Cheapest Way to Buy Ethereum
+
+1\. Buy Ethereum in the United Kingdom 
+
+2\. Find a reputable cryptocurrency exchange 
+
+3\. Transfer money to your account 
+
+4\. Buy Ethereum with USD, GBP, or EURO
