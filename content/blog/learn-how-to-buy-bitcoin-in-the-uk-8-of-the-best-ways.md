@@ -5,7 +5,7 @@ date = 2021-03-26T23:00:00Z
 description = "Don't get ripped off or scammed when buying Bitcoin.  Discover the best ways to buy bitcoin.  We review the best and most trusted ways to buy Bitcoin in the UK."
 image = "/uploads/buy-bitcoin-uk.jpg"
 tags = ["Bitcoin"]
-title = "Learn How to Buy Bitcoin in the UK - 8 of the best ways!"
+title = "Learn How to Buy Bitcoin in the UK | 8 of the best ways!"
 toc = true
 url = "how-to-buy-bitcoin-uk"
 
@@ -52,6 +52,8 @@ CoinJar is the UK’s premier cryptocurrency broker for buying bitcoin and other
 You'll be charged a 1% fixed fee when you purchase bitcoins through this service but will receive quotes that are slightly higher than global market averages so there's no need to worry about getting below-market prices if by chance they happen near publication date.
 
 ## 4. Luno
+
+![](/uploads/luno.png)
 
 Established in 2013, Luno is a UK-based cryptocurrency broker that’s made it simple to buy bitcoin (and other popular cryptocurrencies). When you deposit GBP with a bank transfer from the UK, you will be charged 1.5% when buying or selling bitcoins - which may seem like high fees at first glance. However, I found their rates are usually close to what they should actually cost!
 
