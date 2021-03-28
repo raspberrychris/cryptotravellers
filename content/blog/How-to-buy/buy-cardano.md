@@ -12,3 +12,5 @@ url: buy-cardano
 
 ---
 ## What is Cardano?
+
+The Cardano project is a blockchain-based platform and cryptocurrency, similar to Ethereum but with many key differences and improved features.  Cardano is a cryptocurrency that can be traded on many popular exchanges. However, it's not as easy to buy Cardano in some countries.
