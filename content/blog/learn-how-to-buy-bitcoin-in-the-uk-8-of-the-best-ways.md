@@ -10,7 +10,7 @@ toc = true
 url = "how-to-buy-bitcoin-uk"
 
 +++
-# How to Buy Bitcoin in the UK | 2021 Step by Step Guide
+# How to Buy Bitcoin in the UK? | 2021 Step by Step Guide
 
 **Do you want to buy Bitcoin and are located in the UK?**
 
@@ -30,6 +30,8 @@ In this step by step guide we will show you some of the best ways to purchase Bi
 * Localbitcoins
 
 ## 1. Coinbase Pro
+
+![coinbase-pro](/uploads/coinbase-pro-exchange.png "Coinbase Pro")
 
 Coinbase Pro is a cheap way to buy bitcoin in the UK. They were granted an e-money license, which no other major cryptocurrency exchange had before them! This big deal means that you can deposit British Pounds (GBP) via Faster Payments - and it's been one of Coinbase’s best features for years now!
 
