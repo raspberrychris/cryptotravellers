@@ -1,17 +1,17 @@
 ---
-title: "Crypto.com Review"
-image: "images/about.jpg"
-draft: false
-image: "images/post/01.jpg"
-date: 2021-02-05T16:56:47+06:00
-author: "Luna Sanchez"
-tags: ["Bitcoin"]
-categories: ["Crypto","Exchanges"]
+title: Crypto.com Review
+image: "/uploads/kapture-2021-03-28-at-17-46-04.gif"
+date: 2021-02-05T16:56:47.000+06:00
+author: Luna Sanchez
+tags:
+- Bitcoin
+categories:
+- Crypto
+- Exchanges
 toc: true
 url: crypto-com-review
 
 ---
-
 {{< notice "note" >}}
   Disclaimer: This post contains affiliate links to Crypto.com website.  Stake CRO to get the **Ruby Card** and you will receive $25 free using the links in this post.
 {{< /notice >}}
