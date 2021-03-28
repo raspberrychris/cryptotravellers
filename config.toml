@@ -68,7 +68,7 @@ color_primary = "#f2a900"
 
 #################### default parameters ################################
 [params]
-logo = "images/crypto-travellers.png"
+logo = "/uploads/cryptotravellers-com-removebg-preview.png"
 logo_height = "65px"
 favicon = "images/favicon.png"
 # Meta data
