@@ -16,3 +16,9 @@ url: buy-cardano
 The Cardano project is a blockchain-based platform and cryptocurrency, similar to Ethereum but with many key differences and improved features.  Cardano is a cryptocurrency that can be traded on many popular exchanges. However, it's not as easy to buy Cardano in some countries.
 
 ## The Daedalus Wallet
+
+Daedalus is a secure crypto wallet for the ADA cryptocurrency.  Daedalus is a downloadable wallet that you can operate on your computer and keep your ADA safe.  Daedalus is the open source wallet for ADA, built to grow with the Cardano blockchain.
+
+## What are the features of the Daedalus Wallet?
+
+## ADA - The cryptocurrency of Cardano
