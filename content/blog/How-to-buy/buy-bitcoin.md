@@ -17,4 +17,4 @@ Bitcoin is one of the most popular cryptocurrencies in the world today. Bitcoin 
 
 ## How to buy Bitcoin in the UK?
 
-Learn in this article how to [buy Bitcoin in the UK](/buy-bitcoin-uk).
+Learn in this article how to [buy Bitcoin in the UK](/how-to-buy-bitcoin-uk).
