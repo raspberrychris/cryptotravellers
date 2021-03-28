@@ -83,7 +83,7 @@ Coinfloor is a reputable UK bitcoin exchange that focuses on connection traders,
 
 Localbitcoins is a site that aims to convert your local currency into the cryptocurrency bitcoin. You can post ads on this website for conversion rates and payment methods, or browse through other people's postings if you're interested in exchanging currencies with them!
 
-Payment Methods available include:
+**Payment Methods available include:**
 
 * Bank transfer (Faster Payments)
 * Debit & Credit Card
