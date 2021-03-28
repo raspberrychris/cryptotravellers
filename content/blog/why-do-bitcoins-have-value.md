@@ -24,3 +24,5 @@ The value of bitcoins goes up and down over time based on what people are willin
 ## 2.Divisibility
 
 ## 3. Utility
+
+[https://www.investopedia.com/ask/answers/100314/why-do-bitcoins-have-value.asp](https://www.investopedia.com/ask/answers/100314/why-do-bitcoins-have-value.asp "https://www.investopedia.com/ask/answers/100314/why-do-bitcoins-have-value.asp")
