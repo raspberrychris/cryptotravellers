@@ -21,13 +21,17 @@ Businesses can receive their payments in CRO and stable coins or fiat. This is b
 
 ## Are your funds in the Crypto.com App Insured?
 
-> _Crypto.com is committed to the security of its platform and believes in a proactive "Defense in Depth" culture approach, where we embed a security growth mindset into all aspects of our business processes.  
->    
+> _Crypto.com is committed to the security of its platform and believes in a proactive "Defense in Depth" culture approach, where we embed a security growth mindset into all aspects of our business processes.
+>
 > Crypto.com has secured a US $100M direct insurance policy led by Arch Underwriting at Lloyd's Syndicate 2012. This is the largest coverage that Crypto.com has secured for its cold storage assets on custodial partner Ledger Vault._
 >
 > _The new policy brings Crypto.com’s total cryptocurrency insurance to $360M, including direct and indirect coverage via custodians. This will significantly expand security protection for Crypto.com’s growing user base against physical damage or destruction, and third-party theft._
 >
 > Via [https://help.crypto.com/en/articles/3997557-are-my-funds-in-the-crypto-com-app-insured](https://help.crypto.com/en/articles/3997557-are-my-funds-in-the-crypto-com-app-insured "https://help.crypto.com/en/articles/3997557-are-my-funds-in-the-crypto-com-app-insured")
+
+## CRO Benefits 
+
+![cro-benefits](/uploads/cro-tokens-utility_20201015__en.png)
 
 ## Useful Links
 
