@@ -45,6 +45,8 @@ Crypto.com is a service that allows you to buy bitcoin through GBP deposits and 
 
 ## 3. CoinJar
 
+![coin-jar](/uploads/coinjar.png "CoinJar")
+
 CoinJar is the UK’s premier cryptocurrency broker for buying bitcoin and other cryptocurrencies. Founded in 2013, CoinJar makes it easy to buy Bitcoin with a bank transfer from your country of residence at a 1% fixed fee or trade fiat currencies like USD, EURO & AUD on their platform. You can also get free crypto when you sign up!
 
 You'll be charged a 1% fixed fee when you purchase bitcoins through this service but will receive quotes that are slightly higher than global market averages so there's no need to worry about getting below-market prices if by chance they happen near publication date.
