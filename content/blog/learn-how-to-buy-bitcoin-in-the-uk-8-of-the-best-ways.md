@@ -39,7 +39,7 @@ A recent upgrade has made their GBP deposits even cheaper than ever: just 0.5% o
 
 ## 2. Crypto.com
 
-![](/uploads/kapture-2021-03-28-at-17-46-04.gif)
+![crypto-com](/uploads/kapture-2021-03-28-at-17-46-04.gif "Crypto.com")
 
 Crypto.com is a service that allows you to buy bitcoin through GBP deposits and has 0% fees! Crypto.com also offers the option of buying cryptocurrencies at real exchange rates, but this only works for EURO (EUR) deposits right now because it's temporarily disabled in other currencies with them having temporary workarounds currently available on their site as well if interested in using those methods instead or even until they can fix everything up again which will be within 24 hours according to an email received by one user who contacted customer support about Bitcoin being unavailable there during these times while crypto markets are open so should not have any problems converting into BTC/ETH once more eventually soon enough without causing major issues including anything else needed like ID verification etc
 
