@@ -13,8 +13,8 @@ url: buy-bitcoin
 ---
 ## What is bitcoin?
 
-Bitcoin is one of the most popular cryptocurrencies in the world today. Bitcoin is a digital currency that can be converted into cash and vice versa, with anyone who has an internet connection. Currently, there are about 16 million bitcoins in circulation.  Bitcoin is a digital currency that has no physical form. It was created in 2009 by an anonymous person or group called Satoshi Nakamoto.
+[Bitcoin](/buy-bitcoin) is one of the most popular cryptocurrencies in the world today. Bitcoin is a digital currency that can be converted into cash and vice versa, with anyone who has an internet connection. Currently, there are about 16 million bitcoins in circulation.  Bitcoin is a digital currency that has no physical form. It was created in 2009 by an anonymous person or group called Satoshi Nakamoto.
 
 ## How to buy Bitcoin in the UK?
 
-Learn in this article how to [buy Bitcoin in the UK](/buy-bitcoin-uk).
+Learn in this article how to [buy Bitcoin in the UK](/how-to-buy-bitcoin-uk).
