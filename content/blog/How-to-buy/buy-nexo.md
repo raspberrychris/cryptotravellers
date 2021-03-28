@@ -17,7 +17,7 @@ The Nexo platform offers instant crypto-backed loans to customers while still le
 
 Nexo’s native token, NEXO, is a US Securities and Exchange Commission (SEC)-compliant security token that pays ongoing dividends
 
-## How does NEXO work?
+## How does Nexo work?
 
 Nexo is powered by Credissimo, a European financial services company founded in 2007. This online lender launched the Nexo platform in April 2018 and it's regulated by multiple EU regulators to provide you with more security than ever before!
 
@@ -31,4 +31,4 @@ To purchase these crypto assets you need Bitcoin (BTC) or Ethereum (ETH), both o
 
 **Step 2. Deposit BTC or Ethereum into your account.** If you want to deposit BTC or ETH into your account, then there are a few steps that need to be followed. First of all find the address for your exchange wallet and copy it down or scan in the QR code so you know where funds will go. Second, choose which currency (BTC/ETH)you plan on depositing as well as what type of transaction is happening: incoming transfer from an external wallet OR outgoing transfer from this exchange's hot storage holdings). Lastly fill out some information about yourself like how much money should be deposited at once and whether they'll continue trading with these coins after receiving them
 
-**Step 3. Buying NEXO.** The third step is to purchase your tokens, you can do this by navigating your way to the exchange page on your chosen platform and then specifying how many NEXO token you want buy, usually in BTC or ETH. You will be able to review details of a transaction before completing this step!
+**Step 3. Buying Nexo.** The third step is to purchase your tokens, you can do this by navigating your way to the exchange page on your chosen platform and then specifying how many NEXO token you want buy, usually in BTC or ETH. You will be able to review details of a transaction before completing this step!
