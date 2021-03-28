@@ -1,7 +1,10 @@
 ---
 title: "Guides"
-description: "this is meta description"
-draft: true
+image: "images/about.jpg"
+draft: false
+tags: ["Cardano"]
+categories: ["Crypto"]
+toc: true
 url: guides
 
 ---
