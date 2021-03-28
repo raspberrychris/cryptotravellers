@@ -84,4 +84,4 @@ Payment Methods available include:
 * Altcoins (e.g., DASH, XRP, XMR)
 * Gift cards
 
-**Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way.
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
