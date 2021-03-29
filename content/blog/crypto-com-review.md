@@ -38,7 +38,7 @@ You can manage and request your crypto.com card all through the Crypto.com app w
 
 [Click here to find out more.](/link/sign-up-crypto-dot-com)
 
-## Pros and Cons
+## Pros and Cons Overview
 
 **Pros**
 
@@ -48,7 +48,7 @@ You can manage and request your crypto.com card all through the Crypto.com app w
 * Purchase and offer 90+ cryptocurrencies, including Bitcoin (BTC), at the genuine currency exchange rate.
 * It is 100% **FREE** to open a [Crypto.com](/link/sign-up-crypto-dot-com) account.
 * The Crypto.com Visa Card has zero month-to-month maintenance charge or monthly fee.
-* You can get as much as 8% cashback whenever you use your Crypto.com Visa Card. You can also get other advantages (like 100% cashback on Spotify, Netflix, and Amazon Prime).
+* You can get as much as 8% cashback whenever you use your Crypto.com Visa Card. You can also get other perks (like 100% cashback on Spotify, Netflix, and Amazon Prime).
 * Contactless Visa Debit cards (released and delivered free of charge).
 * Get up to 10% cashback when you buy gift cards for popular brands with your cryptocurrency balance (30+ countries supported).
 
@@ -74,7 +74,7 @@ For this you get reimbursements on Spotify, Netflix, Amazon Prime, Expedia, Airb
 
 ## The best card for the casual crypto users
 
-The **Midnight Blue** card will give you 1% cashback, is free to request and really is a no brainer in our opinion, you don't even have to stake any CRO so there really is no risk on your investment.  
+The **Midnight Blue** card will give you 1% cashback, is free to request and really is a no brainer in our opinion, you don't even have to stake any CRO so there really is no risk on your investment.  The midnight blue card is a plastic card and as such has less 
 
 If you are just starting to dip your toes into the crypto game then you may be interested in the **Ruby Steel** card which requires a $400 CRO stake and you will get double the cashback of the Midnight Blue card.  You also get an intro to some of the Crypto.com perks such as a **reimbursement for Spotify**.  With Spotify in the UK costing £9.99 per month (£120 per year) this means that you will likely get back quite a sizable chunk of your investment if you are opting for the Ruby card, so if you are a Spotify junkie then this may be a good move and lets be honest, in a bull market the Crypto.com cards will beat any AMEX card hands down.
 
@@ -82,7 +82,7 @@ If you are just starting to dip your toes into the crypto game then you may be i
 
 I personally use the crypto.com card and have the Ruby card. With the Ruby card you get free Spotify reimbursements which are paid in CRO.  As the Crypto.com card is a Visa card it can be used anywhere you would normally use your traditional Visa card.
 
-There are lots of crypto cards out there at the moment, but the Crypto.com cards have some great perks
+There are lots of crypto cards out there at the moment, but the Crypto.com cards have some great perks.
 
 ### Thank you for reading this Crypto.com review!
 
