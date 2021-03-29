@@ -4,7 +4,7 @@ layout: about
 image: images/about.jpg
 caption:
   enable: true
-  title: I’m Henara Colii, A content writer based in LDN, currently at Bookworm.
+  title: Crypto Travellers
 social:
   enable: true
   social_links:
@@ -17,13 +17,12 @@ social:
   - link: https://www.github.com/
     icon: lab la-github
 what_i_do:
-  title: What I Do
+  title: Covering
   enable: true
   item:
-  - title: Content Writing
+  - title: Crypto Content
     icon: las la-pen-nib
-    description: Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus
-      eget ipsum elementum venenatis.
+    description: ''
   - title: Photography
     icon: las la-camera
     description: Aenean maximus urna magna elementum venenatis, quis rutrum mi semper
@@ -35,3 +34,5 @@ what_i_do:
 
 ---
 [Crypto Travellers](https://cryptotravellers.com) is a blog for the cryptocurrency and blockchain community. We provide high-quality analysis of current topics in crypto, as well as offer advice to help our readers make informed decisions about their investments.
+
+We provide detailed guides for those who want to invest in crypto and discuss the crypto lifestyle 
