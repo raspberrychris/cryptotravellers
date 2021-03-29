@@ -7,9 +7,9 @@ tags:
 - Cardano
 categories:
 - Cardano
-description: 'This is the meta description '
-toc: false
-url: ''
+description: Discover how to invest in Cardano ADA with Cryptotravellers
+toc: true
+url: what-is-cardano-ada
 
 ---
 ## What is Cardano and Is It worth Purchasing Cardano (ADA)?
@@ -24,6 +24,8 @@ Today, we will introduce Cardano and discuss how and why it's expected to turn i
 
 ## What Is Cardano?
 
+![cardano-logo](/uploads/logo-cardano.png "cardano")
+
 Cardano is a decentralised platform that allows individuals to carry out deals beyond borders and release wise agreements and decentralised apps (dApps). Cardano was introduced in 2017 to restore rely on economies through the integration of technology and likewise to allow unbanked individuals to gain access to monetary services.
 
 Interestingly, Cardano's creators Jeremy Wood and Charles Hoskinson dealt with the Ethereum ecosystem, but then the team split.
@@ -33,7 +35,6 @@ Interestingly, Cardano's creators Jeremy Wood and Charles Hoskinson dealt with t
 That said, Cardano is not your average digital property. It is defined as a third-generation cryptocurrency with potential application in supply chain traceability and governance.
 
 This indicates that Cardano may overtake Bitcoin, a first-generation cryptocurrency, by solving its scalability problems; Cardano may also overtake Ethereum, a second-generation cryptocurrency, by supplying a much safer peer-reviewed platform for clever agreements.
-
 
 As Cardano designers specified, they attempt to "supply a more balanced and sustainable environment that much better represent the needs of its users along with other systems looking for combination."
 
