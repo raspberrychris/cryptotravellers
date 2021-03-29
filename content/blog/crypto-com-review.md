@@ -52,6 +52,8 @@ You get $25 USD* in CRO in your CRO Wallet instantly once you have successfully 
 
 With the [Crypto.com](/link/sign-up-crypto-dot-com) Visa Card, you can also spend your cryptocurrency anywhere that Visa is normally accepted around the world (and get up to 8% back).
 
+Crypto.com offer a number of different metal cards based on how much you decide to stake on the platform.  Essentially the more crypto you put into the platform the more cash back and perks you get.  The Obsidian card is the highest level of crypto.com cards and it comes with all the perks you would expect.
+
 ## Is it the best Crypto Card?
 
 I personally use the crypto.com card and have the Ruby card. With the Ruby card you get free Spotify reimbursements which are paid in CRO.  As the Crypto.com card is a Visa card it can be used anywhere you would normally use your traditional Visa card.
