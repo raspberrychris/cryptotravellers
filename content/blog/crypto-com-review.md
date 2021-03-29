@@ -18,7 +18,11 @@ Disclaimer: This post contains affiliate links to Crypto.com website.  Stake CRO
 
 ## Get $25 US in CRO by setting up a Crypto.com account using our link!
 
-[Crypto.com](/link/sign-up-crypto-dot-com) is one of the top exchanges when it comes to cryptocurrency.
+[Crypto.com](/link/sign-up-crypto-dot-com) is one of the top exchanges when it comes to cryptocurrency.  Crypto.com describe this as "The only Crypto Card you Need".  It comes with no annual fees, up to 8% back on spending and a whole host of rewards in the form of reimbursements on Spotify and Netflix.
+
+## Is the crypto.com Visa Card a debit card?
+
+Crypto.com describe their card as a prepaid card.  This is because it has the same functionality as a debit card, but it needs to be topped up.  You can use your other bank accounts or cryptocurrency to top it up.
 
 ## How does it work?
 
@@ -52,11 +56,25 @@ You get $25 USD* in CRO in your CRO Wallet instantly once you have successfully 
 
 With the [Crypto.com](/link/sign-up-crypto-dot-com) Visa Card, you can also spend your cryptocurrency anywhere that Visa is normally accepted around the world (and get up to 8% back).
 
-Crypto.com offer a number of different metal cards based on how much you decide to stake on the platform.  Essentially the more crypto you put into the platform the more cash back and perks you get.  The Obsidian card is the highest level of crypto.com cards and it comes with all the perks you would expect.
+Crypto.com offer a number of different metal cards based on how much you decide to stake on the platform.  Essentially the more crypto you put into the platform the more cash back and perks you get.
+
+## The best card for the Crypto ballers
+
+At the time of writing the Obsidian card will give you a whopping 8% cashback in CRO if you stake the equivalent of $400,000 in CRO.  
+
+For this you get reimbursements on Spotify, Netflix, Amazon Prime, Expedia, Airbnb, Airport Lounge Access a host of other benefits such as an exclusive merchandise welcome pack and ofcourse crucially the Private Jet Partnership.  The Obsidian card is the only Crypto.com card to come with the Private Jet Partnership.
+
+![](/uploads/crypto-com-card.png)
+
+## The best card for the casual crypto user
+
+The Midnight Blue card will give you 1% cashback, is free
 
 ## Is it the best Crypto Card?
 
 I personally use the crypto.com card and have the Ruby card. With the Ruby card you get free Spotify reimbursements which are paid in CRO.  As the Crypto.com card is a Visa card it can be used anywhere you would normally use your traditional Visa card.
+
+There are lots of crypto cards out there at the moment, but the Crypto.com cards have some great perks
 
 ### Thank you for reading this Crypto.com review!
 
