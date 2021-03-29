@@ -18,7 +18,9 @@ Disclaimer: This post contains affiliate links to Crypto.com website.  Stake CRO
 
 ## Get $25 US in CRO by setting up a Crypto.com account using our link!
 
-[Crypto.com](/link/sign-up-crypto-dot-com) is one of the top exchanges when it comes to cryptocurrency.  Crypto.com describe this as "The only Crypto Card you Need".  It comes with no annual fees, up to 8% back on spending and a whole host of rewards in the form of reimbursements on Spotify and Netflix.
+[Crypto.com](/link/sign-up-crypto-dot-com) is one of the top exchanges when it comes to cryptocurrency.  Crypto.com describe this as "The only Crypto Card you Need".  
+
+It comes with no annual fees, up to 8% back on spending and a whole host of rewards in the form of reimbursements on Spotify and Netflix.
 
 ## Is the crypto.com Visa Card a debit card?
 
@@ -64,11 +66,13 @@ At the time of writing the Obsidian card will give you a whopping 8% cashback in
 
 For this you get reimbursements on Spotify, Netflix, Amazon Prime, Expedia, Airbnb, Airport Lounge Access a host of other benefits such as an exclusive merchandise welcome pack and ofcourse crucially the Private Jet Partnership.  The Obsidian card is the only Crypto.com card to come with the Private Jet Partnership.
 
-![](/uploads/crypto-com-card.png)
+![crypto-com-metal-cards](/uploads/crypto-com-card.png "Crypto-com-overview")
 
-## The best card for the casual crypto user
+## The best card for the casual crypto users
 
-The Midnight Blue card will give you 1% cashback, is free
+The **Midnight Blue** card will give you 1% cashback, is free to request and really is a no brainer in our opinion, you don't even have to stake any CRO so there really is no risk on your investment.  
+
+If you are just starting to dip your toes into the crypto game then you may be interested in the **Ruby Steel** card which requires a $400 CRO stake and you will get double the cashback of the Midnight Blue card.  You also get an intro to some of the Crypto.com perks such as a **reimbursement for Spotify**.  With Spotify in the UK costing £9.99 per month (£120 per year) this means that you will likely get back quite a sizable chunk of your investment if you are opting for the Ruby card, so if you are a Spotify junkie then this may be a good move and lets be honest, in a bull market the Crypto.com cards will beat any AMEX card hands down.
 
 ## Is it the best Crypto Card?
 
