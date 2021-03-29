@@ -54,6 +54,8 @@ With the [Crypto.com](/link/sign-up-crypto-dot-com) Visa Card, you can also spen
 
 ## Is it the best Crypto Card?
 
+I personally use the crypto.com card and have the Ruby card. With the Ruby card you get free Spotify reimbursements which are paid in CRO.  As the Crypto.com card is a Visa card it can be used anywhere you would normally use your traditional Visa card.
+
 ### Thank you for reading this Crypto.com review!
 
 If you have a question about Crypto.com or the Crypto.com Visa Card that I haven’t covered comment below and let me know!
