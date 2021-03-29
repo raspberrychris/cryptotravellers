@@ -32,6 +32,12 @@ All you have to do is to complete sign up, pass KYC verification and you will ge
 
 You get $25 USD* in CRO in your CRO Wallet instantly once you have successfully reserved a Metal Crypto.com Visa Card.
 
+## How can I request a Crypto.com Card?
+
+You can manage and request your crypto.com card all through the Crypto.com app which is available on the Apple App Store as well as the Google Play Store.  
+
+[Click here to find out more.](/link/sign-up-crypto-dot-com)
+
 ## Pros and Cons
 
 **Pros**
@@ -48,13 +54,11 @@ You get $25 USD* in CRO in your CRO Wallet instantly once you have successfully 
 
 **Cons**
 
-* You need to stake a lot of CRO to open the greatest rebates.
+* You need to stake a lot of CRO to open the greatest rebates.  CRO is typically a little more volatile than Bitcoin and is subject to increases and decreases depending on the market.
 * Users report that the Crypto.com Visa Card isn't being issued for months after buying.
 * Crypto Earn provides lower rate of interest if you do not lock-up your cryptocurrency deposit for 3 months.
 
 ## Crypto.com Metal Cards
-
-[Crypto.com](/link/sign-up-crypto-dot-com) is one of the top cryptocurrency platforms. It allows you to save, transfer, and exchange between 90+ cryptocurrencies (Bitcoin, Ethereum, Cardano etc.) and your local currency (e.g. GBP, EUR, USD, and 20 other fiat currencies).
 
 With the [Crypto.com](/link/sign-up-crypto-dot-com) Visa Card, you can also spend your cryptocurrency anywhere that Visa is normally accepted around the world (and get up to 8% back).
 
@@ -62,7 +66,7 @@ Crypto.com offer a number of different metal cards based on how much you decide 
 
 ## The best card for the Crypto ballers
 
-At the time of writing the Obsidian card will give you a whopping 8% cashback in CRO if you stake the equivalent of $400,000 in CRO.  
+At the time of writing the **Obsidian card** will give you a whopping 8% cashback in CRO if you stake the equivalent of $400,000 in CRO.  If you have this amount of investment available then 8% cashback and the perks are very attractive.
 
 For this you get reimbursements on Spotify, Netflix, Amazon Prime, Expedia, Airbnb, Airport Lounge Access a host of other benefits such as an exclusive merchandise welcome pack and ofcourse crucially the Private Jet Partnership.  The Obsidian card is the only Crypto.com card to come with the Private Jet Partnership.
 
