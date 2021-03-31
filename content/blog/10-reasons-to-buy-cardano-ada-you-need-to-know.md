@@ -5,7 +5,7 @@ date = 2021-03-30T23:00:00Z
 description = ""
 image = "/uploads/logo-cardano.png"
 tags = ["Cardano"]
-title = "10 Reasons to Buy Cardano ADA You Need to Know."
+title = "13 Reasons to Buy Cardano ADA You Need to Know."
 toc = true
 url = "13-reasons-to-buy-cardano-ada-now"
 
