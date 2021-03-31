@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = ""
 tags = ["Aave"]
 title = "How to Buy Aave"
@@ -30,3 +29,7 @@ url = "buy-aave"
 Homepage: [https://aave.com/](https://aave.com/ "https://aave.com/")
 
 Discord: [https://aave.com/discord](https://aave.com/discord "https://aave.com/discord")
+
+Github: [https://github.com/aave/aave-protocol](https://github.com/aave/aave-protocol "https://github.com/aave/aave-protocol")
+
+Youtube Channel: [https://www.youtube.com/channel/UCZUFYgrvO7xpxzMjijgqWyQ](https://www.youtube.com/channel/UCZUFYgrvO7xpxzMjijgqWyQ "https://www.youtube.com/channel/UCZUFYgrvO7xpxzMjijgqWyQ")
