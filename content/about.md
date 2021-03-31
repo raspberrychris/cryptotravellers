@@ -3,10 +3,10 @@ title: About
 layout: about
 image: images/about.jpg
 caption:
-  enable: true
+  enable: false
   title: Crypto Travellers
 social:
-  enable: true
+  enable: false
   social_links:
   - link: https://www.facebook.com/
     icon: lab la-facebook-f
@@ -18,7 +18,7 @@ social:
     icon: lab la-github
 what_i_do:
   title: Covering
-  enable: true
+  enable: false
   item:
   - title: Crypto Content
     icon: las la-pen-nib
@@ -35,4 +35,4 @@ what_i_do:
 ---
 [Crypto Travellers](https://cryptotravellers.com) is a blog for the cryptocurrency and blockchain community. We provide high-quality analysis of current topics in crypto, as well as offer advice to help our readers make informed decisions about their investments.
 
-We provide detailed guides for those who want to invest in crypto and discuss the crypto lifestyle 
+We provide detailed guides for those who want to invest in crypto and discuss the crypto lifestyle.
