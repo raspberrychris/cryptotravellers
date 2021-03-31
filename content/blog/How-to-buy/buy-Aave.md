@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Luna Sanchez"
 categories = []
 date = ""
 description = ""
@@ -22,7 +22,7 @@ url = "buy-aave"
 
 ## Aave Explained (Video)
 
-{{< youtube [48nxw6fVTRE](https://www.youtube.com/embed/48nxw6fVTRE "https://www.youtube.com/embed/48nxw6fVTRE") >}}
+{{< youtube 48nxw6fVTRE >}}
 
 ## Useful Links
 
