@@ -52,6 +52,8 @@ Cardano exists to redistribute power from unaccountable structures to individual
 
 ## 9. Daedalus
 
+![daedalus-wallet](/uploads/daedalus-wallet.gif)
+
 **Cardano ADA's Wallet Daedalus is a universal advanced wallet** which allows trading, exchanges and crypto to fiat transactions.  ADA can be used on other wallets such as the Yoroi, Ledge and Trezor (Model T) wallet.
 
 ## 10. Recognised by Swiss Lawmakers
@@ -60,11 +62,13 @@ Cardano exists to redistribute power from unaccountable structures to individual
 
 ## 11. Charles Hoskinson
 
+![](https://upload.wikimedia.org/wikipedia/commons/2/21/Charles_Hoskinson_profile_color_no_background.png)
+
 **Charles Hoskinson**.  Charles is a mathematician and was involved in both Bitcoin and was a co-founder of Ethereum.  Charles hosts regular AMAs on YouTube and engages constantly with the community.
 
 ## 12. Partnerships
 
-1. 
+1. ![](https://dfuob.com/wp-content/uploads/2019/07/shopify-store-image.jpg)
    * Cardano has partnered with [Shopify](https://www.shopify.com/) meaning that Cardano can be used as a method of payment across its stores.
    * Cardano has parternerd with [Travala.com](https://www.travala.com/) to allow easy booking of hotel and travel accommodation using ADA
    * Cardano has parternerd with [Bondly Finance](https://bondly.finance/)
@@ -72,6 +76,8 @@ Cardano exists to redistribute power from unaccountable structures to individual
    * SingularityNET (The AI network) has worked with Cardano to move a huge part of its network from Etherereum to Cardano due to speed and cost issues of Ethereum.
 
 ## 13. Staking
+
+![](https://www.adafrog.io/cardano/wp-content/uploads/2020/02/Screen-Shot-2020-02-25-at-12.11.34-PM.png)
 
 **Staking**. You can stake your ADA from within the Daedalus app by picking a pool of your choice.  This gives you a return on your stake over time and can be a source of passive income.
 
