@@ -12,6 +12,8 @@ url = "13-reasons-to-buy-cardano-ada-now"
 +++
 ## 13 Reasons to buy Cardano ADA right now
 
+![](https://aws1.discourse-cdn.com/business4/uploads/cardano/optimized/3X/6/e/6e60655b0f02ed37b727e186eabda5f4e78d901e_2_1024x576.jpeg)
+
 The Cardano (ADA) altcoin is a top 10 coin, and it can be bought on exchanges such as Coinbase or Binance. It was created in 2015 by one Charles Hoskinson who previously helped found Ethereum and BitShares. Here are ten reasons why you should explore the possibilities for this cryptocurrency:
 
 ADA has had over $1 billion USD invested into its blockchain technology since inception - The smart contracts integrated within the ledger function without any downtime while also being able to interact flexibly with other blockchains like Bitcoin - There have been no successful hacks against coins built on their platform thus far.
@@ -41,6 +43,8 @@ Cardano exists to redistribute power from unaccountable structures to individual
 **It's backed by an international organisation called IOHK** which employs some of the best minds in computer science today.
 
 ## 7. Security, Decentralisation & Scalability
+
+[4mu4twn0bhl61.png?auto=webp&s=232f43e7bde72d8c9664c53b25d139bd4b5db1e9](https://preview.redd.it/4mu4twn0bhl61.png?auto=webp&s=232f43e7bde72d8c9664c53b25d139bd4b5db1e9 "4mu4twn0bhl61.png?auto=webp&s=232f43e7bde72d8c9664c53b25d139bd4b5db1e9")
 
 **There are three core principles behind Cardano**: security, decentralization, and scalability- all of which are necessary for any cryptocurrency to succeed long term.
 
