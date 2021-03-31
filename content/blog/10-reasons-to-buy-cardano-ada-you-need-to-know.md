@@ -16,18 +16,43 @@ The Cardano (ADA) altcoin is a top 10 coin, and it can be bought on exchanges su
 
 ADA has had over $1 billion USD invested into its blockchain technology since inception - The smart contracts integrated within the ledger function without any downtime while also being able to interact flexibly with other blockchains like Bitcoin - There have been no successful hacks against coins built on their platform thus far.
 
-## Its a 3rd Gen Crypto Currency
+## 1. Empowering individuals over unaccountable structures
 
- 1. **Cardano is a third generation cryptocurrency that uses Haskell code** and has a team of expert engineers.
- 2. **Its Secure, scalable and Easy to build on**
- 3. **The ADA altcoin was designed to be secure, scalable, and easy for developers to build on.**
- 4. **Cardano's blockchain is the first one created from scientific philosophy**- it's been peer reviewed by leading academics in cryptography
- 5. **The ADA token can be traded on more than 20 different exchanges** around the world
- 6. **It's backed by an international organisation called IOHK** which employs some of the best minds in computer science today.
- 7. **There are three core principles behind Cardano**: security, decentralization, and scalability- all of which are necessary for any cryptocurrency to succeed long term.
- 8. **You can buy ADA tokens with USD** through many major exchanges like Coinbase or Bittrex (or you could just use Ethereum).
- 9. **Authentication of Pharmaceuticals** - The World Health Organization estimates that plenty of medicines sold online can be categorized as fake or substandard; however, **blockchain provides a solution by authenticating pharmaceutical products** so doctors have more confidence in their prescriptions when writing them out to patients who need life-saving medication such as chemotherapy treatments.
-10. **Cardano ADA's Wallet Daedalus is a universal advanced wallet** which allows trading, exchanges and crypto to fiat transactions.  ADA can be used on other wallets such as the Yoroi, Ledge and Trezor (Model T) wallet.
+Cardano exists to redistribute power from unaccountable structures to individuals – and be an enabling force for positive change and progress.
+
+## 2. Its a 3rd Gen Crypto Currency
+
+**Cardano is a third generation cryptocurrency that uses Haskell code** and has a team of expert engineers.
+
+## 3. Easy to Develop for
+
+**The ADA altcoin was designed to be secure, scalable, and easy for developers to build on.**
+
+## 4. Created from Scientific Philosophy
+
+**Cardano's blockchain is the first one created from scientific philosophy**- it's been peer reviewed by leading academics in cryptography
+
+## 5. Can be traded on 20 different exchanges worldwide
+
+**The ADA token can be traded on more than 20 different exchanges** around the world
+
+## 6. Backed by IOHK
+
+**It's backed by an international organisation called IOHK** which employs some of the best minds in computer science today.
+
+## 7. Security, Decentralisation & Scalability
+
+**There are three core principles behind Cardano**: security, decentralization, and scalability- all of which are necessary for any cryptocurrency to succeed long term.
+
+**You can buy ADA tokens with USD** through many major exchanges like Coinbase or Bittrex (or you could just use Ethereum).
+
+## 8. Authentication of medicine
+
+**Authentication of Pharmaceuticals** - The World Health Organization estimates that plenty of medicines sold online can be categorized as fake or substandard; however, **blockchain provides a solution by authenticating pharmaceutical products** so doctors have more confidence in their prescriptions when writing them out to patients who need life-saving medication such as chemotherapy treatments.
+
+## 9. Daedalus
+
+**Cardano ADA's Wallet Daedalus is a universal advanced wallet** which allows trading, exchanges and crypto to fiat transactions.  ADA can be used on other wallets such as the Yoroi, Ledge and Trezor (Model T) wallet.
 
 ## 10. Recognised by Swiss Lawmakers
 
