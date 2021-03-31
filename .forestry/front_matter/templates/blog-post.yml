@@ -31,6 +31,7 @@ fields:
   label: url
   description: e.g. --&gt; bitcoin-inflation-hedge
 pages:
+- content/blog/10-reasons-to-buy-cardano-ada-you-need-to-know.md
 - content/blog/How-to-buy/buy-Aave.md
 - content/blog/How-to-buy/buy-Aergo.md
 - content/blog/best-bitcoin-debit-cards-2021-guide.md
