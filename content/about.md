@@ -1,7 +1,7 @@
 ---
 title: About
 layout: about
-image: images/about.jpg
+image: "/uploads/pexels-photo-6774441-1.jpg"
 caption:
   enable: false
   title: Crypto Travellers
