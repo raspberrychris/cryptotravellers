@@ -18,3 +18,15 @@ url: buy-bitcoin
 ## How to buy Bitcoin in the UK?
 
 Learn in this article how to [buy Bitcoin in the UK](/how-to-buy-bitcoin-uk).
+
+## Step by Step guide to buying Bitcoin
+
+Investors are always on the lookout for new ways to grow their money. Bitcoin is a great way to do just that as it's been going up in value lately and may continue to increase. If you're an investor who's interested in buying Bitcoin, this post will give you a step-by-step guide on how to make your first purchase.
+
+Bitcoin is a digital currency that was created in 2009 by an unknown person or group of people using the alias [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto). It can be used to buy items from anyone who accepts them, and because it's not regulated or controlled by any government, there are fewer risks involved with Bitcoin than other currencies
+
+You should consider investing in bitcoin if you are looking to diversify your portfolio. Bitcoin is a cryptocurrency so it will not be impacted by inflation and offers the potential for substantial return on investment with minimal risk of loss. Cryptocurrency exchanges like Coinbase offer options for buying, selling or trading bitcoins while traditional brokers such as Robinhood provide tools that allow investors to buy shares of cryptocurrencies without having an account at any exchange - a plus because exchanging fiat currency can take hours when working through more technical steps than simple credit card purchases would entail!
+
+## How to buy bitcoin using Coinbase
+
+Coinbase is one of the most well known exchanges and is simple and easy to use.  To get started with Coinbase use [our referral code here to get $10 free in Bitcoin](https://cryptotravellers.com/link/coinbase) when you buy or sell $100.
