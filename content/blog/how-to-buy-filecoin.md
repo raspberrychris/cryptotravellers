@@ -3,7 +3,7 @@ author = "Luna Sanchez"
 categories = []
 date = 2021-03-31T23:00:00Z
 description = ""
-image = ""
+image = "/uploads/filecoin-coinbase.png"
 tags = ["Filecoin"]
 title = "How to Buy Filecoin"
 toc = true
@@ -20,7 +20,9 @@ The cryptocurrency that was created to help decentralise the storage industry. I
 
 ## How Can I buy Filecoin on Coinbase?
 
-[0*tM5KOgQ-z4XEhhBs](https://miro.medium.com/max/3200/0*tM5KOgQ-z4XEhhBs "0*tM5KOgQ-z4XEhhBs")
+![](/uploads/filecoin-coinbase.png)
+
+(Image via Coinbase)
 
 You need first purchase Bitcoin from Coinbase (or another exchange) then you send your bitcoin over into Binance where they will trade them with other cryptocurrencies like Ethereum before finally converting those coins back again at last time exchanging these tokens called "FCT" - this stands filecoins token symbol).
 
@@ -30,7 +32,7 @@ You can't just yet, but the team is working on a way to make that happen soon! I
 
 ## What is the File Coin Price Prediction for 2025?
 
-Crypto enthusiasts believe that Filecoin will be worth up to $557.89 USD by 2025.
+Crypto enthusiasts believe that Filecoin will be worth up to **$557.89 USD** by 2025.
 
 ## How to buy Filecoin using Coinbase
 
