@@ -28,3 +28,5 @@ Create an account on Coinbase.com The first step is to sign up for a free online
 The next step is to buy some Bitcoin or Ethereum on Coinbase and then transfer it over the other exchanges like I just mentioned above, which are all free of charge with no transaction fees for trading between cryptocurrencies themselves but there may be a small fee when transferring from one cryptocurrency exchange platform into another depending upon what country you're in.
 
 Make sure that's taken care before doing anything else. This will take about an hour if not more because this process can't happen instantaneously due at least partially by how busy these platforms get as demand increases during certain times e.g. bullish periods.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
