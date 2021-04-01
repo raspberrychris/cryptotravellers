@@ -1,30 +1,23 @@
 ---
 title: Terms And Conditions
 description: this is meta description
-draft: false
 url: terms-conditions
 
 ---
-#### Responsibility of Contributors
+## Terms of service agreement
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+We at Cryptotravellers.com editorial team do our best to provide correct and up-to-date information on the pages hosted by Cryptotravellers.com. At the same time, we do not have responsibility for the content of external websites linked to through Cryptotravellers.com.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+We do not hold responsibility for possible material losses or inconveniences which theoretically may be caused by reliance on our content. The opinions presented on the website are those of the website editors, writers and contributors. Our authors are not qualified financial professionals, so the opinions presented are for informational purposes only and should not be considered as financial advice.
 
-#### Gathering of Personal Information
+## Your consent
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+By using Cryptotravellers.com, you agree and consent to the policies contained in the above Terms of Service Agreement.
 
-#### Protection of  Personal- Information
+Specifically, you agree to hold Cryptotravellers.com, its affiliates, officers, directors, employees, agents, and third party service providers harmless from and defend them against any claims, costs, damages, losses, expenses, and any other liabilities, including attorneys’ fees and costs, arising out of or related to your access to or use of Cryptotravellers.com, your violation of this user agreement, and/or your violation of the rights of any third party or person.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+We will not be liable for any special, consequential, indirect, incidental, punitive, reliance, or exemplary damages, whether in tort, contract, or any other legal theory, arising out of or in any way connected with this agreement or your use of or attempt to use Cryptotravellers.com, including (but not limited to) damages for loss of profits, goodwill, use, or data. This limitation on liability shall not be affected even if we have been advised of the possibility of such damages. Some states do not allow for the exclusion of implied warranties or the limitation or exclusion of liability for incidental or consequential damages, so the above exclusions may not apply to you. You may have other rights that vary from state to state.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+You agree to release us, our affiliates, and third-party service providers, and each associated director, employee, agents, and officers, from claims, demands and damages (actual and consequential), of every kind and nature, known and unknown, disclosed or undisclosed, arising out of or in any way connected to your use of Cryptotravellers.com.
 
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+Any claim or dispute between you and us arising out of or relating to this user agreement, in whole or in part, shall be governed by the laws of the UK.
