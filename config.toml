@@ -1,38 +1,112 @@
-######################## default configuration ####################
 baseURL = "/"
-title = "Crypto Travellers - Welcome to the World of Crypto"
-#theme = "bookworm"
-# post pagination
+disableLanguages = []
+disqusShortname = "themefisher-template"
+googleAnalytics = ""
 paginate = "5"
-# post excerpt
 summaryLength = "20"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
-# disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
 theme = "Table-of-Content"
-
-
-############################# Outputs ##############################
+title = "Crypto Travellers - Welcome to the World of Crypto"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 4
+[[menu.footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
+[[menu.footer]]
+name = "Contact"
+url = "contact/"
+weight = 2
+[[menu.footer]]
+name = "About"
+url = "about/"
+weight = 1
+[[menu.main]]
+name = "Nexo"
+parent = "How to Buy"
+url = "buy-nexo/"
+weight = 6
+[[menu.main]]
+name = "CRO"
+parent = "How to Buy"
+url = "buy-cro/"
+weight = 7
+[[menu.main]]
+name = "Reef"
+parent = "How to Buy"
+url = "buy-reef/"
+weight = 5
+[[menu.main]]
+name = "Polkadot"
+parent = "How to Buy"
+url = "buy-polkadot/"
+weight = 4
+[[menu.main]]
+name = "Ethereum"
+parent = "How to Buy"
+url = "buy-ethereum/"
+weight = 3
+[[menu.main]]
+name = "Cardano"
+parent = "How to Buy"
+url = "buy-cardano/"
+weight = 2
+[[menu.main]]
+name = "Crypto.com Review"
+parent = "Reviews"
+url = "/crypto-com-review"
+weight = 1
+[[menu.main]]
+name = "Bitcoin"
+parent = "How to Buy"
+url = "buy-bitcoin/"
+weight = 1
+[[menu.main]]
+hasChildren = true
+name = "How to Buy"
+url = "#"
+weight = 4
+[[menu.main]]
+hasChildren = true
+name = "Reviews"
+url = "/reviews"
+weight = 3
+[[menu.main]]
+name = "Guides"
+url = "/guides"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-
-[markup.goldmark.renderer]
-unsafe= true
-
-
-######################## Plugins ####################
-# CSS Plugins
+[params]
+author = "Crypto Travellers"
+contact_form_action = "https://formspree.io/f/xyylglop"
+copyright = "Copyright 2021 [Cryptotravellers.com](https://cryptotravellers.com/)"
+description = "This is meta description"
+favicon = "images/favicon/favicon.ico"
+logo = "/uploads/cryptotravellers-com-removebg-preview.png"
+logo_height = "65px"
+mainSections = ["blog"]
+search = true
+[params.cookies]
+enable = false
+expire_days = 2
+[params.instafeed]
+access_token = "#"
+enable = false
+instagram_user = "#"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/line-awesome/css/line-awesome.min.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css2?family=Mulish:wght@500;600;700;800;900&display=swap"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
@@ -45,10 +119,21 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
-# site variables
+[params.preloader]
+enable = false
+preloader = ""
+[params.subscription]
+enable = true
+input_placeholder = "Enter your email"
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+title = "Subscribe for our monthly newsletter."
 [params.variables]
+black = "#000000"
+color_primary = "#f2a900"
+dark = "#152035"
 font_primary = "Mulish"
+gray = "#747577"
 h1 = "64px"
 h1_lg = "52px"
 h1_md = "42px"
@@ -59,163 +144,17 @@ h3_md = "24px"
 h4 = "24px"
 h5 = "18px"
 h6 = "16px"
-white = "#ffffff"
-black = "#000000"
-dark = "#152035"
-gray = "#747577"
 light = "#FAFAFA"
-color_primary = "#f2a900"
-
-#################### default parameters ################################
-[params]
-logo = "/uploads/cryptotravellers-com-removebg-preview.png"
-logo_height = "65px"
-favicon = "images/favicon/favicon.ico"
-# Meta data
-description = "This is meta description"
-author = "Crypto Travellers"
-# contact form action
-contact_form_action = "https://formspree.io/f/xyylglop" # contact form works with https://formspree.io
-# search
-search = true
-# main section
-mainSections = ["blog"]
-# copyright
-copyright = "Copyright 2021 [Cryptotravellers.com](https://cryptotravellers.com/)"
-
-# Preloader
-[params.preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
-
-# Instagram feed
-[params.instafeed]
-enable = false
-instagram_user = "#"
-access_token = "#"
-
-# Subscription
-[params.subscription]
-enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-title = "Subscribe for our monthly newsletter."
-input_placeholder = "Enter your email"
-
-# cookies
-[params.cookies]
-enable = false
-expire_days = 2
-
-
-############################# Main Menu ########################
-[[menu.main]]
-weight = 1
-url = "/"
-name = "Home"
-
-[[menu.main]]
-weight = 2
-url = "/guides"
-name = "Guides"
-
-[[menu.main]]
-weight = 3
-url = "/reviews"
-name = "Reviews"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Reviews"
-  weight = 1
-  url = "/crypto-com-review"
-  name = "Crypto.com Review"
-
-[[menu.main]]
-weight = 5
-url = "#"
-name = "How to Buy"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "How to Buy"
-  weight = 1
-  url = "buy-bitcoin/"
-  name = "Bitcoin"
-
-  [[menu.main]]
-  parent = "How to Buy"
-  weight = 2
-  url = "buy-cardano/"
-  name = "Cardano"
-
-  [[menu.main]]
-  parent = "How to Buy"
-  weight = 3
-  url = "buy-ethereum/"
-  name = "Ethereum"
-
-  [[menu.main]]
-  parent = "How to Buy"
-  weight = 4
-  url = "buy-polkadot/"
-  name = "Polkadot"
-
-  [[menu.main]]
-  parent = "How to Buy"
-  weight = 5
-  url = "buy-reef/"
-  name = "Reef"
-
-  [[menu.main]]
-  parent = "How to Buy"
-  weight = 6
-  url = "buy-nexo/"
-  name = "Nexo"
-
-  [[menu.main]]
-  parent = "How to Buy"
-  weight = 6
-  url = "buy-cro/"
-  name = "CRO"
-
-
-
-############################# Footer Menu ########################
-[[menu.footer]]
-weight = 1
-url = "about/"
-name = "About"
-
-[[menu.footer]]
-weight = 2
-url = "contact/"
-name = "Contact"
-
-[[menu.footer]]
-weight = 3
-url = "privacy-policy/"
-name = "Privacy Policy"
-
-[[menu.footer]]
-weight = 4
-url = "terms-conditions/"
-name = "Terms & Conditions"
-
-# Social Icons
+white = "#ffffff"
 [[params.social]]
+icon = "lab la-facebook-f"
 url = "https://www.facebook.com/"
-icon = "lab la-facebook-f" # https://icons8.com/line-awesome
-
 [[params.social]]
+icon = "lab la-twitter"
 url = "https://www.twitter.com/CryptoTravelle7"
-icon = "lab la-twitter" # https://icons8.com/line-awesome
-
 [[params.social]]
+icon = "lab la-instagram"
 url = "https://www.instagram.com/crypto.travellers/"
-icon = "lab la-instagram" # https://icons8.com/line-awesome
-
 [[params.social]]
+icon = "lab la-linkedin-in"
 url = "https://www.linkedin.com/"
-icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
