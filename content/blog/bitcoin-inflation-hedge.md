@@ -1,29 +1,32 @@
 ---
-title: "Is Bitcoin an Inflation Hedge?"
-description: "Find out if you should invest in bitcoin as a way to hedge against inflation. We'll explore the pros and cons of this cryptocurrency, including potential risks."
-image: "images/post/01.jpg"
-date: 2021-02-05T16:56:47+06:00
-draft: false
-author: "Lubana Era"
-tags: ["Bitcoin"]
-categories: ["Crypto"]
+title: Is Bitcoin an Inflation Hedge?
+description: Find out if you should invest in bitcoin as a way to hedge against inflation.
+  We'll explore the pros and cons of this cryptocurrency, including potential risks.
+image: images/post/01.jpg
+date: 2021-02-05T16:56:47.000+06:00
+author: Lubana Era
+tags:
+- Bitcoin
+categories:
+- Crypto
 toc: true
 url: bitcoin-inflation-hedge
----
 
+---
 ## Introduction
 
 Bitcoin is a cryptocurrency that has seen its value skyrocket in recent years. Some people think of it as an investment vehicle while others see it as a currency with the potential to be used across borders without any fees.
 
 > The question remains: does Bitcoin offer real returns for investors?
 
-The price of Bitcoin has exploded in the last few weeks. It is currently valued at $10,000 USD per BTC. This digital currency has been a great investment for those early adopters who have held onto it since 2010 when it was worth just pennies.  
+The price of Bitcoin has exploded in the last few weeks. It is currently valued at $10,000 USD per BTC. This digital currency has been a great investment for those early adopters who have held onto it since 2010 when it was worth just pennies.
 
 ### What is fuelling this sudden growth? Is Bitcoin an inflation hedge?
 
 Is bitcoin a good way to protect against inflation? The answer could be yes and no. On one hand, as long as demand grows faster than supply then the value will go up with inflation rates (assuming that there are more people demanding bitcoins than there are willing to sell them). However, if you think about how quickly we've seen the rise in value of Bitcoin over the past week or two,
 
 ## Bitcoin the best hedge against inflation
+
 Hardcore Bitcoin enthusiasts say the digital coin is the world’s best hedge against rising consumer prices. The logic: Unlike U.S. dollars or any other normal currency, it’s designed to have a limited supply, so it can’t be devalued by a government or a central bank distributing too much of it.
 
 ## Bitcoin has a limited supply
@@ -72,8 +75,10 @@ However does purchasing Bitcoin for the long-term represent anything aside from 
 
 In The Wealth of Nations, Adam Smith kept in mind:
 
-*"A prince who ought to enact that a particular proportion of his taxes must be paid in fiat money of a certain kind might therefore give a specific value to this fiat money, despite the fact that the regard to its last discharge and redemption ought to depend completely upon the will of the prince."*
+_"A prince who ought to enact that a particular proportion of his taxes must be paid in fiat money of a certain kind might therefore give a specific value to this fiat money, despite the fact that the regard to its last discharge and redemption ought to depend completely upon the will of the prince."_
 
 Could we relax if Bitcoin were the coin of the realm since it is a decentralised cryptocurrency, so there would be no Bitcoin prince?
 
 On the other hand, what would take place if a cabal of super-nerds-- princes of the digital age-- formulate another crypto-currency with fewer than 21 million coins in circulation?
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}

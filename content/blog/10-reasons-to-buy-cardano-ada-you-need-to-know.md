@@ -88,3 +88,5 @@ Cardano exists to redistribute power from unaccountable structures to individual
 ## Conclusion
 
 Cardano is an innovative altcoin with huge potential. The **decentralised** nature of the Cardano blockchain makes it secure, whereas its layered architecture provides scalability to provide a solid foundation as one tackles next generation issues in their quest for digital currency. This coin certainly has experienced leadership and will not falter when dealing with these challenges due to its high-performing team members who are devoted towards making this project successful.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
