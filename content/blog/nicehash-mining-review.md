@@ -37,3 +37,5 @@ Sign up using the links below to start mining your own cryptocurrency.
 ## Useful Links:
 
 Sign up for Nicehash: [https://cryptotravellers.com/link/nicehash](https://cryptotravellers.com/link/nicehash "https://cryptotravellers.com/link/nicehash")
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}

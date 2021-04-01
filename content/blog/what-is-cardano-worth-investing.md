@@ -69,3 +69,5 @@ Here it's worth pointing out that there are different Cardano dates that include
 Cardano's native coin is called ADA. ADA is one of the top-performing digital properties in 2021.
 
 Though this crypto has been on the market only for a couple of years, it managed to turn into one of the most traded coins in the crypto field. Keep in mind that there is a max supply of 45 billion ADA coins.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
