@@ -29,4 +29,6 @@ You should consider investing in bitcoin if you are looking to diversify your po
 
 ## How to buy bitcoin using Coinbase
 
-Coinbase is one of the most well known exchanges and is simple and easy to use.  To get started with Coinbase use [our referral code here to get $10 free in Bitcoin](https://cryptotravellers.com/link/coinbase) when you buy or sell $100.
+Coinbase is one of the most well known and trusted exchanges and is simple and easy to use and perfect for beginners to get started trading.  
+
+> To get started with Coinbase use [our referral code here to get $10 free in Bitcoin](https://cryptotravellers.com/link/coinbase) when you buy or sell $100.
