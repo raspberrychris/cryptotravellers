@@ -1,6 +1,6 @@
 baseURL = "/"
 disableLanguages = []
-disqusShortname = "themefisher-template"
+disqusShortname = "cryptotravellers"
 googleAnalytics = ""
 paginate = "5"
 summaryLength = "20"
