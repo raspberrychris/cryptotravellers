@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Bitcoin"]
 date = ""
 description = ""
-draft = true
 image = "/uploads/satoshi_.png"
 tags = ["Satoshi Nakamoto"]
 title = "Who is Satoshi Nakamoto?"
@@ -25,7 +24,7 @@ In 2008, a white paper entitled "Bitcoin: A Peer-to-Peer Electronic Cash System"
 
 ## But who exactly is Satoshi Nakamoto? 
 
-The identity of Bitcoin's creator has been a mystery for years. In 2008, the white paper "Bitcoin: A Peer to peer Electronic Cash System" was published under this name and it laid out plans on how an electronic cash system would work without going through any financial institution or government entity - but who exactly IS that author? 
+The identity of Bitcoin's creator has been a mystery for years. In 2008, the white paper "[Bitcoin: A Peer to peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)" was published under this name and it laid out plans on how an electronic cash system would work without going through any financial institution or government entity - but who exactly IS that author? 
 
 ## Nick Szabo and Hal Finney
 
