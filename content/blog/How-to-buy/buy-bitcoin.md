@@ -31,6 +31,8 @@ You should consider investing in bitcoin if you are looking to diversify your po
 
 Coinbase is one of the most well known and trusted exchanges and is simple and easy to use and perfect for beginners to get started trading.
 
+![(/uploads/iqmining_300x250_3-3_3-years.gif)](<https://cryptotravellers.com/link/iqmining>)
+
 > To get started with Coinbase use [our referral code here to get $10 free in Bitcoin](https://cryptotravellers.com/link/coinbase) when you buy or sell $100.
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way.  This article contains affiliate links. {{< /notice >}}
