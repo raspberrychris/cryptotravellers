@@ -1,13 +1,13 @@
 +++
-author = ""
+author = "Luna Sanchez"
 categories = []
-date = ""
-description = ""
-image = ""
-tags = []
+date = 2021-03-31T23:00:00Z
+description = "What is Justin Sun's Net Worth? Some estimates have put Justin Sun's net worth at over $410 million."
+image = "/uploads/justinsun-scaled.jpg"
+tags = ["Justin Sun"]
 title = "Justin Sun Net Worth"
-toc = false
-url = ""
+toc = true
+url = "justin-sun-net-worth"
 
 +++
 As a young entrepreneur, Justin Sun was an early adopter of Bitcoin and now has accumulated hundreds of millions in personal fortune. He’s not just interested in digital money though, his TRON project is going to be the foundation for decentralized apps that will much more than financial transactions. The company recently announced their plans for major updates coming soon.
@@ -16,7 +16,9 @@ A recent report by Bloomberg has revealed that Justin Sun, the founder of TRON F
 
 ## Justin Sun Net Worth Calculation
 
-Justin Sun's net worth is calculated by multiplying the number of TRX coins he owns with their current value. 
+![justin-sun-net-worth](https://static.coindesk.com/wp-content/uploads/2019/07/justinsun-scaled.jpg "Justin Sun net Worth")
+
+Justin Sun's net worth is calculated by multiplying the number of TRX coins he owns with their current value.
 
 Sun has $235 million, but some estimates say **his net worth may be over $410 million**.
 
