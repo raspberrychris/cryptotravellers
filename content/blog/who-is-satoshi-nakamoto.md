@@ -1,8 +1,8 @@
 +++
 author = "Luna Sanchez"
 categories = ["Bitcoin"]
-date = ""
-description = ""
+date = 2021-04-01T23:00:00Z
+description = "Who is the real Satoshi Nakamoto?  In this article we explore the most likely candidates who could be Satoshi."
 image = "/uploads/satoshi_.png"
 tags = ["Satoshi Nakamoto"]
 title = "Who is Satoshi Nakamoto?"
