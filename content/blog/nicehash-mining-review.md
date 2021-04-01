@@ -16,6 +16,8 @@ weight = 2
 +++
 {{< notice "note" >}} Disclaimer: This post contains affiliate links to Nicehash. {{< /notice >}}
 
+> NiceHash describes itself on its website as the most profitable and easy to use mining software.
+
 [NiceHash](https://cryptotravellers.com/link/nicehash) is an amazing tool for people who are new to cryptocurrency mining. Their QuickMiner for Nvidia cards(other than the 3060, of course) is a great tool, as it will automatically undervolt the card and lower core speeds so that you can use your PC at full power while not worrying about heating up due to constant overclocking! We're going to give you step-by-step instructions on how this works with our easy guide below; just click here now ! And if all goes well then have some fun crafting these cool crafts from home - they'll be begging for more once their finished too!
 
 ## Have you ever wanted to mine Bitcoin?
