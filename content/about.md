@@ -37,4 +37,4 @@ what_i_do:
 
 We provide detailed guides for those who want to invest in crypto and discuss the crypto lifestyle.
 
-{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information on this website is not financial advice and should not be construed in this way. {{< /notice >}}
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) is not a financial advisor and the information on this website is not financial advice and should not be construed in this way. {{< /notice >}}
