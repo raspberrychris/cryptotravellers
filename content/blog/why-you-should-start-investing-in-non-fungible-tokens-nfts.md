@@ -8,6 +8,10 @@ tags = ["NFTs"]
 title = "Why You Should Start Investing in Non-Fungible Tokens (NFTs)"
 toc = true
 url = "what-are-nfts"
+[menu.main]
+name = "NFTs"
+parent = "Guides"
+weight = 1
 
 +++
 ## NFTs: Non Fungible Tokens. What are they?
