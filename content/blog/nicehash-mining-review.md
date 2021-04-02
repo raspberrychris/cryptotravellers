@@ -10,8 +10,8 @@ toc = true
 url = "nicehash-mining-review"
 [menu.main]
 name = "NiceHash Mining Review"
-parent = "Mining"
-weight = 1
+parent = "Reviews"
+weight = 3
 
 +++
 {{< notice "note" >}} Disclaimer: This post contains affiliate links to Nicehash. {{< /notice >}}

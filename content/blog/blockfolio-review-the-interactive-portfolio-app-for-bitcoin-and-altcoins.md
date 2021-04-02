@@ -11,7 +11,7 @@ url = "blockfolio-review"
 [menu.main]
 name = "Blockfolio Review"
 parent = "Reviews"
-weight = 3
+weight = 1
 
 +++
 ## What is Blockfolio?

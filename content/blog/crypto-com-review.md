@@ -10,6 +10,10 @@ categories:
 - Exchanges
 toc: true
 url: crypto-com-review
+menu:
+  main:
+    weight: 2
+    parent: Reviews
 
 ---
 {{< notice "note" >}}

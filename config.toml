@@ -25,21 +25,6 @@ name = "Terms & Conditions"
 url = "terms-conditions/"
 weight = 4
 [[menu.main]]
-name = "Mining"
-parent = "Reviews"
-url = "#"
-weight = 2
-[[menu.main]]
-name = "Crypto.com Review"
-parent = "Exchanges"
-url = "/crypto-com-review"
-weight = 1
-[[menu.main]]
-name = "Exchanges"
-parent = "Reviews"
-url = "#"
-weight = 1
-[[menu.main]]
 name = "CRO"
 parent = "How to Buy"
 url = "buy-cro/"
