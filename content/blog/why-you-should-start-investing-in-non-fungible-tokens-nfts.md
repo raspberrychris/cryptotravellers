@@ -18,14 +18,12 @@ Non-fungible tokens, or NFTs, are digital assets that are unique. They can be bo
 
 NFTs are a type of digital asset that can be owned, traded and sold on blockchain-powered marketplaces. They're also known as non fungible tokens because they have unique characteristics or attributes which make them different from one another in some way - for example their name might differ (e g CryptoKitty #1234) while other NTFS may vary by the number printed onto it (#12345). This is what makes these assets so valuable to collectors: if you own an individual token with certain traits then nobody else will ever possess this same item again.
 
-  
 CryptoKitties, which was a huge success story back in 2018 with over $25 million worth traded daily at its peak alone. This shows just how much demand there currently exists for NTFS as well their potential to grow even more popular.
 
 ## What is Cryptokitties?
 
 Cryptokitties is a game where players can collect, breed and trade digital cats. The goal of the app was to create something that would be fun for people who are not usually interested in cryptocurrency or blockchain technology but still want an accessible way into this new world, which has been achieved with over one million downloads since its launch on November 28th 2017. This success led other companies like Ubisoft (creators behind Assassin's Creed) as well Disney Interactive Studios have created their own NFTs games too: "Frosty Friends" from WaltDisney Animation Studio lets you buy snowmen tokens using ETH.
 
-  
 The game itself was created by Axiom Zen who have also developed other successful games like Etherbots before it while being backed up financially from Andreessen Horowitz among others meaning you know these guys mean business about making sure people get quality products out here without any shady stuff going on.
 
 ## NFTs can be used in Games
@@ -65,3 +63,5 @@ NFTs are not bad for the environment, in fact they're good! NTFS can be recycled
 ## Are NFTs a good investment?
 
 NFTs are a great investment! The value of NTF is dependent on the popularity and rarity. This means that if you buy an item for $100, but it becomes worth more than what someone would pay to purchase your token from another user in-game or off, then its market price will increase as well because demand has increased due so there's less supply available.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
