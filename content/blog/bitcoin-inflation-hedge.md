@@ -4,7 +4,7 @@ description: Find out if you should invest in bitcoin as a way to hedge against 
   We'll explore the pros and cons of this cryptocurrency, including potential risks.
 image: images/post/01.jpg
 date: 2021-02-05T16:56:47.000+06:00
-author: Lubana Era
+author: Luna Sanchez
 tags:
 - Bitcoin
 categories:
