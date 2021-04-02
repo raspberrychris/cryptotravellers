@@ -20,7 +20,7 @@ If you are a cryptocurrency investor, then you need the Blockfolio app. This is 
 
 The Blockfolio app is free with ads but there is also a premium version which removes all ads and provides extra features like backtesting portfolios with historical market data, a dark theme for night viewing and more.
 
-The app is available on both Android (Google Play Store) as well iOS devices via the App store.
+The app is available on both Android ([Google Play Store](https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio)) as well iOS devices via the [App store](https://apps.apple.com/us/app/blockfolio-bitcoin-altcoin/id1095564685).
 
 ## What is Blockfolio used for?
 
@@ -68,6 +68,10 @@ Blockfolio is a free app for both iOS and Android that allows you to track your 
 ## Is Blockfolio Safe?
 
 Blockfolio is safe to use. It does not store any of your private keys, and it doesn't require you enter personal information when signing up for the app or using its services in general (unless if needed). The only time BlockFolio will ask a user's name would be when when they they are are signing up for the the app, and even even then it's optional.
+
+## Good Customer Reviews
+
+![](/uploads/blockfolio-review.png)
 
 ## The Pros of BlockFolio:
 
