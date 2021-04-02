@@ -12,13 +12,13 @@ url = "blockfolio-review"
 +++
 ## What is Blockfolio?
 
-Blockfolio is an app that can help you track your crypto portfolio, while also keeping up with news. I will give you everything you need to know about this app including its main features pros / cons and competition.
+[Blockfolio](https://blockfolio.com/) is an app that can help you track your crypto portfolio, while also keeping up with news. I will give you everything you need to know about this app including its main features pros / cons and competition.
 
-If you are a cryptocurrency investor, then you need the Blockfolio app. This is one of the most popular apps for tracking your portfolio and it's available on both Android and iOS devices. The app has an interactive portfolio feature that allows you to track all of your investments in real time. It also offers personalisation features, such as custom themes, news feeds from over 7,000 sources, automatic price alerts for Bitcoin and Altcoins (as well as stocks), offline storage via QR code scanning or manual input, two-factor authentication protection.
+If you are a cryptocurrency investor, then you need the [Blockfolio app](https://blockfolio.com/). This is one of the most popular apps for tracking your portfolio and it's available on both Android and iOS devices. The app has an interactive portfolio feature that allows you to track all of your investments in real time. It also offers personalisation features, such as custom themes, news feeds from over 7,000 sources, automatic price alerts for Bitcoin and Altcoins (as well as stocks), offline storage via QR code scanning or manual input, two-factor authentication protection.
 
 ## Blockfolio is a free App
 
-The Blockfolio app is free with ads but there is also a premium version which removes all ads and provides extra features like backtesting portfolios with historical market data, a dark theme for night viewing and more.
+The [Blockfolio app](https://blockfolio.com/) is free with ads but there is also a premium version which removes all ads and provides extra features like backtesting portfolios with historical market data, a dark theme for night viewing and more.
 
 The app is available on both Android ([Google Play Store](https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio)) as well iOS devices via the [App store](https://apps.apple.com/us/app/blockfolio-bitcoin-altcoin/id1095564685).
 
