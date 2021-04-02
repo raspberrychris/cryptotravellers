@@ -9,31 +9,31 @@ title = "Crypto Travellers - Welcome to the World of Crypto"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
-weight = 4
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
+name = "About"
+url = "about/"
+weight = 1
 [[menu.footer]]
 name = "Contact"
 url = "contact/"
 weight = 2
 [[menu.footer]]
-name = "About"
-url = "about/"
-weight = 1
-[[menu.main]]
-name = "Nexo"
-parent = "How to Buy"
-url = "buy-nexo/"
-weight = 6
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
+[[menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 4
 [[menu.main]]
 name = "CRO"
 parent = "How to Buy"
 url = "buy-cro/"
 weight = 7
+[[menu.main]]
+name = "Nexo"
+parent = "How to Buy"
+url = "buy-nexo/"
+weight = 6
 [[menu.main]]
 name = "Reef"
 parent = "How to Buy"
@@ -65,23 +65,23 @@ parent = "How to Buy"
 url = "buy-bitcoin/"
 weight = 1
 [[menu.main]]
-hasChildren = true
-name = "How to Buy"
-url = "#"
-weight = 4
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Guides"
+url = "/guides"
+weight = 2
 [[menu.main]]
 hasChildren = true
 name = "Reviews"
 url = "/reviews"
 weight = 3
 [[menu.main]]
-name = "Guides"
-url = "/guides"
-weight = 2
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+hasChildren = true
+name = "How to Buy"
+url = "#"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

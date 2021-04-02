@@ -8,6 +8,10 @@ tags = ["Filecoin"]
 title = "How to Buy Filecoin"
 toc = true
 url = "buy-filecoin"
+[menu.main]
+name = "Filecoin"
+parent = "How to Buy"
+weight = 8
 
 +++
 ## The Ultimate Guide to Buying and Selling Filecoin

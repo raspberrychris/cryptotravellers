@@ -8,6 +8,10 @@ tags = ["Blockfolio"]
 title = "Blockfolio Review: The Interactive Portfolio App for Bitcoin and Altcoins"
 toc = true
 url = "blockfolio-review"
+[menu.main]
+name = "Blockfolio Review"
+parent = "Reviews"
+weight = 3
 
 +++
 ## What is Blockfolio?
