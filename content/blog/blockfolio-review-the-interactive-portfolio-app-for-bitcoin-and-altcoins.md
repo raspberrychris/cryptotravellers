@@ -10,8 +10,7 @@ toc = true
 url = "blockfolio-review"
 
 +++
-##   
-What is Blockfolio?
+## What is Blockfolio?
 
 Blockfolio is an app that can help you track your crypto portfolio, while also keeping up with news. I will give you everything you need to know about this app including its main features pros / cons and competition.
 
@@ -47,8 +46,6 @@ A summary of some of the main features of Blockfolio is below:
 You can track all of your investments in real time, set price alerts and get personalisation features like custom themes or news feeds from over 7000 sources. The premium version also provides extra benefits such as backtesting portfolios with historical market data (great if investing a large amount)
 
 > * The homepage is also customisable to your preferences.
->
->
 > * Blockfolio's visualisation is a great way to see coins you actually own and can be a quick way to track news that will affect your coins
 > * Set notification alerts based on price levels you choose for a more personalised experience.
 > * Blockfolio offers over 100 different currency pairing options
@@ -90,6 +87,7 @@ With all the information and features that are offered by blockfolio app for fre
 > * Blockfolio’s data is an approximation of the current prices on exchanges, and it can differ from what the exchange has.
 > * Some may not like the Blockfolio design.
 > * Some traders with big portfolios might get annoyed by a lot of price alerts.
+> * Blockfolio has had some problems in February 2021 in the form of [accidentally distributing racist posts](https://www.coindesk.com/blockfolio-racists-signals-apology-app) over its news app.  Blockfolio said they were "Incredibly sorry" for this, and have taken action as soon as they could.
 
 ## Conclusion
 
