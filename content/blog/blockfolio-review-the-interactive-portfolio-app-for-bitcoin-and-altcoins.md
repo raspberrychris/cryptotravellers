@@ -54,8 +54,7 @@ You can track all of your investments in real time, set price alerts and get per
 > * More than 400 token teams are already on Blockfolio Signal and more are being added all the time.
 > * The Blockfolio app offers a news section that can be customised with RSS feeds, enabling you to stay on top of breaking financial news and updates from your favourite sources.
 > * Live market data; price alerts for Bitcoin, Ethereum etc.; portfolio performance overviews with gain/loss calculations (great if investing in cryptocurrencies); news feed from over 7000 sources!
-
-## The Premium version offers extra benefits
+> * Blockfolio Earn: You can earn free crypto on every trade over $10.  Every trade over $10 earns you a chance to get a random free coin. The more you trade, the more you earn.  (The Premium version offers extra benefits)/
 
 The premium version also provides extra benefits like backtesting portfolios using historical markets which can be great when making decisions about where best place money into based off current trends within each sector or cryptocurrency e..g bitcoin has been performing better than ethereum recently . Blockfolios’ main goal to help you keep track of your investments while providing all the information that one might need including live prices on coins across exchanges worldwide , charts showing how much an asset's worth changed since it was bought, and the ability to set price alerts.
 
