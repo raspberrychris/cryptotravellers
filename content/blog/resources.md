@@ -40,8 +40,6 @@ The downside though? There will always need internet access because this kind ne
 
 ## Crypto YouTubers Examples:
 
-## Crypto YouTubers Examples:
-
 ## Portfolio Trackers
 
 ## Learn more about Bitcoin
