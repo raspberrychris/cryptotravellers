@@ -24,9 +24,11 @@ NFTs are a type of digital asset that can be owned, traded and sold on blockchai
 
 CryptoKitties, which was a huge success story back in 2018 with over $25 million worth traded daily at its peak alone. This shows just how much demand there currently exists for NTFS as well their potential to grow even more popular.
 
-## What is Cryptokitties?
+## What are Cryptokitties?
 
-Cryptokitties is a game where players can collect, breed and trade digital cats. The goal of the app was to create something that would be fun for people who are not usually interested in cryptocurrency or blockchain technology but still want an accessible way into this new world, which has been achieved with over one million downloads since its launch on November 28th 2017. This success led other companies like Ubisoft (creators behind Assassin's Creed) as well Disney Interactive Studios have created their own NFTs games too: "Frosty Friends" from WaltDisney Animation Studio lets you buy snowmen tokens using ETH.
+[Cryptokitties](https://www.cryptokitties.co/) is a game where players can collect, breed and trade digital cats. The goal of the app was to create something that would be fun for people who are not usually interested in cryptocurrency or blockchain technology but still want an accessible way into this new world, which has been achieved with over one million downloads since its launch on November 28th 2017. This success led other companies like Ubisoft (creators behind Assassin's Creed) as well Disney Interactive Studios have created their own NFTs games too: "Frosty Friends" from WaltDisney Animation Studio lets you buy snowmen tokens using ETH.
+
+![crypto-kitties](/uploads/crypto-kitties.png)
 
 The game itself was created by Axiom Zen who have also developed other successful games like Etherbots before it while being backed up financially from Andreessen Horowitz among others meaning you know these guys mean business about making sure people get quality products out here without any shady stuff going on.
 
