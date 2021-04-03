@@ -3,7 +3,7 @@ author = "Luna Sanchez"
 categories = ["Stablecoins"]
 date = 2021-04-02T23:00:00Z
 description = ""
-image = ""
+image = "/uploads/1_fk3mqzbz_vrx-y6zlbli1a.png"
 tags = ["USDC"]
 title = "USDC - What is USDC Coin?"
 toc = true
@@ -46,14 +46,16 @@ The OCC ruling that allows banks to use stablecoins is very bullish for the indu
 
 Why Does USDC Matter?
 
-USDC is a stablecoin that has been created by Coinbase and Circle. US dollar deposits are held in an FDIC-insured bank, which gives it the stability of fiat currency while still being able to be used as digital money for transactions on blockchains like Ethereum or Bitcoin Cash without any conversion fees (unlike other cryptocurrencies). It also allows users who don't have access traditional banking services such at ACH transfers from their checking account into cryptocurrency exchanges because they can use USD instead with lower transaction costs than wire transfer methods offered through banks today 
+USDC is a stablecoin that has been created by Coinbase and Circle. US dollar deposits are held in an FDIC-insured bank, which gives it the stability of fiat currency while still being able to be used as digital money for transactions on blockchains like Ethereum or Bitcoin Cash without any conversion fees (unlike other cryptocurrencies). It also allows users who don't have access traditional banking services such at ACH transfers from their checking account into cryptocurrency exchanges because they can use USD instead with lower transaction costs than wire transfer methods offered through banks today
 
 The OCC released new ruling stating Banks will now allow Stablecoins - This could mean more integration between crypto markets & financial system; this would help make establishing coins easier since companies won't have to worry about volatility.
 
-The OCC released new ruling stating Banks will now allow Stablecoins - This could mean more integration between crypto markets & financial system; this would help make establishing coins easier since companies won't need as much capital 
+The OCC released new ruling stating Banks will now allow Stablecoins - This could mean more integration between crypto markets & financial system; this would help make establishing coins easier since companies won't need as much capital
 
 The USDC is a stablecoin, which means that it has the stability of fiat currency while still being able for use in transactions on blockchain networks like Ethereum or Bitcoin Cash without any conversion fees (unlike other cryptocurrencies). It also allows users who don’t already access traditional banking services such at ACH transfers from their checking account into cryptocurrency exchanges because they can instead utilise USD with lower transaction costs than wire transfer methods offered through banks today. For example: if someone wanted $100 worth bitcoin , they would need to have $100 in their bank account and then transfer it into the exchange. With USDC, all that is needed for a purchase of bitcoin or any other cryptocurrency on an Ethereum network are USD coins which can be bought with fiat currency like dollars from your bank’s ATM card (or through another service).
 
-The token was created by Circle as part its efforts towards making crypto more accessible - specifically targeting those who don't already use traditional banking services such at ACH transfers 
+The token was created by Circle as part its efforts towards making crypto more accessible - specifically targeting those who don't already use traditional banking services such at ACH transfers
 
 The company has been working closely alongside regulators including SEC & FINRA since 2015 when Bitcoin prices were much lower than today's rates; this means there will likely not face regulatory hurdles during launch time because these agencies understand how important stablecoins could become.
+
+(Featured Image via Coinbase)
