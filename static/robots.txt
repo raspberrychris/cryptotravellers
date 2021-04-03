@@ -3,3 +3,4 @@ Disallow: /tags/
 Disallow: /categories/
 Disallow: /page/
 Disallow: /link/
+Disallow: /search/
