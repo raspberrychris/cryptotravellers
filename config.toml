@@ -115,8 +115,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [params.preloader]
-enable = true
-preloader = "https://thumbs.gfycat.com/IllSharpCod-max-1mb.gif"
+enable = false
+preloader = ""
 [params.subscription]
 enable = false
 input_placeholder = "Enter your email"
