@@ -34,4 +34,4 @@ Initially bitcoin was set up to be a type of digital cash providing users with a
 
 Some Crypto Youtubers have said that it is likely we will see a $27,000 Ethereum by the end of the year. This seems high at the time of writing, but in this bull market, anything could be possible.  Check out the video below from MMCrypto and Bitboy Crypto 
 
-{{< youtube moM_IbNbFU >}}
+{{< youtube DheIewNlWsc >}}
