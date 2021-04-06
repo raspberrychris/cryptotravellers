@@ -30,8 +30,8 @@ The other, more common form of payment by individuals which can also be seen as 
 
 Initially bitcoin was set up to be a type of digital cash providing users with anonymity whereas ethereum is more geared towards being an all-purpose programmable blockchain that can not only store information but also process it unlike other cryptocurrencies where transactions are processed on their own separate blocks, as for example if you were sending money from one wallet address over another then this would happen off block while now following Ethereum's model; transaction data will still stay within same single chain which could have many advantages such having no need storing anything outside ledger and making dealings much faster because there won't any waiting periods between each new batch processing coming through during operation time frame versus Bitcoin system doing so every ten minutes rather than seconds like when using Ether coin combined
 
-## Ethereum Price Prediction 2021
+## Ethereum Price Prediction 2021?
 
-Some Crypto Youtubers have said that it is likely we will see a $27,000 Ethereum by the end of the year. This seems high at the time of writing, but in this bull market, anything could be possible.
+Some Crypto Youtubers have said that it is likely we will see a $27,000 Ethereum by the end of the year. This seems high at the time of writing, but in this bull market, anything could be possible.  Check out the video below from MMCrypto and Bitboy Crypto 
 
-moM_IbNbFU
+{{< youtube moM_IbNbFU >}}
