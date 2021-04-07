@@ -45,6 +45,10 @@ There have been multiple hacks of exchanges over the years, and it is sadly all 
 
 If you are serious about trading, or you have a lot to lose, you should have your hodling coins and tokens, which should be kept on a hardware wallet and then have a separate trading account.  That way you should be at least 50% protected if the worst happens and for some reason the exchange stops you accessing your coins or tokens.  
 
+## How to buy Bitcoin with the Trezor Model T
+
+[https://www.youtube.com/watch?v=y7IwqW5jcjs](https://www.youtube.com/watch?v=y7IwqW5jcjs "https://www.youtube.com/watch?v=y7IwqW5jcjs")
+
 ## Final Thoughts
 
 The [Trezor Model T](/link/trezor-model-t) is the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.
