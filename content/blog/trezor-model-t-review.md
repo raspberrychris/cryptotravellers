@@ -18,9 +18,9 @@ weight = 4
 
 {{< notice "note" >}} Disclaimer: This post contains affiliate links to Trezor. {{< /notice >}}
 
-> **The** [**Trezor Model T**](/link/trezor-model-t) **is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment.** 
+> **The** [**Trezor Model T**](/link/trezor-model-t) **is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment.**
 
-It's built with cutting edge security standards, and can be used to store [Bitcoin (BTC)](/buy-bitcoin), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and over 1000+ other cryptocurrencies. 
+It's built with cutting edge security standards, and can be used to store [Bitcoin (BTC)](/buy-bitcoin), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and over 1000+ other cryptocurrencies.
 
 The [Trezor Model T](/link/trezor-model-t) has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device.
 
@@ -46,15 +46,14 @@ Along with this, we must look at Trezor's competition - other cryptocurrency wal
 
 ### Exchanges Get Hacked
 
-There have been multiple hacks of exchanges over the years, and it is sadly all too common these days.  [Mt Gox](https://www.wired.com/2014/03/bitcoin-exchange/), [Cryptopia](https://www.coindesk.com/cryptopia-exchange-currently-in-liquidation-gets-hacked-again-report) (hacked twice, once while in liquidation), even [Binance has been hacked](https://www.wired.com/story/hack-binance-cryptocurrency-exchange/) in the past.   
+There have been multiple hacks of exchanges over the years, and it is sadly all too common these days.  [Mt Gox](https://www.wired.com/2014/03/bitcoin-exchange/), [Cryptopia](https://www.coindesk.com/cryptopia-exchange-currently-in-liquidation-gets-hacked-again-report) (hacked twice, once while in liquidation), even [Binance has been hacked](https://www.wired.com/story/hack-binance-cryptocurrency-exchange/) in the past.
 
-If you are serious about trading, or you have a lot to lose, you should have your hodling coins and tokens, which should be kept on a hardware wallet and then have a separate trading account.  That way you should be at least 50% protected if the worst happens and for some reason the exchange stops you accessing your coins or tokens.  
+If you are serious about trading, or you have a lot to lose, you should have your hodling coins and tokens, which should be kept on a hardware wallet and then have a separate trading account.  That way you should be at least 50% protected if the worst happens and for some reason the exchange stops you accessing your coins or tokens.
 
 ## How to buy Bitcoin with the Trezor Model T
 
-> Did you know that you can buy Bitcoin and other cryptocurrencies directly from Trezor Wallet? 
+> Did you know that you can buy Bitcoin and other cryptocurrencies directly from Trezor Wallet?
 
-  
 Trezor have provided a video on their [YouTube channel](https://www.youtube.com/channel/UCgWCFdi9pl-zPUk4xylrExA) that shows how to buy Bitcoin
 
 {{< youtube y7IwqW5jcjs >}}
@@ -85,7 +84,7 @@ The first difference is that the Trezor T has a touchscreen, which will make it 
 
 ### This model has the following changes:
 
-The touchscreen for more convenient use than its predecessor - It can support all currencies like Bitcoin Cash BCH, Cardano ADA Litecoin LTC EOS ETH Zcash XZC DASH SV etc) with upgraded NFC chip and finally an offline backup protocol (OP recovery). 
+The touchscreen for more convenient use than its predecessor - It can support all currencies like Bitcoin Cash BCH, Cardano ADA Litecoin LTC EOS ETH Zcash XZC DASH SV etc) with upgraded NFC chip and finally an offline backup protocol (OP recovery).
 
 ## What happens if you lose your Trezor?
 
@@ -119,11 +118,11 @@ Yes, since March 13th. Trezor supports BEP20 tokens in the following manner: whe
 
 ## Does Trezor support Theta?
 
-Yes, you can see how the new Theta protocol is supported on Trezor One and Model T. For now we recommend waiting for a full release of our firmware before using it in production with your coins - this will take place at some point after September 15th 2018 (in order to ensure enough testing).  In case there are any issues please report them here: support@trezorsetup . com or trezosupport @mailfence dotcom & help us improve future releases! We hope that by confirming compatibility between two protocols people may have more options then ever when choosing which consensus mechanism they prefer as well!
+Yes, you can see how the new Theta protocol is supported on Trezor One and Model T.
 
 ## Can Trezor hold Cardano?
 
-One of the key differences beteween the **Trezor One** and the **Trezor Model T** is that **the Trezor One doesn't** **support Cardano**.  If you are looking to HODL Cardano then you will need to fork out for the Model T at this exact moment in time.  Interestingly, Uniswap will be coming to both the Trezor One and the Trezor Model T "Soon" according to the Trezor website.
+One of the key differences beteween the **Trezor One** and the [**Trezor Model T**](/link/trezor-model-t) is that **the Trezor One doesn't** **support Cardano**.  If you are looking to HODL Cardano then you will need to fork out for the Model T at this exact moment in time.  Interestingly, Uniswap will be coming to both the Trezor One **and** the [Trezor Model T](/link/trezor-model-t) "Soon" according to the Trezor website.
 
 ![](/uploads/supported-coins-tokens-model-t.png)
 
@@ -165,6 +164,6 @@ Trezor is very proud of their community and the reviews from Twitter really spea
 
 ## Final Thoughts
 
-The [Trezor Model T](/link/trezor-model-t) is almost definitely the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.  
+The [Trezor Model T](/link/trezor-model-t) is almost definitely the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
