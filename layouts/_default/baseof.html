@@ -3,10 +3,7 @@
 {{ partial "head.html" . }}
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMFPFX7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+
   {{ partialCached "preloader.html" . }}
   {{ partial "header.html" . }}
   {{if and (not .IsHome) (ne .Section "blog") (ne .Permalink (`about/` | absURL)) (ne .Permalink (`search/` | absURL)) }}
@@ -15,6 +12,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   {{ block "main" . }}{{ end }}
   {{ partialCached "footer.html" . }}
   {{ partialCached "script.html" . }}
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMFPFX7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 </body>
 
 </html>
