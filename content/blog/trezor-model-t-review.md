@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Reviews", "Hardware Wallets"]
 date = 2021-04-06T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-to-buy-copy.png"
 tags = ["Trezor"]
 title = "Trezor Model T - Review"
@@ -12,6 +11,8 @@ url = ""
 
 +++
 ## What is the Trezor Model T?
+
+{{< notice "note" >}} Disclaimer: This post contains affiliate links to Trezor. {{< /notice >}}
 
 > **The** [**Trezor Model T**](/link/trezor-model-t) **is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment.** 
 
@@ -161,3 +162,5 @@ Trezor is very proud of their community and the reviews from Twitter really spea
 ## Final Thoughts
 
 The [Trezor Model T](/link/trezor-model-t) is almost definitely the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.  
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
