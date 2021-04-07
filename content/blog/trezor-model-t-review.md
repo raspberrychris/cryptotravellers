@@ -33,13 +33,17 @@ It is without doubt that Trezor has built a very impressive brand in a short spa
 
 However before investing in such a product is its cost effectiveness; does the added security and high-end hardware make it worth the higher price compared to its competitors?
 
-Along with this, we must look at Trezor's competition - other cryptocurrency wallets such as **KeepKey**. Higher end models of **Ledger Wallet** are also on sale for about $120 USD which is significantly cheaper than Model T while still retaining a good level or safety measures  Most importantly though: what does your investment strategy entail in terms from coin storage requirements; do you require many different types (such that may be required if one were looking into storing Bitcoin) then costs might increase substantially quicker due to need fo multiple devices whereas someone who simply needs something safe enough just to store their few coins would not pay anything near those prices). The takeaway here being no one should buy a [Trezor Model T](/link/trezor-model-t) if they don't have at least over $200 USD to spend on it, and that is the bare minimum.
+Along with this, we must look at Trezor's competition - other cryptocurrency wallets such as **KeepKey**. Higher end models of **Ledger Wallet** are also on sale for about $120 USD which is cheaper than Model T while still retaining level or safety measures  Most importantly though: what does your investment strategy entail in terms from coin storage requirements; do you require many different types (such that may be required if one were looking into storing Bitcoin) then costs might increase substantially quicker due to need fo multiple devices whereas someone who simply needs something safe enough just to store their few coins would not pay anything near those prices). The takeaway here being no one should buy a [Trezor Model T](/link/trezor-model-t) if they don't have at least over $200 USD to spend on it, and that is the bare minimum.
 
 ## Why do I need a hardware wallet?
 
-If you keep your coins and tokens on an exchange like a lot of people do then there is a chance you could use them.
+> If you keep your coins and tokens on an exchange like a lot of people do, then there is a chance you could lose them.  This is the reason hardware wallets are becoming more and more popular because they are completely detached from that ecosystem.
 
-There have been multiple hacks of exchanges over the years, and it is sadly all too common these days.  [Mt Gox](https://www.wired.com/2014/03/bitcoin-exchange/), [Cryptopia](https://www.coindesk.com/cryptopia-exchange-currently-in-liquidation-gets-hacked-again-report) (hacked twice, once while in liquidation), even [Binance has been hacked](https://www.wired.com/story/hack-binance-cryptocurrency-exchange/) in the past.  Ideally if you are serious about trading you should have your hodling coins and tokens, which should be kept on a hardware wallet and then have a seperate trading account.  That way you are 50% protected if the worst happens and for some reason the exchange stops you accessing your coins or tokens. 
+### Exchanges Get Hacked
+
+There have been multiple hacks of exchanges over the years, and it is sadly all too common these days.  [Mt Gox](https://www.wired.com/2014/03/bitcoin-exchange/), [Cryptopia](https://www.coindesk.com/cryptopia-exchange-currently-in-liquidation-gets-hacked-again-report) (hacked twice, once while in liquidation), even [Binance has been hacked](https://www.wired.com/story/hack-binance-cryptocurrency-exchange/) in the past.   
+
+If you are serious about trading, or you have a lot to lose, you should have your hodling coins and tokens, which should be kept on a hardware wallet and then have a separate trading account.  That way you should be at least 50% protected if the worst happens and for some reason the exchange stops you accessing your coins or tokens.  
 
 ## Final Thoughts
 
