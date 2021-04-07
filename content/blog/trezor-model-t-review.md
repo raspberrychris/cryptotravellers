@@ -4,7 +4,7 @@ categories = ["Reviews", "Hardware Wallets"]
 date = 2021-04-06T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/how-to-buy-copy.png"
 tags = ["Trezor"]
 title = "Trezor Model T - Review"
 toc = false
@@ -13,15 +13,19 @@ url = ""
 +++
 ## What is the Trezor Model T?
 
-**The Trezor Model T is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment.** 
+> **The** [**Trezor Model T**](/link/trezor-model-t) **is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment.** 
 
-It's built with cutting edge security standards, and can be used to store Bitcoin (BTC), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and over 1000+ other cryptocurrencies. The Trezor Model T has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device.
+It's built with cutting edge security standards, and can be used to store [Bitcoin (BTC)](/buy-bitcoin), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and over 1000+ other cryptocurrencies. 
+
+The [Trezor Model T](/link/trezor-model-t) has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device.
 
 ![trezor-model-t-review](/uploads/t2.jpg)
 
 ## What is the price of the Trezor Model T?
 
-At the time of writing the price for Trezor Model T starts at $181 USD on their website trezor.io (In Europe the price is around 178.8 EUR, which makes it one of the more pricier models at this level in the market, but you do get a lot of features and peace of mind that your crypto is safe and secure.
+With all these features unfortunately it does mean that the Trezor is not the cheapest device on the market.
+
+At the time of writing the price for [Trezor Model T](/link/trezor-model-t) starts at $181 USD on their website trezor.io (In Europe the price is around 178.8 EUR, which makes it one of the more pricier models at this level in the market, but you do get a lot of features and peace of mind that your crypto is safe and secure.
 
 ## Is the larger Price Tag worth it?
 
@@ -29,7 +33,7 @@ It is without doubt that Trezor has built a very impressive brand in a short spa
 
 However before investing in such a product is its cost effectiveness; does the added security and high-end hardware make it worth the higher price compared to its competitors?
 
-Along with this, we must look at Trezor's competition - other cryptocurrency wallets such as **KeepKey**. Higher end models of **Ledger Wallet** are also on sale for about $120 USD which is significantly cheaper than Model T while still retaining a good level or safety measures  Most importantly though: what does your investment strategy entail in terms from coin storage requirements; do you require many different types (such that may be required if one were looking into storing Bitcoin) then costs might increase substantially quicker due to need fo multiple devices whereas someone who simply needs something safe enough just to store their few coins would not pay anything near those prices). The takeaway here being no one should buy a Trezor Model T if they don't have at least over $200 USD to spend on it, and that is the bare minimum.
+Along with this, we must look at Trezor's competition - other cryptocurrency wallets such as **KeepKey**. Higher end models of **Ledger Wallet** are also on sale for about $120 USD which is significantly cheaper than Model T while still retaining a good level or safety measures  Most importantly though: what does your investment strategy entail in terms from coin storage requirements; do you require many different types (such that may be required if one were looking into storing Bitcoin) then costs might increase substantially quicker due to need fo multiple devices whereas someone who simply needs something safe enough just to store their few coins would not pay anything near those prices). The takeaway here being no one should buy a [Trezor Model T](/link/trezor-model-t) if they don't have at least over $200 USD to spend on it, and that is the bare minimum.
 
 ## Why do I need a hardware wallet?
 
@@ -39,13 +43,13 @@ There have been multiple hacks of exchanges over the years, and it is sadly all 
 
 ## Final Thoughts
 
-The Trezor Model T is the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.
+The [Trezor Model T](/link/trezor-model-t) is the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.
 
 ## What coins does Trezor Model T support?
 
-> At the time of writing the Trezor Model T supports an impressive 1649 coins and tokens.
+> At the time of writing the [Trezor Model T](/link/trezor-model-t) supports an impressive 1649 coins and tokens.
 
-The Trezor Model T is certainly a good investment for those who might be looking to store crypto in the longer term.  For those who are considering investing into cryptocurrencies or want an extra layer of security when transacting with their coins - then the Model T is definiltey worth considering. The cost is fairly high so if someone doesn't own any other cryptocurrency wallets (or can deal without some "luxury") they may not find Trezors Model T desirable enough despite being able-to support more than just bitcoin transactions alone like most Trezor devices do currently on market place today) Even though there were reports that early investors weren′t pleased due how costly investment was relative to how much credit they had,
+The Trezor Model T is certainly a good investment for those who might be looking to store crypto in the longer term.  For those who are considering investing into cryptocurrencies or want an extra layer of security when transacting with their coins - then the Model T is definiltey worth considering. The cost is fairly high so if someone doesn't own any other cryptocurrency wallets (or can deal without some "luxury") they may not find [Trezors Model T](/link/trezor-model-t) desirable enough despite being able-to support more than just bitcoin transactions alone like most Trezor devices do currently on market place today) Even though there were reports that early investors weren′t pleased due how costly investment was relative to how much credit they had,
 
 Time will tell if it's worth the money.
 
@@ -61,7 +65,7 @@ Security experts recommend the Trezor Model T as one safest option on market tod
 
 ## Secure storage
 
-The Trezor Model T is one of most secure wallet devices on market today due to a number different features that work in unison like biometric protection, safe data encryption options for both rest and mobile functions) passwordless login mode), tremor-proof design (no passwords can be obtained by just touching keyboard because hardware cannot record keystrokes). Transactions appear as unlabelled QR codes instead so senders know what they're sending but don't necessarily see receivers address before completing transaction - which improves anonymity & security overall while not compromising usability either!  wallets are also inherently more difficult than paper ones since the latter isn’t designed only with theft prevention systems into account from start.)
+The [Trezor Model T](/link/trezor-model-t) is one of most secure wallet devices on market today due to a number different features that work in unison like biometric protection, safe data encryption options for both rest and mobile functions) passwordless login mode), tremor-proof design (no passwords can be obtained by just touching keyboard because hardware cannot record keystrokes). Transactions appear as unlabelled QR codes instead so senders know what they're sending but don't necessarily see receivers address before completing transaction - which improves anonymity & security overall while not compromising usability either!  wallets are also inherently more difficult than paper ones since the latter isn’t designed only with theft prevention systems into account from start.)
 
 ## What is the difference between Trezor one and Model T?
 
