@@ -8,6 +8,10 @@ tags = ["Trezor"]
 title = "Trezor Model T - Review"
 toc = false
 url = ""
+[menu.main]
+name = "Trezor Model T Review"
+parent = "Reviews"
+weight = 4
 
 +++
 ## What is the Trezor Model T?
