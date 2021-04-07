@@ -100,21 +100,17 @@ No, your Trezor cannot be hacked. Your private keys are never exposed to the out
 
 Innovative and intuitive design with a touch screen that replaces all buttons, except the power button on one side of device to provide an optimal user experience while working in cold environments without any gloves or long fingernails (features model t logo illuminated by blue backlight). Compatible for use worldwide - 100% Euro-centric plug compatible adapter included as well so you don't need additional adapters from us which would add up shipping charges significantly) Weight is only 120 grams compared 250g weight difference between Trezor ONE & T Model meaning it will be comfortable even after wearing your Trezor Model T close against chest under shirt during outside activities like running etc.). High security level achieved through high quality  materials (stylish aluminum body with scratch resistant anodised finish that can be removed and replaced)
 
-Shelf life of the battery is greatly increased so you won't need to worry about a dead or dying device at inopportune time. The package includes: model t Trezor, lanyard strap for wearing around neck/wrist including carabiner clip adapter - international power supply compatible worldwide- 100% European plug included, micro usb cable-. Lifetime warranty on manufacturing defects as well! All buttons are recessed into housing unit making it easy even when wet hands may not grasp back button easily rendering your other hand useless without fear auto booting & loosing all information stored inside automatically deleting everything once entered incorrect password too  many times.
-
-Shelf life of the battery is greatly increased so you won't need to worry about a dead or dying device at inopportune time  The package includes: Model T Trezor, lanyard strap for wearing around neck/wrist including carabiner clip adapter - international power supply compatible worldwide- 100% European plug included,. Lifetime warranty on manufacturing defects as well! All buttons are recessed into housing unit making it easy even when wet hands may not grasp back button easily rendering your other hand useless without fear auto booting & loosing all information stored inside automatically deleting everything once entered incorrect password too many times .
+Shelf life of the battery is greatly increased so you won't need to worry about a dead or dying device at inopportune time  The package includes: Model T Trezor, lanyard strap for wearing around neck/wrist including carabiner clip adapter - international power supply compatible worldwide- 100% European plug included,  Lifetime warranty on manufacturing defects as well! All buttons are recessed into housing unit making it easy even when wet hands may not grasp back button easily rendering your other hand useless without fear auto booting & loosing all information stored inside automatically deleting everything once entered incorrect password too many times .
 
 ## Can I use Trezor with iPhone?
 
-Yes, the latest version of Trezor firmware supports iPhone. You can use it with iOS 11 without jailbreak and unlock requirements - but be warned that you are exposing your PIN to an untrusted device! This is why we recommend our users enter their password on MacOS or Windows first (then copy-paste) into another window where they have connected a USB cable from iPhone . The recommended way would also involve using chrome browser as well for this process !
+Yes, the latest version of Trezor firmware supports iPhone. You can use it with iOS 11 (without jailbreak and unlock requirements) - but be warned that you are exposing your PIN to an untrusted device. This is why we recommend our users enter their password on MacOS or Windows first (then copy-paste) into another window where they have connected a USB cable from iPhone . The recommended way would also involve using chrome browser as well for this process.
 
 ## Coin Support
 
 ![trezor-coins-supported](/uploads/trezor-supported-coins.png)
 
-For a complete list of coins that the Trezor Model T supports check out this article from the Trezor homepage:
-
-[https://trezor.io/coins/](https://trezor.io/coins/ "https://trezor.io/coins/")
+For a complete list of coins that the Trezor Model T supports check out [this article from the Trezor](https://trezor.io/coins/) website.
 
 ## Does Trezor support BEP20?
 
@@ -132,17 +128,17 @@ One of the key differences beteween the **Trezor One** and the **Trezor Model T*
 
 ## Technical specifications
 
-### Dimension & Weight of the device:
+### Dimension & Weight of the device
 
-### Size: 
+### Size
 
 64 mm x 39 mm x 10 mm (2.52 in x 1.54 in x 0.39 in)
 
-### Weight: 
+### Weight
 
 22 g (0.77 oz)
 
-### Dimension & Weight of the package:
+### Dimension & Weight of the package
 
 Size: 64 mm x 39 mm x 10 mm (2.52 in x 1.54 in x 0.39 in)
 
