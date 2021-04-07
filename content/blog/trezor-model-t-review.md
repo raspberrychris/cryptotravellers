@@ -13,7 +13,9 @@ url = ""
 +++
 ## What is the Trezor Model T?
 
-The **Trezor Model T** is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment. It's built with modern security standards, and can be used to store Bitcoin (BTC), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and 1000+ other cryptocurrencies. The Trezor Model T has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device.
+**The Trezor Model T is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment.** 
+
+It's built with cutting edge security standards, and can be used to store Bitcoin (BTC), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and over 1000+ other cryptocurrencies. The Trezor Model T has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device.
 
 ![trezor-model-t-review](/uploads/t2.jpg)
 
@@ -28,6 +30,12 @@ It is without doubt that Trezor has built a very impressive brand in a short spa
 However before investing in such a product is its cost effectiveness; does the added security and high-end hardware make it worth the higher price compared to its competitors?
 
 Along with this, we must look at Trezor's competition - other cryptocurrency wallets such as **KeepKey**. Higher end models of **Ledger Wallet** are also on sale for about $120 USD which is significantly cheaper than Model T while still retaining a good level or safety measures  Most importantly though: what does your investment strategy entail in terms from coin storage requirements; do you require many different types (such that may be required if one were looking into storing Bitcoin) then costs might increase substantially quicker due to need fo multiple devices whereas someone who simply needs something safe enough just to store their few coins would not pay anything near those prices). The takeaway here being no one should buy a Trezor Model T if they don't have at least over $200 USD to spend on it, and that is the bare minimum.
+
+## Why do I need a hardware wallet?
+
+If you keep your coins and tokens on an exchange like a lot of people do then there is a chance you could use them.
+
+There have been multiple hacks of exchanges over the years, and it is sadly all too common these days.  [Mt Gox](https://www.wired.com/2014/03/bitcoin-exchange/), [Cryptopia](https://www.coindesk.com/cryptopia-exchange-currently-in-liquidation-gets-hacked-again-report) (hacked twice, once while in liquidation), even [Binance has been hacked](https://www.wired.com/story/hack-binance-cryptocurrency-exchange/) in the past.  Ideally if you are serious about trading you should have your hodling coins and tokens, which should be kept on a hardware wallet and then have a seperate trading account.  That way you are 50% protected if the worst happens and for some reason the exchange stops you accessing your coins or tokens. 
 
 ## Final Thoughts
 
@@ -44,6 +52,8 @@ Time will tell if it's worth the money.
 ## Is The Trezor Model T Safe?
 
 Yes. Trezor Model T is a hardware wallet that has been designed to be secure from malware and fits into your pocket or on the desk where you work without any trouble - according experts in crypto security field such as [Bruce Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier) (a world-renowned cryptographer). This one of its kind device offers biometric protection for those who are paranoid about their coins being stolen.  There's also an optional "Passwordless login" mode which can provide easy access if someone wants it, but still maintain safety measures by requiring people enter correct passcode upon entering physical devices after powering up so there was no possible way unauthorised person could have accessed contents stored within just like with other wallets currently available today worldwide) As we have already mentioned though the product does not come cheap though, but if it's within your budget and you don't want the fear of losing coins then definitely go for this.
+
+![](/uploads/trezor-model-t-security.png)
 
 ## Biometric Protection
 
