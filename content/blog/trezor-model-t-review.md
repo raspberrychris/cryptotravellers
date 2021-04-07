@@ -76,21 +76,17 @@ The [Trezor Model T](/link/trezor-model-t) is one of most secure wallet devices 
 
 ## What is the difference between Trezor one and Model T?
 
-The first difference is that the Trezor T has a touchscreen, which will make it easier to use than its predecessor. The other significant change with this model as opposed of trevor one are two buttons on either side for confirming or cancelling transactions without going through menus and typing passwords.) This means you can now swipe coins in your wallet across both screens before sending them out - just like how people used paper wallets!) It also supports more currencies: Bitcoin Cash (BCH), Cardano ADA) Litecoin LTC EOS ETH Zcash XZC DASH BCH SV etc). Finally we have NFC chip support! This allows us be able produce an offline backup using OP-RECOVERY protocol by writing down 24  words on a piece of paper.
+The first difference is that the Trezor T has a touchscreen, which will make it easier to use than its predecessor. The other significant change with this model as opposed to the Trezor One are two buttons on either side for confirming or cancelling transactions without going through menus and typing passwords.) This means you can now swipe coins in your wallet across both screens before sending them out - just like how people used paper wallets!) It also supports more currencies: Bitcoin Cash (BCH), Cardano ADA) Litecoin LTC EOS ETH Zcash XZC DASH BCH SV etc). Finally we have NFC chip support! This allows us be able produce an offline backup using OP-RECOVERY protocol by writing down 24  words on a piece of paper.
 
-This model has the following changes:
+### This model has the following changes:
 
-A touchscreen for more convenient use than its predecessor - It can support all currencies like Bitcoin Cash BCH, Cardano ADA Litecoin LTC EOS ETH Zcash XZC DASH SV etc) with upgraded NFC chip and finally an offline backup protocol (OP recovery). The Trezor T is worth it!
+The touchscreen for more convenient use than its predecessor - It can support all currencies like Bitcoin Cash BCH, Cardano ADA Litecoin LTC EOS ETH Zcash XZC DASH SV etc) with upgraded NFC chip and finally an offline backup protocol (OP recovery). 
 
 ## What happens if you lose your Trezor?
 
 If you lose your Trezor, it is gone. There's no recovery option for the device (unless someone finds and returns). You may be able to recover some of its contents with a backup seed from an earlier date if needed but there will not likely enough data in this case as most recent transactions are lost forever when using paper wallets)
 
-This content was written by Alexander Kuznetsov on September 02 2019 at 17:00 UTC+0Accordingly Trezo T does have more features than previous models like touchscreen interface so that makes life easier while working offline or online; NFC chip which enables users do get secure hardware-backed keystore without any internet connection - just make sure we write all 24 words down correctly before sending  it to a wallet.
-
-Furthermore, you can also use it with other wallets and services including Electrum or Mycelium (if we add support for this in the future) but only if they have NFC card reader built-in! We hope that users will enjoy new features of Trezor T model while staying safe from threats on cryptocurrency world :)
-
-Accordingly it is worth noting there are some minor drawbacks about the Trezor T as well - first one being price which may be too high considering how many people lost their funds due lack knowledge security practices.
+The Trezor T does have more features than previous models like touchscreen interface so that makes life easier while working offline or online; NFC chip which enables users do get secure hardware-backed keystore without any internet connection - just make sure to write all 24 words down correctly before sending  it to a wallet.
 
 ## Can the Trezor be hacked?
 
@@ -155,6 +151,12 @@ USB-C connector for connecting to the computer or mobile phone.
 ### CPU
 
 168 MHz embedded ARM processor (Cortex-M4) running a custom developed system, the Trezor Core.
+
+## Strong Community & Free Support
+
+Trezor is very proud of their community and the reviews from Twitter really speak for themselves.  If you want to have a look yourself you can see the reviews from their website [here](https://trezor.io/endorsements/).  They have a 91% customer satisfaction rating, which is high.
+
+![](/uploads/trezor-twitter-reviews.png)
 
 ## Final Thoughts
 
