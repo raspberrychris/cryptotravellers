@@ -13,29 +13,33 @@ url = ""
 +++
 ## What is the Trezor Model T?
 
-The **Trezor Model T** is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment. It's built with modern security standards, and can be used to store Bitcoin (BTC), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and 1000+ other cryptocurrencies. The Trezor Model T has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device. 
+The **Trezor Model T** is a cryptocurrency hardware wallet, which means that it stores your private keys offline and in an encrypted environment. It's built with modern security standards, and can be used to store Bitcoin (BTC), Litecoin (LTC), Ethereum, Ethereum Classic (ETC), Zcash, Bitcoin Gold, Nem, Dash and 1000+ other cryptocurrencies. The Trezor Model T has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device.
 
-The price for Trezor Model T starts at $160 USD on their website trezor.io (178.8 EUR), which makes it one of the more pricier models at this level in the market, but you do get a lot of features and peace of mind that your crypto is safe and secure.
+![trezor-model-t-review](/uploads/t2.jpg)
+
+## What is the price of the Trezor Model T?
+
+At the time of writing the price for Trezor Model T starts at $181 USD on their website trezor.io (In Europe the price is around 178.8 EUR, which makes it one of the more pricier models at this level in the market, but you do get a lot of features and peace of mind that your crypto is safe and secure.
 
 ## Is the larger Price Tag worth it?
 
-It is without doubt that Trezor has built a very impressive brand in a short space of time, and the Model T really feels like it is a well thought out product. 
+It is without doubt that Trezor has built a very impressive brand in a short space of time, and the Model T really feels like it is a well thought out product.
 
 However before investing in such a product is its cost effectiveness; does the added security and high-end hardware make it worth the higher price compared to its competitors?
 
-Along with this, we must look at Trezor's competition - other cryptocurrency wallets such as KeepKey. Higher end models of Ledger Wallet are also on sale for about $120 USD which is significantly cheaper than Model T while still retaining a good level or safety measures  Most importantly though: what does your investment strategy entail in terms from coin storage requirements; do you require many different types (such that may be required if one were looking into storing Bitcoin) then costs might increase substantially quicker due ot need fo multiple devices whereas someone who simply needs something safe enough just to store their few coins would not pay anything near those prices). The takeaway here being no one should buy a trezor Model T if they don't have at least over $200 USD to spend on it, and that is the bare minimum.
+Along with this, we must look at Trezor's competition - other cryptocurrency wallets such as **KeepKey**. Higher end models of **Ledger Wallet** are also on sale for about $120 USD which is significantly cheaper than Model T while still retaining a good level or safety measures  Most importantly though: what does your investment strategy entail in terms from coin storage requirements; do you require many different types (such that may be required if one were looking into storing Bitcoin) then costs might increase substantially quicker due to need fo multiple devices whereas someone who simply needs something safe enough just to store their few coins would not pay anything near those prices). The takeaway here being no one should buy a Trezor Model T if they don't have at least over $200 USD to spend on it, and that is the bare minimum.
 
-Final Thoughts
+## Final Thoughts
 
 The Trezor Model T is the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.
 
 ## What coins does Trezor Model T support?
 
-The Trezor Model T is certainly a good investment for those who are only trading cryptocurrencies or might be looking to store some other kind currency in the future but if you're an investor then it's better ot buy something that will support more coins and allow direct exchanges between them with ease! Â The treborn Molt model t does require manual confirmation on transactions which sometimes can lead o delays, this also means they need another wallet when buying from cryptocurrency exchange as well - just one thing less than someone without any type f TREZOR would have tot go through (although like many things related too blockchain technology ere never completely perfect). This may not seem bad at first glance hen considering how easy bitcoin wallets  are to use, but until you have the device in hand it's hard to make a judgement and see what will work for you.
+> At the time of writing the Trezor Model T supports an impressive 1649 coins and tokens.
 
-For those who are considering investing into cryptocurrencies or want an extra layer of security when transacting with their coins - then this might be worth consideration! The cost is fairly high at 199 dollars so if someone doesn't own any other cryptocurrency wallets (or can deal without some "luxury") they may not find Trezors Model T desirable enough despite being able-to support more than just bitcoin transactions alone like most Trezor devices do currently on market place today) Even though there were reports that early investors weren′t pleased due how costly investment was relative to how much credit they had,
+The Trezor Model T is certainly a good investment for those who might be looking to store crypto in the longer term.  For those who are considering investing into cryptocurrencies or want an extra layer of security when transacting with their coins - then the Model T is definiltey worth considering. The cost is fairly high so if someone doesn't own any other cryptocurrency wallets (or can deal without some "luxury") they may not find Trezors Model T desirable enough despite being able-to support more than just bitcoin transactions alone like most Trezor devices do currently on market place today) Even though there were reports that early investors weren′t pleased due how costly investment was relative to how much credit they had,
 
-Time will tell if it's worth the money. 
+Time will tell if it's worth the money.
 
 ## Is The Trezor Model T Safe?
 
@@ -45,51 +49,51 @@ Yes. Trezor Model T is a hardware wallet that has been designed to be secure fro
 
 Security experts recommend the Trezor Model T as one safest option on market today) biometric protection (passcode must be entered when powering up so there no possible way unauthorised person could enter contents stored inside like with other wallets currently available worldwide)) safe storage options ios/android apps compatible; secure data encryption at rest & also while mobile). Trezor offers "Passwordless login" mode which can provide easy access without compromising two years warranty by requiring people entering correct passcodes upon accessing physical  device.
 
-## Secure storage 
+## Secure storage
 
-The Trezor Model T is one of most secure wallet devices on market today due to a number different features that work in unison like biometric protection, safe data encryption options for both rest and mobile functions) passwordless login mode), tremor-proof design (no passwords can be obtained by just touching keyboard because hardware cannot record keystrokes). Transactions appear as unlabelled QR codes instead so senders know what they're sending but don't necessarily see receivers address before completing transaction - which improves anonymity & security overall while not compromising usability either!  wallets are also inherently more difficult than paper ones since the latter isn’t designed only with theft prevention systems into account from start.) 
+The Trezor Model T is one of most secure wallet devices on market today due to a number different features that work in unison like biometric protection, safe data encryption options for both rest and mobile functions) passwordless login mode), tremor-proof design (no passwords can be obtained by just touching keyboard because hardware cannot record keystrokes). Transactions appear as unlabelled QR codes instead so senders know what they're sending but don't necessarily see receivers address before completing transaction - which improves anonymity & security overall while not compromising usability either!  wallets are also inherently more difficult than paper ones since the latter isn’t designed only with theft prevention systems into account from start.)
 
 ## What is the difference between Trezor one and Model T?
 
 The first difference is that the Trezor T has a touchscreen, which will make it easier to use than its predecessor. The other significant change with this model as opposed of trevor one are two buttons on either side for confirming or cancelling transactions without going through menus and typing passwords.) This means you can now swipe coins in your wallet across both screens before sending them out - just like how people used paper wallets!) It also supports more currencies: Bitcoin Cash (BCH), Cardano ADA) Litecoin LTC EOS ETH Zcash XZC DASH BCH SV etc). Finally we have NFC chip support! This allows us be able produce an offline backup using OP-RECOVERY protocol by writing down 24  words on a piece of paper.
 
-This model has the following changes: 
+This model has the following changes:
 
-A touchscreen for more convenient use than its predecessor - It can support all currencies like Bitcoin Cash BCH, Cardano ADA Litecoin LTC EOS ETH Zcash XZC DASH SV etc) with upgraded NFC chip and finally an offline backup protocol (OP recovery). The Trezor T is worth it! 
+A touchscreen for more convenient use than its predecessor - It can support all currencies like Bitcoin Cash BCH, Cardano ADA Litecoin LTC EOS ETH Zcash XZC DASH SV etc) with upgraded NFC chip and finally an offline backup protocol (OP recovery). The Trezor T is worth it!
 
 ## What happens if you lose your Trezor?
 
-If you lose your trezor, it is gone. There's no recovery option for the device (unless someone finds and returns). You may be able to recover some of its contents with a backup seed from an earlier date if needed but there will not likely enough data in this case as most recent transactions are lost forever when using paper wallets) 
+If you lose your Trezor, it is gone. There's no recovery option for the device (unless someone finds and returns). You may be able to recover some of its contents with a backup seed from an earlier date if needed but there will not likely enough data in this case as most recent transactions are lost forever when using paper wallets)
 
- This content was written by Alexander Kuznetsov on September 02 2019 at 17:00 UTC+0Accordingly Trezo T does have more features than previous models like touchscreen interface so that makes life easier while working offline or online; NFC chip which enables users do get secure hardware-backed keystore without any internet connection - just make sure we write all 24 words down correctly before sending  it to a wallet.
+This content was written by Alexander Kuznetsov on September 02 2019 at 17:00 UTC+0Accordingly Trezo T does have more features than previous models like touchscreen interface so that makes life easier while working offline or online; NFC chip which enables users do get secure hardware-backed keystore without any internet connection - just make sure we write all 24 words down correctly before sending  it to a wallet.
 
-Furthermore, you can also use it with other wallets and services including Electrum or Mycelium (if we add support for this in the future) but only if they have NFC card reader built-in! We hope that users will enjoy new features of Trezor T model while staying safe from threats on cryptocurrency world :)  
+Furthermore, you can also use it with other wallets and services including Electrum or Mycelium (if we add support for this in the future) but only if they have NFC card reader built-in! We hope that users will enjoy new features of Trezor T model while staying safe from threats on cryptocurrency world :)
 
-Accordingly it is worth noting there are some minor drawbacks about the trezor t as well - first one being price which may be too high considering how many people lost their funds due lack knowledge security practices.
+Accordingly it is worth noting there are some minor drawbacks about the Trezor T as well - first one being price which may be too high considering how many people lost their funds due lack knowledge security practices.
 
 ## Can the Trezor be hacked?
 
 No, your Trezor cannot be hacked. Your private keys are never exposed to the outside world and they can’t ever get stolen because all transaction data is signed inside of a closed system that was designed by SatoshiLabs engineers accordingly with no security vulnerabilities found yet in any part it's design or implementation up until this date. Furthermore if someone would need physical access to have an opportunity for hacking into our devices - we implemented multiple safeguard mechanisms against unauthorised opening like tamper-proof screws, hidden service pins which must match pin code entered on device touchscreen before firmware gets wiped out as well. In case you still think these features might not provide enough protection please read about other ways how storage  devices can get hacked.
 
-Features & Design
+## Features & Design
 
 Innovative and intuitive design with a touch screen that replaces all buttons, except the power button on one side of device to provide an optimal user experience while working in cold environments without any gloves or long fingernails (features model t logo illuminated by blue backlight). Compatible for use worldwide - 100% Euro-centric plug compatible adapter included as well so you don't need additional adapters from us which would add up shipping charges significantly) Weight is only 120 grams compared 250g weight difference between Trezor ONE & T Model meaning it will be comfortable even after wearing your Trezor Model T close against chest under shirt during outside activities like running etc.). High security level achieved through high quality  materials (stylish aluminum body with scratch resistant anodised finish that can be removed and replaced)
 
 Shelf life of the battery is greatly increased so you won't need to worry about a dead or dying device at inopportune time. The package includes: model t Trezor, lanyard strap for wearing around neck/wrist including carabiner clip adapter - international power supply compatible worldwide- 100% European plug included, micro usb cable-. Lifetime warranty on manufacturing defects as well! All buttons are recessed into housing unit making it easy even when wet hands may not grasp back button easily rendering your other hand useless without fear auto booting & loosing all information stored inside automatically deleting everything once entered incorrect password too  many times.
 
-Shelf life of the battery is greatly increased so you won't need to worry about a dead or dying device at inopportune time  The package includes: model t Trezor, lanyard strap for wearing around neck/wrist including carabiner clip adapter - international power supply compatible worldwide- 100% European plug included,. Lifetime warranty on manufacturing defects as well! All buttons are recessed into housing unit making it easy even when wet hands may not grasp back button easily rendering your other hand useless without fear auto booting & loosing all information stored inside automatically deleting everything once entered incorrect password too many times .
+Shelf life of the battery is greatly increased so you won't need to worry about a dead or dying device at inopportune time  The package includes: Model T Trezor, lanyard strap for wearing around neck/wrist including carabiner clip adapter - international power supply compatible worldwide- 100% European plug included,. Lifetime warranty on manufacturing defects as well! All buttons are recessed into housing unit making it easy even when wet hands may not grasp back button easily rendering your other hand useless without fear auto booting & loosing all information stored inside automatically deleting everything once entered incorrect password too many times .
 
 ## Can I use Trezor with iPhone?
 
-Yes, the latest version of Trezor firmware supports iPhone. You can use it with iOS 11 without jailbreak and unlock requirements - but be warned that you are exposing your PIN to an untrusted device! This is why we recommend our users enter their password on MacOS or Windows first (then copy-paste) into another window where they have connected a USB cable from iphone . The recommended way would also involve using chrome browser as well for this process ! 
+Yes, the latest version of Trezor firmware supports iPhone. You can use it with iOS 11 without jailbreak and unlock requirements - but be warned that you are exposing your PIN to an untrusted device! This is why we recommend our users enter their password on MacOS or Windows first (then copy-paste) into another window where they have connected a USB cable from iPhone . The recommended way would also involve using chrome browser as well for this process !
 
 ### Coin Support
 
 For a complete list of coins that the Trezor Model T supports check out this article from the Trezor homepage:
 
-[https://trezor.io/coins/](https://trezor.io/coins/ "https://trezor.io/coins/") 
+[https://trezor.io/coins/](https://trezor.io/coins/ "https://trezor.io/coins/")
 
-## Does trezor support BEP20?
+## Does Trezor support BEP20?
 
 Yes, since March 13th. Trezor supports BEP20 tokens in the following manner: when a user sends their private key to an exchange or other third party service using MyEtherWallet which has implemented support for this standard - it will have no effect on your funds stored with our device . In addition users may login into UPort and request that they are added as verified signers of these addresses (this process is currently only available via Chrome browser). The signing procedure operates similarly how you would use any Ethereum-compatible wallet such; however we highly recommend verifying ownership by logging out from uthread before typing commands! You can verify them without exposing wallets' seed phrase thus making sure those remain safe even if someone gets access to  your computer.
 
@@ -97,7 +101,7 @@ Yes, since March 13th. Trezor supports BEP20 tokens in the following manner: whe
 
 Yes, you can see how the new Theta protocol is supported on Trezor One and Model T. For now we recommend waiting for a full release of our firmware before using it in production with your coins - this will take place at some point after September 15th 2018 (in order to ensure enough testing).  In case there are any issues please report them here: support@trezorsetup . com or trezosupport @mailfence dotcom & help us improve future releases! We hope that by confirming compatibility between two protocols people may have more options then ever when choosing which consensus mechanism they prefer as well!
 
-Can trezor hold Cardano?
+## Can Trezor hold Cardano?
 
 ## Technical specification
 
