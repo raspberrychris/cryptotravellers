@@ -47,24 +47,18 @@ If you are serious about trading, or you have a lot to lose, you should have you
 
 ## How to buy Bitcoin with the Trezor Model T
 
-Did you know that you can buy Bitcoin and other cryptocurrencies directly from Trezor Wallet? 
+> Did you know that you can buy Bitcoin and other cryptocurrencies directly from Trezor Wallet? 
 
   
 Trezor have provided a video on their [YouTube channel](https://www.youtube.com/channel/UCgWCFdi9pl-zPUk4xylrExA) that shows how to buy Bitcoin
 
 {{< youtube y7IwqW5jcjs >}}
 
-## Final Thoughts
-
-The [Trezor Model T](/link/trezor-model-t) is the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.
-
 ## What coins does Trezor Model T support?
 
 > At the time of writing the [Trezor Model T](/link/trezor-model-t) supports an impressive 1649 coins and tokens.
 
 The Trezor Model T is certainly a good investment for those who might be looking to store crypto in the longer term.  For those who are considering investing into cryptocurrencies or want an extra layer of security when transacting with their coins - then the Model T is definiltey worth considering. The cost is fairly high so if someone doesn't own any other cryptocurrency wallets (or can deal without some "luxury") they may not find [Trezors Model T](/link/trezor-model-t) desirable enough despite being able-to support more than just bitcoin transactions alone like most Trezor devices do currently on market place today) Even though there were reports that early investors weren′t pleased due how costly investment was relative to how much credit they had,
-
-Time will tell if it's worth the money.
 
 ## Is The Trezor Model T Safe?
 
@@ -165,3 +159,7 @@ USB-C connector for connecting to the computer or mobile phone.
 ### CPU
 
 168 MHz embedded ARM processor (Cortex-M4) running a custom developed system, the Trezor Core.
+
+## Final Thoughts
+
+The [Trezor Model T](/link/trezor-model-t) is almost definitely the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.  
