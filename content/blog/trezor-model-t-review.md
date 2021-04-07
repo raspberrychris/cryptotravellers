@@ -47,7 +47,12 @@ If you are serious about trading, or you have a lot to lose, you should have you
 
 ## How to buy Bitcoin with the Trezor Model T
 
-[https://www.youtube.com/watch?v=y7IwqW5jcjs](https://www.youtube.com/watch?v=y7IwqW5jcjs "https://www.youtube.com/watch?v=y7IwqW5jcjs")
+Did you know that you can buy Bitcoin and other cryptocurrencies directly from Trezor Wallet? 
+
+  
+Trezor have provided a video on their [YouTube channel](https://www.youtube.com/channel/UCgWCFdi9pl-zPUk4xylrExA) that shows how to buy Bitcoin
+
+{{< youtube y7IwqW5jcjs >}}
 
 ## Final Thoughts
 
