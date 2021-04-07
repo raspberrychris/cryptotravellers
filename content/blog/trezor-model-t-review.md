@@ -24,7 +24,7 @@ It's built with cutting edge security standards, and can be used to store [Bitco
 
 The [Trezor Model T](/link/trezor-model-t) has many advantages over other hardware wallets: firstly, it's easy to use, secure, mobile-friendly and the user interface is very intuitive - so you don't need any prior knowledge of cryptography or coding to use this device.
 
-![trezor-model-t-review](/uploads/t2.jpg)
+[![trezor-model-t-review](/uploads/t2.jpg)](/link/trezor-model-t)
 
 ## What is the price of the Trezor Model T?
 
