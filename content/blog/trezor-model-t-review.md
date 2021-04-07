@@ -87,7 +87,9 @@ Shelf life of the battery is greatly increased so you won't need to worry about 
 
 Yes, the latest version of Trezor firmware supports iPhone. You can use it with iOS 11 without jailbreak and unlock requirements - but be warned that you are exposing your PIN to an untrusted device! This is why we recommend our users enter their password on MacOS or Windows first (then copy-paste) into another window where they have connected a USB cable from iPhone . The recommended way would also involve using chrome browser as well for this process !
 
-### Coin Support
+## Coin Support
+
+![trezor-coins-supported](/uploads/trezor-supported-coins.png)
 
 For a complete list of coins that the Trezor Model T supports check out this article from the Trezor homepage:
 
@@ -103,28 +105,36 @@ Yes, you can see how the new Theta protocol is supported on Trezor One and Model
 
 ## Can Trezor hold Cardano?
 
-## Technical specification
+One of the key differences beteween the **Trezor One** and the **Trezor Model T** is that **the Trezor One doesn't** **support Cardano**.  If you are looking to HODL Cardano then you will need to fork out for the Model T at this exact moment in time.  Interestingly, Uniswap will be coming to both the Trezor One and the Trezor Model T "Soon" according to the Trezor website.
 
-Dimension & Weight of the device:
+![](/uploads/supported-coins-tokens-model-t.png)
 
-Size: 64 mm x 39 mm x 10 mm (2.52 in x 1.54 in x 0.39 in)
+## Technical specifications
 
-Weight: 22 g (0.77 oz)
+### Dimension & Weight of the device:
 
-Dimension & Weight of the package:
+### Size: 
+
+64 mm x 39 mm x 10 mm (2.52 in x 1.54 in x 0.39 in)
+
+### Weight: 
+
+22 g (0.77 oz)
+
+### Dimension & Weight of the package:
 
 Size: 64 mm x 39 mm x 10 mm (2.52 in x 1.54 in x 0.39 in)
 
 Weight: 96 g (3.39 oz)
 
-Operating temperature
+### Operating temperature
 
 \-20°C to +60°C (-4°F - +140°F)
 
-Connectivity
+### Connectivity
 
 USB-C connector for connecting to the computer or mobile phone.
 
-CPU
+### CPU
 
 168 MHz embedded ARM processor (Cortex-M4) running a custom developed system, the Trezor Core.
