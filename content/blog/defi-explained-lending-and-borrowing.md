@@ -48,9 +48,11 @@ While cryptocurrency loans are still a new concept, more people are turning to t
 
 The lenders are those who provide loans to the borrowers through decentralised finance platforms. Some of these loan providers, often called centralised financing platforms (CeFi), help provide such funding.
 
-There are many advantages to decentralised finance. Here’s a few:
+There are many advantages to decentralised finance. 
 
-Decentralisation means there is no need for any type of middlemen such as lenders, borrowers, and credit checks when you lend out your crypto.
+Here’s a few:
+
+**Decentralisation** means there is no need for any type of middlemen such as lenders, borrowers, and credit checks when you lend out your crypto.
 
 Instead, peer lending connects lenders with borrowers directly through the application. This removes the need to use fiat money for loans and instead uses cryptocurrency to facilitate transactions without slowing down processing times
 
@@ -62,7 +64,9 @@ If you’ve been looking for a new way to diversify your investments, decentrali
 
 Cryptocurrency lending platforms have seen a meteoric rise and spike in the past year. As an investor, you might not be sure of what to make of this new type of "decentralised finance" method - but you know that these are high-risk investment ventures.
 
-You may find yourself asking questions such as: What is decentralised finance? How do I lend my money to crypto lenders? Can you trust them so much that I don’t need to take precautions with my own wallet for security purposes? Let’s examine some well-known crypto lending platforms:
+You may find yourself asking questions such as: What is decentralised finance? How do I lend my money to crypto lenders? Can you trust them so much that I don’t need to take precautions with my own wallet for security purposes? 
+
+Let’s examine some well-known crypto lending platforms:
 
 ## Aave
 
