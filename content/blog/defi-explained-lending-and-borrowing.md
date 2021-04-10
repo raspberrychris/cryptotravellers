@@ -64,7 +64,7 @@ Cryptocurrency lending platforms have seen a meteoric rise and spike in the past
 
 You may find yourself asking questions such as: What is decentralised finance? How do I lend my money to crypto lenders? Can you trust them so much that I don’t need to take precautions with my own wallet for security purposes? Let’s examine some well-known crypto lending platforms:
 
-## AAVE
+## Aave
 
 The name Aave comes from the Finnish word for "ghost" and is a lending protocol on the Ethereum blockchain, a decentralised network.
 
