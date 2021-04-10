@@ -3,14 +3,14 @@ author = "Luna Sanchez"
 categories = ["Guide", "Defi"]
 date = 2021-04-09T23:00:00Z
 description = ""
-image = ""
+image = "/uploads/defi-explained-borrowing-lendingpng.png"
 tags = ["Guide", "Defi"]
 title = "Defi Explained: Lending and Borrowing"
 toc = true
 url = "defi-explained"
 
 +++
-## What is Decentralised Finance?
+## What is Decentralised Finance? (DeFi)
 
 > "Decentralised finance" or "DeFi," is made up of any number of services in the crypto/blockchain world that aim to disrupt traditional financial intermediaries like banks, hedge funds, and credit card companies.
 
