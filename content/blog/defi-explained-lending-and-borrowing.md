@@ -104,8 +104,6 @@ The rising gas fees on the Ethereum blockchain may make investing in decentralis
 
 ## Nexo
 
-## What is Nexo?
-
 [Nexo](https://nexo.io/) is a sustainable and scalable crypto finance company that offers instant loans worldwide, regardless of the user's credit rating or history. Nexo is probably one of the most well known CeFi cryptolending platforms around. Nexo offers a service that allows you to act as both a lender and a borrower.
 
 Many people have found that traditional savings accounts are not as rewarding as they’d like. With Nexo, you can earn up to 8% interest on the currencies and premium stablecoins we support.
@@ -125,8 +123,6 @@ In addition, Nexo also offers an integrated payment card that allows investors t
 BlockFi is a peer-to-peer credit marketplace that supports the following coins: Bitcoin, Litecoin, Ethereum and Chainlink. Like other platforms, BlockFi charges an interest rate on known balances for compound interest. BlockFi also charges a withdrawal fee which is deducted from all withdrawals made on the platform.
 
 ## Celsius network
-
-## What is Celsius Network?
 
 While [Celsius](https://celsius.network/) has not officially started offering its services in the United States, it created a dedicated network of investors centred around leveraging digital assets. Because of this? It was able to scale up quickly and attract more investors than anyone anticipated.
 
