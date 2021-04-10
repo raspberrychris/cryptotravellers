@@ -37,7 +37,7 @@ The beauty of decentralised finance is that it's scalable and can be applied to 
 
 It will take some years for these concepts go from theory into practice but what many people don't realise yet about decentralisation technology behind lending/borrowing platforms like Lendoit (lending) & ETHLoan ​(loans), there isn'​t anything stopping them being used today even though they may not provide any loans out at present! All one needs do when looking around their local city streets would tell you that there are plenty of people looking to borrow money and more so, those who would be willing provide it.
 
-The decentralisation technology behind these platforms means they can operate without any need for a central authority or intermediary. So what is the role played by Lendoit (lending) & ETHLoan ​(loans)? Well in this case rather than being lenders themselves on their own platform like traditional banks do nowadays - which allows them too charge fees as high rates depending upon how much risk each borrower poses- both services act instead an algorithmically matched "​marketplace" where borrowers connect with potential investors when making lending requests through smart contracts set up between lender/borrower parties...and because no one side controls either service' funds - borrowers don't need to worry about a lender taking their money and running, or trying something fishy like changing the terms of repayment at whim.
+The decentralisation technology behind these platforms means they can operate without any need for a central authority or intermediary. So what is the role played by Lendoit (lending) & ETHLoan ​(loans)? Well in this case rather than being lenders themselves on their own platform like traditional banks do nowadays - which allows them too charge fees as high rates depending upon how much risk each borrower poses- both services act instead an algorithmically matched "​marketplace" where borrowers connect with potential investors when making lending requests through smart contracts set up between lender/borrower parties...and because no one side controls either service funds - borrowers don't need to worry about a lender taking their money and running, or trying something fishy like changing the terms of repayment at whim.
 
 ## What is crypto lending?
 
@@ -49,13 +49,11 @@ The lending process for decentralised finance is similar to the traditional bank
 
 What have traditional banking methods got to offer? Poor interest rates and a negative deposit rate no wonder many investors are looking for high-yielding securities in search of passive income.
 
-While cryptocurrency loans are still a new concept, more people are turning to them as an alternative source of income. Borrowers can get their hands on crypto-backed loans without risk while avoiding potential asset exposure.
+While cryptocurrency loans are still a new concept, more people are turning to them as an alternative source of finance. Borrowers can get their hands on crypto-backed loans without risk while avoiding potential asset exposure.
 
 The lenders are those who provide loans to the borrowers through decentralised finance platforms. Some of these loan providers, often called centralised financing platforms (CeFi), help provide such funding.
 
-There are many advantages to decentralised finance. 
-
-Here’s a few:
+### There are many advantages to decentralised finance:
 
 **Decentralisation** means there is no need for any type of middlemen such as lenders, borrowers, and credit checks when you lend out your crypto.
 
@@ -63,15 +61,15 @@ Instead, peer lending connects lenders with borrowers directly through the appli
 
 Because these contracts are decentralised, you don't have to worry about the collateral; it is your responsibility and will be collected automatically.
 
-If you’ve been looking for a new way to diversify your investments, decentralised finance might be the answer.
+> If you’ve been looking for a new way to diversify your investments, decentralised finance might be the answer.
 
 ## The Crypto Lending Ecosystem
 
 Cryptocurrency lending platforms have seen a meteoric rise and spike in the past year. As an investor, you might not be sure of what to make of this new type of "decentralised finance" method - but you know that these are high-risk investment ventures.
 
-You may find yourself asking questions such as: What is decentralised finance? How do I lend my money to crypto lenders? Can you trust them so much that I don’t need to take precautions with my own wallet for security purposes? 
+You may find yourself asking questions such as: What is decentralised finance? How do I lend my money to crypto lenders? Can you trust them so much that I don’t need to take precautions with my own wallet for security purposes?
 
-Let’s examine some well-known crypto lending platforms:
+### Let’s examine some well-known crypto lending platforms:
 
 ## Aave
 
@@ -109,6 +107,8 @@ The rising gas fees on the Ethereum blockchain may make investing in decentralis
 
 ## Nexo
 
+![](/uploads/nexo.png)
+
 [Nexo](https://nexo.io/) is a sustainable and scalable crypto finance company that offers instant loans worldwide, regardless of the user's credit rating or history. Nexo is probably one of the most well known CeFi cryptolending platforms around. Nexo offers a service that allows you to act as both a lender and a borrower.
 
 Many people have found that traditional savings accounts are not as rewarding as they’d like. With Nexo, you can earn up to 8% interest on the currencies and premium stablecoins we support.
@@ -122,6 +122,19 @@ Secondly it supports many major crypto coins such because Bitcoin (BTC), Ethereu
 Thirdly there are no credit checks so if someone doesn't have perfect credits scores then not only will these reasons be comfortable with Nexo but they will also be able to actually take out a loan from their account.
 
 In addition, Nexo also offers an integrated payment card that allows investors to spend the value of their digital assets without having to sell them.
+
+### Top Benefits of Nexo
+
+* Up to **12%** annual interest
+* Unique daily payout
+* $375 million insurance on all custodial assets
+* Add or withdraw funds at any time
+* Interest starting from **5.9%__ APR*
+* $375 million insurance on all custodial assets
+* A minimum of $50 and a maximum of $2 million
+* Automatic loan approval, no credit checks
+* ISO 27001:2013 Compliant
+* Nexo Card: 2% Cashback
 
 ## Block.fi
 
