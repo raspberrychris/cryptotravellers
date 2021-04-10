@@ -68,7 +68,7 @@ You may find yourself asking questions such as: What is decentralised finance? H
 
 The name Aave comes from the Finnish word for "ghost" and is a lending protocol on the Ethereum blockchain, a decentralised network.
 
-[Aave](https://aave.com/) is a decentralized lending and borrowing platform that addresses the issues of affordability, transparency, and security in today’s market.
+[Aave](https://aave.com/) is a decentralised lending and borrowing platform that addresses the issues of affordability, transparency, and security in today’s market.
 
 Lenders earn from ERC20 compliant aTokens at a ratio of 1: 1 to the delivered assets. This means that while lending 36 Dai, they receive 36 aTokens (in this case, 36 aDai).
 
@@ -80,15 +80,15 @@ Compound makes 10% of the interest paid as your reserves; everything else is sha
 
 ## Yearn.finance
 
-The [Yearn Finance](https://yearn.finance/) platform communicates with several other decentralized financial protocols on the Ethereum blockchain, aiming to maximize investor returns. It can be described as an AI advisor for unsecured-backed digital assets which is perfect for folks seeking investors who will loan them their stablecoin at a rate higher than its historic average (preferably around 1% per month).
+The [Yearn Finance](https://yearn.finance/) platform communicates with several other decentralised financial protocols on the Ethereum blockchain, aiming to maximise investor returns. It can be described as an AI advisor for unsecured-backed digital assets which is perfect for folks seeking investors who will loan them their stablecoin at a rate higher than its historic average (preferably around 1% per month).
 
 Yearn’s YFI token has an automatic reward system. There are several products on the platform, such as loans and deposits.
 
-**Earn** is a lending and borrowing platform. "Earn" indicates where the highest interest can be earned by loaning a crypto asset. Earn searches across different lending protocols like Balancer, Aave, Compound to find the best interest rate for users to deposit cash on this decentralized finance app.
+**Earn** is a lending and borrowing platform. "Earn" indicates where the highest interest can be earned by loaning a crypto asset. Earn searches across different lending protocols like Balancer, Aave, Compound to find the best interest rate for users to deposit cash on this decentralised finance app.
 
 **ZAP** - Enables investors to combine and execute different trades with one click on the ZAP-Trade. This eliminates three separate steps required of navigating across the Zap Platform, Yearn.finance, and Curve Finance.
 
-**Vaults** are investment strategies that optimize returns from other decentralized finance projects and operate as passively managed investment funds. They don't come without risks though—the yDAI vault lost $11 million due to a vulnerability on February 5, 2021.
+**Vaults** are investment strategies that optimise returns from other decentralised finance projects and operate as passively managed investment funds. They don't come without risks though—the yDAI vault lost $11 million due to a vulnerability on February 5, 2021.
 
 **YFI Tokens -** The Yearn.Finance platform (YFI) tokens let users earn YFI tokens by placing cryptocurrencies in the trading contracts called the Balancer and Curve DeFi, which run on the YFI platform.
 
@@ -96,7 +96,7 @@ Yearn.finance's features give users a way to automatically earn crypto assets an
 
 ## Top crypto lending platforms in CeFi
 
-The rising gas fees on the Ethereum blockchain may make investing in decentralized finance a less lucrative option than it was once. This makes investing in DeFi for smaller investors not profitable. They could, however, consider CeFi platforms.
+The rising gas fees on the Ethereum blockchain may make investing in decentralised finance a less lucrative option than it was once. This makes investing in DeFi for smaller investors not profitable. They could, however, consider CeFi platforms.
 
 ## Nexo
 
