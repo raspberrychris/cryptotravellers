@@ -92,7 +92,7 @@ Yearn’s YFI token has an automatic reward system. There are several products o
 
 **Earn** is a lending and borrowing platform. "Earn" indicates where the highest interest can be earned by loaning a crypto asset. Earn searches across different lending protocols like Balancer, Aave, Compound to find the best interest rate for users to deposit cash on this decentralised finance app.
 
-**ZAP** - Enables investors to combine and execute different trades with one click on the ZAP-Trade. This eliminates three separate steps required of navigating across the Zap Platform, Yearn.finance, and Curve Finance.
+**ZAP** Enables investors to combine and execute different trades with one click on the ZAP-Trade. This eliminates three separate steps required of navigating across the Zap Platform, Yearn.finance, and Curve Finance.
 
 **Vaults** are investment strategies that optimise returns from other decentralised finance projects and operate as passively managed investment funds. They don't come without risks though—the yDAI vault lost $11 million due to a vulnerability on February 5, 2021.
 
