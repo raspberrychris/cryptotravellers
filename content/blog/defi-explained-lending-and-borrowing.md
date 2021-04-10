@@ -79,6 +79,8 @@ The name Aave comes from the Finnish word for "ghost" and is a lending protocol 
 
 [Aave](https://aave.com/) is a decentralised lending and borrowing platform that addresses the issues of affordability, transparency, and security in today’s market.
 
+[https://youtu.be/WwE3lUq51gQ](https://youtu.be/WwE3lUq51gQ "https://youtu.be/WwE3lUq51gQ")
+
 Lenders earn from ERC20 compliant aTokens at a ratio of 1: 1 to the delivered assets. This means that while lending 36 Dai, they receive 36 aTokens (in this case, 36 aDai).
 
 ## Compound
