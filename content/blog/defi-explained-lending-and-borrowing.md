@@ -9,6 +9,7 @@ title = "Defi Explained: Lending and Borrowing"
 toc = true
 url = "defi-explained"
 [menu.main]
+name = "Defi Explained"
 parent = "Guides"
 weight = 2
 
