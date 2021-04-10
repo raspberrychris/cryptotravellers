@@ -18,6 +18,8 @@ Decentralised finance is not controlled by a single individual or government. Th
 
 ## Ethereum Apps
 
+![](/uploads/ethereum-dapps.png)
+
 Decentralised finance, also known as decentralised applications or [DApps](https://ethereum.org/en/dapps/), are built on top of [Ethereum](https://ethereum.org/en/) the world's second largest cryptocurrency platform and incorporates other complex financial use cases beyond simple transactions like a loan.
 
 ## Redefining the economic environment
@@ -30,7 +32,7 @@ Decentralised finance is still very new territory but it's clear from what has b
 
 The beauty of decentralised finance is that it's scalable and can be applied to a myriad number different industries in the same way we have seen with Bitcoin, [Ethereum](https://ethereum.org/en/) or Ripple - all which are also well worth further investigation if you're interested understanding how this new phenomenon could change everything as time passes by.
 
-It will take some years for these concepts go from theory into practice but what many people don't realise yet about decentralisation technology behind lending/borrowing platforms like Lendoit (lending) & ETHLoan ​(loans), there isn'​t anything stopping them being used today even though they may not provide any loans out at present! All one needs do when looking around their local city streets would tell you that there are plenty of people looking to borrow money and more so, those who would be willing provide it!
+It will take some years for these concepts go from theory into practice but what many people don't realise yet about decentralisation technology behind lending/borrowing platforms like Lendoit (lending) & ETHLoan ​(loans), there isn'​t anything stopping them being used today even though they may not provide any loans out at present! All one needs do when looking around their local city streets would tell you that there are plenty of people looking to borrow money and more so, those who would be willing provide it.
 
 The decentralisation technology behind these platforms means they can operate without any need for a central authority or intermediary. So what is the role played by Lendoit (lending) & ETHLoan ​(loans)? Well in this case rather than being lenders themselves on their own platform like traditional banks do nowadays - which allows them too charge fees as high rates depending upon how much risk each borrower poses- both services act instead an algorithmically matched "​marketplace" where borrowers connect with potential investors when making lending requests through smart contracts set up between lender/borrower parties...and because no one side controls either service' funds - borrowers don't need to worry about a lender taking their money and running, or trying something fishy like changing the terms of repayment at whim.
 
