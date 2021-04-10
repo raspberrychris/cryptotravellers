@@ -60,8 +60,6 @@ If you’ve been looking for a new way to diversify your investments, decentrali
 
 ## The Crypto Lending Ecosystem
 
-## 
-
 Cryptocurrency lending platforms have seen a meteoric rise and spike in the past year. As an investor, you might not be sure of what to make of this new type of "decentralised finance" method - but you know that these are high-risk investment ventures.
 
 You may find yourself asking questions such as: What is decentralised finance? How do I lend my money to crypto lenders? Can you trust them so much that I don’t need to take precautions with my own wallet for security purposes? Let’s examine some well-known crypto lending platforms:
