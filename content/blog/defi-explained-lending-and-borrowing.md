@@ -8,6 +8,9 @@ tags = ["Guide", "Defi"]
 title = "Defi Explained: Lending and Borrowing"
 toc = true
 url = "defi-explained"
+[menu.main]
+parent = "Guides"
+weight = 2
 
 +++
 ## What is Decentralised Finance? (DeFi)
