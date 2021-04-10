@@ -64,7 +64,7 @@ Cryptocurrency lending platforms have seen a meteoric rise and spike in the past
 
 You may find yourself asking questions such as: What is decentralised finance? How do I lend my money to crypto lenders? Can you trust them so much that I don’t need to take precautions with my own wallet for security purposes? Let’s examine some well-known crypto lending platforms:
 
-AAVE
+## AAVE
 
 The name Aave comes from the Finnish word for "ghost" and is a lending protocol on the Ethereum blockchain, a decentralized network.
 
@@ -98,15 +98,15 @@ Yearn.finance's features give users a way to automatically earn crypto assets an
 
 The rising gas fees on the Ethereum blockchain may make investing in decentralized finance a less lucrative option than it was once. This makes investing in DeFi for smaller investors not profitable. They could, however, consider CeFi platforms.
 
-Nexo
+## Nexo
 
-What is Nexo?
+## What is Nexo?
 
 Nexo is a sustainable and scalable crypto finance company that offers instant loans worldwide, regardless of the user's credit rating or history. Nexo is probably one of the most well known CeFi cryptolending platforms around. Nexo offers a service that allows you to act as both a lender and a borrower.
 
 Many people have found that traditional savings accounts are not as rewarding as they’d like. With Nexo, you can earn up to 8% interest on the currencies and premium stablecoins we support.
 
-What are the benefits of Nexo?
+## What are the benefits of Nexo?
 
 Nexo has a number of benefits. Firstly, as mentioned above they offer high interest rates on your investment and you can even act both lender or borrower with the platform to suit whatever needs may arise for yourself in particular circumstances at any given time based upon what is required by Nexo's lending pool that day - which means an individual could also take out loans from their own wallet.
 
@@ -122,7 +122,7 @@ BlockFi is a peer-to-peer credit marketplace that supports the following coins: 
 
 ## Celsius network
 
-What is Celsius Network?
+## What is Celsius Network?
 
 While Celsius has not officially started offering its services in the United States, it created a dedicated network of investors centered around leveraging digital assets. Because of this? It was able to scale up quickly and attract more investors than anyone anticipated.
 
@@ -130,6 +130,6 @@ The Celsius Network, founded in 2017 by Alex Mashinsky, Daniel Leon and Nuke Gol
 
 Celsius is currently working with over 250 large institutional investors. These companies borrow crypto from Celsius on which they pay an interest of 16%.
 
-Final Thoughts
+## Final Thoughts
 
 With the surge of crypto lending companies, decentralized finance is becoming an increasingly popular topic.
