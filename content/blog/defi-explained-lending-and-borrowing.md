@@ -12,13 +12,13 @@ url = "defi-explained"
 +++
 ## What is Decentralised Finance?
 
-"Decentralized finance" or "DeFi," is made up of any number of services in the crypto/blockchain world that aim to disrupt traditional financial intermediaries like banks, hedge funds, and credit card companies.
+> "Decentralised finance" or "DeFi," is made up of any number of services in the crypto/blockchain world that aim to disrupt traditional financial intermediaries like banks, hedge funds, and credit card companies.
 
 Decentralised finance is not controlled by a single individual or government. The idea is to expand the use of blockchain technology from simple value transfers to more complex financial use cases, empowering users to manage their money responsibly.
 
 ## Ethereum Apps
 
-Decentralized finance, also known as decentralized applications or DApps, are built on top of Ethereum the world's second largest cryptocurrency platform and incorporates other complex financial use cases beyond simple transactions like a loan.
+Decentralised finance, also known as decentralised applications or DApps, are built on top of Ethereum the world's second largest cryptocurrency platform and incorporates other complex financial use cases beyond simple transactions like a loan.
 
 ## Redefining the economic environment
 
@@ -124,12 +124,12 @@ BlockFi is a peer-to-peer credit marketplace that supports the following coins: 
 
 ## What is Celsius Network?
 
-While Celsius has not officially started offering its services in the United States, it created a dedicated network of investors centered around leveraging digital assets. Because of this? It was able to scale up quickly and attract more investors than anyone anticipated.
+While Celsius has not officially started offering its services in the United States, it created a dedicated network of investors centred around leveraging digital assets. Because of this? It was able to scale up quickly and attract more investors than anyone anticipated.
 
-The Celsius Network, founded in 2017 by Alex Mashinsky, Daniel Leon and Nuke Goldstein (CTO), utilizes blockchain technology to enable individuals to act as their own banks.
+The Celsius Network, founded in 2017 by Alex Mashinsky, Daniel Leon and Nuke Goldstein (CTO), utilises blockchain technology to enable individuals to act as their own banks.
 
 Celsius is currently working with over 250 large institutional investors. These companies borrow crypto from Celsius on which they pay an interest of 16%.
 
 ## Final Thoughts
 
-With the surge of crypto lending companies, decentralized finance is becoming an increasingly popular topic.
+With the surge of crypto lending companies, decentralised finance is becoming an increasingly popular topic.
