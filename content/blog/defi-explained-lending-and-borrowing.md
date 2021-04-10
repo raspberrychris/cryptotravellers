@@ -73,6 +73,8 @@ You may find yourself asking questions such as: What is decentralised finance? H
 
 ## Aave
 
+![](/uploads/aave-860x481.jpg)
+
 The name Aave comes from the Finnish word for "ghost" and is a lending protocol on the Ethereum blockchain, a decentralised network.
 
 [Aave](https://aave.com/) is a decentralised lending and borrowing platform that addresses the issues of affordability, transparency, and security in today’s market.
@@ -81,11 +83,15 @@ Lenders earn from ERC20 compliant aTokens at a ratio of 1: 1 to the delivered as
 
 ## Compound
 
+![](/uploads/compound-finance-logo.png)
+
 [Compound](https://compound.finance/) is an algorithmic money market protocol on Ethereum that, like Aave, allows you to borrow or lend money and earn interest for providing collateral. The protocols lets the rates of borrowing and lending adjust automatically based on demand.
 
 Compound makes 10% of the interest paid as your reserves; everything else is shared with ALL other lenders in the network.
 
 ## Yearn.finance
+
+![](https://cdn-bjdmd.nitrocdn.com/fCONADGjgxwfxZGPueayaYyGnqhWQgpI/assets/static/optimized/wp-content/uploads/2020/09/a460efbcc8d0515c3b64e975bf996dc8.yearn-1-1024x576.jpg)
 
 The [Yearn Finance](https://yearn.finance/) platform communicates with several other decentralised financial protocols on the Ethereum blockchain, aiming to maximise investor returns. It can be described as an AI advisor for unsecured-backed digital assets which is perfect for folks seeking investors who will loan them their stablecoin at a rate higher than its historic average (preferably around 1% per month).
 
@@ -138,9 +144,13 @@ In addition, Nexo also offers an integrated payment card that allows investors t
 
 ## Block.fi
 
+![](https://masterthecrypto.com/wp-content/uploads/2019/10/BlockFi.jpg)
+
 BlockFi is a peer-to-peer credit marketplace that supports the following coins: Bitcoin, Litecoin, Ethereum and Chainlink. Like other platforms, BlockFi charges an interest rate on known balances for compound interest. BlockFi also charges a withdrawal fee which is deducted from all withdrawals made on the platform.
 
 ## Celsius network
+
+![](https://celsius.network/wp-content/uploads/2021/01/open-graph.png)
 
 While [Celsius](https://celsius.network/) has not officially started offering its services in the United States, it created a dedicated network of investors centred around leveraging digital assets. Because of this? It was able to scale up quickly and attract more investors than anyone anticipated.
 
