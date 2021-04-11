@@ -1,14 +1,14 @@
 +++
-author = ""
-categories = []
-date = ""
+author = "Luna Sanchez"
+categories = ["Earn Bitcoin"]
+date = 2021-04-10T23:00:00Z
 description = ""
 draft = true
 image = ""
-tags = []
-title = "How To Get Free Bitcoins: The Easiest Ways to Earn Bitcoin"
-toc = false
-url = ""
+tags = ["Earn Bitcoin"]
+title = "How To Get Free Bitcoin: The Easiest Ways to Earn Bitcoin"
+toc = true
+url = "how-to-get-free-bitcoin"
 
 +++
 Bitcoin is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created. Buying bitcoin is a great investment for the long-term, but if you're unable to purchase as much bitcoin as you would like, there's just one option: getting all the coins for free.
@@ -36,8 +36,6 @@ Earn Crypto from Learning about Crypto!
 Coinbase earn is an intentivised learning program where you watch videos and then complete a quiz, you will then earn cryptocurrency in return. It is a great way to get started in crypto and learn more about the eco system.
 
 ## Lolli
-
-Earn Crypto from online shopping
 
 ### What is Lolli?
 
