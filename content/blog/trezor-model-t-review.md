@@ -32,6 +32,12 @@ With all these features unfortunately it does mean that the Trezor is not the ch
 
 At the time of writing the price for [Trezor Model T](/link/trezor-model-t) starts at $181 USD on their website trezor.io (In Europe the price is around 178.8 EUR, which makes it one of the more pricier models at this level in the market, but you do get a lot of features and peace of mind that your crypto is safe and secure.
 
+## What does it look like unboxed?
+
+[![](/uploads/trezor-model-t-unboxed.png)](/link/trezor-model-t)
+
+Image via: Blokt.com
+
 ## Is the larger Price Tag worth it?
 
 It is without doubt that Trezor has built a very impressive brand in a short space of time, and the Model T really feels like it is a well thought out product.
