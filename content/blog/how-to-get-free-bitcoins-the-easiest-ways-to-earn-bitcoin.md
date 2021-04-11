@@ -21,11 +21,9 @@ Buying bitcoin is a great investment for the long-term, but if you're unable to 
 
 ### Earn Crypto from Learning about Crypto!
 
-[Coinbase earn](https://www.coinbase.com/earn) is an incentivised learning program where you watch videos and then complete quizes, you in return you earn cryptocurrency. It is a great way to get started in crypto and learn more about the eco system.  Don't expect this to allow you to give up the day job though!
+[Coinbase earn](https://www.coinbase.com/earn) is an incentivised learning program where you watch videos and then complete quizzes, you in return you earn cryptocurrency. It is a great way to get started in crypto and learn more about the eco system.  Don't expect this to allow you to give up the day job though!
 
 ## Lolli
-
-### What is Lolli?
 
 [Lolli is a Chrome extension](https://chrome.google.com/webstore/detail/lolli-earn-bitcoin-when-y/fleenceagaplaefnklabikkmocalkcpo) that provides users with an opportunity to earn real cash back for online shopping. On Lolli, one can find special offers called "loots" which are rewards from brands and retailers in the form of coupons or codes good on their sites (for example 15% off your order). When you click these loops they will open up automatically in the browser, and all you have to do is click "shop now" or install their app.
 
@@ -34,6 +32,8 @@ Buying bitcoin is a great investment for the long-term, but if you're unable to 
 The extension also has a mobile site as well so users don't need an active internet connection in order use it-- they just browse through offers whenever there's time (on your way home from work). There are many other websites like this one that offer similar services such at OneBit which lets people purchase digital products with bitcoin where every transaction fee goes back into more Bitcoin purchasing power- but we'll get onto those later when discussing how easy ways of using cryptocurrency exist without having any knowledge about access.
 
 ### Presearch.io
+
+![](https://www.presearch.io/static/media/Browser_Desktop.8d96ef93.png)
 
 [Presearch.io](https://www.presearch.io/) is a decentralised search engine that allows you to collect PRE tokens by searching.  You could then if you wanted turn this into Bitcoin.  Presearch also allows you to buy advertising space with PRE tokens, which allows you to get an ad over a certain search for staking a certain amount of PRE tokens.
 
@@ -47,7 +47,7 @@ This is probably one of the most passive ways of earning Cryptocurrency on the l
 
 ## Wirex
 
-Wirex also offer a similar card which will give you 1.5% cashback on purchases. It’s easy to get this card and you never have to do anything special. Just shop as usual, where the company will give you 1.5% cash back in Bitcoin (BTC).
+As an alternative to Crypto.com, **Wirex** also offer a similar card which will give you 1.5% cashback on purchases. It’s easy to get this card and you never have to do anything special. Just shop as usual, where the company will give you 1.5% cash back in Bitcoin (BTC).
 
 ## Curve Card - Get £5 from us for signing up
 
