@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Earn Bitcoin"]
 date = 2021-04-10T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-to-get-free-bitcoin.png"
 tags = ["Earn Bitcoin"]
 title = "How To Get Free Bitcoin: The Easiest Ways to Earn Bitcoin"
