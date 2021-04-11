@@ -4,7 +4,7 @@ categories = ["Earn Bitcoin"]
 date = 2021-04-10T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/how-to-get-free-bitcoin.png"
 tags = ["Earn Bitcoin"]
 title = "How To Get Free Bitcoin: The Easiest Ways to Earn Bitcoin"
 toc = true
@@ -17,7 +17,7 @@ url = "how-to-get-free-bitcoin"
 
 ### Earn Crypto from Learning about Crypto!
 
-[Coinbase earn](https://www.coinbase.com/earn) is an intentivised learning program where you watch videos and then complete a quiz, you will then earn cryptocurrency in return. It is a great way to get started in crypto and learn more about the eco system.
+[Coinbase earn](https://www.coinbase.com/earn) is an incentivised learning program where you watch videos and then complete a quiz, you will then earn cryptocurrency in return. It is a great way to get started in crypto and learn more about the eco system.
 
 ## Lolli
 
@@ -35,11 +35,11 @@ The extension also has a mobile site as well so users don't need an active inter
 
 > With Presearch.io you can earn cryptocurrency (Pre Tokens) for simply searching on Presearch rather than Google.
 
-## Crypto.com - Earn 2% for a £300 stake in CRO (which you can instantly turn into Bitcoin).
+## Crypto.com - Earn 2% for a £300 stake in CRO (which you can turn into Bitcoin).
 
-This is probably one of the most passive ways of earning Cryptocurrency on the list. If you have an American Express card you will be familiar with the concept of a cashback card. Crypto.com offers one of the most competitive cards which gives up to 8% cashback.  Click here for our full [Crypto.com Card Review](/crypto-com-review) The card is free and most of the cards on the list are metal and come with perks such as [Free Spotify and Free Netflix](/crypto-card-review) (Depending on how much CRO you are prepared to stake).
+This is probably one of the most passive ways of earning Cryptocurrency on the list. If you have an American Express card you will be familiar with the concept of a cashback card. [Crypto.com](/link/sign-up-crypto-dot-com) offers one of the most competitive cards which gives up to 8% cashback.  Click here for our full [Crypto.com Card Review](/crypto-com-review) The card is free and most of the cards on the list are metal and come with perks such as [Free Spotify and Free Netflix](/link/sign-up-crypto-dot-com) (Depending on how much CRO you are prepared to stake).
 
-> If you are prepared to stake £300 of CRO then you can get the free premium Spotify.
+> If you are prepared to stake £300 of CRO then you can get the [free premium Spotify.](/link/sign-up-crypto-dot-com)
 
 ## Wirex
 
@@ -47,15 +47,13 @@ Wirex also offer a similar card which will give you 1.5% cashback on purchases. 
 
 ## Curve Card - Get £5 from us for signing up.
 
-[http://www.curve.app/join#N9A6AA3D](http://www.curve.app/join#N9A6AA3D "http://www.curve.app/join#N9A6AA3D")
-
 The [Curve card](http://www.curve.app/join#N9A6AA3D) is not technically a crypto card but it has a useful function alongside cryptocards as you can add all your cards into the one curve card.  (With the exception of American Express).
 
 ## Staking Rewards: Crypto.com Ruby Card + Curve Card
 
 > (Earn a combined 3% 'cashback' by stacking the cards).
 
-You can stack the Crypto.com Card and the Curve card to receive a combined 3% back on all your spend. The great thing about this is you don't have to do anything out of the ordinary to earn the crypto apart from applying for the cards and remembering to use them.
+You can stack the [Crypto.com Card](/link/sign-up-crypto-dot-com) and the [Curve card](http://www.curve.app/join#N9A6AA3D) to receive a combined 3% back on all your spend. The great thing about this is you don't have to do anything out of the ordinary to earn the crypto apart from applying for the cards and remembering to use them.
 
 ## **Start Crypto Mining to Earn Bitcoin**
 
