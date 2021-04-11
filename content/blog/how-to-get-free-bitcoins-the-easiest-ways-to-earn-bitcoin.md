@@ -11,6 +11,8 @@ toc = true
 url = "how-to-get-free-bitcoin"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links. {{< /notice >}}
+
 [Bitcoin](/buy-bitcoin) is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created.
 
 As the value of Bitcoin soars it is becoming clear that investment in Bitcoin is one that
