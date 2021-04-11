@@ -25,9 +25,7 @@ url = "how-to-get-free-bitcoin"
 
 [Lolli is a Chrome extension](https://chrome.google.com/webstore/detail/lolli-earn-bitcoin-when-y/fleenceagaplaefnklabikkmocalkcpo) that provides users with an opportunity to earn real cash back for online shopping. On Lolli, one can find special offers called "loots" which are rewards from brands and retailers in the form of coupons or codes good on their sites (for example 15% off your order). When you click these loops they will open up automatically in the browser, and all you have to do is click "shop now" or install their app.
 
-Lolli can be downloaded for free on Google Chrome [here](https://chrome.google.com/webstore/detail/lolli-earn-bitcoin-when-y/fleenceagaplaefnklabikkmocalkcpo).
-
-[https://www.lolli.com/](https://www.lolli.com/ "https://www.lolli.com/")
+> Lolli can be downloaded for free on Google Chrome [here](https://chrome.google.com/webstore/detail/lolli-earn-bitcoin-when-y/fleenceagaplaefnklabikkmocalkcpo).
 
 The extension also has a mobile site as well so users don't need an active internet connection in order use it-- they just browse through offers whenever there's time (on your way home from work). There are many other websites like this one that offer similar services such at OneBit which lets people purchase digital products with bitcoin where every transaction fee goes back into more Bitcoin purchasing power- but we'll get onto those later when discussing how easy ways of using cryptocurrency exist without having any knowledge about access.
 
@@ -35,13 +33,13 @@ The extension also has a mobile site as well so users don't need an active inter
 
 [Presearch.io](https://www.presearch.io/) is building a complete ecosystem to support the PRE token and provide the world with a decentralised search engine that is powered by the community, for the community.
 
-With Presearch.io you can earn cryptocurrency for simply searching on Presearch rather than Google.
+> With Presearch.io you can earn cryptocurrency (Pre Tokens) for simply searching on Presearch rather than Google.
 
 ## Crypto.com - Earn 2% for a £300 stake in CRO (which you can instantly turn into Bitcoin).
 
-This is probably one of the most passive ways of earning Cryptocurrency on the list. If you have an American Express card you will be familiar with the concept of a cashback card. Crypto.com offers one of the most competitive cards which gives up to 8% cashback. The card is free and most of the cards on the list are metal and come with perks such as Free Spotify and Free Netflix (Depending on how much CRO you are prepared to stake).
+This is probably one of the most passive ways of earning Cryptocurrency on the list. If you have an American Express card you will be familiar with the concept of a cashback card. Crypto.com offers one of the most competitive cards which gives up to 8% cashback.  Click here for our full [Crypto.com Card Review](/crypto-com-review) The card is free and most of the cards on the list are metal and come with perks such as [Free Spotify and Free Netflix](/crypto-card-review) (Depending on how much CRO you are prepared to stake).
 
-If you are prepared to stake £300 of CRO then you can get the free premium Spotify.
+> If you are prepared to stake £300 of CRO then you can get the free premium Spotify.
 
 ## Wirex
 
@@ -51,17 +49,17 @@ Wirex also offer a similar card which will give you 1.5% cashback on purchases. 
 
 [http://www.curve.app/join#N9A6AA3D](http://www.curve.app/join#N9A6AA3D "http://www.curve.app/join#N9A6AA3D")
 
-The Curve card is not technically a crypto card but it has a useful function alongside cryptocards as you can add all your cards into the one curve card.
+The [Curve card](http://www.curve.app/join#N9A6AA3D) is not technically a crypto card but it has a useful function alongside cryptocards as you can add all your cards into the one curve card.  (With the exception of American Express).
 
-## Crypto.com Ruby Card + Curve Card
+## Staking Rewards: Crypto.com Ruby Card + Curve Card
 
-(Earn a combined 3% cashback by stacking the cards).
+> (Earn a combined 3% 'cashback' by stacking the cards).
 
-You can stack the Crypto.com Card and the Curve card to receive a combined 3% back on all your spend. The great thing about this is you don't have to do anything out of the ordinary to earn the crypto apart from applying for the cards.
+You can stack the Crypto.com Card and the Curve card to receive a combined 3% back on all your spend. The great thing about this is you don't have to do anything out of the ordinary to earn the crypto apart from applying for the cards and remembering to use them.
 
 ## **Start Crypto Mining to Earn Bitcoin**
 
-There are lots of crypto mining programs available and we have a review of the Nicehash one here.
+There are lots of crypto mining programs available and we recommend [NiceHash](/nice-hash-review) as a good place to start with crypto mining.
 
 ## **Take Surveys to Earn Free Bitcoin**
 
