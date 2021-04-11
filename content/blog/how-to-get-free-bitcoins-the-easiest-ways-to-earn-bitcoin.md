@@ -49,7 +49,11 @@ This is probably one of the most passive ways of earning Cryptocurrency on the l
 
 Wirex also offer a similar card which will give you 1.5% cashback on purchases. It’s easy to get this card and you never have to do anything special. Just shop as usual, where the company will give you 1.5% cash back in Bitcoin (BTC).
 
-## Curve Card - Get £5 from us for signing up.
+## Curve Card - Get £5 from us for signing up
+
+![curve-card](/uploads/blue_icon.png)
+
+Get your [Free Curve Card here](http://www.curve.app/join#N9A6AA3D) with £5 bonus from us for signing up.
 
 The [Curve card](http://www.curve.app/join#N9A6AA3D) is not technically a crypto card but it has a useful function alongside cryptocards as you can add all your cards into the one curve card.  (With the exception of American Express).
 
