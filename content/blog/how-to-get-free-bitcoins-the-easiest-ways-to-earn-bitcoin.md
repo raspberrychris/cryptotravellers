@@ -11,13 +11,17 @@ toc = true
 url = "how-to-get-free-bitcoin"
 
 +++
-[Bitcoin](/buy-bitcoin) is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created. Buying bitcoin is a great investment for the long-term, but if you're unable to purchase as much bitcoin as you would like, there's just one option: getting all the coins for free.
+[Bitcoin](/buy-bitcoin) is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created. 
+
+As the value of Bitcoin soars it is becoming clear that investment in Bitcoin is one that 
+
+Buying bitcoin is a great investment for the long-term, but if you're unable to purchase as much bitcoin as you would like, there's just one option: getting all the coins for free.
 
 ## Coinbase Earn
 
 ### Earn Crypto from Learning about Crypto!
 
-[Coinbase earn](https://www.coinbase.com/earn) is an incentivised learning program where you watch videos and then complete a quiz, you will then earn cryptocurrency in return. It is a great way to get started in crypto and learn more about the eco system.
+[Coinbase earn](https://www.coinbase.com/earn) is an incentivised learning program where you watch videos and then complete quizes, you in return you earn cryptocurrency. It is a great way to get started in crypto and learn more about the eco system.  Don't expect this to allow you to give up the day job though!
 
 ## Lolli
 
@@ -31,7 +35,7 @@ The extension also has a mobile site as well so users don't need an active inter
 
 ### Presearch.io
 
-[Presearch.io](https://www.presearch.io/) is building a complete ecosystem to support the PRE token and provide the world with a decentralised search engine that is powered by the community, for the community.
+[Presearch.io](https://www.presearch.io/) is a decentralised search engine that allows you to collect PRE tokens by searching.  You could then if you wanted turn this into Bitcoin.  Presearch also allows you to buy advertising space with PRE tokens, which allows you to get an ad over a certain search for staking a certain amount of PRE tokens.
 
 > With Presearch.io you can earn cryptocurrency (Pre Tokens) for simply searching on Presearch rather than Google.
 
