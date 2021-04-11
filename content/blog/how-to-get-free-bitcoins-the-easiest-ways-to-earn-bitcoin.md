@@ -11,37 +11,21 @@ toc = true
 url = "how-to-get-free-bitcoin"
 
 +++
-Bitcoin is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created. Buying bitcoin is a great investment for the long-term, but if you're unable to purchase as much bitcoin as you would like, there's just one option: getting all the coins for free.
-
-Here we will discuss how you can get free bitcoins in different ways from playing games, watching videos, and completing surveys.
-
-## Cointiply
-
-Cointiply is a rewards site where you can earn bitcoin just by reading emails, playing games and watching videos. All of the offers on Cointiply are free to do which means that it won't cost anything in order for people visit them with no risk involved whatsoever.
-
-You will be rewarded at different levels depending up how many bitcoins they want give away every hour or day - 100 coins per visitor an hourly basis (or 50 if your referrals sign-up), 1000 coins daily payout limit once reached etc) so there's always opportunities available without any pressures attached! A really cool feature about this website too; its referral program lets users refer their friends earning 25% commission from all referred friend earnings made within 24 hours after starting as a new user.
-
-The referral program is really cool because it's a way to earn bitcoins without this having anything cost money and you're helping others out at the same time by sending them your invitation link which they will need in order for their free bitcoin account! Another great thing about Cointedply that differs from other websites of its type, are all these offers available as soon after registration; 100 coins per hour or day just like with mailers but here there's no risks involved whatsoever so people can sign up right away too - therefore making Cointiply an attractive destination not only due ti earning more Bitcoin quickly (albeit limited) through referrals also many users get started immediately afterwards using Cioreddit playing games/ watching videos or a few other offers that they can choose from.
-
-The following video of the famous YouTuber Daniel Negreanu should give you more insight about how it works:
-
-"In this broadcast, I'm going to show all my viewers not only one but two sites where Bitcoin is being given away for free and these are in return just referrals." (Negronu) It's really easy because as soon after signing up users will be able-to earn 100 coins per hour by inviting their friends who'll need an invitation link which costs nothing at Cointedply so people don't have anything risk whatsoever! In fact there're many invites waiting on offer pages such with games/videos etc making cointiply attractive
+[Bitcoin](/buy-bitcoin) is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created. Buying bitcoin is a great investment for the long-term, but if you're unable to purchase as much bitcoin as you would like, there's just one option: getting all the coins for free.
 
 ## Coinbase Earn
 
-Earn Crypto from Learning about Crypto!
+### Earn Crypto from Learning about Crypto!
 
-[https://www.coinbase.com/earn](https://www.coinbase.com/earn "https://www.coinbase.com/earn")
-
-Coinbase earn is an intentivised learning program where you watch videos and then complete a quiz, you will then earn cryptocurrency in return. It is a great way to get started in crypto and learn more about the eco system.
+[Coinbase earn](https://www.coinbase.com/earn) is an intentivised learning program where you watch videos and then complete a quiz, you will then earn cryptocurrency in return. It is a great way to get started in crypto and learn more about the eco system.
 
 ## Lolli
 
 ### What is Lolli?
 
-Lolli is a browser extension that provides users with an opportunity to earn real cash back for online shopping. On Lollipop, one can find special offers called "loots" which are rewards from brands and retailers in the form of coupons or codes good on their sites (for example 15% off your order). When you click these loops they will open up automatically in the browser, and all you have to do is click "shop now" or install their app.
+[Lolli is a Chrome extension](https://chrome.google.com/webstore/detail/lolli-earn-bitcoin-when-y/fleenceagaplaefnklabikkmocalkcpo) that provides users with an opportunity to earn real cash back for online shopping. On Lolli, one can find special offers called "loots" which are rewards from brands and retailers in the form of coupons or codes good on their sites (for example 15% off your order). When you click these loops they will open up automatically in the browser, and all you have to do is click "shop now" or install their app.
 
-Lolli can be downloaded for free on Google Chrome here.
+Lolli can be downloaded for free on Google Chrome [here](https://chrome.google.com/webstore/detail/lolli-earn-bitcoin-when-y/fleenceagaplaefnklabikkmocalkcpo).
 
 [https://www.lolli.com/](https://www.lolli.com/ "https://www.lolli.com/")
 
@@ -49,9 +33,9 @@ The extension also has a mobile site as well so users don't need an active inter
 
 ### Presearch.io
 
-Presearch is building a complete ecosystem to support the PRE token and provide the world with a decentralized search engine that is powered by the community, for the community.
+[Presearch.io](https://www.presearch.io/) is building a complete ecosystem to support the PRE token and provide the world with a decentralised search engine that is powered by the community, for the community.
 
-Earn cryptocurrency for Searching Presearch (A decentralised search engine).
+With Presearch.io you can earn cryptocurrency for simply searching on Presearch rather than Google.
 
 ## Crypto.com - Earn 2% for a £300 stake in CRO (which you can instantly turn into Bitcoin).
 
