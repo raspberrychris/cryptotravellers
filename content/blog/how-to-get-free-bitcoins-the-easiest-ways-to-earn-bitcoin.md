@@ -11,9 +11,9 @@ toc = true
 url = "how-to-get-free-bitcoin"
 
 +++
-[Bitcoin](/buy-bitcoin) is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created. 
+[Bitcoin](/buy-bitcoin) is a global cryptocurrency. It's decentralised and has no central authority like the Federal Reserve or Bank of England. Bitcoin mining, which involves verifying bitcoin transactions and adding them to the blockchain, is how new bitcoins are created.
 
-As the value of Bitcoin soars it is becoming clear that investment in Bitcoin is one that 
+As the value of Bitcoin soars it is becoming clear that investment in Bitcoin is one that
 
 Buying bitcoin is a great investment for the long-term, but if you're unable to purchase as much bitcoin as you would like, there's just one option: getting all the coins for free.
 
@@ -80,3 +80,5 @@ Time Bucks offers users a number of ways to increase their bitcoin earnings. You
 ## Affiliate Marketing
 
 Affiliate marketing offers another method for the average person and business to earn bitcoins for free online. If you have an online following, you can generate additional income by directing your friends and followers to do business with companies willing to reward you for steering new customers their way. Your followers click on a unique URL the merchant will give you when you join their affiliate or referral program. That URL will track any purchases made by your network and credit your account with the rewards. The commission per sale will differ from merchant to merchant, but if you have a large readership, an affiliate program may provide a sizeable stream of income. A popular Bitcoin affiliate program is the one offered by Coinbase, arguable the biggest exchange for buying and selling Bitcoin in North America. When one of your referrals buys or sells $100 or more of Bitcoin within 180 days of opening an account, you earn the bitcoin equivalent of $10 in Bitcoin. Blockfi also has a great affiliate program, that helps you earn crypto when you refer anyone who opens a new BlockFi Interest Account and funds. The best part? There’s no limit on how many people you can refer. That means that there’s no limit to how fast or how large you can grow your BlockFi personal Interest Account. Feel free to share your referral code to anyone and everyone you meet.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
