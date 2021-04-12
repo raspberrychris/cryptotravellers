@@ -13,7 +13,14 @@ url: buy-cardano
 ---
 ## What is Cardano?
 
-The Cardano project is a blockchain-based platform and cryptocurrency, similar to Ethereum but with many key differences and improved features.  Cardano is a cryptocurrency that can be traded on many popular exchanges. However, it's not as easy to buy Cardano in some countries.
+Cardano is a smart contract platform that has the potential to become one of the most popular cryptocurrencies on earth. It was founded by Charles Hoskinson, who also co-founded Ethereum and BitShares. Cardano’s goal is to create a platform for decentralised applications, which means there are no central authorities controlling transactions or data storage.
+
+This article will give you step-by-step instructions on how to purchase Cardano (ADA) so that you can start investing in it today!
+
+* Step 1 : get a Cardano wallet
+* Step 2 : buy some Cardano
+* Step 3 : find your public address
+* Step 4 : send your Cardano to your wallet.
 
 > Cardano is a blockchain platform for changemakers, innovators, and visionaries, with the tools and technologies required to create possibility for the many, as well as the few, and bring about positive global change.
 
@@ -29,8 +36,24 @@ Daedalus is a secure crypto wallet for the ADA cryptocurrency.  Daedalus is a do
 
 ## What are the features of the Daedalus Wallet?
 
-According to the 
+* Trustless Security
+* Supports all desktop platforms
+* Unlimited wallets 
+* Keep funds organised
+* Personalisation with themes
+* Crypto news feed
 
-What is Proof of Stake?
+## Where to buy Cardano (ADA)?
 
-## ADA - The cryptocurrency of Cardano
+Ususally to buy Cardano, you will have to purchase some BTC or ETH with your local currency first and then excahnge these for Cardano (ADA).  You can do this at the following exchanges:
+
+* Binance
+* Coinbase Pro
+* Bittrex 
+* HitBTC
+* Huobi
+* Gate.io
+
+Some exchanges like Coinbase allow you to buy Cardano with your local currency.
+
+## Find your public Cardano (ADA) address
