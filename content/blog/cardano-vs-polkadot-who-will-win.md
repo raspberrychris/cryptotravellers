@@ -1,14 +1,14 @@
 +++
-author = ""
-categories = []
-date = ""
+author = "Luna Sanchez"
+categories = ["Vs."]
+date = 2021-04-12T23:00:00Z
 description = ""
 draft = true
 image = ""
-tags = []
+tags = ["Polkadot", "Cardano"]
 title = "Cardano Vs Polkadot: Who Will Win?"
-toc = false
-url = ""
+toc = true
+url = "cardano-vs-polkadot"
 
 +++
 ## Cardano Vs Polkadot: Which is better?
@@ -45,7 +45,9 @@ Gavin served as Ethereum's Chief Technology Officer, where he had a hand in crea
 
 Charles Hoskinson is the founder of Cardano he is a mathematician, Charles is also the founder of Input Output Hong Kong or IOHK for short which is a for-profit software development company based in Hong Kong.  Charles left Ethereum in June 2014, 13 months before the Ethereum Main Net went live, apparently for disagreement with Vitalik about accepting venture capital funding. 
 
-Cardano is peer-reviewed by some of the smartest people in the world before being tested and implemented as far as technology goes Cardano and Polkadot are both proof-of-stake blockchains that said they have notably different architectures which again seems inspired by the personalities and experiences of their founders given that Polkadot was invented to "Deliver on the promises Ethereum could not" Polkadot is eerily similar to Ethereum 2.0 Polkadot uses an elaborate hybrid consensus mechanism called Grandpa/Babe which allows the network to process around 1,000 transactions per second Gavin has noted that Polkadot has a theoretical upper limit of 1 million transactions per second with power chains and multi-threading polka dot is essentially an ecosystem of blockchains called parachains that are connected to Polkadot's core blockchain
+Cardano is peer-reviewed before being tested and implemented as far as technology goes Cardano and Polkadot are both proof-of-stake blockchains that said they have notably different architectures which again seems inspired by the personalities and experiences of their founders given that Polkadot was invented to 
+
+"Deliver on the promises Ethereum could not" Polkadot is eerily similar to Ethereum 2.0 Polkadot uses an elaborate hybrid consensus mechanism called [Grandpa/Babe](https://wiki.polkadot.network/docs/en/learn-consensus) which allows the network to process around 1,000 transactions per second Gavin has noted that Polkadot has a theoretical upper limit of 1 million transactions per second with power chains and multi-threading polka dot is essentially an ecosystem of blockchains called parachains that are connected to Polkadot's core blockchain
 
 called the relay chain these power chains will host all the smart contracts and DApps in Polkadot's ecosystem and there will be an initial limit of 100 power chains unfortunately it's not yet clear whether these parachains will be interoperable at the outset which is going to be a key factor in the adoption of polka dot once these parachains start to go live later this year.
 
