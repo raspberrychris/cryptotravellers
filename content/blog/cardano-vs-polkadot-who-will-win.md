@@ -13,11 +13,11 @@ url = "cardano-vs-polkadot"
 +++
 ## Cardano Vs Polkadot: Which is better?
 
-Cardano and Polkadot are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security. They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how Cardano and Polkadot can be seen as partners rather than competitors.
+Cardano and Polkadot are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security.  They are both 3rd generation cryptocurrencies.  They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how Cardano and Polkadot can be seen as partners rather than competitors.
 
 ## But which is the ETH Killer?
 
-Both Cardano and Polkadot are now on the verge of releasing major updates to their networks. The competition from these two projects has generated many questions about which one is most likely to succeed in becoming the next hotbed for smart contracts and decentralised cryptocurrency applications. Today I will be comparing Cardano and Polkadot, and reveal which project I think has best chance of doing so.
+Both **Cardano** and **Polkadot** are now on the verge of releasing major updates to their networks. The competition from these two projects has generated many questions about which one is most likely to succeed in becoming the next popular platform for smart contracts and decentralised cryptocurrency applications.
 
 ## Is 2021 going to be the year of smart contract blockchains?
 
@@ -45,9 +45,11 @@ Gavin served as Ethereum's Chief Technology Officer, where he had a hand in crea
 
 Charles Hoskinson is the founder of Cardano he is a mathematician, Charles is also the founder of Input Output Hong Kong or IOHK for short which is a for-profit software development company based in Hong Kong.  Charles left Ethereum in June 2014, 13 months before the Ethereum Main Net went live, apparently for disagreement with Vitalik about accepting venture capital funding. 
 
-Cardano is peer-reviewed before being tested and implemented as far as technology goes Cardano and Polkadot are both proof-of-stake blockchains that said they have notably different architectures which again seems inspired by the personalities and experiences of their founders given that Polkadot was invented to 
+Cardano is peer-reviewed before being tested and implemented as far as technology goes Cardano and Polkadot are both proof-of-stake blockchains that said they have notably different architectures which again seems inspired by the personalities and experiences of their founders given that Polkadot was invented to "Deliver on the promises Ethereum could not" 
 
-"Deliver on the promises Ethereum could not" Polkadot is eerily similar to Ethereum 2.0 Polkadot uses an elaborate hybrid consensus mechanism called [Grandpa/Babe](https://wiki.polkadot.network/docs/en/learn-consensus) which allows the network to process around 1,000 transactions per second Gavin has noted that Polkadot has a theoretical upper limit of 1 million transactions per second with power chains and multi-threading polka dot is essentially an ecosystem of blockchains called parachains that are connected to Polkadot's core blockchain
+## Polkadot similarities to Ethereum 2.0
+
+Polkadot is eerily similar to Ethereum 2.0 Polkadot uses an elaborate hybrid consensus mechanism called [Grandpa/Babe](https://wiki.polkadot.network/docs/en/learn-consensus) which allows the network to process around 1,000 transactions per second Gavin has noted that Polkadot has a theoretical upper limit of 1 million transactions per second with power chains and multi-threading polka dot is essentially an ecosystem of blockchains called parachains that are connected to Polkadot's core blockchain
 
 called the relay chain these power chains will host all the smart contracts and DApps in Polkadot's ecosystem and there will be an initial limit of 100 power chains unfortunately it's not yet clear whether these parachains will be interoperable at the outset which is going to be a key factor in the adoption of polka dot once these parachains start to go live later this year.
 
@@ -61,6 +63,6 @@ The most obvious difference between Cardano and Polkadot in this regard is the d
 
 ## Wallets
 
-There are nearly 300 000 cardano wallets at the time of writing but AdaStat and Pieter Nierop believes there could be 1,000,000 wallets created in 2021.
+There are nearly 300,000 Cardano wallets at the time of writing but AdaStat and Pieter Nierop believes there could be 1,000,000 wallets created in 2021.
 
 When you compare this to just under 110,000 Polkadot wallets, this seems like Cardano has the edge, except for the fact that Cardano has been around since 2017.
