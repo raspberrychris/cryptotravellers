@@ -23,7 +23,7 @@ Both [**Cardano**](/buy-cardano) and **Polkadot** are now on the verge of releas
 
 [Cardano](/buy-cardano) and Polkadot are two juggernauts that have seen an unprecedented amount of development and adoption over the past year and they are very close to each other in the market cap rankings. Polkadot and [Cardano](/buy-cardano) are also close to releasing major updates to their networks - begging the question will either of these two titans be a match for Ethereum?
 
-## Cardano versus Polkadot - Which is better?
+## Cardano vs Polkadot - Which is actually better?
 
 You will hear this question a lot! This question is difficult to answer though, as there are many factors that go into the success of any blockchain. For example, [Cardano](/buy-cardano) has a strong research and development team while Polkadot does not have the same level of R&D (at least at the time of writing). In addition they both focus on smart contracts but in different ways - [Cardano](/buy-cardano) uses its own programming language called [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), which allows for more security than Ethereum's [Solidity](https://en.wikipedia.org/wiki/Solidity), whereas Polkadot uses [Web Assembly](https://en.wikipedia.org/wiki/WebAssembly) - an emerging standard used by most browsers today rather then something specific like EDCCs or Tendermint consensus algorithms.
 
@@ -49,17 +49,32 @@ Cardano is peer-reviewed before being tested and implemented as far as technolog
 
 ## Polkadot similarities to Ethereum 2.0
 
+![](/uploads/polkadot-new-dot-logo.png)
+
 Polkadot is eerily similar to Ethereum 2.0 Polkadot uses an elaborate hybrid consensus mechanism called [Grandpa/Babe](https://wiki.polkadot.network/docs/en/learn-consensus) which allows the network to process around 1,000 transactions per second Gavin has noted that Polkadot has a theoretical upper limit of 1 million transactions per second with power chains and multi-threading polka dot is essentially an ecosystem of blockchains called parachains that are connected to Polkadot's core blockchain
 
 called the relay chain these power chains will host all the smart contracts and DApps in Polkadot's ecosystem and there will be an initial limit of 100 power chains unfortunately it's not yet clear whether these parachains will be interoperable at the outset which is going to be a key factor in the adoption of polka dot once these parachains start to go live later this year.
 
-In contrast to Polkadot, Cardano has a more original design the Cardano blockchain has two layers the Cardano settlement layer which keeps track of token balances and transfers and the Cardano computation layer which runs all the smart contracts Cardano uses a consensus mechanism called Ouroborus proof of stake which allows the network to process a few hundred transactions per second however once the hydra scaling solution is implemented Cardano will be able to process 1,000 transactions per second for every validator that's connected to the network now this means that Cardano would need 1000 validators to match the speed of polka dot in its final form on that note Cardano still has a way to go before you can call it a finished product we are only at stage two of five in Cardano's development roadmap with the remaining stages set to occur in the next year or two the next stage Gogen is set to go live in march of this year and will enable smart contracts on Cardano you can learn more about this by watching my recent video on Cardano
+In contrast to Polkadot, Cardano has a more original design the Cardano blockchain has two layers the Cardano settlement layer which keeps track of token balances and transfers and the Cardano computation layer which runs all the smart contracts Cardano uses a consensus mechanism called [Ouroborus](https://cardano.org/ouroboros/) proof of stake which allows the network to process a few hundred transactions per second however once the hydra scaling solution is implemented Cardano will be able to process 1,000 transactions per second for every validator that's connected to the network now this means that Cardano would need 1000 validators to match the speed of polka dot in its final form on that note Cardano still has a way to go before you can call it a finished product we are only at stage two of five in Cardano's development roadmap with the remaining stages set to occur in the next year or two the next stage [Goguen](https://roadmap.cardano.org/en/goguen/) is set to go live in march of this year and will enable smart contracts on Cardano you can learn more about this by watching my recent video on Cardano
 
-Staking on Cardano and Polkadot is where things really start to get interesting starting with Cardano there are currently over 1500 validators that are collectively staking over 70 percent of all ada in circulation delegation can be done directly from the Daedalus wallet and offers a decent return.
+Staking on Cardano and Polkadot is where things really start to get interesting starting with Cardano there are currently over 1500 validators that are collectively staking over 70 percent of all ADA in circulation delegation can be done directly from the [Daedalus wallet](https://daedaluswallet.io/) and offers a decent return.
 
 ## Token Supply
 
 The most obvious difference between Cardano and Polkadot in this regard is the difference in their token supply ADA has a current supply of around 31.8 billion with a maximum supply of 45 billion DOT has a current supply of 960 million and an initial supply of 1 billion logically the larger the supply the lower the value of the coin
+
+### Polkadot
+
+* Total initial supply: 10 million
+* Supply in circulation: 908 million
+* Total planned inflation: Unlimited
+* Maximum token supply: Unlimited.
+
+### Cardano
+
+* Supply in circulation: 31 billion.
+* Total expected inflation: 14 billion.
+* Maximum token supply: 45 billion.
 
 ## Wallets
 
