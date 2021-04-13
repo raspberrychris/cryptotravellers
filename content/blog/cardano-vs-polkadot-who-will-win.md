@@ -12,6 +12,8 @@ url = "cardano-vs-polkadot"
 +++
 ## Cardano Vs Polkadot: Which is better?
 
+![](/uploads/cardano-vs-polka.png)
+
 [Cardano](https://cardano.org/) and [Polkadot](https://polkadot.network/) are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security.  They are both 3rd generation [PoS](https://en.wikipedia.org/wiki/Proof_of_stake#:\~:text=Proof%20of%20stake%20(PoS)%20is,(i.e.%2C%20the%20stake).) cryptocurrencies.  They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how [Cardano](/buy-cardano) and Polkadot can be seen as partners rather than competitors.
 
 ## But which is the ETH Killer?
