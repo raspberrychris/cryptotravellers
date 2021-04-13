@@ -71,12 +71,138 @@ When you compare this to just under 110,000 Polkadot wallets, this seems like Ca
 
 ### Polkadot
 
-Polkadot Whitepaper: [https://polkadot.network/PolkaDotPaper.pdf](https://polkadot.network/PolkaDotPaper.pdf) 
+* Polkadot Whitepaper: [https://polkadot.network/PolkaDotPaper.pdf](https://polkadot.network/PolkaDotPaper.pdf) 
 
-Polkadot Community: [https://polkadot.network/community/](https://polkadot.network/community/)
+
+* Polkadot Community: [https://polkadot.network/community/](https://polkadot.network/community/)
+
+
+* [**Polkadot Website/Timeline**](https://polkadot.network/timeline)
+* [**Polkadot Reddit (r/dot)**](https://www.reddit.com/r/dot)
+* [**Polkadot Github**](https://github.com/w3f/Web3-wiki/wiki/Polkadot)
+* [**Polkadot Medium**](https://medium.com/@polkadotnetwork)
+* [**Polkadot FAQ**](https://polkadot.network/faq)
 
 ### Cardano
 
-Why Cardano: [https://why.cardano.org/en/introduction/motivation/](https://why.cardano.org/en/introduction/motivation/ "https://why.cardano.org/en/introduction/motivation/")
+* Why Cardano: [https://why.cardano.org/en/introduction/motivation/](https://why.cardano.org/en/introduction/motivation/ "https://why.cardano.org/en/introduction/motivation/")
+* Cardano Video Overview: [https://youtu.be/Ja9D0kpksxw](https://youtu.be/Ja9D0kpksxw "https://youtu.be/Ja9D0kpksxw")
 
-Cardano Video Overview: [https://youtu.be/Ja9D0kpksxw](https://youtu.be/Ja9D0kpksxw "https://youtu.be/Ja9D0kpksxw")
+### Stake Pool Comparison Sites
+
+* PoolTool [https://pooltool.io/](https://pooltool.io/ "https://pooltool.io/")
+* Adapools [https://adapools.org/](https://pooltool.io/ "https://pooltool.io/")
+* ADAex [https://adaex.org/](https://pooltool.io/ "https://pooltool.io/")
+* Cardanoscan [https://cardanoscan.io/](https://pooltool.io/ "https://pooltool.io/")
+* AdaTools [https://adatools.io/](https://pooltool.io/ "https://pooltool.io/")
+* Pool.pm [https://pool.pm/](https://pooltool.io/ "https://pooltool.io/")
+* PoolStats [https://poolstats.org/](https://pooltool.io/ "https://pooltool.io/")
+* PoolPeek [https://poolpeek.com/](https://pooltool.io/ "https://pooltool.io/")
+
+### Governance
+
+### Project Catalyst
+
+* Ideascale [https://cardano.ideascale.com/](https://pooltool.io/ "https://pooltool.io/")
+* Daedalus Catalyst [https://daedaluswallet.io/en/catalyst/](https://pooltool.io/ "https://pooltool.io/")
+
+### Main Websites
+
+* Cardano [https://cardano.org/](https://pooltool.io/ "https://pooltool.io/")
+* Cardano Foundation [https://cardanofoundation.org/](https://pooltool.io/ "https://pooltool.io/")
+* Input Output [https://iohk.io/](https://pooltool.io/ "https://pooltool.io/")
+* Emurgo [https://emurgo.io/](https://pooltool.io/ "https://pooltool.io/")
+
+### Development
+
+* Developers.Cardano [https://developers.cardano.org/](https://pooltool.io/ "https://pooltool.io/")
+* Cardano Updates [https://github.com/input-output-hk](https://pooltool.io/ "https://pooltool.io/")
+* Documentation [https://docs.cardano.org/en/latest/](https://pooltool.io/ "https://pooltool.io/")
+* Improvement Proposals [https://github.com/cardano-foundation/CIPs](https://pooltool.io/ "https://pooltool.io/")
+
+### Research
+
+* Why Cardano? [https://why.cardano.org/](https://pooltool.io/ "https://pooltool.io/")
+* Research Papers Library [https://iohk.io/en/research/library/](https://pooltool.io/ "https://pooltool.io/")
+
+### Github Repositories
+
+* [https://github.com/cardano-foundation](https://pooltool.io/ "https://pooltool.io/")
+* [https://github.com/input-output-hk](https://pooltool.io/ "https://pooltool.io/")
+* [https://github.com/Emurgo](https://pooltool.io/ "https://pooltool.io/")
+
+### Playgrounds
+
+* Marlowe [https://alpha.marlowe.iohkdev.io/#/simulation](https://pooltool.io/ "https://pooltool.io/")
+* Plutus [https://prod.playground.plutus.iohkdev.io/](https://pooltool.io/ "https://pooltool.io/")
+
+### AMA Search
+
+* ADAtainment [https://www.adatainment.com/index.php?page=home&lang=en](https://pooltool.io/ "https://pooltool.io/")
+
+### Technical Support
+
+* IOHK ZenDesk: [https://iohk.zendesk.com/hc/en-us](https://pooltool.io/ "https://pooltool.io/")
+* EMURGO (Yoroi): [https://yoroi-wallet.com/#/support](https://pooltool.io/ "https://pooltool.io/")
+* Cardano Community FAQ [https://cardano-community.github.io/support-faq/#/](https://pooltool.io/ "https://pooltool.io/")
+
+### Exchanges that list Cardano
+
+* Bequant [https://bequant.io/](https://bequant.io/ "https://bequant.io/")
+* Bidesk [https://www.bidesk.com/](https://www.bidesk.com/ "https://www.bidesk.com/") 
+* Binance [https://www.binance.com/en](https://www.binance.com/en "https://www.binance.com/en")
+* Bitbns [https://bitbns.com/](https://bitbns.com/ "https://bitbns.com/")
+* Bitfinex [https://www.bitfinex.com/](https://www.bitfinex.com/ "https://www.bitfinex.com/")
+* Bithumb [https://www.bithumb.com/](https://www.bithumb.com/ "https://www.bithumb.com/")
+* Bitmax [https://btmx.io/](https://btmx.io/ "https://btmx.io/")
+* Bitpanda [https://www.bitpanda.com/en](https://www.bitpanda.com/en "https://www.bitpanda.com/en")
+* Bitrue [https://www.bitrue.com/](https://www.bitrue.com/ "https://www.bitrue.com/")
+* Bittrex [https://global.bittrex.com/](https://global.bittrex.com/ "https://global.bittrex.com/")
+* Bitvavo [https://bitvavo.com/en](https://bitvavo.com/en "https://bitvavo.com/en")
+* BKEX [https://www.bkex.com/](https://www.bkex.com/ "https://www.bkex.com/")
+* BW.com [https://www.bw.com/](https://www.bw.com/ "https://www.bw.com/")
+* CEX.io [https://cex.io/](https://cex.io/ "https://cex.io/")
+* ChangeNow [https://changenow.io/](https://changenow.io/ "https://changenow.io/")
+* Coinbase [https://coinbase.com/](https://coinbase.com/ "https://coinbase.com/")
+* Coinbase Pro [https://pro.coinbase.com/](https://pro.coinbase.com/ "https://pro.coinbase.com/")
+* CoinDCX [https://coindcx.com/](https://coindcx.com/ "https://coindcx.com/")
+* Coindeal [https://coindeal.com/](https://coindeal.com/ "https://coindeal.com/")
+* CoinEx [https://www.coinex.com/](https://www.coinex.com/ "https://www.coinex.com/")
+* Coinfalcon [https://coinfalcon.com/en/](https://coinfalcon.com/en/ "https://coinfalcon.com/en/")
+* Coinmama [https://www.coinmama.com/](https://www.coinmama.com/ "https://www.coinmama.com/") 
+* Coinsmart [https://www.coinsmart.com](https://www.coinsmart.com "https://www.coinsmart.com")
+* CoinTiger [https://www.cointiger.com/en-us/#/index](https://www.cointiger.com/en-us/#/index "https://www.cointiger.com/en-us/#/index")
+* CROSS [https://www.crossexchange.io/cross/home](https://www.crossexchange.io/cross/home "https://www.crossexchange.io/cross/home")
+* Crypto.com [https://crypto.com/en/index.html](https://crypto.com/en/index.html "https://crypto.com/en/index.html")
+* DCoin [https://www.dcoin.com/](https://www.dcoin.com/ "https://www.dcoin.com/")
+* Dex-Trad [https://dex-trade.com/](https://dex-trade.com/ "https://dex-trade.com/")
+* DragonEx [https://dragonex.io/](https://dragonex.io/ "https://dragonex.io/")
+* ETORO [https://www.etoro.com/](https://www.etoro.com/ "https://www.etoro.com/") 
+* EXMO [https://exmo.com/en](https://exmo.com/en "https://exmo.com/en")
+* Gate.io [https://www.gate.io/](https://www.gate.io/ "https://www.gate.io/")
+* HBTC [https://www.hbtc.com/](https://www.hbtc.com/ "https://www.hbtc.com/")
+* HitBTC [https://hitbtc.com/](https://hitbtc.com/ "https://hitbtc.com/")
+* Huobi [https://www.huobi.com/](https://www.huobi.com/ "https://www.huobi.com/")
+* Indodax [https://indodax.com/en/](https://indodax.com/en/ "https://indodax.com/en/")
+* Kraken [https://www.kraken.com/](https://www.kraken.com/ "https://www.kraken.com/")
+* Kucoin [https://www.kucoin.com/](https://www.kucoin.com/ "https://www.kucoin.com/")
+* LATOKEN [https://latoken.com/](https://latoken.com/ "https://latoken.com/")
+* Litebit.eu [https://www.litebit.eu/en](https://www.litebit.eu/en "https://www.litebit.eu/en")
+* MXC [https://www.mxc.com/](https://www.mxc.com/ "https://www.mxc.com/")
+* NDAX [https://ndax.io/](https://ndax.io/ "https://ndax.io/")
+* NovaDAX [https://www.novadax.com.br/](https://www.novadax.com.br/ "https://www.novadax.com.br/")
+* OceanEx [https://oceanex.pro/](https://oceanex.pro/ "https://oceanex.pro/")
+* OKex [https://www.okex.com/en](https://www.okex.com/en "https://www.okex.com/en")
+* Paribu [https://www.paribu.com/](https://www.paribu.com/ "https://www.paribu.com/")
+* Satang [https://satang.com/](https://satang.com/ "https://satang.com/")
+* Upbit [https://upbit.com/](https://upbit.com/ "https://upbit.com/")
+* VCC Exchange [https://vcc.exchange/](https://vcc.exchange/) 
+* ZB.com [https://www.zb.com/en/](https://www.zb.com/en/ "https://www.zb.com/en/")
+* ZBG [https://zbg.com/](https://zbg.com/ "https://zbg.com/")
+
+### YouTube Channels
+
+* Charles Hoskinson [https://www.youtube.com/c/charleshoskinsoncrypto/videos](https://www.youtube.com/c/charleshoskinsoncrypto/videos "https://www.youtube.com/c/charleshoskinsoncrypto/videos")
+* Cardano Foundation: [https://www.youtube.com/c/cardanofoundation](https://www.youtube.com/c/cardanofoundation "https://www.youtube.com/c/cardanofoundation")
+* EMURGO: [https://www.youtube.com/c/EMURGO](https://www.youtube.com/c/EMURGO "https://www.youtube.com/c/EMURGO")
+* IOHK: [https://www.youtube.com/c/IohkIo](https://www.youtube.com/c/IohkIo "https://www.youtube.com/c/IohkIo")
