@@ -4,7 +4,7 @@ categories = ["Vs."]
 date = 2021-04-12T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/cardano-vs-polkadot.png"
 tags = ["Polkadot", "Cardano"]
 title = "Cardano Vs Polkadot: Who Will Win?"
 toc = true
@@ -13,25 +13,25 @@ url = "cardano-vs-polkadot"
 +++
 ## Cardano Vs Polkadot: Which is better?
 
-Cardano and Polkadot are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security.  They are both 3rd generation cryptocurrencies.  They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how Cardano and Polkadot can be seen as partners rather than competitors.
+[Cardano](https://cardano.org/) and [Polkadot](https://polkadot.network/) are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security.  They are both 3rd generation cryptocurrencies.  They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how [Cardano](/buy-cardano) and Polkadot can be seen as partners rather than competitors.
 
 ## But which is the ETH Killer?
 
-Both **Cardano** and **Polkadot** are now on the verge of releasing major updates to their networks. The competition from these two projects has generated many questions about which one is most likely to succeed in becoming the next popular platform for smart contracts and decentralised cryptocurrency applications.
+Both [**Cardano**](/buy-cardano) and **Polkadot** are now on the verge of releasing major updates to their networks. The competition from these two projects has generated many questions about which one is most likely to succeed in becoming the next popular platform for smart contracts and decentralised cryptocurrency applications.
 
 ## Is 2021 going to be the year of smart contract blockchains?
 
-Cardano and Polkadot are two juggernauts that have seen an unprecedented amount of development and adoption over the past year and they are very close to each other in the market cap rankings. Polkadot and Cardano are also close to releasing major updates to their networks - begging the question will either of these two titans be a match for Ethereum?
+[Cardano](/buy-cardano) and Polkadot are two juggernauts that have seen an unprecedented amount of development and adoption over the past year and they are very close to each other in the market cap rankings. Polkadot and [Cardano](/buy-cardano) are also close to releasing major updates to their networks - begging the question will either of these two titans be a match for Ethereum?
 
 ## Cardano versus Polkadot - Which is better?
 
-You will hear this question a lot! This question is difficult to answer though, as there are many factors that go into the success of any blockchain. For example, Cardano has a strong research and development team while Polkadot does not have the same level of R&D (at least at the time of writing). In addition they both focus on smart contracts but in different ways - Cardano uses its own programming language called [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), which allows for more security than Ethereum's [Solidity](https://en.wikipedia.org/wiki/Solidity), whereas Polkadot uses [Web Assembly](https://en.wikipedia.org/wiki/WebAssembly) - an emerging standard used by most browsers today rather then something specific like EDCCs or Tendermint consensus algorithms.
+You will hear this question a lot! This question is difficult to answer though, as there are many factors that go into the success of any blockchain. For example, [Cardano](/buy-cardano) has a strong research and development team while Polkadot does not have the same level of R&D (at least at the time of writing). In addition they both focus on smart contracts but in different ways - [Cardano](/buy-cardano) uses its own programming language called [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), which allows for more security than Ethereum's [Solidity](https://en.wikipedia.org/wiki/Solidity), whereas Polkadot uses [Web Assembly](https://en.wikipedia.org/wiki/WebAssembly) - an emerging standard used by most browsers today rather then something specific like EDCCs or Tendermint consensus algorithms.
 
 ## Who are the Founders of Polkadot?
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gavin_Wood.jpg/1280px-Gavin_Wood.jpg)
 
-> Gavin Wood, Thiel Fellow Robert Habermeier and Peter Czaban are the co-founders of Polkadot.  
+> Gavin Wood, Thiel Fellow Robert Habermeier and Peter Czaban are the co-founders of Polkadot.
 
 [Dr Gavin Wood](https://en.wikipedia.org/wiki/Gavin_Wood) is the founder of Polkadot he's a computer scientist and holds a PhD in human computer interfacing Gavin is also the founder of the web3 foundation a Swiss non-profit which oversees the development of Polkadot and is the founder of parity technologies which is a for-profit software development company based here in the UK it is commissioned by the Web3 foundation to develop and maintain Polkadot
 
@@ -43,9 +43,9 @@ Gavin served as Ethereum's Chief Technology Officer, where he had a hand in crea
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Charles_Hoskinson_profile_color_no_background.png/220px-Charles_Hoskinson_profile_color_no_background.png)
 
-Charles Hoskinson is the founder of Cardano he is a mathematician, Charles is also the founder of Input Output Hong Kong or IOHK for short which is a for-profit software development company based in Hong Kong.  Charles left Ethereum in June 2014, 13 months before the Ethereum Main Net went live, apparently for disagreement with Vitalik about accepting venture capital funding. 
+Charles Hoskinson is the founder of [Cardano](/buy-cardano) he is a mathematician, Charles is also the founder of Input Output Hong Kong or IOHK for short which is a for-profit software development company based in Hong Kong.  Charles left Ethereum in June 2014, 13 months before the Ethereum Main Net went live, apparently for disagreement with Vitalik about accepting venture capital funding.
 
-Cardano is peer-reviewed before being tested and implemented as far as technology goes Cardano and Polkadot are both proof-of-stake blockchains that said they have notably different architectures which again seems inspired by the personalities and experiences of their founders given that Polkadot was invented to "Deliver on the promises Ethereum could not" 
+Cardano is peer-reviewed before being tested and implemented as far as technology goes [Cardano](/buy-cardano) and Polkadot are both proof-of-stake blockchains that said they have notably different architectures which again seems inspired by the personalities and experiences of their founders given that Polkadot was invented to "Deliver on the promises Ethereum could not"
 
 ## Polkadot similarities to Ethereum 2.0
 
@@ -53,7 +53,7 @@ Polkadot is eerily similar to Ethereum 2.0 Polkadot uses an elaborate hybrid con
 
 called the relay chain these power chains will host all the smart contracts and DApps in Polkadot's ecosystem and there will be an initial limit of 100 power chains unfortunately it's not yet clear whether these parachains will be interoperable at the outset which is going to be a key factor in the adoption of polka dot once these parachains start to go live later this year.
 
-In contrast to Polkadot Cardano has a more original design the Cardano blockchain has two layers the Cardano settlement layer which keeps track of token balances and transfers and the Cardano computation layer which runs all the smart contracts Cardano uses a consensus mechanism called Ouroborus proof of stake which allows the network to process a few hundred transactions per second however once the hydra scaling solution is implemented Cardano will be able to process 1,000 transactions per second for every validator that's connected to the network now this means that Cardano would need 1000 validators to match the speed of polka dot in its final form on that note Cardano still has a way to go before you can call it a finished product we are only at stage two of five in Cardano's development roadmap with the remaining stages set to occur in the next year or two the next stage Gogen is set to go live in march of this year and will enable smart contracts on Cardano you can learn more about this by watching my recent video on Cardano
+In contrast to Polkadot, Cardano has a more original design the Cardano blockchain has two layers the Cardano settlement layer which keeps track of token balances and transfers and the Cardano computation layer which runs all the smart contracts Cardano uses a consensus mechanism called Ouroborus proof of stake which allows the network to process a few hundred transactions per second however once the hydra scaling solution is implemented Cardano will be able to process 1,000 transactions per second for every validator that's connected to the network now this means that Cardano would need 1000 validators to match the speed of polka dot in its final form on that note Cardano still has a way to go before you can call it a finished product we are only at stage two of five in Cardano's development roadmap with the remaining stages set to occur in the next year or two the next stage Gogen is set to go live in march of this year and will enable smart contracts on Cardano you can learn more about this by watching my recent video on Cardano
 
 Staking on Cardano and Polkadot is where things really start to get interesting starting with Cardano there are currently over 1500 validators that are collectively staking over 70 percent of all ada in circulation delegation can be done directly from the Daedalus wallet and offers a decent return.
 
@@ -66,3 +66,17 @@ The most obvious difference between Cardano and Polkadot in this regard is the d
 There are nearly 300,000 Cardano wallets at the time of writing but AdaStat and Pieter Nierop believes there could be 1,000,000 wallets created in 2021.
 
 When you compare this to just under 110,000 Polkadot wallets, this seems like Cardano has the edge, except for the fact that Cardano has been around since 2017.
+
+## Useful Links
+
+### Polkadot
+
+Polkadot Whitepaper: [https://polkadot.network/PolkaDotPaper.pdf](https://polkadot.network/PolkaDotPaper.pdf) 
+
+Polkadot Community: [https://polkadot.network/community/](https://polkadot.network/community/)
+
+### Cardano
+
+Why Cardano: [https://why.cardano.org/en/introduction/motivation/](https://why.cardano.org/en/introduction/motivation/ "https://why.cardano.org/en/introduction/motivation/")
+
+Cardano Video Overview: [https://youtu.be/Ja9D0kpksxw](https://youtu.be/Ja9D0kpksxw "https://youtu.be/Ja9D0kpksxw")
