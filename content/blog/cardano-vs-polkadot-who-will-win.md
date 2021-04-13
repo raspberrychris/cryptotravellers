@@ -78,13 +78,19 @@ The most obvious difference between Cardano and Polkadot in this regard is the d
 
 ## Wallets
 
+![](/uploads/daedalus-wallet.gif)
+
 There are nearly 300,000 Cardano wallets at the time of writing but AdaStat and Pieter Nierop believes there could be 1,000,000 wallets created in 2021.
 
 When you compare this to just under 110,000 Polkadot wallets, this seems like Cardano has the edge, except for the fact that Cardano has been around since 2017.
 
 ## Conclusion
 
-Both Cardano and Polkadot have great potential in integrating blockchains through their efficient and low transaction cost PoS algorithms.  Use thorough research before investing in either Polkadot or Cardano, we have provided some useful links below on Both Cryptos so you can read more on this topic and following the developing news on the social channels.  Cardano's founder Charles Hoskinson is very active on YouTube and on the whole there seem to be more resources for Cardano than there is for Polkadot.
+Both Cardano and Polkadot have great potential in integrating blockchains through their efficient and low transaction cost PoS algorithms.  Conduct thorough research before investing in either Polkadot or Cardano, we have provided some useful links below on Both Cryptos so you can read more on this topic and following the developing news on the social channels.  
+
+Cardano's founder Charles Hoskinson is [very active on YouTube](https://www.youtube.com/c/charleshoskinsoncrypto/videos) and on the whole there seem to be more resources for Cardano than there is for Polkadot.  
+
+Both projects are excellent, and have their up and down sides, if you are unsure you can always support both projects!
 
 ## Useful Links
 
