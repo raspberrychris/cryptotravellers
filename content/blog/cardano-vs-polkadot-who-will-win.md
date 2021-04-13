@@ -12,8 +12,6 @@ url = "cardano-vs-polkadot"
 +++
 ## Cardano Vs Polkadot: Which is better?
 
-![](/uploads/cardano-vs-polka.png)
-
 [Cardano](https://cardano.org/) and [Polkadot](https://polkadot.network/) are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security.  They are both 3rd generation [PoS](https://en.wikipedia.org/wiki/Proof_of_stake#:\~:text=Proof%20of%20stake%20(PoS)%20is,(i.e.%2C%20the%20stake).) cryptocurrencies.  They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how [Cardano](/buy-cardano) and Polkadot can be seen as partners rather than competitors.
 
 ## But which is the ETH Killer?
@@ -26,11 +24,11 @@ Both [**Cardano**](/buy-cardano) and **Polkadot** are now on the verge of releas
 
 ## Cardano vs Polkadot - Which is actually better?
 
-You will hear this question a lot! This question is difficult to answer though, as there are many factors that go into the success of any blockchain. For example, [Cardano](/buy-cardano) has a strong research and development team while Polkadot does not have the same level of R&D (at least at the time of writing). In addition they both focus on smart contracts but in different ways - [Cardano](/buy-cardano) uses its own programming language called [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), which allows for more security than Ethereum's [Solidity](https://en.wikipedia.org/wiki/Solidity), whereas Polkadot uses [Web Assembly](https://en.wikipedia.org/wiki/WebAssembly) - an emerging standard used by most browsers today rather then something specific like EDCCs or Tendermint consensus algorithms.
+![cardano-vs-polkadot](/uploads/cardano-vs-polka.png)You will hear this question a lot! This question is difficult to answer though, as there are many factors that go into the success of any blockchain. For example, [Cardano](/buy-cardano) has a strong research and development team while Polkadot does not have the same level of R&D (at least at the time of writing). In addition they both focus on smart contracts but in different ways - [Cardano](/buy-cardano) uses its own programming language called [Haskell](https://en.wikipedia.org/wiki/Haskell_(programming_language)), which allows for more security than Ethereum's [Solidity](https://en.wikipedia.org/wiki/Solidity), whereas Polkadot uses [Web Assembly](https://en.wikipedia.org/wiki/WebAssembly) - an emerging standard used by most browsers today rather then something specific like EDCCs or Tendermint consensus algorithms.
 
 ## Who are the Founders of Polkadot?
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gavin_Wood.jpg/1280px-Gavin_Wood.jpg)
+![gavin-wood-polkadot](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gavin_Wood.jpg/1280px-Gavin_Wood.jpg)
 
 > Gavin Wood, Thiel Fellow Robert Habermeier and Peter Czaban are the co-founders of Polkadot.
 
@@ -42,7 +40,7 @@ Gavin served as Ethereum's Chief Technology Officer, where he had a hand in crea
 
 ## Who are the Founders of Cardano?
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Charles_Hoskinson_profile_color_no_background.png/220px-Charles_Hoskinson_profile_color_no_background.png)
+![charles-hoskinson-cardano](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Charles_Hoskinson_profile_color_no_background.png/220px-Charles_Hoskinson_profile_color_no_background.png)
 
 Charles Hoskinson is the founder of [Cardano](/buy-cardano) he is a mathematician, Charles is also the founder of Input Output Hong Kong or IOHK for short which is a for-profit software development company based in Hong Kong.  Charles left Ethereum in June 2014, 13 months before the Ethereum Main Net went live, apparently for disagreement with Vitalik about accepting venture capital funding.
 
@@ -77,7 +75,7 @@ The most obvious difference between Cardano and Polkadot in this regard is the d
 
 ## Wallets
 
-![](/uploads/daedalus-wallet.gif)
+![daedelus-wallet](/uploads/daedalus-wallet.gif)
 
 There are nearly 300,000 Cardano wallets at the time of writing but AdaStat and Pieter Nierop believes there could be 1,000,000 wallets created in 2021.
 
