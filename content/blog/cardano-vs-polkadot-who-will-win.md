@@ -13,7 +13,7 @@ url = "cardano-vs-polkadot"
 +++
 ## Cardano Vs Polkadot: Which is better?
 
-[Cardano](https://cardano.org/) and [Polkadot](https://polkadot.network/) are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security.  They are both 3rd generation cryptocurrencies.  They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how [Cardano](/buy-cardano) and Polkadot can be seen as partners rather than competitors.
+[Cardano](https://cardano.org/) and [Polkadot](https://polkadot.network/) are two different blockchains, but they have a lot in common. Both projects focus on solving the same problems: scalability, interoperability, and security.  They are both 3rd generation [PoS](https://en.wikipedia.org/wiki/Proof_of_stake#:\~:text=Proof%20of%20stake%20(PoS)%20is,(i.e.%2C%20the%20stake).) cryptocurrencies.  They may seem like competitors at first glance, but it's not that simple. In this blog post we will discuss how [Cardano](/buy-cardano) and Polkadot can be seen as partners rather than competitors.
 
 ## But which is the ETH Killer?
 
@@ -33,7 +33,7 @@ You will hear this question a lot! This question is difficult to answer though, 
 
 > Gavin Wood, Thiel Fellow Robert Habermeier and Peter Czaban are the co-founders of Polkadot.
 
-[Dr Gavin Wood](https://en.wikipedia.org/wiki/Gavin_Wood) is the founder of Polkadot he's a computer scientist and holds a PhD in human computer interfacing Gavin is also the founder of the web3 foundation a Swiss non-profit which oversees the development of Polkadot and is the founder of parity technologies which is a for-profit software development company based here in the UK it is commissioned by the Web3 foundation to develop and maintain Polkadot
+[Gavin Wood](https://en.wikipedia.org/wiki/Gavin_Wood) is the founder of Polkadot he's a computer scientist and holds a PhD in human computer interfacing Gavin is also the founder of the web3 foundation a Swiss non-profit which oversees the development of Polkadot and is the founder of parity technologies which is a for-profit software development company based here in the UK it is commissioned by the Web3 foundation to develop and maintain Polkadot
 
 Gavin left Ethereum in January 2016 to "deliver on the promises of Ethereum 2.0," which had originally been scheduled for shortly after the Ethereum Main net went live in 2015.
 
@@ -81,6 +81,10 @@ The most obvious difference between Cardano and Polkadot in this regard is the d
 There are nearly 300,000 Cardano wallets at the time of writing but AdaStat and Pieter Nierop believes there could be 1,000,000 wallets created in 2021.
 
 When you compare this to just under 110,000 Polkadot wallets, this seems like Cardano has the edge, except for the fact that Cardano has been around since 2017.
+
+## Conclusion
+
+Both Cardano and Polkadot have great potential in integrating blockchains through their efficient and low transaction cost PoS algorithms.  Use thorough research before investing in either Polkadot or Cardano, we have provided some useful links below on Both Cryptos so you can read more on this topic and following the developing news on the social channels.  Cardano's founder Charles Hoskinson is very active on YouTube and on the whole there seem to be more resources for Cardano than there is for Polkadot.
 
 ## Useful Links
 
