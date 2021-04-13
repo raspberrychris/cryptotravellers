@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Vs."]
 date = 2021-04-12T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/cardano-vs-polkadot.png"
 tags = ["Polkadot", "Cardano"]
 title = "Cardano Vs Polkadot: Who Will Win?"
