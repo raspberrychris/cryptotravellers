@@ -48,8 +48,6 @@ Cardano is peer-reviewed before being tested and implemented as far as technolog
 
 ## Polkadot similarities to Ethereum 2.0
 
-![](/uploads/polkadot-new-dot-logo.png)
-
 Polkadot is eerily similar to Ethereum 2.0 Polkadot uses an elaborate hybrid consensus mechanism called [Grandpa/Babe](https://wiki.polkadot.network/docs/en/learn-consensus) which allows the network to process around 1,000 transactions per second Gavin has noted that Polkadot has a theoretical upper limit of 1 million transactions per second with power chains and multi-threading polka dot is essentially an ecosystem of blockchains called parachains that are connected to Polkadot's core blockchain
 
 called the relay chain these power chains will host all the smart contracts and DApps in Polkadot's ecosystem and there will be an initial limit of 100 power chains unfortunately it's not yet clear whether these parachains will be interoperable at the outset which is going to be a key factor in the adoption of polka dot once these parachains start to go live later this year.
