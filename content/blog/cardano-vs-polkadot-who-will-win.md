@@ -86,22 +86,20 @@ When you compare this to just under 110,000 Polkadot wallets, this seems like Ca
 
 ## Conclusion
 
-Both Cardano and Polkadot have great potential in integrating blockchains through their efficient and low transaction cost PoS algorithms.  Conduct thorough research before investing in either Polkadot or Cardano, we have provided some useful links below on Both Cryptos so you can read more on this topic and following the developing news on the social channels.  
+Both Cardano and Polkadot have great potential in integrating blockchains through their efficient and low transaction cost PoS algorithms.  Conduct thorough research before investing in either Polkadot or Cardano, we have provided some useful links below on Both Cryptos so you can read more on this topic and following the developing news on the social channels.
 
-Cardano's founder Charles Hoskinson is [very active on YouTube](https://www.youtube.com/c/charleshoskinsoncrypto/videos) and on the whole there seem to be more resources for Cardano than there is for Polkadot.  
+Cardano's founder Charles Hoskinson is [very active on YouTube](https://www.youtube.com/c/charleshoskinsoncrypto/videos) and on the whole there seem to be more resources for Cardano than there is for Polkadot.
 
 Both projects are excellent, and have their up and down sides, if you are unsure you can always support both projects!
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
 
 ## Useful Links
 
 ### Polkadot
 
-* Polkadot Whitepaper: [https://polkadot.network/PolkaDotPaper.pdf](https://polkadot.network/PolkaDotPaper.pdf) 
-
-
+* Polkadot Whitepaper: [https://polkadot.network/PolkaDotPaper.pdf](https://polkadot.network/PolkaDotPaper.pdf)
 * Polkadot Community: [https://polkadot.network/community/](https://polkadot.network/community/)
-
-
 * [**Polkadot Website/Timeline**](https://polkadot.network/timeline)
 * [**Polkadot Reddit (r/dot)**](https://www.reddit.com/r/dot)
 * [**Polkadot Github**](https://github.com/w3f/Web3-wiki/wiki/Polkadot)
@@ -174,7 +172,7 @@ Both projects are excellent, and have their up and down sides, if you are unsure
 ### Exchanges that list Cardano
 
 * Bequant [https://bequant.io/](https://bequant.io/ "https://bequant.io/")
-* Bidesk [https://www.bidesk.com/](https://www.bidesk.com/ "https://www.bidesk.com/") 
+* Bidesk [https://www.bidesk.com/](https://www.bidesk.com/ "https://www.bidesk.com/")
 * Binance [https://www.binance.com/en](https://www.binance.com/en "https://www.binance.com/en")
 * Bitbns [https://bitbns.com/](https://bitbns.com/ "https://bitbns.com/")
 * Bitfinex [https://www.bitfinex.com/](https://www.bitfinex.com/ "https://www.bitfinex.com/")
@@ -194,7 +192,7 @@ Both projects are excellent, and have their up and down sides, if you are unsure
 * Coindeal [https://coindeal.com/](https://coindeal.com/ "https://coindeal.com/")
 * CoinEx [https://www.coinex.com/](https://www.coinex.com/ "https://www.coinex.com/")
 * Coinfalcon [https://coinfalcon.com/en/](https://coinfalcon.com/en/ "https://coinfalcon.com/en/")
-* Coinmama [https://www.coinmama.com/](https://www.coinmama.com/ "https://www.coinmama.com/") 
+* Coinmama [https://www.coinmama.com/](https://www.coinmama.com/ "https://www.coinmama.com/")
 * Coinsmart [https://www.coinsmart.com](https://www.coinsmart.com "https://www.coinsmart.com")
 * CoinTiger [https://www.cointiger.com/en-us/#/index](https://www.cointiger.com/en-us/#/index "https://www.cointiger.com/en-us/#/index")
 * CROSS [https://www.crossexchange.io/cross/home](https://www.crossexchange.io/cross/home "https://www.crossexchange.io/cross/home")
@@ -202,7 +200,7 @@ Both projects are excellent, and have their up and down sides, if you are unsure
 * DCoin [https://www.dcoin.com/](https://www.dcoin.com/ "https://www.dcoin.com/")
 * Dex-Trad [https://dex-trade.com/](https://dex-trade.com/ "https://dex-trade.com/")
 * DragonEx [https://dragonex.io/](https://dragonex.io/ "https://dragonex.io/")
-* ETORO [https://www.etoro.com/](https://www.etoro.com/ "https://www.etoro.com/") 
+* ETORO [https://www.etoro.com/](https://www.etoro.com/ "https://www.etoro.com/")
 * EXMO [https://exmo.com/en](https://exmo.com/en "https://exmo.com/en")
 * Gate.io [https://www.gate.io/](https://www.gate.io/ "https://www.gate.io/")
 * HBTC [https://www.hbtc.com/](https://www.hbtc.com/ "https://www.hbtc.com/")
@@ -221,7 +219,7 @@ Both projects are excellent, and have their up and down sides, if you are unsure
 * Paribu [https://www.paribu.com/](https://www.paribu.com/ "https://www.paribu.com/")
 * Satang [https://satang.com/](https://satang.com/ "https://satang.com/")
 * Upbit [https://upbit.com/](https://upbit.com/ "https://upbit.com/")
-* VCC Exchange [https://vcc.exchange/](https://vcc.exchange/) 
+* VCC Exchange [https://vcc.exchange/](https://vcc.exchange/)
 * ZB.com [https://www.zb.com/en/](https://www.zb.com/en/ "https://www.zb.com/en/")
 * ZBG [https://zbg.com/](https://zbg.com/ "https://zbg.com/")
 
