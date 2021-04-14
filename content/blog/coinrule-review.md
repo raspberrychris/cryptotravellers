@@ -10,19 +10,19 @@ toc = true
 url = "coinrule-review"
 
 +++
-## Do you want to trade cryptocurrencies but don't have the time? 
+## Do you want to trade cryptocurrencies but don't have the time?
 
-Coinrule is an automated crypto trading bot that can do all of the work for you. It's easy and takes less than five minutes to set up. In this review, we will discuss why Coinrule is a great option for beginners and experts alike!  
+**Coinrule** is an automated crypto trading bot that can do all of the work for you. It's easy and takes less than five minutes to set up. In this review, we will discuss why Coinrule is a great option for beginners and experts alike!
 
-![](https://news.bitcoin.com/wp-content/uploads/2020/12/coinrule.png)
+[![coinrule-team](https://news.bitcoin.com/wp-content/uploads/2020/12/coinrule.png)](/link/coinrule)
 
 The first thing you need to do is create a free account with Coinrule. There's no credit card required and it takes about 60 seconds. Once your account is created, the system will guide you through setting up an API key on Coinbase which allows Coinrule to trade on your behalf without owning any of coins! If this sounds like something you're interested in, read more below for tips on how to use the bot.
 
-\- You can set specific coin pairs which are paired together by default: BTC/LTC, ETH/XMR 
+\- You can set specific coin pairs which are paired together by default: BTC/LTC, ETH/XMR
 
 \- Automated trading adjusts these values according to demand - if one cryptocurrency has higher value then another that same day, it will  trade in order to maximize profits
 
-\- You can set a max profit and loss amount per trade. If the trades go over what you have specified, they will no longer work until your settings are adjusted 
+\- You can set a max profit and loss amount per trade. If the trades go over what you have specified, they will no longer work until your settings are adjusted
 
 \- Your API key on Coinbase is encrypted with AES 256 encryption for security! No one has access to it but you (including us!)
 
@@ -30,7 +30,7 @@ We see that automated trading is now possible not only through our service, Coin
 
 ## Pros and Cons of Coinrule
 
-Coinrule is easy-to-use, even for beginners; offers 150+ trading strategy templates and multiple subscription plans. Works with the most popular cryptocurrency exchanges, the only con at the moment is that there is no mobile app, although we are sure the team will work on this soon.
+[Coinrule](/link/coinrule) is easy-to-use, even for beginners; offers 150+ trading strategy templates and multiple subscription plans. Works with the most popular cryptocurrency exchanges, the only con at the moment is that there is no mobile app, although we are sure the team will work on this soon.
 
 Coinrule has several monthly plans that range from the Starter membership ($0/month) to the Pro subscription ($449.99/month).
 
@@ -40,7 +40,7 @@ Coinrule is an online platform that lets you set up easy automated cryptocurrenc
 
 ## Coinrule Pricing Plans
 
-![](https://decentralpost.com/wp-content/uploads/2020/04/Screenshot-2020-04-01-at-17.02.57-1.png)
+[![coinrule-pricing](https://decentralpost.com/wp-content/uploads/2020/04/Screenshot-2020-04-01-at-17.02.57-1.png)](/link/coinrule)
 
 ### Starter (Free)
 
@@ -132,10 +132,10 @@ Liquid
 
 Poloniex
 
-### Conclusion
+## Conclusion
 
 Coinrule gives users more than 150 trading strategies to choose from, so traders can quickly find an automated strategy that best suits their needs.
 
 We recommend starting your free trial with Coinrule and see whether the software is something that you would like to invest in for a subscription plan. If it works for you, don’t forget to upgrade your account and sign up for more exchanges!
 
-[![coinrule-try](/uploads/button_try-coinrule.png)](https://track.flexlinkspro.com/g.ashx?foid=2.5508378.14320514&trid=1248576.215950&foc=16&fot=9999&fos=5)
+[![coinrule-try](/uploads/button_try-coinrule.png)](/link/coinrule)
