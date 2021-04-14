@@ -3,7 +3,7 @@ author = ""
 categories = []
 date = 2021-04-01T23:00:00Z
 description = ""
-image = ""
+image = "/uploads/17.png"
 tags = []
 title = "Resources"
 toc = true
@@ -57,6 +57,8 @@ The downside though? There will always need internet access because this kind ne
 ## Portfolio Trackers
 
 ## **Market information**
+
+![](/uploads/18.png)
 
 * [http://coinmarketcal.com](http://coinmarketcal.com "http://coinmarketcal.com") - Crypto Calendar
 * [http://coin.fyi](http://coin.fyi "http://coin.fyi") - Great for following the news related to a specific cryptocurrencies
