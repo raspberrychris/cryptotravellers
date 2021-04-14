@@ -13,6 +13,8 @@ parent = "Reviews"
 weight = 2
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links to Coinrule. {{< /notice >}}
+
 ## Do you want to trade cryptocurrencies but don't have the time?
 
 **Coinrule** is an automated crypto trading bot that can do all of the work for you. It's easy and takes less than five minutes to set up. In this review, we will discuss why Coinrule is a great option for beginners and experts alike!
@@ -142,3 +144,5 @@ Coinrule gives users more than 150 trading strategies to choose from, so traders
 We recommend starting your free trial with Coinrule and see whether the software is something that you would like to invest in for a subscription plan. If it works for you, don’t forget to upgrade your account and sign up for more exchanges!
 
 [![coinrule-try](/uploads/button_try-coinrule.png)](/link/coinrule)
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
