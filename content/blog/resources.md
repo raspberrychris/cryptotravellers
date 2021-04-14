@@ -60,35 +60,58 @@ The downside though? There will always need internet access because this kind ne
 
 ![](/uploads/18.png)
 
-* [http://coinmarketcal.com](http://coinmarketcal.com "http://coinmarketcal.com") - Crypto Calendar
-* [http://coin.fyi](http://coin.fyi "http://coin.fyi") - Great for following the news related to a specific cryptocurrencies
-* [http://cryptopanic.com](http://cryptopanic.com "http://cryptopanic.com") -  Aggregator of various crypto sites and news, filterable.
-* [http://coinspectator.com](http://coinspectator.com "http://coinspectator.com") -  Aggregator from over a 100 different sources of crypto news.
-* [https://www.ccowl.com/news](https://www.ccowl.com/news "https://www.ccowl.com/news") - News Aggregator (CoinDesk, Cointelegram, Bloomberg...etc) on one page
-* [http://cci30.com](http://cci30.com "http://cci30.com") - like the S&P500 for crypto, its an index of the 30 biggest cryptocurrencies
-* [http://eveningstar.io](http://eveningstar.io "http://eveningstar.io") - this is trying to be the Morning Star for cryptos
-* [http://icotracker.net](http://icotracker.net "http://icotracker.net") - I like this site for looking at what ICO are coming up
-* [http://www.icoalert.com](http://www.icoalert.com "http://www.icoalert.com") - Another good site for upcoming ICO tracking
-* [http://icodrops.com](http://icodrops.com "http://icodrops.com") - More ICO listings and they have a "hype" rating
-* [http://bitcointalk.org](http://bitcointalk.org "http://bitcointalk.org") - Probably the biggest crypto community,
-* Both [Medium](http://medium.com/topic/cryptocurrency) and [Steemit](http://steemit.com/trending/cryptocurrency) have plenty of blogs to follow depending on what interests you within crypto
+[http://coinmarketcal.com](http://coinmarketcal.com "http://coinmarketcal.com") - Crypto Calendar
+
+[http://coin.fyi](http://coin.fyi "http://coin.fyi") - Great for following the news related to a specific cryptocurrencies
+
+[http://cryptopanic.com](http://cryptopanic.com "http://cryptopanic.com") -  Aggregator of various crypto sites and news, filterable.
+
+[http://coinspectator.com](http://coinspectator.com "http://coinspectator.com") -  Aggregator from over a 100 different sources of crypto news.
+
+[https://www.ccowl.com/news](https://www.ccowl.com/news "https://www.ccowl.com/news") - News Aggregator (CoinDesk, Cointelegram, Bloomberg...etc) on one page
+
+[http://cci30.com](http://cci30.com "http://cci30.com") - like the S&P500 for crypto, its an index of the 30 biggest cryptocurrencies
+
+[http://eveningstar.io](http://eveningstar.io "http://eveningstar.io") - this is trying to be the Morning Star for cryptos
+
+[http://icotracker.net](http://icotracker.net "http://icotracker.net") - I like this site for looking at what ICO are coming up
+
+[http://www.icoalert.com](http://www.icoalert.com "http://www.icoalert.com") - Another good site for upcoming ICO tracking
+
+[http://icodrops.com](http://icodrops.com "http://icodrops.com") - More ICO listings and they have a "hype" rating
+
+[http://bitcointalk.org](http://bitcointalk.org "http://bitcointalk.org") - Probably the biggest crypto community,
+
+Both [Medium](http://medium.com/topic/cryptocurrency) and [Steemit](http://steemit.com/trending/cryptocurrency) have plenty of blogs to follow depending on what interests you within crypto
 
 ## **Analysis tools**
 
-* [http://cryptowat.ch](http://cryptowat.ch "http://cryptowat.ch") - charts cryptos across most major exchanges.
-* [http://coinmonsta.io/metrics](http://coinmonsta.io/metrics "http://coinmonsta.io/metrics") - This ranking multiplies the number of tweets vs. sentiment estimate to produce a score.
-* [http://onchainfx.com](http://onchainfx.com "http://onchainfx.com") - Like Coinmarketcap, maybe better.
-* [http://www.sifrdata.com/](http://www.sifrdata.com/ "http://www.sifrdata.com/") - Great visualisations of various metrics. I find their correlations to be very useful.
-* [http://www.coingecko.com](http://www.coingecko.com "http://www.coingecko.com") - breakdown volume by fiat currency, social media stats, code repository stats..etc
-* [http://www.tradingview.com/chart/](http://www.tradingview.com/chart/ "http://www.tradingview.com/chart/") - Charting Site
-* [http://www.iconomi.net/dashboard](http://www.iconomi.net/dashboard "http://www.iconomi.net/dashboard") - basically forms different ETFs out of cryptos. 
-* [http://cointrading.ninja/correlation](http://cointrading.ninja/correlation "http://cointrading.ninja/correlation") - See a matrix of price movement correlation between various cryptocurrencies over various periods.
-* [http://coinmarketcap.com](http://coinmarketcap.com "http://coinmarketcap.com") - Useful for scanning the market
-* [http://icobench.com](http://icobench.com "http://icobench.com") - ICO tracker which has summaries, shows teams, milestones, financials and gives a rating for each IC
-* [http://cryptomaps.org](http://cryptomaps.org "http://cryptomaps.org") - Visualisation of price across different segments, primarily hashing functions and ICO release dates
-* [http://solume.io](http://solume.io "http://solume.io") - compares the number of Twitter mention increase decrease to price
-* [http://www.badbitcoin.org](http://www.badbitcoin.org "http://www.badbitcoin.org") - a list of all the known scam sites. 
+[http://cryptowat.ch](http://cryptowat.ch "http://cryptowat.ch") - charts cryptos across most major exchanges.
+
+[http://coinmonsta.io/metrics](http://coinmonsta.io/metrics "http://coinmonsta.io/metrics") - This ranking multiplies the number of tweets vs. sentiment estimate to produce a score.
+
+[http://onchainfx.com](http://onchainfx.com "http://onchainfx.com") - Like Coinmarketcap, maybe better.
+
+[http://www.sifrdata.com/](http://www.sifrdata.com/ "http://www.sifrdata.com/") - Great visualisations of various metrics. I find their correlations to be very useful.
+
+[http://www.coingecko.com](http://www.coingecko.com "http://www.coingecko.com") - breakdown volume by fiat currency, social media stats, code repository stats..etc
+
+[http://www.tradingview.com/chart/](http://www.tradingview.com/chart/ "http://www.tradingview.com/chart/") - Charting Site
+
+[http://www.iconomi.net/dashboard](http://www.iconomi.net/dashboard "http://www.iconomi.net/dashboard") - basically forms different ETFs out of cryptos. 
+
+[http://cointrading.ninja/correlation](http://cointrading.ninja/correlation "http://cointrading.ninja/correlation") - See a matrix of price movement correlation between various cryptocurrencies over various periods.
+
+[http://coinmarketcap.com](http://coinmarketcap.com "http://coinmarketcap.com") - Useful for scanning the market
+
+[http://icobench.com](http://icobench.com "http://icobench.com") - ICO tracker which has summaries, shows teams, milestones, financials and gives a rating for each IC
+
+[http://cryptomaps.org](http://cryptomaps.org "http://cryptomaps.org") - Visualisation of price across different segments, primarily hashing functions and ICO release dates
+
+[http://solume.io](http://solume.io "http://solume.io") - compares the number of Twitter mention increase decrease to price
+
+[http://www.badbitcoin.org](http://www.badbitcoin.org "http://www.badbitcoin.org") - a list of all the known scam sites. 
 
 ## **Portfolio Tracking**
 
-* Delta and Blockfolio are the major mobile apps, we  recommend Delta.
+Delta and Blockfolio are the major mobile apps, we  recommend Delta.
