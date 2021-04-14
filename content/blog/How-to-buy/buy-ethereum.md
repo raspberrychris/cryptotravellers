@@ -13,7 +13,7 @@ url: buy-ethereum
 ---
 ## What is Ethereum?
 
-Ethereum is the second most popular cryptocurrency in the world and it can be bought on UK exchanges.
+**Ethereum** is the second most popular cryptocurrency in the world and it can be bought on UK exchanges.
 
 The best way to buy Ethereum (ETH) if you live in the UK, has been answered by this helpful guide that provides all of your needs for information about buying ETH with pounds sterling or other fiat currencies.
 
