@@ -17,11 +17,11 @@ weight = 2
 
 ## Do you want to trade cryptocurrencies but don't have the time?
 
-**Coinrule** is an automated crypto trading bot that can do all of the work for you. It's easy and takes less than five minutes to set up. In this review, we will discuss why Coinrule is a great option for beginners and experts alike!
+[**Coinrule**](/link/coinrule) is an automated crypto trading bot that can do all of the work for you. It's easy and takes less than five minutes to set up. In this review, we will discuss why Coinrule is a great option for beginners and experts alike!
 
 [![coinrule-team](https://news.bitcoin.com/wp-content/uploads/2020/12/coinrule.png)](/link/coinrule)
 
-The first thing you need to do is create a free account with Coinrule. There's no credit card required and it takes about 60 seconds. Once your account is created, the system will guide you through setting up an API key on Coinbase which allows Coinrule to trade on your behalf without owning any of coins! If this sounds like something you're interested in, read more below for tips on how to use the bot.
+The first thing you need to do is create a [free account with Coinrule](/link/coinrule). There's no credit card required and it takes about 60 seconds. Once your account is created, the system will guide you through setting up an API key on Coinbase which allows Coinrule to trade on your behalf without owning any of coins! If this sounds like something you're interested in, read more below for tips on how to use the bot.
 
 \- You can set specific coin pairs which are paired together by default: BTC/LTC, ETH/XMR
 
@@ -37,7 +37,7 @@ We see that automated trading is now possible not only through our service, Coin
 
 [Coinrule](/link/coinrule) is easy-to-use, even for beginners; offers 150+ trading strategy templates and multiple subscription plans. Works with the most popular cryptocurrency exchanges, the only con at the moment is that there is no mobile app, although we are sure the team will work on this soon.
 
-Coinrule has several monthly plans that range from the Starter membership ($0/month) to the Pro subscription ($449.99/month).
+Coinrule has several monthly plans that range from the Starter membership ($0/month) to the [Pro subscription](/link/coinrule) ($449.99/month).
 
 ## Coinrule Features
 
@@ -91,7 +91,7 @@ One-to-one Training Sessions
 
 Advanced Indicators
 
-### Pro ($449.99/month)
+### [Pro]() ($449.99/month)
 
 50 Live Rules, 50 Demo Rules
 
