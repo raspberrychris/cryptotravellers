@@ -1,13 +1,13 @@
 +++
-author = ""
-categories = []
+author = "Luna Sanchez"
+categories = ["Crypto Resources"]
 date = 2021-04-01T23:00:00Z
 description = ""
 image = "/uploads/17.png"
-tags = []
+tags = ["Crypto Resources"]
 title = "Resources"
 toc = true
-url = ""
+url = "best-crypto-resources"
 [menu.main]
 weight = 5
 
