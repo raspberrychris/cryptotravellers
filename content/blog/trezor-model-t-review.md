@@ -168,6 +168,17 @@ Trezor is very proud of their community and the reviews from Twitter really spea
 
 ![](/uploads/trezor-twitter-reviews.png)
 
+## Frequently Asked Questions
+
+{{< collapse "**Is Trezor Model T the best Bitcoin wallet?**  
+" >}} Trezor Model T is in our opinion the best option for storing your Bitcoin. Whether it is the best overall is dependent on whether you want to use it with an iOS device, if so, you will need to pick a different wallet. {{< /collapse >}}
+
+{{< collapse "collapse 2" >}} This is a simple collapse {{< /collapse >}}
+
+{{< collapse "collapse 3" >}} This is a simple collapse {{< /collapse >}}
+
+<hr>
+
 ## Final Thoughts
 
 The [Trezor Model T](/link/trezor-model-t) is almost definitely the best hardware wallet for anyone that wants to HODL crypto. This is because it can hold a larger variety of cryptocurrencies than most other hardware wallets while being open source which makes it compatible with third-party wallets.
