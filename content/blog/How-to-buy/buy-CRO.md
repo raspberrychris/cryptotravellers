@@ -8,7 +8,7 @@ tags:
 categories:
 - Crypto
 toc: true
-url: buy-cro-crypto
+url: buy-cro
 
 ---
 ## What is CRO in Crypto?
