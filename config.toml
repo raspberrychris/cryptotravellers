@@ -153,9 +153,3 @@ url = "https://www.instagram.com/crypto.travellers/"
 [[params.social]]
 icon = "lab la-linkedin-in"
 url = "https://www.linkedin.com/"
-
-# Instagram feed
-[params.instafeed]
-enable = false
-instagram_user = "crypto.travellers"
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
