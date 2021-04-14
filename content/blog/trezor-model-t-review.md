@@ -11,7 +11,7 @@ url = ""
 [menu.main]
 name = "Trezor Model T Review"
 parent = "Reviews"
-weight = 4
+weight = 5
 
 +++
 ## What is the Trezor Model T?

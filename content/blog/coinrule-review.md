@@ -8,6 +8,9 @@ tags = ["Coinrule", "Review"]
 title = "Coinrule Review"
 toc = true
 url = "coinrule-review"
+[menu.main]
+parent = "Reviews"
+weight = 2
 
 +++
 ## Do you want to trade cryptocurrencies but don't have the time?

@@ -12,7 +12,7 @@ toc: true
 url: crypto-com-review
 menu:
   main:
-    weight: 2
+    weight: 3
     parent: Reviews
 
 ---

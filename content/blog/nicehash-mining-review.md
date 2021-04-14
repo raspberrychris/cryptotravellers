@@ -11,7 +11,7 @@ url = "nicehash-mining-review"
 [menu.main]
 name = "NiceHash Mining Review"
 parent = "Reviews"
-weight = 3
+weight = 4
 
 +++
 {{< notice "note" >}} Disclaimer: This post contains affiliate links to Nicehash. {{< /notice >}}
