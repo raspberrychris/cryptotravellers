@@ -141,7 +141,7 @@ Poloniex
 
 Coinrule gives users more than 150 trading strategies to choose from, so traders can quickly find an automated strategy that best suits their needs.
 
-We recommend starting your free trial with Coinrule and see whether the software is something that you would like to invest in for a subscription plan. If it works for you, don’t forget to upgrade your account and sign up for more exchanges!
+We recommend starting your [free trial](/link/coinrule) with Coinrule and see whether the software is something that you would like to invest in for a subscription plan. If it works for you, don’t forget to upgrade your account and sign up for more exchanges!
 
 [![coinrule-try](/uploads/button_try-coinrule.png)](/link/coinrule)
 
