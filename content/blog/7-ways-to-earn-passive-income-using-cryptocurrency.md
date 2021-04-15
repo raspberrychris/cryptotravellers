@@ -63,3 +63,5 @@ Cryptocurrency exchanges are creating their own digital assets which can provide
 These types of tokens work by rewarding their holders through dividends. Holders are rewarded with a percentage of the network's profits in the form of transactions, while also securing their investment with an easy-to-use staking wallet.
 
 Kucoin token holders, and Bibox token holders can earn passive income through dividends from KuCoin or Bibox. Nexo also offers its own token which offers a dividend.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way.  This article contains affiliate links. {{< /notice >}}
