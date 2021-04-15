@@ -8,6 +8,10 @@ tags = ["Dogecoin"]
 title = "How to buy Dogecoin"
 toc = true
 url = "buy-dogecoin"
+[menu.main]
+name = "Dogecoin"
+parent = "How to Buy"
+weight = 3
 
 +++
 ## What is Dogecoin?
