@@ -52,15 +52,15 @@ In March 2018, the famous singer Akon announced a new phone that would use dogec
 
 The goal is to empower Africans with access to cheaper and more effective banking services. “I think it’s important because I believe Africans need help getting into the legacy system," he said about plans for African development of financial systems like cell phones or internet connectivity. This project will not only provide opportunities within Africa but outside of Africa too a platform for the power of Africa.”
 
-The cryptocurrency is also being used in various charitable works such as feeding hungry children, donating to nonprofit organizations and even creating a personal fund.
+The cryptocurrency is also being used in various charitable works such as feeding hungry children, donating to nonprofit organisations and even creating a personal fund.
 
 ## Buying Doge Coin on Crypto.com Step by Step:
 
-\- Download the Crypto.com App from the Apple Store or Google Play store
+\- Download the [Crypto.com App from the Apple Store or Google Play](/link/sign-up-crypto-dot-com) store
 
 \- Setup your account with a username, password and login
 
 \- Add funds to your wallet by selecting one of our accepted payment methods (fiat currency or cryptocurrency)  
 \- Search for Dogecoin in 'Markets' section of app, select now sell price and buy DOGE coin at current market value.
 
-You can also use the below link to buy Dogecoin on Crypto.com
+You can also use this link to buy Dogecoin on [Crypto.com](/link/sign-up-crypto-dot-com)
