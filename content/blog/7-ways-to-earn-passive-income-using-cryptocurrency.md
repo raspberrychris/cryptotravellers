@@ -54,7 +54,7 @@ One way to earn passive income with cryptocurrency is through yield farming.
 
 If you trade using the Binance Smart Chain-powered yield farm PancakeSwap, you can earn income from trading fees by depositing tokens into your trading pool. LP tokens are now available for staking on this platform and they will reward with CAKE dividends.
 
-Yield farming provides passive income if you can meet your investment goal. It is a risky venture, however, so be sure to do your pre-investment research well before beginning this endeavor.
+Yield farming provides passive income if you can meet your investment goal. It is a risky venture, however, so be sure to do your pre-investment research well before beginning this endeavour.
 
 ## 7. Acquiring (And holding) Dividend-Paying Tokens
 
