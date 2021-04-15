@@ -14,6 +14,8 @@ parent = "How to Buy"
 weight = 3
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links. {{< /notice >}}
+
 ## What is Dogecoin?
 
 [**Dogecoin**](https://dogecoin.com/) is a decentralised, peer-to-peer digital currency that enables you to easily send money online. It was originally introduced as a "joke currency" based on the popular doge meme in 2013, but it has since become one of the most traded cryptocurrencies due to its fast transaction times and low fees.
@@ -64,3 +66,5 @@ The cryptocurrency is also being used in various charitable works such as feedin
 \- Search for Dogecoin in 'Markets' section of app, select now sell price and buy DOGE coin at current market value.
 
 You can also use this link to buy Dogecoin on [Crypto.com](/link/sign-up-crypto-dot-com)
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
