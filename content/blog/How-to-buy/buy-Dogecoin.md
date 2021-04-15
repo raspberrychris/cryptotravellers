@@ -28,7 +28,7 @@ This article will help you understand how to buy Dogecoin so that you can take c
 
 The most common way to buy Dogecoins is by trading them on cryptocurrency exchanges. Exchanges are websites where you can purchase a particular crypto with another, more well-known one. For example, if you want to trade Bitcoin for Ethereum, it would be done using USD as the intermediary currency and will typically take place in multiple steps that involve signing up at the exchange website; providing your email address and other personal information; entering all of your credit card or bank details (which may include explicit identification verification); making sure that there’s enough balance available in the account to cover both transfers; waiting for confirmation of deposit transactions before moving funds between wallets. The process usually takes about 30 minutes.
 
-There are many exchanges, and which one you choose depends on the crypto that you want to buy. Popular ones include Coinbase, Binance and Gemini (which accepts USD as well). Some popular cryptocurrencies for exchanging with BTC would be Ether or Litecoin. There is a list of major trading sites here:
+There are many exchanges, and which one you choose depends on the crypto that you want to buy. Popular ones include [**Coinbase,**](/link/coinbase) Binance and Gemini (which accepts USD as well). Some popular cryptocurrencies for exchanging with BTC would be Ether or Litecoin. There is a list of major trading sites here:
 
 You can also purchase them through centralised cryptocurrency stocks such as GDAX. These allow people to invest in digital currencies without actually having their own individual wallets or exchange accounts; instead they just have an online account where they transfer funds from other sources like banks or credit cards into the stock itself, so it’s more like purchasing shares than anything else when buying Bitcoin this way - but it does result in lower transaction fees than many other methods.
 
@@ -44,7 +44,7 @@ Check out my man @ummjackson's interplanetary transportation concept art! pic.tw
 
 ## Musk's investment in Dogecoin
 
-Elon Musk is also an investor of Dogecoin. In November 2017, he shared on his Twitter account a tweeta from the official account for cryptocurrency exchange service ShapeShift that read: “Dogecoin now available at @ShapeShift_io”. He responded to the tweet with "Wow."
+Elon Musk is also an investor of Dogecoin. In November 2017, he shared on his Twitter account a tweet from the official account for cryptocurrency exchange service ShapeShift that read: “Dogecoin now available at @ShapeShift_io”. He responded to the tweet with "Wow."
 
 ## Dogecoin and Snoop Dogg
 
