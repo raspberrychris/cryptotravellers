@@ -32,7 +32,7 @@ Some people use cryptocurrency exchanges to trade their coins and tokens, while 
 
 ## Elon Musk and Dogecoin
 
-Although the CEO of Tesla and founder of SpaceX is now best known for his successful space exploration company, at one point in time he was just a guy who created an online payment system called PayPal. Musk has publicly supported Bitcoin on multiple occasions as well as other cryptocurrencies like Ethereum, tweeting that “there’s only so much physical money to go around before we have digital currency or something like it takes over.” On March 26th 2018 Elon tweeted about Dogecoin, wher he wrote:
+Although the CEO of Tesla and founder of SpaceX is now best known for his successful space exploration company, at one point in time he was just a guy who created an online payment system called PayPal. Musk has publicly supported Bitcoin on multiple occasions as well as other cryptocurrencies like **Ethereum**, tweeting that “there’s only so much physical money to go around before we have digital currency or something like it takes over.” On March 26th 2018 Elon tweeted about Dogecoin, wher he wrote:
 
 Check out my man @ummjackson's interplanetary transportation concept art! pic.twitter.com/EQT08RWUDX — Elon Musk (@elonmusk) September 18, 2017"
 
