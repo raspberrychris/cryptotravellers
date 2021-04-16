@@ -38,7 +38,7 @@ Daedalus is a secure crypto wallet for the ADA cryptocurrency.  Daedalus is a do
 
 * Trustless Security
 * Supports all desktop platforms
-* Unlimited wallets 
+* Unlimited wallets
 * Keep funds organised
 * Personalisation with themes
 * Crypto news feed
@@ -49,7 +49,7 @@ Ususally to buy Cardano, you will have to purchase some BTC or ETH with your loc
 
 * Binance
 * Coinbase Pro
-* Bittrex 
+* Bittrex
 * HitBTC
 * Huobi
 * Gate.io
@@ -57,3 +57,17 @@ Ususally to buy Cardano, you will have to purchase some BTC or ETH with your loc
 Some exchanges like Coinbase allow you to buy Cardano with your local currency.
 
 ## Find your public Cardano (ADA) address
+
+Once daedelus is installed on your system , you will get the option to create a new wallet
+
+You will be presented with a 24 word 'seed phrase'.  This is a security system that allows you to recover your wallet in the event of something going wrong with the software or the computer you are using.
+
+You should not tell anyone your seed phrase or allow it to be seen by anyone, it should be written down and stored somewhere securely, essentially treat it as the key to all your money.
+
+Once you have stored your seed phrase safely somewhere you will be asked to enter is back into Daedelus only once.
+
+Once this is complete you will be shown the home page of the Daedelus app.  From here you can simple click 'receive' and then copy any one of the Cardano addresses that are available on this page.
+
+## How do I send Cardano to my wallet?
+
+The final step in the process is to use the exchange where you originally purchased your Cardano to complete a 'Send' of your ADA to your Daedelus wallet address we previously copied.
