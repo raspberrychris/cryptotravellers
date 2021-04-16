@@ -20,7 +20,11 @@ Dogecoin continued to soar after the looming public debut of Coinbase, which is 
 
 Elon Musk has made a habit of posting on Twitter occasionally and causing traders to go crazy.
 
+[![elon-musk-tweet-doge-moon](/uploads/elon-musk-tweet-moon-doge.png)](https://twitter.com/elonmusk/status/1382539825421582339?s=20)
+
 On 15th April, Elon Musk [shared a tweet](https://twitter.com/elonmusk/status/1382552587099062272?s=20) of "Doge Barking at the Moon" it seems to be helping at least one day of high trading volume for Dogecoin.
+
+[![doge-barking-at-the-moon](/uploads/doge-barking-at-the-moon.png)](https://twitter.com/elonmusk/status/1382552587099062272?s=20)
 
 ## Will Dogecoin make me rich?
 
