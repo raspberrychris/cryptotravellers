@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["How To Buy"]
 date = 2021-04-17T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-to-buy-monero-uk.png"
 tags = ["Monero"]
 title = "How to Buy Monero XMR in the UK"
@@ -52,6 +51,20 @@ If you do want to try peer-to-peer exchanges or marketplaces, then most people r
 
 ## Buying Monero on Exchanges
 
+* **Bittrex:** XMR/BTC, XMR/USDT, XMR/ETH
+
+
+* **Poloniex:** XMR/BTC, XMR/ETH
+
+
+* **Kraken:** XMR/USD, XMR/EUR, XMR/BTC
+
+
+* **Livecoin**: XMR/BTC, XMR/USDT
+
+
+* **LiteBit:** XMR/EUR
+
 ## What are some of the risks associated with buying Monero online?
 
 There are many risks associated with buying Monero online, chief among which is the risk of identity theft and fraud. It's not unusual for people to either buy cryptocurrency from a scammer or be scammed themselves into sending money without receiving any goods in return. This may seem like an unlikely scenario but it does happen more often than you might think! The best advice would be to avoid these methods unless absolutely necessary as there are many other ways of buying Monero (XMR) more reliably than this at present.
@@ -62,9 +75,9 @@ If you suspect that your account has been compromised, there are some steps whic
 
 ## What is a Monero wallet?
 
-A [Monero Wallet](https://mymonero.com/) can be downloaded to store, send or receive XMR in an encrypted electronic format. The funds on these accounts cannot be accessed without entering a password of some kind which means that if someone were able to access this file then they could not do anything with it unless they knew the password too! These wallets must also have their own private keys - meaning only he/she has possession of them - for anyone else to gain access to the transaction history stored within. And once again, we advise against using any service where there is no two-factor authentication enabled .
+A [Monero Wallet](https://mymonero.com/) can be downloaded to store, send or receive XMR in an encrypted electronic format. The funds on these accounts cannot be accessed without entering a password of some kind which means that if someone were able to access this file then they could not do anything with it unless they knew the password. These wallets must also have their own private keys - meaning only he/she has possession of them - for anyone else to gain access to the transaction history stored within. And once again, we advise against using any service where there is no two-factor authentication enabled.
 
-The Monero Wallet has a variety of features that allow it to be used as an all-in-one solution for your crypto currency needs. It is able to integrate with other wallets, so you can connect them together in order to exchange between different currencies and assets more efficiently - this will also make sure your funds are always available on whichever device you choose at any given time!
+The Monero Wallet has a variety of features that allow it to be used as an all-in-one solution for your crypto currency needs. It is able to integrate with other wallets, so you can connect them together in order to exchange between different currencies and assets more efficiently - this will also make sure your funds are always available on whichever device you choose at any given time.
 
 ## My Monero
 
@@ -72,6 +85,6 @@ The Monero Wallet has a variety of features that allow it to be used as an all-i
 
 [My Monero](https://mymonero.com/) is our choice for the simplest to use Monero Wallet. It also looks fantastic.
 
-## How to Buy Monero With Fiat Currency
+## Final Words
 
-One way that you can buy Moneros is by exchanging your local currency (dollars, pounds or euros) for them on a cryptocurrency exchange like Kraken . You will need to open an account and verify it before this step though which we'll take care of now!   Once you've verified your account linking your bank details (or other payment methods), go ahead and deposit funds into your wallet - there's no minimum amount required so  you can deposit as little or as much money as you want. You'll then be free to trade with other users on the exchange and buy
+We hoped you found this article on how to buy Monero XMR useful.  If you have any tips or recommendations please leave them below in the comments section.
