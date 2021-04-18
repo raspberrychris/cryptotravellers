@@ -35,9 +35,11 @@ If you do want to try peer-to-peer exchanges or marketplaces, then most people r
 
 ## LocalMonero.co
 
-[Local Monero](/link/local-monero) provides a comprehensive P2P service and charges around 5%.  If you are familiar with LocalBitcoins then you LocalMonero will feel very familiar.  If you are concerned about protecting your identity then you will be pleased to know you don't need to verify your ID.  
-
 > Local Monero provides direct GBP -> XMR transfers.
+
+[![local-monero-co](/uploads/buy-monero-online-uk.png)](/link/local-monero)
+
+[Local Monero](/link/local-monero) provides a comprehensive P2P service and charges around 5%.  If you are familiar with LocalBitcoins then you LocalMonero will feel very familiar.  If you are concerned about protecting your identity then you will be pleased to know you don't need to verify your ID.
 
 ## Liberalcoins.com
 
@@ -57,7 +59,7 @@ If you suspect that your account has been compromised, there are some steps whic
 
 A Monero wallet can be downloaded to store, send or receive XMR in an encrypted electronic format. The funds on these accounts cannot be accessed without entering a password of some kind which means that if someone were able to access this file then they could not do anything with it unless they knew the password too! These wallets must also have their own private keys - meaning only he/she has possession of them - for anyone else to gain access to the transaction history stored within. And once again, we advise against using any service where there is no two-factor authentication enabled .
 
-The Monero wallet has a variety of features that allow it to be used as an all-in-one solution for your crypto currency needs. It is able to integrate with other wallets, so you can connect them together in order to exchange between different currencies and assets more efficiently - this will also make sure your funds are always available on whichever device you choose at any given time! 
+The Monero wallet has a variety of features that allow it to be used as an all-in-one solution for your crypto currency needs. It is able to integrate with other wallets, so you can connect them together in order to exchange between different currencies and assets more efficiently - this will also make sure your funds are always available on whichever device you choose at any given time!
 
 ## My Monero
 
