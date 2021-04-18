@@ -15,7 +15,9 @@ url = "buy-monero-xmr"
 
 In this blog post, we will discuss the best ways to [buy Monero in the UK](/buy-monero-xmr). We'll cover how to use a cryptocurrency exchange, as well as peer-to-peer exchanges and marketplaces. You'll also find out about some of the risks associated with buying Monero online and what you can do to minimise those risks.
 
-Some people think that it's better not to store your coins in an account or platform if possible which means relying on physical storage like hardware wallets for example instead (which are usually safer than software).
+Some people think that it's better not to store your coins in an account or platform if possible which means relying on physical storage like [hardware wallets](https://cryptotravellers.com/blog/trezor-model-t-review/) for example instead (which are usually safer than software).  **Check out our** [**Trezor Model T Review**](https://cryptotravellers.com/blog/trezor-model-t-review/)**.  Trezor Model T is** [**fully integrated**](https://blog.trezor.io/trezor-model-t-is-fully-integrated-into-the-official-monero-client-b6f9bd31e7f) **with Monero.**
+
+> “Trezor is integrated in Monero client and not vice versa to preserve all its advantages and privacy features.” - Dušan Klinec
 
 Moreover, there are many companies that offer advice and services when it comes down to helping individuals increase their security while dealing with cryptocurrencies so that they don't get hacked.
 
