@@ -14,7 +14,7 @@ url = "buy-monero-xmr"
 
 In this blog post, we will discuss the best ways to [buy Monero in the UK](/buy-monero-xmr). We'll cover how to use a cryptocurrency exchange, as well as peer-to-peer exchanges and marketplaces. You'll also find out about some of the risks associated with buying Monero online and what you can do to minimise those risks.
 
-Some people think that it's better not to store your coins in an account or platform if possible which means relying on physical storage like [hardware wallets](https://cryptotravellers.com/blog/trezor-model-t-review/) for example instead (which are usually safer than software).  
+Some people think that it's better not to store your coins in an account or platform if possible which means relying on physical storage like [hardware wallets](https://cryptotravellers.com/blog/trezor-model-t-review/) for example instead (which are usually safer than software).
 
 **>> Check out our** [**Trezor Model T Review**](https://cryptotravellers.com/blog/trezor-model-t-review/)**.  Trezor Model T is** [**fully integrated**](https://blog.trezor.io/trezor-model-t-is-fully-integrated-into-the-official-monero-client-b6f9bd31e7f) **with Monero.**
 
@@ -30,7 +30,7 @@ On some websites, you might also be able to trade for Monero using other cryptoc
 
 It's possible that you might be able to find someone on the internet who sells Monero for fiat currency through an account with PayPal, but this isn't something which can be guaranteed and it can sometimes take weeks of communications before such transactions go ahead successfully. The best advice would be to avoid these methods unless absolutely necessary as there are many other ways of buying Monero (XMR) more reliably than this at present.
 
-If you do want to try peer-to-peer exchanges or marketplaces, then most people recommend [LocalMonero](/link/local-monero) because it has been established for some time now and offers good security features including encryption and two factor authentication if desired. 
+If you do want to try peer-to-peer exchanges or marketplaces, then most people recommend [LocalMonero](/link/local-monero) because it has been established for some time now and offers good security features including encryption and two factor authentication if desired.
 
 ## LocalMonero.co
 
@@ -45,24 +45,16 @@ If you do want to try peer-to-peer exchanges or marketplaces, then most people r
 1. Sign up for an [account](/link/local-monero) with LocalMonero
 2. Head to the [Buy Monero](https://localmonero.co/buy-monero) page
    1. You can use the drop-down boxes to filter the buy options
-   2.  Information for each seller is shown 
+   2. Information for each seller is shown
    3. Click **BUY** to head to the offer page
 3. Follow the instructions to make the transfer, and your Monero will show up in your [LocalMonero](link/local-monero) wallet
 
 ## Buying Monero on Exchanges
 
 * **Bittrex:** XMR/BTC, XMR/USDT, XMR/ETH
-
-
 * **Poloniex:** XMR/BTC, XMR/ETH
-
-
 * **Kraken:** XMR/USD, XMR/EUR, XMR/BTC
-
-
 * **Livecoin**: XMR/BTC, XMR/USDT
-
-
 * **LiteBit:** XMR/EUR
 
 ## What are some of the risks associated with buying Monero online?
@@ -88,3 +80,5 @@ The Monero Wallet has a variety of features that allow it to be used as an all-i
 ## Final Words
 
 We hoped you found this article on how to buy Monero XMR useful.  If you have any tips or recommendations please leave them below in the comments section.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way.  This article contains affiliate links. {{< /notice >}}
