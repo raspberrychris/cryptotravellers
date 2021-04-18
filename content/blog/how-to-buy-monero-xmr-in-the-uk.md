@@ -25,15 +25,13 @@ Moreover, there are many companies that offer advice and services when it comes 
 
 ## How to buy Monero with fiat currency
 
-You can buy Monero with fiat currency on a cryptocurrency exchange.  You can also buy Monero with Fiat currencies from peer-to-peer exchanges or marketplaces
+You can buy Monero with fiat currency on a cryptocurrency exchange, such as [Coinbase](link/coinbase).  You can also buy Monero with Fiat currencies from peer-to-peer exchanges or marketplaces
 
-On some websites, you might also be able to trade for Monero using other cryptocurrencies such as Bitcoin (BTC) and Ethereum (ETH).
-
-In the case where it is possible, there will usually be an option of 'Monero' in order to make the transaction easier.
+On some websites, you might also be able to trade for Monero using other cryptocurrencies such as Bitcoin (BTC) and Ethereum (ETH).  In the case where it is possible, there will usually be an option of 'Monero' in order to make the transaction easier.
 
 It's possible that you might be able to find someone on the internet who sells Monero for fiat currency through an account with PayPal, but this isn't something which can be guaranteed and it can sometimes take weeks of communications before such transactions go ahead successfully. The best advice would be to avoid these methods unless absolutely necessary as there are many other ways of buying Monero (XMR) more reliably than this at present.
 
-If you do want to try peer-to-peer exchanges or marketplaces, then most people recommend [LocalMonero](/link/local-monero) because it has been established for some time now and offers good security features including encryption and two factor authentication if desired. It also requires less
+If you do want to try peer-to-peer exchanges or marketplaces, then most people recommend [LocalMonero](/link/local-monero) because it has been established for some time now and offers good security features including encryption and two factor authentication if desired. 
 
 ## LocalMonero.co
 
