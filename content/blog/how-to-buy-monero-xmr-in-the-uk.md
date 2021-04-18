@@ -10,6 +10,8 @@ toc = true
 url = "buy-monero-xmr"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links. {{< /notice >}}
+
 > There are several ways to [buy Monero](buy-monero-xmr) directly with GBP.  Purchasing Monero can be a bit more complicated than other cryptos, but it’s also less expensive.
 
 In this blog post, we will discuss the best ways to [buy Monero in the UK](/buy-monero-xmr). We'll cover how to use a cryptocurrency exchange, as well as peer-to-peer exchanges and marketplaces. You'll also find out about some of the risks associated with buying Monero online and what you can do to minimise those risks.
