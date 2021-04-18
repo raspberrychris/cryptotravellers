@@ -41,6 +41,15 @@ If you do want to try peer-to-peer exchanges or marketplaces, then most people r
 
 [Local Monero](/link/local-monero) provides a comprehensive P2P service and charges around 5%.  If you are familiar with LocalBitcoins then you LocalMonero will feel very familiar.  If you are concerned about protecting your identity then you will be pleased to know you don't need to verify your ID.
 
+## How to buy Monero Step by Step using LocalMonero
+
+1. Sign up for an [account](/link/local-monero) with LocalMonero
+2. Head to the [Buy Monero](https://localmonero.co/buy-monero) page
+   1. You can use the drop-down boxes to filter the buy options
+   2.  Information for each seller is shown 
+   3. Click **BUY** to head to the offer page
+3. Follow the instructions to make the transfer, and your Monero will show up in your [LocalMonero](link/local-monero) wallet
+
 ## Liberalcoins.com
 
 ## Moneroforcash
