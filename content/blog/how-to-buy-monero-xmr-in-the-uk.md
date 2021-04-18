@@ -8,6 +8,10 @@ tags = ["Monero"]
 title = "How to Buy Monero XMR in the UK"
 toc = true
 url = "buy-monero-xmr"
+[menu.main]
+name = "Monero"
+parent = "How to Buy"
+weight = 7
 
 +++
 {{< notice "note" >}} Disclaimer: This post contains affiliate links. {{< /notice >}}

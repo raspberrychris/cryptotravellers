@@ -28,12 +28,12 @@ weight = 4
 name = "CRO"
 parent = "How to Buy"
 url = "buy-cro/"
-weight = 8
+weight = 9
 [[menu.main]]
 name = "Nexo"
 parent = "How to Buy"
 url = "buy-nexo/"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "Reef"
 parent = "How to Buy"
