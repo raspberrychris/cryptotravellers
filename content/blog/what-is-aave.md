@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["What is"]
 date = 2021-04-18T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/what-is-aave.png"
 tags = ["AAVE"]
 title = "What is AAVE?"
