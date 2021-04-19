@@ -1,19 +1,19 @@
 +++
-author = ""
-categories = []
-date = ""
+author = "Luna Sanchez"
+categories = ["What is"]
+date = 2021-04-18T23:00:00Z
 description = ""
 draft = true
-image = ""
-tags = []
+image = "/uploads/what-is-aave.png"
+tags = ["AAVE"]
 title = "What is AAVE?"
-toc = false
-url = ""
+toc = true
+url = "what-is-aave"
 
 +++
 ## What is Aave? (AAVE)
 
-Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.  Aave enables lending through a decentralized system that does not rely on middlemen.  Aave is the Finnish word for "Ghost" and has defined the DeFi space.
+**Aave** is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets.  Aave enables lending through a decentralized system that does not rely on middlemen.  Aave is the Finnish word for "Ghost" and has defined the DeFi space.
 
 ## Who created AAVE?
 
@@ -21,22 +21,24 @@ Aave is a Switzerland-based company founded in 2017 by Stani Kulechov and his co
 
 Aave is a system on the Ethereum blockchain that facilitates smart contract assets, allowing them to be managed by a distributed network of computers running its software.  Aave can also introduce features like instant loans, and other forms of creating debt that can take advantage of the unique design properties of blockchains.
 
-### Scarcity: 
+### Scarcity:
 
-12\.3 Million in circulation 
+12\.3 Million in circulation
 
-### Hashrate: 
+### Hashrate:
 
 Aave is a proof-of-capacity protocol which employs the use of hard drive space in order to create coins.
 
-### Market Cap: 
+### Market Cap:
 
 6\.4 billion
 
 ## Aave Explained (Video)
 
-Youtube 48nxw6fVTRE
+{{< youtube 48nxw6fVTRE >}}
 
-Exchanges where you can buy Aave
+## Exchanges where you can buy Aave
 
-Coinbase, Kraken and Gemini are all places where you can buy Aave.  Coinbase has supported Aave since Dec 15th 2020.
+[![coinbase-aave](/uploads/coinbase1.jpg)](/link/coinbase)
+
+[Coinbase](/link/coinbase), Kraken and Gemini are all places where you can buy Aave.  [Coinbase](/link/coinbase) has supported Aave since Dec 15th 2020.
