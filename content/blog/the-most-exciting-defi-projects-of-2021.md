@@ -21,7 +21,7 @@ The Decentralised Financial sector, which is called "[DeFi](/defi-explained)," r
 
 Decentralised finance projects typically encompass dApps for user-created token issuance, infrastructure such as asset management tools and decentralised exchanges, and more.
 
-[**What is DeFi? Read our Explanation article here.**](/defi-explained)
+> [**What is DeFi? Read our Explanation article here.**](/defi-explained)
 
 ## What is Tokenomics?
 
@@ -39,7 +39,7 @@ The second thing to consider when evaluating potential for a cryptocurrency are 
 
 The market cap of a cryptocurrency represents the total amount of money invested in that currency.  A low circulating supply and and a high market cap will make the coin or token more valuable.
 
-**To Learn more about Market Cap, check out our article on** [**What is Market Cap**](/what-is-market-cap-crypto)
+> **To Learn more about Market Cap, check out our article on** [**What is Market Cap**](/what-is-market-cap-crypto)
 
 ## What are the Best DeFi Crypto Projects of 2021?
 
