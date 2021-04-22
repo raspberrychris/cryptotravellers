@@ -51,30 +51,46 @@ Chainlink provides a decentralised data set through blockchain and offers a midd
 
 Some notable projects involving Chainlink oracles are Synthetic, AAVE, KyberSwap.
 
+[https://chain.link/](https://chain.link/ "https://chain.link/")
+
 ## Ren
 
 One of the most challenging aspects of cryptocurrency is transferring tokens between different blockchains. The REN protocol allows for the seamless transfer between any blockchain with existing smart contracts.
+
+[https://renproject.io/](https://renproject.io/ "https://renproject.io/")
 
 ## Synthetix
 
 One of the most hyped, fast-growing DeFi projects out there is Synthetix. It is a decentralised asset insurance protocol built on Ethereum.  Synthetix is a platform that allows users to create, mint and trade tokens replicating real-world assets.
 
+[https://synthetix.io/](https://synthetix.io/ "https://synthetix.io/")
+
 ## Dodo
 
 Dodo is a liquidity provider working toward stability by providing a proactive market maker. The project first launched on Ethereum as an ERC20 smart contract and was later expanded to the Binance Smart Chain.
+
+[https://dodoex.io/](https://dodoex.io/ "https://dodoex.io/")
 
 ## Pancakeswap
 
 PancakeSwap is an automated market maker decentralised exchange. The project got funding from Binance as a part of the company’s DeFi acceleration program on the Binance Smart Chain.
 
+[https://pancakeswap.finance/ ](https://pancakeswap.finance/)
+
 ## UMA
 
 UMA (Universal Market Access) is a protocol for creating synthetic contracts that are trustless.
+
+[https://umaproject.org/](https://umaproject.org/ "https://umaproject.org/")
 
 ## Fantom
 
 Fantom is working towards creating a DAG-based smart contract platform, which will enable smart contracts in a directed acyclic graph system using Lanchesis protocol.
 
+[https://fantom.foundation/](https://fantom.foundation/)
+
 ## Polkastarter
 
 Polkastarter is a cross-chain protocol for pools and auctions that allow projects to raise capital in an environment based on Polkadot.
+
+[https://polkastarter.com/](https://polkastarter.com/ "https://polkastarter.com/")
