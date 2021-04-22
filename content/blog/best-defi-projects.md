@@ -229,7 +229,7 @@ url = "best-defi-projects"
 
 =======
 | --- | --- | --- |
-| Project Name | Website | Category |
+| **Project Name** | **Website** | **Category** |
 | 0x | http://0x.org/ | Infrastructure |
 | 0x Tracker | https://0xtracker.com/ | Analytics |
 | Aave | https://aave.com/ | Lending |
