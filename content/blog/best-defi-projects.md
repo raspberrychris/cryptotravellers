@@ -11,7 +11,7 @@ toc = true
 url = "best-defi-projects"
 
 +++
-![](/uploads/best-defi-projects.png)| --- | --- | --- |
+| --- | --- | --- |
 | Project Name | Website | Category |
 | 0x | http://0x.org/ | Infrastructure |
 | 0x Tracker | https://0xtracker.com/ | Analytics |
