@@ -45,25 +45,19 @@ The market cap of a cryptocurrency represents the total amount of money invested
 
 ## 1. Chainlink
 
-Many decentralised applications (Dapps) in the cryptocurrency space require an oracle to interact with external data. The clear leader is Chainlink.
+Many decentralised applications (Dapps) in the cryptocurrency space require an oracle to interact with external data. The clear leader is [**Chainlink**](https://chain.link/)**.**
 
 Chainlink provides a decentralised data set through blockchain and offers a middle ground between the real world and blockchain applications.
 
 Some notable projects involving Chainlink oracles are Synthetic, AAVE, KyberSwap.
 
-[https://chain.link/](https://chain.link/ "https://chain.link/")
-
 ## 2. Ren
 
-One of the most challenging aspects of cryptocurrency is transferring tokens between different blockchains. The REN protocol allows for the seamless transfer between any blockchain with existing smart contracts.
-
-[https://renproject.io/](https://renproject.io/ "https://renproject.io/")
+One of the most challenging aspects of cryptocurrency is transferring tokens between different blockchains. The [**REN**](https://renproject.io/) protocol allows for the seamless transfer between any blockchain with existing smart contracts.
 
 ## 3. Synthetix
 
-One of the most hyped, fast-growing DeFi projects out there is Synthetix. It is a decentralised asset insurance protocol built on Ethereum.  Synthetix is a platform that allows users to create, mint and trade tokens replicating real-world assets.
-
-[https://synthetix.io/](https://synthetix.io/ "https://synthetix.io/")
+One of the most hyped, fast-growing DeFi projects out there is [**Synthetix**](https://synthetix.io/)**.** It is a decentralised asset insurance protocol built on Ethereum.  Synthetix is a platform that allows users to create, mint and trade tokens replicating real-world assets.
 
 ## 4. Dodo
 
@@ -73,24 +67,22 @@ Dodo is a liquidity provider working toward stability by providing a proactive m
 
 ## 5. Pancakeswap
 
-PancakeSwap is an automated market maker decentralised exchange. The project got funding from Binance as a part of the company’s DeFi acceleration program on the Binance Smart Chain.
-
-[https://pancakeswap.finance/ ](https://pancakeswap.finance/)
+[PancakeSwap](https://pancakeswap.finance/ ) is an automated market maker decentralised exchange. The project got funding from Binance as a part of the company’s DeFi acceleration program on the Binance Smart Chain.
 
 ## 6. UMA
 
-UMA (Universal Market Access) is a protocol for creating synthetic contracts that are trustless.
-
-[https://umaproject.org/](https://umaproject.org/ "https://umaproject.org/")
+[UMA](https://umaproject.org/) (Universal Market Access) is a protocol for creating synthetic contracts that are trustless.
 
 ## 7. Fantom
 
-Fantom is working towards creating a DAG-based smart contract platform, which will enable smart contracts in a directed acyclic graph system using Lanchesis protocol.
-
-[https://fantom.foundation/](https://fantom.foundation/)
+[**Fantom **](https://fantom.foundation/)is working towards creating a DAG-based smart contract platform, which will enable smart contracts in a directed acyclic graph system using Lanchesis protocol.
 
 ## 8. Polkastarter
 
-Polkastarter is a cross-chain protocol for pools and auctions that allow projects to raise capital in an environment based on Polkadot.
+[**Polkastarter**](https://polkastarter.com/) is a cross-chain protocol for pools and auctions that allow projects to raise capital in an environment based on Polkadot.
 
-[https://polkastarter.com/](https://polkastarter.com/ "https://polkastarter.com/")
+## 9. Maker
+
+## Useful Links
+
+[Defi Pulse](https://defipulse.com/) - Analytics and rankings of DeFi Protocols
