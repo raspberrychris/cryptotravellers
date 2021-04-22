@@ -1,14 +1,14 @@
 +++
-author = ""
-categories = []
-date = ""
+author = "Luna Sanchez"
+categories = ["What is"]
+date = 2021-04-21T23:00:00Z
 description = ""
 draft = true
-image = ""
-tags = []
+image = "/uploads/the-most-exciting-defi-projects-2021.png"
+tags = ["Defi"]
 title = "The Most Exciting Defi Projects of 2021"
-toc = false
-url = ""
+toc = true
+url = "best-defi-projects-2021"
 
 +++
 The future is now. It's time to get excited about the next decade of advances in Defi technology, which will be more exciting than any other decade in history.  This article highlights some of the most exciting Defi projects for 2021.
@@ -19,9 +19,7 @@ The Decentralised Financial sector, which is called "DeFi," refers to a crypto s
 
 Decentralised finance projects typically encompass dApps for user-created token issuance, infrastructure such as asset management tools and decentralised exchanges, and more.
 
-Although they're risky to invest in and use right now, the more time passes, the better they'll optimise and come out with a new tokenomics.
-
-## What are Tokenomics?
+## What is Tokenomics?
 
 The word Tokenomics is a portmanteau of "Token" and "Economics" It is the study of understanding the supply and demand economic factors that can impact a cryptocurrency. They are determined by many factors, which can be tracked on websites such as CoinMarketCap.com or CoinGeko.com.
 
@@ -31,9 +29,9 @@ Let’s look at three important factors before we continue the article.
 
 The supply of a cryptocurrency is based on three factors.
 
-The first one is the current resource, which indicates the total number of coins or tokens available in a system. 
+The first one is the current resource, which indicates the total number of coins or tokens available in a system.
 
-The second thing to consider when evaluating potential for a cryptocurrency are the maximum quantity and circulation. 
+The second thing to consider when evaluating potential for a cryptocurrency are the maximum quantity and circulation.
 
 ### Market Cap
 
@@ -71,7 +69,7 @@ PancakeSwap is an automated market maker decentralised exchange. The project got
 
 UMA (Universal Market Access) is a protocol for creating synthetic contracts that are trustless.
 
-## Fantom 
+## Fantom
 
 Fantom is working towards creating a DAG-based smart contract platform, which will enable smart contracts in a directed acyclic graph system using Lanchesis protocol.
 
