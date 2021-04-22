@@ -11,19 +11,21 @@ toc = true
 url = "best-defi-projects-2021"
 
 +++
-The future is now. It's time to get excited about the next decade of advances in Defi technology, which will be more exciting than any other decade in history.  This article highlights some of the most exciting Defi projects for 2021.
+The future is now. It's time to get excited about the next decade of advances in Defi technology, which will be more exciting than any other decade in history.  
+
+This article highlights some of the most exciting Defi projects for 2021.
 
 ## What is Defi?
 
-The Decentralised Financial sector, which is called "DeFi," refers to a crypto sector that works on bringing traditional finance features into the cryptocurrency world. It does this by dividing and de-centralising these services.
+The Decentralised Financial sector, which is called "[DeFi](/defi-explained)," refers to a crypto sector that works on bringing traditional finance features into the cryptocurrency world. It does this by dividing and de-centralising these services.
 
 Decentralised finance projects typically encompass dApps for user-created token issuance, infrastructure such as asset management tools and decentralised exchanges, and more.
 
+[**What is DeFi? Read our Explanation article here.**](/defi-explained)
+
 ## What is Tokenomics?
 
-The word Tokenomics is a portmanteau of "Token" and "Economics" It is the study of understanding the supply and demand economic factors that can impact a cryptocurrency. They are determined by many factors, which can be tracked on websites such as CoinMarketCap.com or CoinGeko.com.
-
-Let’s look at three important factors before we continue the article.
+The word **Tokenomics** is a portmanteau of "Token" and "Economics" It is the study of understanding the supply and demand economic factors that can impact a cryptocurrency. 
 
 ### Supply
 
@@ -37,7 +39,7 @@ The second thing to consider when evaluating potential for a cryptocurrency are 
 
 The market cap of a cryptocurrency represents the total amount of money invested in that currency.  A low circulating supply and and a high market cap will make the coin or token more valuable.
 
-To Learn more about Market Cap, check out our article on What is Market Cap
+**To Learn more about Market Cap, check out our article on** [**What is Market Cap**](/what-is-market-cap-crypto)
 
 Best DeFi Crypto Projects 2021
 
