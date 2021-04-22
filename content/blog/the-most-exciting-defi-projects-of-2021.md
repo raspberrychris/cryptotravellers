@@ -11,11 +11,11 @@ toc = true
 url = "best-defi-projects-2021"
 
 +++
-The future is now. It's time to get excited about the next decade of advances in Defi technology, which will be more exciting than any other decade in history.  
+The future is now. It's time to get excited about the next decade of advances in DeFi technology, which will be more exciting than any other decade in history.  
 
-This article highlights some of the most exciting Defi projects for 2021.
+This article highlights some of the most exciting DeFi projects for 2021.
 
-## What is Defi?
+## What is DeFi?
 
 The Decentralised Financial sector, which is called "[DeFi](/defi-explained)," refers to a crypto sector that works on bringing traditional finance features into the cryptocurrency world. It does this by dividing and de-centralising these services.
 
