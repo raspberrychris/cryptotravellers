@@ -8,6 +8,10 @@ tags = ["DeFi"]
 title = "Best DeFi Projects"
 toc = true
 url = "best-defi-projects"
+[menu.main]
+name = "Best Defi Projects"
+parent = "Resources"
+weight = 1
 
 +++
 
