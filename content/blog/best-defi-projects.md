@@ -3,6 +3,7 @@ author = "Luna Sanchez"
 categories = ["The Best", "DeFi"]
 date = 2021-04-21T23:00:00Z
 description = ""
+draft = true
 image = "/uploads/best-defi-projects-1.png"
 tags = ["DeFi"]
 title = "Best DeFi Projects"
