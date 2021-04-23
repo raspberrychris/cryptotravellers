@@ -9,7 +9,6 @@
   {{if and (not .IsHome) (ne .Section "blog") (ne .Permalink (`about/` | absURL)) (ne .Permalink (`search/` | absURL)) }}
   {{ partial "page-header.html" . }}
   {{end}}
-  <div class="cryptohopper-web-widget" data-id="2" data-atid="20560"></div>
   {{ block "main" . }}{{ end }}
   {{ partialCached "footer.html" . }}
   {{ partialCached "script.html" . }}
