@@ -3,6 +3,7 @@
   <div class="container">
     <div class="row no-gutters justify-content-center">
       <div class="col-lg-10">
+<!-- cryptohopper affiliate ticker -->
         <div class="cryptohopper-web-widget" data-id="2" data-text_color="#000000" data-atid="20560"></div>
         <div class="row">
           {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
@@ -30,6 +31,8 @@
               {{ if gt $paginator.TotalPages 1 }}
               <nav class="mb-md-50">
                 <ul class="pagination justify-content-center">
+                  <!-- Cryptohopper affiiliate ticker -->
+          <div class="cryptohopper-web-widget" data-id="2" data-text_color="#000000" data-atid="20560"></div>
                   <!-- Previous page. -->
                   {{ if $paginator.HasPrev }}
                   <li class="page-item"><a class="page-link rounded" href="{{ $paginator.Prev.URL }}" aria-label="Pagination Arrow">
@@ -85,10 +88,6 @@
               {{ end }}
             </nav>
           </div>
-          <!-- Cryptohopper affiiliate ticker -->
-          <P>
-          </p>
-<center><div class="cryptohopper-web-widget" data-id="2" data-text_color="#000000" data-atid="20560"></div>
         </div>
 
       </div>
