@@ -36,9 +36,9 @@ Go to one of the following exchanges and buy Bitcoin:
 
 ### Step 2
 
-**Use** [**Changelly **](/link/changelly)to convert your Bitcoin to Pirate Chain ARRR.  (You can do this on their website here, or using the widget below). 
+**Use** [**Changelly **](/link/changelly)to convert your Bitcoin to Pirate Chain ARRR.  (You can do this on their website here, or using the widget below).
 
-[Changelly](/link/changelly) have an excellent rating on [Trustpilot](https://www.trustpilot.com/review/changelly.com) 
+[Changelly](/link/changelly) have an excellent rating on [Trustpilot](https://www.trustpilot.com/review/changelly.com)
 
 ## Buy Pirate Chain
 
@@ -46,7 +46,7 @@ Go to one of the following exchanges and buy Bitcoin:
 
 > [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
 
-{{< iframe "https://widget.changelly.com?from=_&to=_&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3_"_ >}}
+{{< iframe "https://widget.changelly.com?from=btc&to=eth&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0h_0fv2345i88&payment_id=&v=3"_ >}}
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
 
