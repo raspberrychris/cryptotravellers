@@ -14,7 +14,6 @@ parent = "Resources"
 weight = 1
 
 +++
-
 | Project   Name | Website | Category |
 | --- | --- | --- |
 | 0x | http://0x.org/ | Infrastructure |

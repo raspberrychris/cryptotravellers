@@ -8,6 +8,9 @@ tags = []
 title = "Exchange Crypto"
 toc = false
 url = "exchange-crypto"
+[menu.main]
+parent = "Resources"
+weight = 2
 
 +++
 
