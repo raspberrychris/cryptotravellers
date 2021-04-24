@@ -60,7 +60,7 @@ Get a wallet for Pirate Chain from the following link:
 
 ## Useful Links
 
-* Website: [https://pirate.black/](https://pirate.black/ "https://pirate.black/")
+* Pirate Chain Website: [https://pirate.black/](https://pirate.black/ "https://pirate.black/")
 * Twitter: [https://twitter.com/Pirates](https://twitter.com/Pirates "https://twitter.com/Pirates")
 * Telegram: https://t.me/piratechain/
 * Pirate Chain Whitepaper: [https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf](https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf "https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf")
