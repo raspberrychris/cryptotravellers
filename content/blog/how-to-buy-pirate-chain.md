@@ -64,3 +64,4 @@ We recommend [Changelly](/link/changelly) as they have an excellent rating on [T
 * Twitter: [https://twitter.com/Pirates](https://twitter.com/Pirates "https://twitter.com/Pirates")
 * Telegram: https://t.me/piratechain/
 * Pirate Chain Whitepaper: [https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf](https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf "https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf")
+* Pirate Chain Reddit: [https://www.reddit.com/r/PirateChain/](https://www.reddit.com/r/PirateChain/ "https://www.reddit.com/r/PirateChain/")
