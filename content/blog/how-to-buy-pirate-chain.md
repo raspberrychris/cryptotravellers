@@ -18,6 +18,8 @@ Pirate Chain is the first cryptocurrency to implement a mandatory, private-only 
 
 Pirate Chain’s default is that all transactions are invisible to the public, making them difficult to track. All of Pirate Chain’s addresses are in its anonymity set, among the largest in the industry. ARRR is secured by dPoW (delayed proof of work), which links the ARRR blockchain to Bitcoin's blockchain, making it difficult to attack. Created in 2018 with no pre-mine or block reward, Pirate Chain seeks to protect the financial privacy of every user on the planet.
 
+> _"Pirate Chain uses Military Grade Encryption and delayed proof of work to make it the most secure and anonymous cryptocurrency in the world" - Pirate Chain Website_
+
 ## Where Can I Buy Pirate Chain ARRR?
 
 There is no direct way to buy ARRR with Fiat, but you can use the below services to buy Bitcoin and then convert it using Changelly.
@@ -60,3 +62,5 @@ Get a wallet for Pirate Chain from the following link:
 
 * Website: [https://pirate.black/](https://pirate.black/ "https://pirate.black/")
 * Twitter: [https://twitter.com/Pirates](https://twitter.com/Pirates "https://twitter.com/Pirates")
+* Telegram: https://t.me/piratechain/
+* Pirate Chain Whitepaper: [https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf](https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf "https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf")
