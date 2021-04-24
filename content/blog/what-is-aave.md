@@ -45,3 +45,5 @@ Aave is a proof-of-capacity protocol which employs the use of hard drive space i
 [Coinbase](/link/coinbase), Kraken and Gemini are all places where you can buy Aave.  [Coinbase](/link/coinbase) has supported Aave since Dec 15th 2020.
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
+
+{{< iframe "[https://widget.changelly.com?from=btc&to=eth&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0_x0fv2345i88&payment_id=&v=3_](https://widget.changelly.com?from=btc&to=eth&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3 "https://widget.changelly.com?from=btc&to=eth&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3")" >}}
