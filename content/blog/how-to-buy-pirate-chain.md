@@ -46,7 +46,7 @@ Get a wallet for Pirate Chain from the following link:
 
 **Use** [**Changelly **](/link/changelly)to convert your Bitcoin to Pirate Chain ARRR.  (You can do this on their website here, or using the widget below).
 
-[Changelly](/link/changelly) have an excellent rating on [Trustpilot](https://www.trustpilot.com/review/changelly.com)
+We recommend [Changelly](/link/changelly) as they have an excellent rating on [Trustpilot](https://www.trustpilot.com/review/changelly.com) and there is no [KYC](https://en.wikipedia.org/wiki/Know_your_customer) for up to 2 BTC per day.
 
 ## Buy Pirate Chain
 
