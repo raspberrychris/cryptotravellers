@@ -29,15 +29,15 @@ There is no direct way to buy ARRR with Fiat, but you can use the below services
 
 Go to one of the following exchanges and buy Bitcoin:
 
-* Coinbase
-* Crypto.com
+* [Coinbase](/link/coinbase)
+* [Crypto.com](/link/sign-up-crypto-dot-com)
 * Binance
 * Kraken
 * LocalBitcoins
 
 ### Step 2
 
-Use Changelly to convert your Bitcoin to Pirate Chain ARRR.  (You can do this on their website here, or using the widget below).
+**Use** [**Changelly **](/link/changelly)to convert your Bitcoin to Pirate Chain ARRR.  (You can do this on their website here, or using the widget below).
 
 ## Useful Links
 
