@@ -15,8 +15,8 @@ weight = 2
 +++
 ## Exchange Crypto With Changelly
 
-{{< notice "note" >}} Disclaimer: This post contains affiliate links to Changelly. {{< /notice >}}
+{{< notice "note" >}} Disclaimer: This post contains affiliate links to [**Changelly**](/link/changelly). {{< /notice >}}
 
-> Changelly provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
 
 {{< iframe "https://widget.changelly.com?from=_&to=_&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3_"_ >}}
