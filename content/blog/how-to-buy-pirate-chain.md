@@ -36,6 +36,12 @@ Go to one of the following exchanges and buy Bitcoin:
 
 ### Step 2
 
+Get a wallet for Pirate Chain from the following link:
+
+[https://pirate.black/wallets/](https://pirate.black/wallets/ "https://pirate.black/wallets/")
+
+### Step 3
+
 **Use** [**Changelly **](/link/changelly)to convert your Bitcoin to Pirate Chain ARRR.  (You can do this on their website here, or using the widget below).
 
 [Changelly](/link/changelly) have an excellent rating on [Trustpilot](https://www.trustpilot.com/review/changelly.com)
