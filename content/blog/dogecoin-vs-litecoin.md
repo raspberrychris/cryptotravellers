@@ -31,4 +31,12 @@ Litecoin has a finite amount of coins—84 million. The block mining reward is h
 
 One DOGE is generated every 1 minute, which is 250% faster than Litecoin. Full confirmation can take up to 6 minutes. This process takes 10 minutes for Litecoin and 60 minutes for Bitcoin.
 
+## Exchange Litecoin or Dogecoin With Changelly
+
+{{< notice "note" >}} Disclaimer: This post contains affiliate links to [**Changelly**](/link/changelly). {{< /notice >}}
+
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
+
+{{< iframe "[https://widget.changelly.com?from=](https://widget.changelly.com?from= "https://widget.changelly.com?from=")_&to=_&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3_"_ >}}
+
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
