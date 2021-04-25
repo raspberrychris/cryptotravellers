@@ -37,6 +37,6 @@ One DOGE is generated every 1 minute, which is 250% faster than Litecoin. Full c
 
 > [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
 
-{{< iframe "https://widget.changelly.com?from=btc&to=eth&amount=1&address=&fromDefault=btc&toDefault=eth&theme=default&merchant_id=3sc0h_0fv2345i88&payment_id=&v=3"_ >}}
+{{< iframe "https://widget.changelly.com?from=btc&to=doge%2Cltc&amount=0.44006301&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3" >}}
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
