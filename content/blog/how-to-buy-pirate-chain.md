@@ -54,7 +54,7 @@ We recommend [Changelly](/link/changelly) as they have an excellent rating on [T
 
 > [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
 
-{{< iframe "https://widget.changelly.com?from=btc&to=arrr&amount=0.0131916&address=&fromDefault=undefined&toDefault=arrr&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3" >}}
+{{< iframe "https://widget.changelly.com?from=btc&to=arrr&amount=0.20652455&address=&fromDefault=btc&toDefault=arrr&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3" >}}
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
 
