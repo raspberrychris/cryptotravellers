@@ -15,6 +15,8 @@ url = "buy-zilliqa"
 
 Zilliqa is a decentralised blockchain that allows for scalable, secure and low-cost transactions. The ZIL token has been trading on various exchanges since October 2017. There are no transaction fees or scaling limitations for the network which scales with demand - meaning it can process about 24,000 transactions per second in theory (although this would require some updates to its protocol). It is also a public blockchain platform that allows developers to build smart contracts and DApps on top of it; The fundamental difference is Zilliqa uses sharding.
 
+![zilliqa ](/uploads/qhkdq2c2eneftt9ae5uaxbcpnapr286okjq6bclv.png)
+
 Singapore-based project Zilliqa was born out from a research paper at the National University of Singapore (NUS). In 2016, Prateek Saxena co-wrote a research paper with Loi Luu exploring the concept of sharding in the blockchain.
 
 A key feature of Zilliqa's design is sharding where every node processes only a small fraction of all available data at any time. This means each node stores less data and requires much fewer resources to be able to reach consensus over the shared state as well as apply new blocks from other nodes. When one node fails, there will still be many others acting in  parallel to continue the operation.
@@ -29,9 +31,11 @@ The easiest way to purchase ZIL is through an exchange like Binance or Kucoin. H
 
 ## How To Set Up A Wallet?
 
-If you want to store your Zilliqa tokens securely, then it's very important that you set up a wallet where you can transfer them after purchasing some. This article will show you how to do so via MyEtherWallet or MetaMask (which is available for both Chrome and Firefox). Remember: we are not affiliated with these wallets in any way whatsoever - this article was written only as an informational resource on the issue at hand.
+If you want to store your Zilliqa tokens securely, then it's very important that you set up a wallet where you can transfer them after purchasing some. 
 
-Now let's discuss what happens when someone purchases Ziliqa. It isn't just about buying it, it also has lots of practical uses! You'll learn more about those in the next  section.
+There are many supported wallets for Zilliqa including [**Ledger**](/link/ledger)**,** Moonlet, Trust Wallet, Zillet, Zilpay Wallet, Atomic Wallet, Infinito Wallet Math wallet and more.  You can also store your Zillqa tokens on [**Crypto.com.**](/link/sign-up-crypto-dot-com)
+
+![zilliqa-wallets](/uploads/zilliqa-wallets.png)
 
 ## Can I buy Zilliqa on Crypto com?
 
