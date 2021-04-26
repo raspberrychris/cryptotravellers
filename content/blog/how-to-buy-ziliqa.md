@@ -1,14 +1,14 @@
 +++
 author = "Luna Sanchez"
-categories = []
+categories = ["How To Buy"]
 date = 2021-04-25T23:00:00Z
 description = ""
 draft = true
-image = ""
-tags = []
-title = "How to Buy Ziliqa"
-toc = false
-url = ""
+image = "/uploads/how-to-buy-zilliqa.png"
+tags = ["Zilliqa"]
+title = "How to Buy Zilliqa"
+toc = true
+url = "buy-zilliqa"
 
 +++
 ## What is Zilliqa?
@@ -25,22 +25,30 @@ The Zilliqa project raised a very successful ICO in December 2017, selling $20 m
 
 If you are interested in buying Zilliqa, this article will walk you through the steps to get started. We'll discuss where to buy it, how to set up a wallet, and more.
 
-The easiest way to purchase ZIL is through an exchange like Binance or Kucoin. However, if you prefer to use fiat currency (e.g., USD) then CoinSwitch is another option for buying Bitcoin with which you can trade via other currencies - including Ethereum and Ripple's XRP coin - in order to obtain ZIL tokens directly from them instead than using any third party services such as exchanges. You should be aware though that direct purchase may  be limited to a small amount of ZIL coins.
+The easiest way to purchase ZIL is through an exchange like Binance or Kucoin. However, if you prefer to use fiat currency (e.g., USD) then CoinSwitch is another option for buying Bitcoin with which you can trade via other currencies - including [Ethereum](/buy-ethereum) and Ripple's XRP coin - in order to obtain ZIL tokens directly from them instead than using any third party services such as exchanges. You should be aware though that direct purchase may  be limited to a small amount of ZIL coins.
 
 ## How To Set Up A Wallet?
 
 If you want to store your Zilliqa tokens securely, then it's very important that you set up a wallet where you can transfer them after purchasing some. This article will show you how to do so via MyEtherWallet or MetaMask (which is available for both Chrome and Firefox). Remember: we are not affiliated with these wallets in any way whatsoever - this article was written only as an informational resource on the issue at hand.
 
-Now let's discuss what happens when someone purchases ziliqi. It isn't just about buying it--it also has lots of practical uses! You'll learn more about those in the next  section.
+Now let's discuss what happens when someone purchases Ziliqa. It isn't just about buying it, it also has lots of practical uses! You'll learn more about those in the next  section.
 
 ## Can I buy Zilliqa on Crypto com?
 
-Yes.  Crypto.com added Zilliqa on to their exchange on the 2nd December 2020.
+Yes.  Crypto.com [added Zilliqa on to their exchange on the 2nd December 2020.](https://blog.crypto.com/crypto-com-exchange-to-list-zilliqa-zil/)
 
-[https://blog.crypto.com/crypto-com-exchange-to-list-zilliqa-zil/](https://blog.crypto.com/crypto-com-exchange-to-list-zilliqa-zil/ "https://blog.crypto.com/crypto-com-exchange-to-list-zilliqa-zil/")
+[**Buy Zilliqa on Crypto.com**](/link/sign-up-crypto-dot-com)
 
 ## Can you buy Zilliqa on Coinbase?
 
-No, currently you cannot buy Zillqa on Coinbase.
+No, currently you cannot buy Zillqa on [Coinbase](/link/coinbase).
 
-"https://widget.changelly.com?from=btc&to=zil&amount=0.70497283&address=&fromDefault=btc&toDefault=zil&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3"
+## Buy Zilliqa with Changelly
+
+{{< notice "note" >}} Disclaimer: This post contains affiliate links to [**Changelly**](/link/changelly). {{< /notice >}}
+
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
+
+{{< iframe "https://widget.changelly.com?from=btc&to=zil&amount=0.70497283&address=&fromDefault=btc&toDefault=zil&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3" >}}
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
