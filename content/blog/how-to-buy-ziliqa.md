@@ -10,6 +10,8 @@ toc = true
 url = "buy-zilliqa"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 ## What is Zilliqa?
 
 **Zilliqa** is a decentralised blockchain that allows for scalable, secure and low-cost transactions. The ZIL token has been trading on various exchanges since October 2017. There are no transaction fees or scaling limitations for the network which scales with demand - meaning it can process about 24,000 transactions per second in theory (although this would require some updates to its protocol). It is also a public blockchain platform that allows developers to build smart contracts and DApps on top of it; The fundamental difference is Zilliqa uses sharding.
@@ -30,7 +32,7 @@ The easiest way to purchase ZIL is through an exchange like Binance or Kucoin. H
 
 ## How To Set Up A Wallet?
 
-If you want to store your Zilliqa tokens securely, then it's very important that you set up a wallet where you can transfer them after purchasing some. 
+If you want to store your Zilliqa tokens securely, then it's very important that you set up a wallet where you can transfer them after purchasing some.
 
 There are many supported wallets for Zilliqa including [**Ledger**](/link/ledger)**,** Moonlet, [Trust Wallet,](https://trustwallet.com/) Zillet, Zilpay Wallet, Atomic Wallet, Infinito Wallet Math wallet and more.  You can also store your Zillqa tokens on [**Crypto.com.**](/link/sign-up-crypto-dot-com)
 
