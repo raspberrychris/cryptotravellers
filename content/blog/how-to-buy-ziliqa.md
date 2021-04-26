@@ -42,3 +42,5 @@ Yes.  Crypto.com added Zilliqa on to their exchange on the 2nd December 2020.
 ## Can you buy Zilliqa on Coinbase?
 
 No, currently you cannot buy Zillqa on Coinbase.
+
+"https://widget.changelly.com?from=btc&to=zil&amount=0.70497283&address=&fromDefault=btc&toDefault=zil&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3"
