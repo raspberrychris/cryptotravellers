@@ -7,6 +7,11 @@ summaryLength = "20"
 theme = "Table-of-Content"
 title = "Crypto Travellers - Welcome to the World of Crypto"
 disableKinds = ["sitemap", "RSS"]
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
