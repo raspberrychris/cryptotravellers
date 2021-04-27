@@ -13,7 +13,7 @@ disableKinds = ["sitemap", "RSS"]
     tag = "tags"
 
 [sitemap]
-    changefreq = monthly
+    changefreq = daily
     filename = sitemap.xml
     priority = 0.5
 
