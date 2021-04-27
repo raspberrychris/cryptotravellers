@@ -6,6 +6,7 @@ paginate = "5"
 summaryLength = "20"
 theme = "Table-of-Content"
 title = "Crypto Travellers - Welcome to the World of Crypto"
+disableKinds = ["sitemap", "RSS"]
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
