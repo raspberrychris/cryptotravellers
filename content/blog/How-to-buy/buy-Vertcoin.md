@@ -11,13 +11,13 @@ toc = true
 url = "buy-vertcoin"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 [**Buying Vertcoin**](/link/bitvavo) is a simple process, but it's not always easy to know exactly how to do it. There are some common misconceptions about how Vertcoin works that can lead people astray. That's why we're going to break down the process of buying Vertcoin into 3 steps:
 
-1) Finding a cryptocurrency exchange;
-
-2) Setting up an account on the chosen exchange; and
-
-3) Buying your Vertcoin (We recommend [Bitvavo](/link/bitvavo) exchange to buy Vertcoin)
+1. Finding a cryptocurrency exchange;
+2. Setting up an account on the chosen exchange; and
+3. Buying your Vertcoin (We recommend [Bitvavo](/link/bitvavo) exchange to buy Vertcoin)
 
 ## What is Vertcoin?
 
