@@ -11,7 +11,7 @@ toc = true
 url = "sell-bitcoin-uk"
 
 +++
-**Bitcoin** has been around since 2009, and many people have been investing in it during that period. But if you are not sure how to sell bitcoin, then this guide is perfect for you. In order to buy or [**sell Bitcoin**](/sell-bitcoin-uk) in the UK, all you will need is an internet connection and a wallet. We will cover everything that you need to know about buying bitcoins from exchanges like [**Coinbase**](/link/coinbase), [**Crypto.com**](/link/sign-up-crypto-dot-com) and trading bitcoins on platforms like LocalBitcoins.
+**Bitcoin** has been around since 2009, and many people have been investing in it during that period. But if you are not sure how to sell bitcoin, then this guide is perfect for you. In order to buy or [sell Bitcoin](/sell-bitcoin-uk) in the UK, all you will need is an internet connection and a wallet. We will cover everything that you need to know about buying bitcoins from exchanges like [Coinbase](/link/coinbase), [Crypto.com](/link/sign-up-crypto-dot-com) and trading bitcoins on platforms like [LocalBitcoins](/link/local-bitcoins).
 
 ## Best Places to Sell Bitcoin (BTC) in the UK
 
@@ -21,7 +21,7 @@ url = "sell-bitcoin-uk"
 
 > [**Crypto.com**](/link/sign-up-crypto-dot-com) also have a very competitive range of metal pre-paid cards that will give you a [rebate on Spotify, Netflix and Amazon Prime](/link/sign-up-crypto-dot-com) and Cashback of up to 8%.
 
-**LocalBitcoins** - A peer to peer network where you can trade Bitcoins through various channels like private office meetings, public internet transactions etc.; there are some reports about scams happening on this website though so be careful when dealing with strangers online!  2026 (end) Best Places to Sell Bitcoin
+[**LocalBitcoins**](/link/local-bitcoins) - A peer to peer network where you can trade Bitcoins through various channels like private office meetings, public internet transactions etc.; there are some reports about scams happening on this website though so be careful when dealing with strangers online!  2026 (end) Best Places to Sell Bitcoin
 
 ## Should i get a Hardware wallet to store my bitcoin?
 
