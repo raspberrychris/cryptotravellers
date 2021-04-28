@@ -23,7 +23,7 @@ z![bitcoin-coin](https://i.pinimg.com/originals/6f/3f/6f/6f3f6f671839f72561c6e86
 
 ![coinbase](/uploads/coinbase-pro-exchange.png)
 
-## Best for Those who want to trade on an Exchange
+## Best for Those who want to sell BTC on a Centralised Exchange
 
 [**Crypto.com**](/link/sign-up-crypto-dot-com) - One of the most popular cryptocurrency exchanges, it makes it very easy to sell Bitcoin or exchange it for other cryptos.  
 
@@ -31,12 +31,20 @@ z![bitcoin-coin](https://i.pinimg.com/originals/6f/3f/6f/6f3f6f671839f72561c6e86
 
 > [**Crypto.com**](/link/sign-up-crypto-dot-com) also have a very competitive range of metal pre-paid cards that will give you a [rebate on Spotify, Netflix and Amazon Prime](/link/sign-up-crypto-dot-com) and Cashback of up to 8%.
 
-[**LocalBitcoins**](/link/local-bitcoins) - A peer to peer network where you can trade Bitcoins through various channels, Local Bitcoins is peer to peer, which means it is not a centralised exchange so the site enables you to directly connect with someone to buy or sell your BTC to.
+## Best for BTC purists who want to Sell Bitcoin P2P
+
+[**LocalBitcoins**](/link/local-bitcoins) - A peer to peer network where you can trade Bitcoin, Local Bitcoins is peer to peer, which means it is not a centralised exchange so the site enables you to directly connect with someone to buy or sell your BTC to.  This method of selling and buying bitcoin stays more true to the Bitcoin decentralised principles.
 
 ![peer-to-peer-btc-local-bitcoins](/uploads/trading-ecf36db38607.png)
 
-Image Via: Localbitcoins
+Image Via: [Localbitcoins](/link/local-bitcoins)
 
-## Should i get a Hardware wallet to store my bitcoin?
+## Further Considerations when buying and selling Bitcoin
 
-Having a hardware wallet to store your bitcoin is not essential in order to buy and sell crypto but it can be useful from a security perspective.  The [Trezor Model T](/link/trezor-model-t) supports a wide range of crypto currencies and is best for HODLing your BTC.  Alternatives to the Trezor include the [Ledger](/link/ledger), which is also a good wallet for HODLing and is cheaper than the Trezor Model T.
+### Should I get a Hardware wallet to store my bitcoin?
+
+Having a **hardware wallet** to store your bitcoin is not essential in order to buy and sell crypto but it can be useful from a security perspective.  The [Trezor Model T](/link/trezor-model-t) supports a wide range of crypto currencies and is best for HODLing your BTC.  Alternatives to the Trezor include the [Ledger](/link/ledger), which is also a good wallet for HODLing and is cheaper than the Trezor Model T.  Ultimately we would advise that a hardware or other wallet would be a better way to store your bitcoin than on a centralised exchange.  
+
+### Not your keys, not your coins
+
+Not your keys, not your coins is an expression used within the crypto community that encourages Bitcoin hodlers to store their bitcoin in more secure places other than centralised exchanges.  If you don't own the private keys then you are effectively entrusting your bitcoin to a 3rd party.  After the recent hacks of various crypto exchanges it is definitely worth investing in a hardware wallet if you have a substantial amount on BTC.  
