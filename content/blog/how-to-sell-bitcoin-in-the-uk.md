@@ -4,7 +4,7 @@ categories = ["How to Sell"]
 date = 2021-04-27T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/how-to-sell-bitcoin.png"
 tags = ["Bitcoin"]
 title = "How to Sell Bitcoin in the UK"
 toc = true
@@ -17,7 +17,9 @@ url = "sell-bitcoin-uk"
 
 [**Coinbase**](/link/coinbase) - This is one of the best places to buy and sell Bitcoin. You can use this app for buying, trading, sending and receiving bitcoins using your bank account or credit card.
 
-[**Crypto.com**](/link/sign-up-crypto-dot-com) - One of the most popular cryptocurrency exchanges in Asia Pacific region; it offers bitcoin with fiat currency as well as an ICO platform that makes it easier to invest in ICOs by giving investors a single tokenised asset.
+[**Crypto.com**](/link/sign-up-crypto-dot-com) - One of the most popular cryptocurrency exchanges, it offers bitcoin with fiat currency as well as an ICO platform that makes it easier to invest in ICOs by giving investors a single tokenised asset.  
+
+> [**Crypto.com**](/link/sign-up-crypto-dot-com) also have a very competitive range of metal pre-paid cards that will give you a [rebate on Spotify, Netflix and Amazon Prime](/link/sign-up-crypto-dot-com) and Cashback of up to 8%.
 
 **LocalBitcoins** - A peer to peer network where you can trade Bitcoins through various channels like private office meetings, public internet transactions etc.; there are some reports about scams happening on this website though so be careful when dealing with strangers online!  2026 (end) Best Places to Sell Bitcoin
 
