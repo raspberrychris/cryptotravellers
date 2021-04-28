@@ -10,6 +10,8 @@ toc = true
 url = "sell-bitcoin-uk"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 **Do you want to sell your Bitcoin? Bitcoin** has been around since 2009, and many people have been investing in it during that period. But if you are not sure how to sell bitcoin, then this guide is perfect for you. In order to buy or [sell Bitcoin](/sell-bitcoin-uk) in the UK, all you will need is an internet connection and a wallet. We will cover everything that you need to know about buying bitcoins from exchanges like [Coinbase](/link/coinbase), [Crypto.com](/link/sign-up-crypto-dot-com) and trading bitcoins on platforms like [LocalBitcoins](/link/local-bitcoins).
 
 z![bitcoin-coin](https://i.pinimg.com/originals/6f/3f/6f/6f3f6f671839f72561c6e8686a8ebcbc.jpg)
@@ -61,3 +63,5 @@ Best Bitcoin Hardware Wallet: [Ledger Nano X](/link/ledger)
 Best Bitcoin Wallet For a Large Number of Cryptocurrencies: [Trezor Model T](/link/trezor-model-t)
 
 Best Bitcoin Wallet by Value for Money: [Ledger Nano S](/link/ledger)
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
