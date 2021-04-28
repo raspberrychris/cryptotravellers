@@ -21,19 +21,21 @@ url = "buy-vertcoin"
 
 ## What is Vertcoin?
 
-Vertcoin is a decentralised digital currency that can be sent between people over the internet. Vertcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and issuing money are carried out collectively by the network. It's similar to Bitcoin, but it has one major difference - mining difficulty (the amount of processing power required) reverts back every block, instead of getting more difficult as time goes on like in Bitcoin.
+![](https://hackernoon.com/hn-images/1*OIQBbXBIv6XZGGFbmUAvVg.png)
+
+Vertcoin is a decentralised digital currency that can be sent between people over the internet. Vertcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and issuing money are carried out collectively by the network. It's similar to [Bitcoin](/buy-bitcoin), but it has one major difference - mining difficulty (the amount of processing power required) reverts back every block, instead of getting more difficult as time goes on like in Bitcoin.
 
 ## What you should know before buying Vertcoins
 
 There are some common misconceptions about how Vertcoin works that can lead people astray. That’s why we're going to break down the process of buying Vertcoins into three steps: finding a cryptocurrency exchange, setting up an account, and actually buying Vertcoins.
 
-Finding a cryptocurrency exchange: The first step is finding an online marketplace for cryptocurrencies like Coinbase or GDAX. You can find these exchanges by searching the web with keywords like "best crypto currency exchanges" or "crypto-exchanges". These sites act as marketplaces where buyers and sellers of cryptocurrencies meet to trade coins. This means you'll need to sign up in order to buy from someone else's balance on the site.  We have looked at the top places to buy Vertcoin and think that [Bitvavo](/link/bitvavo) is our editors pick.
+Finding a cryptocurrency exchange: The first step is finding an online marketplace for cryptocurrencies like [Coinbase](/link/coinbase). You can find these exchanges by searching the web with keywords like "best crypto currency exchanges" or "crypto-exchanges". These sites act as marketplaces where buyers and sellers of cryptocurrencies meet to trade coins. This means you'll need to sign up in order to buy from someone else's balance on the site.  
 
-Setting up an account: After signing up, it’s time set up your\]
+> We have looked at the top places to buy **Vertcoin** and [Bitvavo](/link/bitvavo) is our editors top pick.
 
 ## Is Vertcoin worth mining?
 
-No, Vertcoin is not a good cryptocurrency to mine. There are better cryptocurrencies out there in terms of mining profitability and price stability.
+Vertcoin has a simple mining process so it is attractive to miners.  You can download the one click miner [here](https://vertcoin.org/) and mine Vertcoin using GPU and FPGA devices.
 
 ## Do Vertcoins have any advantages? If so what are they?
 
@@ -63,7 +65,7 @@ Create new coins from scratch using Scrypt mining algorithm (also known as ASIC 
 
 ## What exchange can I buy Vertcoin on?
 
-We would recommend using [**Bitvavo**](/link/bitvavo) to purchase Vertcoin on.  It support a variety of altcoins including Vertcoin.
+We would recommend using [**Bitvavo**](/link/bitvavo) to purchase Vertcoin on.  It support a variety of altcoins including Vertcoin.  Bitvavo is also the largest exchange in the Netherlands.
 
 ## Useful Links
 
