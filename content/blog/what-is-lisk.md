@@ -4,13 +4,15 @@ categories = ["What is", "How To Buy"]
 date = 2021-04-28T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/what-is-lisk.png"
 tags = ["Lisk"]
 title = "What is Lisk?"
 toc = true
 url = "buy-lisk"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 **What is Lisk? Lisk** is a Cryptocurrency that is a platform for decentralised blockchain applications (DApps). It was started in 2016 by [Max Kordek](https://de.linkedin.com/in/maxkordek) and [Oliver Beddows](https://uk.linkedin.com/in/oliver-beddows-19aa09107), following the success of Crypti which they also founded. Max dropped out of university at 24 to found Lisk. Lisk's headquarters are located in Aachen, Germany with offices in Berlin and Buenos Aires. The company has received investment from well-known venture capital companies including Lightcurve (a development studio), Blockchain Capital, Digital Currency Group, Pantera Capital as well as individual investors like Charles Hoskinson (of [Cardano](/buy-cardano))
 
 Lisk enables developers to build applications and deploy their own side-chain linked to the Lisk network, including a custom token.
@@ -40,3 +42,15 @@ The Lisk network is secured by 101 Delegates. These delegates are voted in propo
 You can vote for your favourite delegate using LSK tokens you have stored in your wallet balance (remembering that each token counts as one vote). If you don't want to spend any of your hard earned cryptocurrency
 
 ## How do I buy Lisk (LSK)?
+
+> You can buy Lisk using [Bitvavo](/link/bitvavo).
+
+## Useful Links
+
+Official Website: [https://lisk.io/](https://lisk.io/ "https://lisk.io/")
+
+Lisk SDK: [https://lisk.io/documentation/lisk-sdk/index.html](https://lisk.io/documentation/lisk-sdk/index.html "https://lisk.io/documentation/lisk-sdk/index.html")
+
+Github: [https://github.com/LiskHQ/](https://github.com/LiskHQ/ "https://github.com/LiskHQ/")
+
+Twitter: [https://twitter.com/LiskHQ](https://twitter.com/LiskHQ "https://twitter.com/LiskHQ")
