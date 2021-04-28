@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["How To Buy"]
 date = 2021-04-27T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-to-buy-vertcoin.png"
 tags = ["Vertcoin"]
 title = "How to Buy Vertcoin"
@@ -66,6 +65,8 @@ Create new coins from scratch using Scrypt mining algorithm (also known as ASIC 
 ## What exchange can I buy Vertcoin on?
 
 We would recommend using [**Bitvavo**](/link/bitvavo) to purchase Vertcoin on.  It support a variety of altcoins including Vertcoin.  Bitvavo is also the largest exchange in the Netherlands.
+
+[![bitvavo](https://bitvavo.com/assets/img/press/logo/blue/png/modern.png)](/link/bitvavo)
 
 ## Useful Links
 
