@@ -31,11 +31,11 @@ Finding a cryptocurrency exchange: The first step is finding an online marketpla
 
 Setting up an account: After signing up, it’s time set up your\]
 
-## Is vertcoin worth mining?
+## Is Vertcoin worth mining?
 
 No, Vertcoin is not a good cryptocurrency to mine. There are better cryptocurrencies out there in terms of mining profitability and price stability.
 
-## Do vertcoins have any advantages? If so what are they?
+## Do Vertcoins have any advantages? If so what are they?
 
 Vertcoin has one advantage: its ASIC-resistance which means that it can’t be mined by specialised hardware called “ASICs” or Application Specific Integrated Circuits. This makes the entire process fairer for everyone else who wants to invest their time into mining coins instead of buying them on an exchange like Coinbase or GDAX.
 
@@ -45,21 +45,21 @@ Start here with our beginner's guide for how to buy Vertcoin. You'll need a cryp
 
 No, it is not. In fact Vertcoin has been steadily growing in popularity and value over the past few months while many other cryptocurrencies have taken a hit from this year's bear market.
 
-Vertcoin was founded in 2014 by James Lovejoy who developed the idea of designing a cryptocurrency for mining on GPUs instead of ASICs to be more decentralized and fairer among users that want to mine coins with their computers rather than buying them off an exchange like Coinbase or GDAX.
+Vertcoin was founded in 2014 by James Lovejoy who developed the idea of designing a cryptocurrency for mining on GPUs instead of ASICs to be more decentralised and fairer among users that want to mine coins with their computers rather than buying them off an exchange like Coinbase or GDAX.
 
 The coin started out at $0.50 per unit but now one Vertcoin costs about $11 which means you could make back your initial investment if you buy enough coins up front (check our guide). If you decide later upon research that you want to invest in Vertcoin, you can buy it on an exchange like Binance.
 
-## What happened to vertcoin?
+## What happened to Vertcoin?
 
 Vertcoin continues to grow in popularity and has a dedicated community of users. In fact, the Vertcoin Foundation is building an open-source blockchain explorer for the coin called Orvium.
 
 The project just launched on December 29th with their public testnet live and forthcoming updates coming soon.
 
-## What can I do with vertcoins? What are its uses?
+## What can I do with Vertcoins? What are its uses?
 
-Buy or sell goods online using LitePay Direct, which converts VTC into USD so you don't have to convert at exchanges like Coinbase before your purchase; -Invest;
+Buy or sell goods online using LitePay Direct, which converts VTC into USD so you don't have to convert at exchanges like Coinbase before your purchase.
 
-Create new coins from scratch using Scrypt mining algorithm (also known as ASIC resistant); -Store value outside traditional financial institutions who may restrict access based on geography or interest
+Create new coins from scratch using Scrypt mining algorithm (also known as ASIC resistant); Store value outside traditional financial institutions who may restrict access based on geography or interest.
 
 ## What exchange can I buy Vertcoin on?
 
