@@ -13,8 +13,8 @@ disableKinds = ["sitemap", "RSS"]
     tag = "tags"
 
 [sitemap]
-    changefreq = monthly
-    filename = sitemap.xml
+    changefreq = "monthly"
+    filename = "sitemap.xml"
     priority = 0.5
 
 [markup.goldmark.renderer]
