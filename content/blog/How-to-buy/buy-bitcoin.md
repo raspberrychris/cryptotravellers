@@ -17,7 +17,9 @@ url: buy-bitcoin
 
 ## How to buy Bitcoin in the UK?
 
-Learn in this article how to [buy Bitcoin in the UK](/how-to-buy-bitcoin-uk).
+Learn in this article how to [buy Bitcoin in the UK](/how-to-buy-bitcoin-uk).  
+
+Looking how to sell BTC? Check our guide on [how to sell bitcoin.](/sell-bitcoin-uk)
 
 ## Step by Step guide to buying Bitcoin
 
