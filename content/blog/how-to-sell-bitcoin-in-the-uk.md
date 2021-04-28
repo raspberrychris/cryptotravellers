@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["How to Sell"]
 date = 2021-04-27T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-to-sell-bitcoin.png"
 tags = ["Bitcoin"]
 title = "How to Sell Bitcoin in the UK"
@@ -25,7 +24,7 @@ z![bitcoin-coin](https://i.pinimg.com/originals/6f/3f/6f/6f3f6f671839f72561c6e86
 
 ## Best for Those who want to sell BTC on a Centralised Exchange
 
-[**Crypto.com**](/link/sign-up-crypto-dot-com) - One of the most popular cryptocurrency exchanges, it makes it very easy to sell Bitcoin or exchange it for other cryptos.  
+[**Crypto.com**](/link/sign-up-crypto-dot-com) - One of the most popular cryptocurrency exchanges, it makes it very easy to sell Bitcoin or exchange it for other cryptos.
 
 ![crypto-com-metal-cards](/uploads/crypto-com-card.png)
 
@@ -43,8 +42,22 @@ Image Via: [Localbitcoins](/link/local-bitcoins)
 
 ### Should I get a Hardware wallet to store my bitcoin?
 
-Having a **hardware wallet** to store your bitcoin is not essential in order to buy and sell crypto but it can be useful from a security perspective.  The [Trezor Model T](/link/trezor-model-t) supports a wide range of crypto currencies and is best for HODLing your BTC.  Alternatives to the Trezor include the [Ledger](/link/ledger), which is also a good wallet for HODLing and is cheaper than the Trezor Model T.  Ultimately we would advise that a hardware or other wallet would be a better way to store your bitcoin than on a centralised exchange.  
+Having a **hardware wallet** to store your bitcoin is not essential in order to buy and sell crypto but it can be useful from a security perspective.  The [Trezor Model T](/link/trezor-model-t) supports a wide range of crypto currencies and is best for HODLing your BTC.  Alternatives to the Trezor include the [Ledger](/link/ledger), which is also a good wallet for HODLing and is cheaper than the Trezor Model T.  Ultimately we would advise that a hardware or other wallet would be a better way to store your bitcoin than on a centralised exchange.
 
 ### Not your keys, not your coins
 
-Not your keys, not your coins is an expression used within the crypto community that encourages Bitcoin hodlers to store their bitcoin in more secure places other than centralised exchanges.  If you don't own the private keys then you are effectively entrusting your bitcoin to a 3rd party.  After the recent hacks of various crypto exchanges it is definitely worth investing in a hardware wallet if you have a substantial amount on BTC.  
+Not your keys, not your coins is an expression used within the crypto community that encourages Bitcoin hodlers to store their bitcoin in more secure places other than centralised exchanges.  If you don't own the private keys then you are effectively entrusting your bitcoin to a 3rd party.  After the recent hacks of various crypto exchanges it is definitely worth investing in a hardware wallet if you have a substantial amount on BTC.
+
+## What wallets are there available for Bitcoin?
+
+Best Bitcoin Wallet for Beginners: [Exodus](https://www.exodus.com/)
+
+Best Bitcoin Wallet For More Advanced Users Interested in Just Bitcoin: [Electrum](https://electrum.org/)
+
+Best Bitcoin Wallet for Mobile Users: [Mycelium](https://mycelium.com/)
+
+Best Bitcoin Hardware Wallet: [Ledger Nano X](/link/ledger)
+
+Best Bitcoin Wallet For a Large Number of Cryptocurrencies: [Trezor Model T](/link/trezor-model-t)
+
+Best Bitcoin Wallet by Value for Money: [Ledger Nano S](/link/ledger)
