@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["What is", "How To Buy"]
 date = 2021-04-28T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/what-is-lisk.png"
 tags = ["Lisk"]
 title = "What is Lisk?"
@@ -17,21 +16,21 @@ url = "buy-lisk"
 
 Lisk enables developers to build applications and deploy their own side-chain linked to the Lisk network, including a custom token.
 
+![](/uploads/1280px-lisk_logo_201802-svg.png)
+
 If you're looking for more information about what Lisk is or how to purchase it on an exchange then please continue reading.
 
 ## What makes Lisk unique?
 
-A major problem with current blockchain technology is that it's hard for developers to create apps on the platform. Lisk solves this by providing sidechains, which are smaller blockchains attached to the main chain. These side chains can be customized according to a developer's needs and their applications will run independently of each other in their own universes without cluttering up the shared space at once. This also means no more waiting around for your turn because every application has its own designated universe where they have complete control over who gets access (or not) as well as what rules govern them.
+A major problem with current blockchain technology is that it's hard for developers to create apps on the platform. Lisk solves this by providing sidechains, which are smaller blockchains attached to the main chain. These side chains can be customised according to a developer's needs and their applications will run independently of each other in their own universes without cluttering up the shared space at once. This also means no more waiting around for your turn because every application has its own designated universe where they have complete control over who gets access (or not) as well as what rules govern them.
 
-Lisk differentiates itself from Ethereum mainly due to how scalable it is- through use of JavaScript and interaction with APIs, Lisk offers an easier way for developers to build their own Dapps, and also offers greater scalability by allowing developers to create sidechains for their applications.
+Lisk differentiates itself from [Ethereum](/buy-ethereum) mainly due to how scalable it is- through use of JavaScript and interaction with APIs, Lisk offers an easier way for developers to build their own DApps, and also offers greater scalability by allowing developers to create sidechains for their applications.
 
-Developers have the ability to use JavaScript as well as APIs in order to develop decentralized apps on Lisk’s platform. In addition, through a unique feature called “side chains” (which is only available on Lisk), developers can customize various aspects of each app independently from other apps that are running at the same time without having an effect on all the others- this means more customization options for application features and less cluttering when it comes down to developer interaction with one another. Another key differentiator between Ethereum and Lisk is how scalable they both are: while Ethereum uses smart contracts which require more fees and users must pay more transaction costs in order to use them, Lisk uses side chains which allow for scalability by allowing developers to only run what they need.
+Developers have the ability to use JavaScript as well as APIs in order to develop decentralised apps on Lisk’s platform. In addition, through a unique feature called “side chains” (which is only available on Lisk), developers can customise various aspects of each app independently from other apps that are running at the same time without having an effect on all the others- this means more customisation options for application features and less cluttering when it comes down to developer interaction with one another. Another key differentiator between Ethereum and Lisk is how scalable they both are: while Ethereum uses smart contracts which require more fees and users must pay more transaction costs in order to use them, Lisk uses side chains which allow for scalability by allowing developers to only run what they need.
 
-Lisk is a blockchain application platform that company claims will be the first of its kind to offer one-click installation of decentralized applications. The cryptocurrency underpinning this ecosystem (LSK) has experienced a meteoric rise from $18 on Aug 18th 2017 to nearly $54 at it’s peak value on January 19th 2018. What is Lisk? And how does it compare with other platforms like Ethereum and NEO? Let’s explore!
+Lisk is a blockchain application platform that company claims will be the first of its kind to offer one-click installation of decentralised applications. The cryptocurrency underpinning this ecosystem (LSK) has experienced a meteoric rise from $18 on Aug 18th 2017 to nearly $54 at it’s peak value on January 19th 2018. This makes is a good potential purchase for 2021 and has already seen some increases in the past few weeks.
 
-## How to buy Lisk?
-
-Lisk is available on various crypto exchanges such as Bittrex, Poloniex and Bitfinex. To buy LSK tokens you'll need to purchase BTC or ETH from a fiat trading platform like GDAX (owned by Coinbase) then send it over to one of the aforementioned exchanges that list Lisk in order to trade for your desired number of tokens. After purchasing Lisk, it's advisable store them securely in an offline wallet such as Ledger Nano S or Trezor so they can't be hacked or stolen via phishing scams.
+> After purchasing Lisk, it's advisable store it securely in an offline wallet such as [Ledger Nano S](/link/ledger) or [Trezor](/link/trezor-model-t) so they can't be hacked or stolen via phishing scams.
 
 ## How Is the Lisk Network Secured?
 
@@ -43,7 +42,7 @@ You can vote for your favourite delegate using LSK tokens you have stored in you
 
 ## How do I buy Lisk (LSK)?
 
-> You can buy Lisk using [Bitvavo](/link/bitvavo).
+You can buy Lisk using [**Bitvavo**](/link/bitvavo)**.**  After purchasing Lisk, it's advisable store them securely in an offline wallet such as [Ledger Nano S](/link/ledger) or [Trezor](/link/trezor-model-t) so they can't be hacked or stolen via phishing scams.
 
 ## Useful Links
 
@@ -54,3 +53,5 @@ Lisk SDK: [https://lisk.io/documentation/lisk-sdk/index.html](https://lisk.io/do
 Github: [https://github.com/LiskHQ/](https://github.com/LiskHQ/ "https://github.com/LiskHQ/")
 
 Twitter: [https://twitter.com/LiskHQ](https://twitter.com/LiskHQ "https://twitter.com/LiskHQ")
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
