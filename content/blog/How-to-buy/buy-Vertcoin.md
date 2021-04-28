@@ -17,11 +17,11 @@ url = "buy-vertcoin"
 
 2) Setting up an account on the chosen exchange; and
 
-3) Buying your Vertcoin (We recommend [Bitvavo](/link/bitvavo) to buy Vertcoin)
+3) Buying your Vertcoin (We recommend [Bitvavo](/link/bitvavo) exchange to buy Vertcoin)
 
 ## What is Vertcoin?
 
-Vertcoin is a decentralized digital currency that can be sent between people over the internet. Vertcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and issuing money are carried out collectively by the network. It's similar to Bitcoin, but it has one major difference - mining difficulty (the amount of processing power required) reverts back every block, instead of getting more difficult as time goes on like in Bitcoin.
+Vertcoin is a decentralised digital currency that can be sent between people over the internet. Vertcoin uses peer-to-peer technology to operate with no central authority or banks; managing transactions and issuing money are carried out collectively by the network. It's similar to Bitcoin, but it has one major difference - mining difficulty (the amount of processing power required) reverts back every block, instead of getting more difficult as time goes on like in Bitcoin.
 
 ## What you should know before buying Vertcoins
 
