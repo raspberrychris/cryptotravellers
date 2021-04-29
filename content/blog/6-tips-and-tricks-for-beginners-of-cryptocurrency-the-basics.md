@@ -8,6 +8,10 @@ tags = ["Beginners Guides", "Tips"]
 title = "Cryptocurrency Tips for Beginners: The Basics"
 toc = true
 url = "cryptocurrency-tips-for-beginners"
+[menu.main]
+name = "Crypto Tips for Beginners"
+parent = "Guides"
+weight = 3
 
 +++
 **Cryptocurrency** is a new and exciting technology with the potential to change our lives. Cryptocurrency has become popular in recent years, largely due to Bitcoin's phenomenal rise in value. You may be interested in learning more about cryptocurrency for beginners, or you could even be considering investing some of your own money into this emerging field - either way, there are many resources available that will help you get started!
