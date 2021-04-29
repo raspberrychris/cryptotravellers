@@ -61,7 +61,7 @@ The second thing to consider when evaluating potential for a cryptocurrency are 
 
 ### Market Cap
 
-The market cap of a cryptocurrency represents the total amount of money invested in that currency.  A low circulating supply and and a high market cap will make the coin or token more valuable.
+The [market cap of a cryptocurrency](/what-is-market-cap-crypto/) represents the total amount of money invested in that currency.  A low circulating supply and and a high market cap will make the coin or token more valuable.
 
 > **To Learn more about Market Cap, check out our article on** [**What is Market Cap**](/what-is-market-cap-crypto)
 
