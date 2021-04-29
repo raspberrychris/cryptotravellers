@@ -70,7 +70,17 @@ Linux Download: [Here](https://github.com/PirateNetwork/pirate/releases/download
 
 Linux ARM Download: [Here](https://github.com/PirateNetwork/pirate/releases/tag/v5.0.0)
 
+### Pirate Chain "Skull Island" Mobile Wallet
+
+Yes that is right, Pirate Chain also has a mobile Wallet called "Skull Island".  It is currently running in BETA on Android and an iOS version will be coming soon we are promised...
+
+**You can download the** [**Android version from the Google Play store here.**](https://play.google.com/store/apps/details?id=pirate.sapling.litewallet)
+
+(Please do not attempt to run the mobile wallet on Android phone with less than 3GB of RAM)
+
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
+
+[https://youtu.be/zAIdQNhB6Z4](https://youtu.be/zAIdQNhB6Z4 "https://youtu.be/zAIdQNhB6Z4")
 
 ## Useful Links
 
