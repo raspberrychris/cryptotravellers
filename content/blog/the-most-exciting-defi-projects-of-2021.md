@@ -73,7 +73,7 @@ Many decentralised applications (Dapps) in the cryptocurrency space require an o
 
 Chainlink provides a decentralised data set through blockchain and offers a middle ground between the real world and blockchain applications.
 
-Some notable projects involving Chainlink oracles are Synthetic, AAVE, KyberSwap.
+Some notable projects involving Chainlink oracles are Synthetic, [AAVE](/what-is-aave/), KyberSwap.
 
 ## 2. Ren
 
