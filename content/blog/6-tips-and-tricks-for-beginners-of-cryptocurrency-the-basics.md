@@ -26,27 +26,21 @@ Cryptocurrency is a digital currency that uses encryption techniques to regulate
 
 There are many advantages to cryptocurrency. Here are just a few:
 
-\- Cryptocurrency is decentralised, meaning there's no need for any sort of banking system or government institution to validate transactions. This means that this type of currency can be spent without having large fees tacked onto the cost and you're not at risk of your account being frozen.
+\- **Cryptocurrency is decentralised**, meaning there's no need for any sort of banking system or government institution to validate transactions. This means that this type of currency can be spent without having large fees tacked onto the cost and you're not at risk of your account being frozen.
 
-\- Cryptocurrency is not tied to any one country or subject to the whims of its leaders, so it's a more stable form than traditional currency.
+\- **Cryptocurrency is not tied to any one country** or subject to the whims of its leaders, so it's a more stable form than traditional currency.
 
-\- Transactions with cryptocurrency are irreversible which means that there's no way for someone on the other end of your transaction to chargeback and get their money back after you've already sent them the money.
+\- **Transactions with cryptocurrency are irreversible** which means that there's no way for someone on the other end of your transaction to chargeback and get their money back after you've already sent them the money.
 
-\- Cryptocurrency can be anonymous, so you don't always have to worry about your transactions being tracked by some third party company or government institution and potentially used against you in a court of law for something unrelated.
+\- **Cryptocurrency can be anonymous**, so you don't always have to worry about your transactions being tracked by some third party company or government institution and potentially used against you in a court of law for something unrelated.
 
-\- It's much easier than ever before to buy cryptocurrency because there are many companies now that will sell it to you, some even letting you buy cryptocurrency with your debit or credit card.
+\- **It's much easier than ever before to buy cryptocurrency** because there are many companies now that will sell it to you, some even letting you buy cryptocurrency with your debit or credit card.
 
-\- Cryptocurrency is not tied to any one country or subject to the whims of its leaders, so it's a more stable form than traditional currency. Transactions made in Bitcoin are irreversible which means that there's no way for someone on the other end of your transaction to take your cryptocurrency from you without your permission.
+\- **Cryptocurrency is a much more secure** form of transaction than traditional currency or many other online transactions which are prone to hacking and theft.
 
-\- Cryptocurrency is a much more secure form of transaction than traditional currency or many other online transactions which are prone to hacking and theft.
+\- **You can't counterfeit Bitcoin** because each individual bitcoin has its own unique code, so it's impossible for people to make copies of bitcoins that they don't actually have.
 
-\- You can't counterfeit Bitcoin because each individual bitcoin has its own unique code, so it's impossible for people to make copies of bitcoins that they don't actually have.
-
-\- Cryptocurrency is much more difficult to steal or lose than a credit card because it's usually stored on your computer which you can put in an encrypted piece of software like TrueCrypt and then back up the data onto a CD, DVD, or USB drive.
-
-\- Bitcoin transactions are made anonymously so there is no need for any personal information unless you choose to provide it.
-
-\- Bitcoin transactions are impossible to undo so if you send your bitcoin to the wrong person, that money is gone forever and can't be recovered.
+\- **Cryptocurrency is much more difficult to steal** or lose than a credit card because it's usually stored on your computer which you can put in an encrypted piece of software like TrueCrypt and then back up the data onto a CD, DVD, or USB drive.
 
 ## 5 Tips and Tricks You Should Know
 
