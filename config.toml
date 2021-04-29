@@ -87,7 +87,7 @@ copyright = "Copyright © 2021 [Cryptotravellers.com](https://cryptotravellers.c
 description = "This is meta description"
 favicon = "images/favicon/favicon.ico"
 logo = "/uploads/cryptotravellers-com-removebg-preview.png"
-logo_height = "30px"
+logo_height = "15px"
 mainSections = ["blog"]
 search = true
 [params.cookies]
