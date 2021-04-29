@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Beginners", "Tips"]
 date = 2021-04-28T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/cryptocurrency-tips-for-beginners.png"
 tags = ["Beginners Guides", "Tips"]
 title = "Cryptocurrency Tips for Beginners: The Basics"
@@ -11,13 +10,17 @@ toc = true
 url = "cryptocurrency-tips-for-beginners"
 
 +++
-**Cryptocurrency** is a new and exciting technology with the potential to change our lives. Cryptocurrency has become popular in recent years, largely due to Bitcoin's rise in value. You may be interested in learning more about cryptocurrency for beginners, or you could even be considering investing some of your own money into this emerging field - either way, there are many resources available that will help you get started!
+**Cryptocurrency** is a new and exciting technology with the potential to change our lives. Cryptocurrency has become popular in recent years, largely due to Bitcoin's phenomenal rise in value. You may be interested in learning more about cryptocurrency for beginners, or you could even be considering investing some of your own money into this emerging field - either way, there are many resources available that will help you get started!
 
 This blog post includes tips and tricks that should make it easier for beginners to understand cryptocurrency and provide them with some great resources along the way.
 
 ## What is Cryptocurrency Anyway?
 
 Cryptocurrency is a digital currency that uses encryption techniques to regulate the generation of units of currency and verify the transfer of funds. Cryptography was developed as an alternative to traditional currencies because it allows transactions with no banks or government institutions needed for validation. Bitcoin, Ethereum, Litecoin are all different types of cryptocurrencies in this space.
+
+![](/uploads/buy-bitcoin-uk.jpg)
+
+[**Bitcoin**](/buy-bitcoin) is a type of Cryptocurrency that was created in 2009 by an individual named [Satoshi Nakamoto](/who-is-satoshi-nakamoto/). It's the first decentralised digital, peer-to-peer payment system which doesn't require any middle man to operate it or regulate transactions between parties involved in Bitcoin trades. 
 
 ## Top Advantages of Cryptocurrency
 
@@ -29,7 +32,7 @@ There are many advantages to cryptocurrency. Here are just a few:
 
 \- Transactions with cryptocurrency are irreversible which means that there's no way for someone on the other end of your transaction to chargeback and get their money back after you've already sent them the money.
 
-\- Cryptocurrency is anonymous, so you don't have to worry about your transactions being tracked by some third party company or government institution and potentially used against you in a court of law for something unrelated.
+\- Cryptocurrency can be anonymous, so you don't always have to worry about your transactions being tracked by some third party company or government institution and potentially used against you in a court of law for something unrelated.
 
 \- It's much easier than ever before to buy cryptocurrency because there are many companies now that will sell it to you, some even letting you buy cryptocurrency with your debit or credit card.
 
@@ -53,15 +56,15 @@ With cryptocurrency, you are also your own bank with the responsibility of prote
 
 ## 2. Don't share Personal Information unless you have to
 
-Bitcoin transactions are made anonymously so there is no need for any personal information unless you choose to provide it, which can be helpful if you want to make larger purchases or withdrawals.
+Bitcoin transactions [are not completely anonymous](https://bitcoin.org/en/you-need-to-know) so there is no need for any personal information unless you choose to provide it, which can be helpful if you want to make larger purchases or withdrawals.
 
-## 3. Bear in mind Bitcoin transactions are impossible to undo
+## 3. Bear in mind Bitcoin transactions are practically impossible to undo
 
-Bitcoin transactions are impossible to undo once they have been submitted and confirmed by miners on the network, meaning that it's unwise to spend the same bitcoin twice.
+Bitcoin transactions are practically impossible to undo once they have been submitted and confirmed, be careful!
 
 ## 3. Store your Bitcoin Offline
 
-Bitcoins can be stored offline in a digital wallet that has been created, we recommend using the Trezor Model T or Ledger hardware wallets.
+Bitcoin can be stored offline in a digital wallet that has been created, we recommend using the [Trezor Model T](/link/trezor-model-t) or [Ledger](/link/ledger) hardware wallets.
 
 ## 4. Don't Keep all your bitcoins in one place
 
@@ -73,21 +76,23 @@ It is best to find reputable news sources that can be used as reliable sources t
 
 ## 6. Be prepared for volatility
 
-If you are using Bitcoin or any other cryptocurrency, be prepared for the volatility in prices that these currencies can experience. This means that even if something is worth $100 today it may only cost a fraction of that amount tomorrow because its price could change dramatically and then swing back again over time. Cryptocurrency markets are very different from traditional forms of currency and should not be treated as such.  In 2021 a lot of newbie users have been attracted by the rise and [rise of dogecoin](/why-is-dogecoin-going-up/) without fully understanding the history of the coin.  Investing as a coin such as Doge peaks is very dangerous and a lot of newbies can get FOMO (Fear of missing out) and join at the peak.  Make sure you make careful investment decisions and follow Warren Buffet's rule #1!
+If you are using [Bitcoin](/buy-bitcoin) or any other cryptocurrency, be prepared for the volatility in prices that these currencies can experience. This means that even if something is worth $100 today it may only cost a fraction of that amount tomorrow because its price could change dramatically and then swing back again over time. Cryptocurrency markets are very different from traditional forms of currency and should not be treated as such.  In 2021 a lot of newbie users have been attracted by the rise and [rise of dogecoin](/why-is-dogecoin-going-up/) without fully understanding the history of the coin.  Investing as a coin such as Doge peaks is very dangerous and a lot of newbies can get FOMO (Fear of missing out) and join at the peak.  Make sure you make careful investment decisions and follow Warren Buffet's rule #1!
 
 ![warren-buffet-investment-advice](https://i.pinimg.com/originals/11/5c/5e/115c5ea5813ea6785393724547075fab.png)
-
-Bitcoin is a type of Cryptocurrency that was created in 2009 by an individual named [Satoshi Nakamoto](/who-is-satoshi-nakamoto/). It's the first decentralised digital, peer-to-peer payment system which doesn't require any middle man to operate it or regulate transactions between parties involved in Bitcoin trades. 
 
 ## What are "Altcoins?"
 
 Altcoins are cryptocurrencies other than [Bitcoin](/buy-bitcoin), like [Ethereum](/buy-ethereum) or Litecoin or [Dogecoin](/buy-dogecoin). Some Altcoins are built to be used as a payment method for other goods and services or investments. Others can just hold themselves on the market, like Bitcoin does.
+
+![alt-coins](/uploads/1_fk3mqzbz_vrx-y6zlbli1a.png)
 
 ## What is a hot wallet vs a cold wallet?
 
 A **hot wallet** is where you store cryptocurrency (usually Bitcoin) that isn't actively in use.
 
 A **cold wallet** is a storage device like USB stick or external hard drive, which will be offline most of the time and used to store your Bitcoins when they're not being traded on an exchange.
+
+[![trezor](/uploads/trezor-model-t-unboxed.png)](/link/trezor-model-t)
 
 ## Be vigilant with cryptocurrency
 
@@ -98,3 +103,11 @@ It's important to keep your cryptocurrency exchange accounts and any other walle
 We hope this article provided you with a brief overview of the basics for cryptocurrency and some of the tips and tricks you can use to make smarter investment decisions.
 
 It's important that you understand what cryptocurrencies are, where they come from or how you get your hands on them in order to invest wisely with confidence. If this has been helpful then I would encourage you to explore more about cryptocurrencies and Bitcoin. It's never too late to get started in Crypto!
+
+## Useful Links
+
+Securing your wallet: [https://bitcoin.org/en/secure-your-wallet](https://bitcoin.org/en/secure-your-wallet "https://bitcoin.org/en/secure-your-wallet")
+
+Bitcoin Vocab: [https://bitcoin.org/en/vocabulary](https://bitcoin.org/en/vocabulary "https://bitcoin.org/en/vocabulary")
+
+Bitcoin Wiki: [https://en.bitcoin.it/wiki/Main_Page](https://en.bitcoin.it/wiki/Main_Page "https://en.bitcoin.it/wiki/Main_Page")
