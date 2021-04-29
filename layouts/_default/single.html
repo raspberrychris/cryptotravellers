@@ -2,11 +2,14 @@
 
 <!-- checking blog -->
 {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
-
+<P>
+</p>
 <section class="section-sm">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-10">
+        <P>
+        </p>
         <div class="text-center mb-5">
           <h1 class="h2 mb-4 post-title">{{.Title}}</h1>
           <ul class="card-meta list-inline">
