@@ -6,9 +6,9 @@ description = ""
 draft = true
 image = ""
 tags = ["Beginners Guides", "Tips"]
-title = "6 Tips and Tricks for Beginners of Cryptocurrency: The Basics"
+title = "Cryptocurrency Tips for Beginners: The Basics"
 toc = true
-url = "6-tips-for-beginners-of-cryptocurrency"
+url = "cryptocurrency-tips-for-beginners"
 
 +++
 **Cryptocurrency** is a new and exciting technology with the potential to change our lives. Cryptocurrency has become popular in recent years, largely due to Bitcoin's rise in value. You may be interested in learning more about cryptocurrency for beginners, or you could even be considering investing some of your own money into this emerging field - either way, there are many resources available that will help you get started!
