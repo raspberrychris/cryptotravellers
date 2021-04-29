@@ -11,7 +11,7 @@ toc = true
 url = "best-defi-projects-2021"
 
 +++
-The future is now. It's time to get excited about the next decade of advances in [DeFi technology](/defi-explained), which will be more exciting than any other decade in history.  
+The future is now. It's time to get excited about the next decade of advances in [DeFi technology](/defi-explained), which will be more exciting than any other decade in history.
 
 This article highlights some of the most exciting DeFi projects for 2021.
 
@@ -23,9 +23,33 @@ Decentralised finance projects typically encompass dApps for user-created token 
 
 > [**What is DeFi? Read our Explanation article here.**](/defi-explained)
 
+DeFi is short for "decentralised finance." DeFi has been gaining traction in the crypto world, and it may soon become a household name. The reason? It's an innovative way to provide more financial options that are not reliant on traditional banks or existing institutions. Let's take a look at what DeFi means, why we need it, and how you can participate.
+
+## Why do we need it?
+
+The main reason why DeFi will continue to grow in popularity is due to its many benefits over traditional banking methods that are not as secure or equitable: decentralisation, transparency, lower fees and more protection against fraud and system crashes. DeFi is leading the charge in providing alternatives for those who lack access to traditional banking methods - this could be because they are low-income, or live outside of a country with available banks, or just have no interest in dealing with these institutions.
+
+## Why is DeFi popular?
+
+Since the 2008 financial crisis, people have grown more and more concerned about their money. With DeFi projects like Compound’s interest-bearing wallets or StellarX’s decentralized exchange, we can transfer our assets without relying on a centralized institution for custody. In addition to giving us control over our own funds, these platforms also offer transparency and accountability. With DeFi, we can see the amount of money on our account at any given time. We can also monitor what's happening to it in real-time as well as understand precisely how much interest we're earning from a savings wallet like Compound.
+
+## How do I get into DeFi?
+
+This is a question that many people are asking since DeFi has become more popular in the last few months.
+
+\- The first factor to take into consideration when deciding whether or not you should invest in DeFi is your liquidity needs, DeFi is not ideal for someone who needs liquidity in a short time frame.
+
+\- The second factor to keep in mind when investing is the maturity of the DeFi market, this includes determining how liquid various smart contracts are. Some examples that could be good investments include MakerDAO (MKR), Compound or Augur's Reputation.
+
+\- Invest in DeFi on your own or with a group of people, this could potentially be more profitable but the risk is also greater.
+
+\- Finally, be sure to research the DeFi project you are considering investing in thoroughly and have an idea of what your exit strategy is.
+
+For DeFi's long term success we need more liquidity providers (like banks), a wider range of projects on offer, better tools for managing risk and greater regulatory clarity around the space.
+
 ## What is Tokenomics?
 
-The word **Tokenomics** is a portmanteau of "Token" and "Economics" It is the study of understanding the supply and demand economic factors that can impact a cryptocurrency. 
+The word **Tokenomics** is a portmanteau of "Token" and "Economics" It is the study of understanding the supply and demand economic factors that can impact a cryptocurrency.
 
 ### Supply
 
