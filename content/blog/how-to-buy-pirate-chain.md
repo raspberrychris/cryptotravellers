@@ -78,9 +78,11 @@ Yes that is right, Pirate Chain also has a mobile Wallet called "Skull Island". 
 
 (Please do not attempt to run the mobile wallet on Android phone with less than 3GB of RAM)
 
-{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
+## Pirate Chain Mobile Wallet Video
 
-[https://youtu.be/zAIdQNhB6Z4](https://youtu.be/zAIdQNhB6Z4 "https://youtu.be/zAIdQNhB6Z4")
+{{< youtube zAIdQNhB6Z4 >}}
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
 
 ## Useful Links
 
