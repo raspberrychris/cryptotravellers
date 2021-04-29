@@ -1,10 +1,10 @@
 +++
 author = "Luna Sanchez"
 categories = ["Beginners", "Tips"]
-date = ""
+date = 2021-04-28T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/cryptocurrency-tips-for-beginners.png"
 tags = ["Beginners Guides", "Tips"]
 title = "Cryptocurrency Tips for Beginners: The Basics"
 toc = true
@@ -13,7 +13,7 @@ url = "cryptocurrency-tips-for-beginners"
 +++
 **Cryptocurrency** is a new and exciting technology with the potential to change our lives. Cryptocurrency has become popular in recent years, largely due to Bitcoin's rise in value. You may be interested in learning more about cryptocurrency for beginners, or you could even be considering investing some of your own money into this emerging field - either way, there are many resources available that will help you get started!
 
-This blog post includes 6 tips that should make it easier for beginners to understand cryptocurrency and provide them with some great resources along the way.
+This blog post includes tips and tricks that should make it easier for beginners to understand cryptocurrency and provide them with some great resources along the way.
 
 ## What is Cryptocurrency Anyway?
 
@@ -69,21 +69,23 @@ Like a bank, you should not keep all your bitcoins in one place. Bitcoin wallets
 
 ## 5. Find reputable news sources
 
-It is best to find reputable news sources that can be used as reliable sources for your blog posts. Generally, this would mean looking at the following: national and international headlines, major newspapers (e.g., New York Times), or other high-authority websites such as Yahoo News or The Telegraph. When you do use a source from a lesser-known website, you should make sure that the site is actually legitimate and has been in operation for a while.
+It is best to find reputable news sources that can be used as reliable sources to make your investments from. Generally, this would mean looking at the following: national and international headlines, major newspapers (e.g., New York Times), or other high-authority websites such as Yahoo News or The Telegraph. When you do use a source from a lesser-known website, you should make sure that the site is actually legitimate and has been in operation for a while.  Be aware that using the above sources means that you will likely be the last to hear about price rises, so you need to start paying attention to the charts, social media channels and other sources to get the best possible overview of the market.  If you planning to be a long term HODLer (a term for holding on to your Cryptocurrency) then you may be less concerned with the market movements.  
 
 ## 6. Be prepared for volatility
 
-If you are using Bitcoin or any other cryptocurrency, be prepared for the volatility in prices that these currencies can experience. This means that even if something is worth $100 today it may only cost a fraction of that amount tomorrow because its price could change dramatically and then swing back again over time. Cryptocurrency markets are very different from traditional forms of currency and should not be treated as such.
+If you are using Bitcoin or any other cryptocurrency, be prepared for the volatility in prices that these currencies can experience. This means that even if something is worth $100 today it may only cost a fraction of that amount tomorrow because its price could change dramatically and then swing back again over time. Cryptocurrency markets are very different from traditional forms of currency and should not be treated as such.  In 2021 a lot of newbie users have been attracted by the rise and [rise of dogecoin](/why-is-dogecoin-going-up/) without fully understanding the history of the coin.  Investing as a coin such as Doge peaks is very dangerous and a lot of newbies can get FOMO (Fear of missing out) and join at the peak.  Make sure you make careful investment decisions and follow Warren Buffet's rule #1!
 
-Bitcoin is a type of Cryptocurrency that was created in 2009 by an individual named Satoshi Nakamoto. It's the first decentralized digital, peer-to-peer payment system which doesn't require any middle man to operate it or regulate transactions between parties involved in Bitcoin trades. The Bitcoin network
+![warren-buffet-investment-advice](https://i.pinimg.com/originals/11/5c/5e/115c5ea5813ea6785393724547075fab.png)
+
+Bitcoin is a type of Cryptocurrency that was created in 2009 by an individual named [Satoshi Nakamoto](/who-is-satoshi-nakamoto/). It's the first decentralised digital, peer-to-peer payment system which doesn't require any middle man to operate it or regulate transactions between parties involved in Bitcoin trades. 
 
 ## What are "Altcoins?"
 
-Altcoins are cryptocurrencies other than Bitcoin, like Ethereum or Litecoin or Dogecoin. Some Altcoins are built to be used as a payment method for other goods and services or investments. Others can just hold themselves on the market, like Bitcoin does.
+Altcoins are cryptocurrencies other than [Bitcoin](/buy-bitcoin), like [Ethereum](/buy-ethereum) or Litecoin or [Dogecoin](/buy-dogecoin). Some Altcoins are built to be used as a payment method for other goods and services or investments. Others can just hold themselves on the market, like Bitcoin does.
 
 ## What is a hot wallet vs a cold wallet?
 
-A **hot wallet** is where you store cryptocurrency (usually Bitcoin) that isn't actively in use. 
+A **hot wallet** is where you store cryptocurrency (usually Bitcoin) that isn't actively in use.
 
 A **cold wallet** is a storage device like USB stick or external hard drive, which will be offline most of the time and used to store your Bitcoins when they're not being traded on an exchange.
 
