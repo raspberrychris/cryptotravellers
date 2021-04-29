@@ -56,6 +56,20 @@ We recommend [Changelly](/link/changelly) as they have an excellent rating on [T
 
 {{< iframe "https://widget.changelly.com?from=btc&to=arrr&amount=0.20652455&address=&fromDefault=btc&toDefault=arrr&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3" >}}
 
+## What is the Best Wallet for Pirate Chain?
+
+Pirate Chain recommend on their website that you use the Full Node [Treasure Chest Wallet](https://pirate.black/wallets/treasure-chest/).  This runs on Windows 7 or above, Mac OS High Sierra or above, Linux Ubuntu 18.04 or above, or Linux ARM Ubuntu 18.04 or above.  At least 4GB of Ram is recommended to run Treasure Chest.
+
+### Download the Full Node Wallet For ARRR
+
+Mac OS Download: [Here](https://github.com/PirateNetwork/pirate/releases/download/v5.0.0/pirate-qt-MacOS-v5.0.0.dmg)
+
+Windows Download: [Here](https://github.com/PirateNetwork/pirate/releases/download/v5.0.0/pirate-qt-windows-v5.0.0.zip)
+
+Linux Download: [Here](https://github.com/PirateNetwork/pirate/releases/download/v5.0.0/pirate-qt-ubuntu1804-v5.0.0.zip)
+
+Linux ARM Download: [Here](https://github.com/PirateNetwork/pirate/releases/tag/v5.0.0)
+
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
 
 ## Useful Links
@@ -65,3 +79,4 @@ We recommend [Changelly](/link/changelly) as they have an excellent rating on [T
 * Telegram: https://t.me/piratechain/
 * Pirate Chain Whitepaper: [https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf](https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf "https://pirate.black/files/whitepaper/The_Pirate_Code_V2.0.pdf")
 * Pirate Chain Reddit: [https://www.reddit.com/r/PirateChain/](https://www.reddit.com/r/PirateChain/ "https://www.reddit.com/r/PirateChain/")
+* Pirate Chain Treasure Chest Wallet: [https://pirate.black/wallets/treasure-chest/](https://pirate.black/wallets/treasure-chest/ "https://pirate.black/wallets/treasure-chest/")
