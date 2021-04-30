@@ -23,7 +23,7 @@ Fantom’s blockchain is built with the intention of being scalable and adaptive
 
 ## What is Fantom? (Video Explainer)
 
-[https://youtu.be/CiKULopMtKk](https://youtu.be/CiKULopMtKk "https://youtu.be/CiKULopMtKk")
+{{< youtube CiKULopMtKk >}}
 
 ## Who is the team behind Fantom (FTM)?
 
