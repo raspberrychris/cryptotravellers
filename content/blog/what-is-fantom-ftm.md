@@ -67,7 +67,7 @@ Binance, Uniswap, FTX, 1inch, Sushiswap, Kucoin, Bibox, Bitmax, [**OKEx**](/link
 
 ## Can I use my Ledger Hardware wallet with Fantom?
 
-Yes! Fantom have even set up a helpful guide to walk you through the process of setting up with your [Ledger wallet](/link/ledger)
+Yes! Fantom have even set up a [helpful guide](https://fantom.foundation/blog/how-to-set-up-your-ledger-nano-s-x-with-fantom/) to walk you through the process of setting up with your [Ledger wallet](/link/ledger).  (Nano S and Nano X are supported).
 
 ## Is Fantom on Coinbase?
 
