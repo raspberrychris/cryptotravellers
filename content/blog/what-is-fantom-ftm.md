@@ -51,9 +51,11 @@ You can purchase FTM on the following platforms:
 
 Binance, Uniswap, FTX, 1inch, Sushiswap, Kucoin, Bibox, Bitmax, [**OKEx**](/link/okex)**,** Beaxy, Delta Exchange, Coinone, Coinspot and Bitcoin Meester all support Fantom (FTM).
 
-**We recommend using** [**OKEx**](/link/okex)**.  OkEx is considered a reliable and safe platform to trade on and has a wide range of alt coins you can trade with.  KYC is also not required to trade on OKEx**
+[![okex-fantom-buy](https://upload.wikimedia.org/wikipedia/commons/8/89/Official_logo_of_OKEx.png)](/link/okex)
 
-Tip: (If you use [our link](/link/okex) you will get $10 if you deposit more than $100 on OKEx)
+**We recommend using** [**OKEx**](/link/okex)**.  OkEx is considered a reliable and safe platform to trade on and has a wide range of alt coins you can trade with.  KYC is also not required to trade on OKEx.**
+
+**Tip:** (If you use [our link](/link/okex) you will get $10 if you deposit more than $100 on OKEx)
 
 ## How to create a Fantom Wallet?
 
@@ -71,7 +73,7 @@ Yes! Fantom have even set up a helpful guide to walk you through the process of 
 
 Fantom (FTM) is not supported by [Coinbase](/link/coinbase).
 
-## Can you take Fantom?
+## Can you Stake Fantom?
 
 You can stake Fantom and gain up to 13% APY in rewards as a bonus, you can do this directly from your phone or PC as well.  
 
