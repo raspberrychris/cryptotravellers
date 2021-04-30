@@ -1,10 +1,10 @@
 +++
 author = "Luna Sanchez"
-categories = []
+categories = ["How To Buy"]
 date = 2021-04-06T23:00:00Z
 description = ""
-image = "/uploads/how-to-buy.png"
-tags = ["Stellar"]
+image = "/uploads/how-to-buy-stellar-lumens.png"
+tags = ["XLM", "Stellar"]
 title = "How to Buy Stellar"
 toc = true
 url = "buy-stellar"
