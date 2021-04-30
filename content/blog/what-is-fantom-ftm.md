@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["How to Buy", "What is"]
 date = 2021-04-29T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/what-is-fantom-ftm.png"
 tags = ["FTM", "Fantom"]
 title = "What is Fantom (FTM)?"
@@ -59,9 +58,11 @@ Binance, Uniswap, FTX, 1inch, Sushiswap, Kucoin, Bibox, Bitmax, [**OKEx**](/link
 
 ## How to create a Fantom Wallet?
 
+[![fantom-wallet](/uploads/fantom-wallet.png)](https://pwawallet.fantom.network/)
+
 **Step 1** - Go to [pwawallet.fantom.network](https://pwawallet.fantom.network/) and click on **Create Wallet** and enter a password.  
 
-**Step 2** - Download the keystore file and continue.  Write down your 24 word mneumonic phrase and private key and verify it.
+**Step 2** - Download the keystore file and continue.  Write down your 24 word mnemonic phrase and private key and verify it.
 
 **Step 3** - Click on Access your Wallet and you will be able to see your Fantom Wallet details!
 
