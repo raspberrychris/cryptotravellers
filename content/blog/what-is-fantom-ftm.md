@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Luna Sanchez"
 categories = ["How to Buy", "What is"]
 date = 2021-04-29T23:00:00Z
 description = ""
@@ -12,6 +12,8 @@ url = "what-is-fantom-ftm"
 
 +++
 **Fantom (FTM)** Coin is a distributed ledger technology stack that’s building a Direct Acyclic Graph (DAG)-based platform, which allows organisations businesses and individual persons to develop decentralised apps (DApps) that can be used in a wide range of industries. Fantom is a new breed of blockchain technology. Fantom-based blockchains are faster, more secure, and scalable than existing technologies.
+
+![](https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/22185711/fantom-logo-blue.png)Image Via: Fantom.foundation
 
 Fantom Coin, an ultra-fast high performance blockchain platform, aims to be the supply chain backbone of tomorrow’s smart cities. Fantom is a decentralised system for storing data in the blockchain. The distributed ledger has an offering of 300,000 transactions per second and supports communication with service providers to allow for unlimited storage capacity.
 
@@ -58,3 +60,5 @@ Fantom (FTM) is not supported by Coinbase.
 ## Can you mine Fantom?
 
 FantomCoin (FCN) is a crypto currency that uses the CryptoNight mining algorithm and allows for merged mining with Bytecoin, Monero or QuazarCoin.
+
+## Useful Links
