@@ -13,13 +13,13 @@ url = "what-is-fantom-ftm"
 +++
 **Fantom (FTM)** Coin is a distributed ledger technology stack that’s building a Direct Acyclic Graph (DAG)-based platform, which allows organisations businesses and individual persons to develop decentralised apps (DApps) that can be used in a wide range of industries. Fantom is a new breed of blockchain technology. Fantom-based blockchains are faster, more secure, and scalable than existing technologies.
 
-![](https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/22185711/fantom-logo-blue.png)Image Via: Fantom.foundation
+_![](https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/22185711/fantom-logo-blue.png)Image Via: Fantom.foundation_
 
 Fantom Coin, an ultra-fast high performance blockchain platform, aims to be the supply chain backbone of tomorrow’s smart cities. Fantom is a decentralised system for storing data in the blockchain. The distributed ledger has an offering of 300,000 transactions per second and supports communication with service providers to allow for unlimited storage capacity.
 
 Fantom’s blockchain is built with the intention of being scalable and adaptive to changing technology environments. The Fantom-Zonemaster protocol guarantees that nodes can easily connect to one another without slowing down transactions, even if they are across different networks or regions. It also uses the Proof-of-Stake algorithm which eliminates mining, thus enabling faster transaction speeds than most other cryptocurrencies on the market today.
 
-> Fantom achieves decentralisation and security through a permissionless and leaderless consensus protocol, in which anyone can join and leave the network at any time and all nodes are equal. - Fantom.foundation
+> "Fantom achieves decentralisation and security through a permissionless and leaderless consensus protocol, in which anyone can join and leave the network at any time and all nodes are equal." - Fantom.foundation
 
 ## What is Fantom? (Video Explainer)
 
