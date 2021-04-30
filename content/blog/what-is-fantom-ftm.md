@@ -4,7 +4,7 @@ categories = ["How to Buy", "What is"]
 date = 2021-04-29T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/what-is-fantom-ftm.png"
 tags = ["FTM", "Fantom"]
 title = "What is Fantom (FTM)?"
 toc = true
@@ -21,13 +21,15 @@ Fantom’s blockchain is built with the intention of being scalable and adaptive
 
 > "Fantom achieves decentralisation and security through a permissionless and leaderless consensus protocol, in which anyone can join and leave the network at any time and all nodes are equal." - Fantom.foundation
 
-## What is Fantom? (Video Explainer)
+## What is Fantom? Video Introduction to FTM
 
 {{< youtube CiKULopMtKk >}}
 
 ## Who is the team behind Fantom (FTM)?
 
-The founder of Fantom is Dr. [Ahn Byung Ik](https://www.linkedin.com/in/ahnbyungik/). He holds a Ph.D. in computer science from Korea Advanced Institute of Science and Technology (KAIST) .
+![fantom-ftm-team](/uploads/fantom-team-ftm.png)
+
+## Fantom features:
 
 > On Fantom, money transfers take around 1 second and cost about $0.0000001!
 
@@ -37,7 +39,7 @@ There are 3.175 billion FTM. 2.1 Billion are in current circulation. Currently, 
 
 ## Where can I store FTM?
 
-Fantom have made a wallet that is a PWA (Progressive web App). You can store FTM in a [PWA wallet](https://pwawallet.fantom.network/#/).
+Fantom have made a wallet that is a PWA ([Progressive web App](https://web.dev/progressive-web-apps/)), this allows them to update is easily. You can store FTM in Fantom's [PWA wallet](https://pwawallet.fantom.network/#/).
 
 ## When did Fantom mainnet go live?
 
@@ -53,12 +55,32 @@ Binance, Uniswap, FTX, 1inch, Sushiswap, Kucoin, Bibox, Bitmax, [**OKEx**](/link
 
 Tip: (If you use [our link](/link/okex) you will get $10 if you deposit more than $100 on OKEx)
 
+## How to create a Fantom Wallet?
+
+**Step 1** - Go to [pwawallet.fantom.network](https://pwawallet.fantom.network/) and click on **Create Wallet** and enter a password.  
+
+**Step 2** - Download the keystore file and continue.  Write down your 24 word mneumonic phrase and private key and verify it.
+
+**Step 3** - Click on Access your Wallet and you will be able to see your Fantom Wallet details!
+
+## Can I use my Ledger Hardware wallet with Fantom?
+
+Yes! Fantom have even set up a helpful guide to walk you through the process of setting up with your [Ledger wallet](/link/ledger)
+
 ## Is Fantom on Coinbase?
 
-Fantom (FTM) is not supported by Coinbase.
+Fantom (FTM) is not supported by [Coinbase](/link/coinbase).
 
-## Can you mine Fantom?
+## Can you take Fantom?
 
-FantomCoin (FCN) is a crypto currency that uses the CryptoNight mining algorithm and allows for merged mining with Bytecoin, Monero or QuazarCoin.
+You can stake Fantom and gain up to 13% APY in rewards as a bonus, you can do this directly from your phone or PC as well.  
 
 ## Useful Links
+
+Official Website: [https://fantom.foundation/](https://fantom.foundation/)
+
+Telegram: [Telegram](https://t.me/fantomfoundation)
+
+Discord: [http://chat.fantom.network/](http://chat.fantom.network/ "http://chat.fantom.network/")
+
+Twitter: [https://twitter.com/FantomFDN](https://twitter.com/FantomFDN "https://twitter.com/FantomFDN")
