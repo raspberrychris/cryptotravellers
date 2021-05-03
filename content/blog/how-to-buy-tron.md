@@ -27,7 +27,7 @@ You can buy TRON in the UK by using a cryptocurrency exchange. These exchanges a
 * CoinEgg
 * KuCoin
 * Bitthumb
-* [OKEx](/link/okex)
+* [OKEx](/link/okex) - Editors pick.
 * [**Coinbase - Best for Beginners - Use our link to get $10 free when you add $100.**](/link/coinbase)
 
 ## Useful Links
