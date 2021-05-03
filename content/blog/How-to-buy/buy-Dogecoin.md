@@ -1,6 +1,6 @@
 +++
 author = "Luna Sanchez"
-categories = ["How To Buy"]
+categories = ["What is", "How To Buy"]
 date = 2021-04-14T23:00:00Z
 description = ""
 image = "/uploads/buy-dogecoin.png"
@@ -63,8 +63,8 @@ The cryptocurrency is also being used in various charitable works such as feedin
 \- Setup your account with a username, password and login
 
 \- Add funds to your wallet by selecting one of our accepted payment methods (fiat currency or cryptocurrency)  
-\- Search for Dogecoin in 'Markets' section of app, select now sell price and buy DOGE coin at current market value.
+\- Search for **Dogecoin** in 'Markets' section of app, select now sell price and buy DOGE coin at current market value.
 
-You can also use this link to buy Dogecoin on [Crypto.com](/link/sign-up-crypto-dot-com)
+**You can also use this link to buy Dogecoin on** [**Crypto.com**](/link/sign-up-crypto-dot-com)
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
