@@ -54,3 +54,5 @@ You can buy TRON in the UK by using a cryptocurrency exchange. These exchanges a
 **Facebook**
 
 [https://www.facebook.com/tronfoundation/](https://www.facebook.com/tronfoundation/ "https://www.facebook.com/tronfoundation/")
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
