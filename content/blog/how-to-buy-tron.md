@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["How To Buy", "What is "]
 date = 2021-05-02T23:00:00Z
 description = ""
-draft = true
 image = ""
 tags = ["TRX", "TRON"]
 title = "How to Buy TRON"

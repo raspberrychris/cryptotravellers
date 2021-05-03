@@ -89,3 +89,5 @@ Telegram: [Telegram](https://t.me/fantomfoundation)
 Discord: [http://chat.fantom.network/](http://chat.fantom.network/ "http://chat.fantom.network/")
 
 Twitter: [https://twitter.com/FantomFDN](https://twitter.com/FantomFDN "https://twitter.com/FantomFDN")
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
