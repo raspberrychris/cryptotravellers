@@ -30,7 +30,7 @@ The most common way to buy Dogecoins is by trading them on cryptocurrency exchan
 
 There are many exchanges, and which one you choose depends on the crypto that you want to buy. Popular ones include [**Coinbase,**](/link/coinbase) Binance and Gemini (which accepts USD as well). Some popular cryptocurrencies for exchanging with BTC would be Ether or Litecoin. There is a list of major trading sites here:
 
-You can also purchase them through centralised cryptocurrency exchanges such as [Coinbase Pro](https://app.forestry.io/link/coinbase). These allow people to invest in digital currencies without actually having their own individual wallets or exchange accounts; instead they just have an online account where they transfer funds from other sources like banks or credit cards into the stock itself, so it’s more like purchasing shares than anything else when buying Bitcoin this way - but it does result in lower transaction fees than many other methods.
+You can also purchase them through centralised cryptocurrency exchanges such as [Coinbase Pro](/link/coinbase). These allow people to invest in digital currencies without actually having their own individual wallets or exchange accounts; instead they just have an online account where they transfer funds from other sources like banks or credit cards into the stock itself, so it’s more like purchasing shares than anything else when buying Bitcoin this way - but it does result in lower transaction fees than many other methods.
 
 You can buy Dogecoin on a cryptocurrency exchange like Binance or Coinbase Pro, which is an online marketplace where people can trade fiat money for cryptocurrencies. This process typically requires you to send your desired amount of USDT (US dollars in Tether form) from your bank account to the person selling the crypto coin(s). They then give you whichever coins and/or tokens they listed as part of their offer. You should always research beforehand who’s giving out these coins so that you know how reputable they are - if someone is asking for payment without providing any type of identification whatsoever, it might be wise to stay away unless there seems to be some reasoning behind this request not being met by the seller.
 
@@ -38,7 +38,7 @@ Some people use cryptocurrency exchanges to trade their coins and tokens, while 
 
 ## Elon Musk and Dogecoin
 
-Although the CEO of Tesla and founder of SpaceX is now best known for his successful space exploration company, at one point in time he was just a guy who created an online payment system called PayPal. Musk has publicly supported Bitcoin on multiple occasions as well as other cryptocurrencies like **Ethereum**, tweeting that “there’s only so much physical money to go around before we have digital currency or something like it takes over.” On March 26th 2018 Elon tweeted about Dogecoin, wher he wrote:
+Although the CEO of Tesla and founder of SpaceX is now best known for his successful space exploration company, at one point in time he was just a guy who created an online payment system called PayPal. Musk has publicly supported Bitcoin on multiple occasions as well as other cryptocurrencies like **Ethereum**, tweeting that “there’s only so much physical money to go around before we have digital currency or something like it takes over.” On March 26th 2018 Elon tweeted about Dogecoin, where he wrote:
 
 Check out my man @ummjackson's interplanetary transportation concept art! pic.twitter.com/EQT08RWUDX — Elon Musk (@elonmusk) September 18, 2017"
 
