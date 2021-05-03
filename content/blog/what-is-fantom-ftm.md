@@ -10,6 +10,8 @@ toc = true
 url = "what-is-fantom-ftm"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 **Fantom (FTM)** Coin is a distributed ledger technology stack that’s building a Direct Acyclic Graph (DAG)-based platform, which allows organisations businesses and individual persons to develop decentralised apps (DApps) that can be used in a wide range of industries. Fantom is a new breed of blockchain technology. Fantom-based blockchains are faster, more secure, and scalable than existing technologies.
 
 _![](https://fantomfoundation-prod-wp-website.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2020/04/22185711/fantom-logo-blue.png)Image Via: Fantom.foundation_
@@ -60,7 +62,7 @@ Binance, Uniswap, FTX, 1inch, Sushiswap, Kucoin, Bibox, Bitmax, [**OKEx**](/link
 
 [![fantom-wallet](/uploads/fantom-wallet.png)](https://pwawallet.fantom.network/)
 
-**Step 1** - Go to [pwawallet.fantom.network](https://pwawallet.fantom.network/) and click on **Create Wallet** and enter a password.  
+**Step 1** - Go to [pwawallet.fantom.network](https://pwawallet.fantom.network/) and click on **Create Wallet** and enter a password.
 
 **Step 2** - Download the keystore file and continue.  Write down your 24 word mnemonic phrase and private key and verify it.
 
@@ -76,7 +78,7 @@ Fantom (FTM) is not supported by [Coinbase](/link/coinbase).
 
 ## Can you Stake Fantom?
 
-You can stake Fantom and gain up to 13% APY in rewards as a bonus, you can do this directly from your phone or PC as well.  
+You can stake Fantom and gain up to 13% APY in rewards as a bonus, you can do this directly from your phone or PC as well.
 
 ## Useful Links
 

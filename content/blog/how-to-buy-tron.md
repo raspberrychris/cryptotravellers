@@ -11,6 +11,8 @@ toc = true
 url = "buy-tron"
 
 +++
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 ## What is Tron TRX?
 
 **Tron TRX** is one of the most popular cryptocurrencies on the market today. This article will explore how to [buy Tron TRX](buy-tron). We'll also answer some common questions people have about this cryptocurrency. Read on for more information.
