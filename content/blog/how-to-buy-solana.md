@@ -54,9 +54,8 @@ The Solana White paper was published in November 2017, with the Mainnet Beta lau
 
 ## How to buy Solana
 
-[Crypto.com](/link/sign-up-crypto-dot-com) - Editors Pick - Use our link to get a $25 bonus for joining Crypto.com.
-
-[OkEX](/link/okex)
+* [Crypto.com](/link/sign-up-crypto-dot-com) - **Editors Pick** - Use our link to get a $25 bonus for joining Crypto.com.
+* [OkEX](/link/okex)
 
 ## How to Buy Solana using BTC, GBP, USD or EURO
 
