@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["What is", "How To Buy"]
 date = ""
 description = ""
-draft = true
 image = "/uploads/how-to-buy-solana.png"
 tags = ["SOL", "Solana"]
 title = "How to Buy Solana"
@@ -17,7 +16,7 @@ url = "buy-solana"
 
 It has been around for less than a year, but it's already making waves in the crypto world. If you're wondering how to buy Solana, read on to find out more about what this coin does and why it might be worth your time.
 
-**Solana** is fast and is censorship-resistant blockchain, one of it's key features is its low fees. The Solana Foundation is based in Geneva, Switzerland. Solana was created as a solution for scalability problems with [Bitcoin](/buy-bitcoin) and [Ethereum](/buy-ethereum).
+**Solana** is fast and is censorship-resistant blockchain, one of it's key features is its low fees. The [Solana Foundation](https://solana.com) is based in Geneva, Switzerland. Solana was created as a solution for scalability problems with [Bitcoin](/buy-bitcoin) and [Ethereum](/buy-ethereum).
 
 ## What Is Solana (SOL)?
 
@@ -35,11 +34,11 @@ Anatoly Yakovenko - who has been a core part of this project from the beginning 
 
 One of the most innovative aspects of Solana is our Proof-of-History (PoH) consensus algorithm. This innovation allows for increased scalability and scalability increases usability.
 
-Solana is famous for its speedy transaction times. Solana’s protocol offers faster validation time not just for transactions but also smart contracts. The new and improved processing speed attracted enough interest to catch the eye of major institutional players like Goldman Sachs.  The Solana Blockchain is the fastest Blockchain in the world.  The Solana Blockchain processes 50,000 Transactions Per Second. 
+Solana is famous for its speedy transaction times. Solana’s protocol offers faster validation time not just for transactions but also smart contracts. The new and improved processing speed attracted enough interest to catch the eye of major institutional players like Goldman Sachs.  The Solana Blockchain is the fastest Blockchain in the world.  The Solana Blockchain processes 50,000 Transactions Per Second.
 
 ## How Many Solana (SOL) Coins Are There in Circulation?
 
-The Solana Foundation has issued 489 million SOL tokens, of which 260 million have already entered circulation.
+The [Solana Foundation](https://solana.com) has issued 489 million SOL tokens, of which 260 million have already entered circulation.
 
 66\.10% of the tokens will be allocated to the sale, 12.92% has been set aside for the founding members and 10.46% is going towards the foundation The remaining tokens are available for public or private sale or they have yet to be released on the market.
 
@@ -49,7 +48,7 @@ Solana relies on a unique combination of proof-of-history (PoH) and proof-of-sta
 
 ## Solana's White Paper
 
-The Solana White paper was published in November 2017, with the Mainnet Beta launch in March 2020. By April 2020 the Solana Foundation was established.
+The Solana White paper was published in November 2017, with the Mainnet Beta launch in March 2020. By April 2020 the [Solana Foundation](https://solana.com) was established.
 
 [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf "https://solana.com/solana-whitepaper.pdf")
 
@@ -61,32 +60,34 @@ The Solana White paper was published in November 2017, with the Mainnet Beta lau
 
 ## How to Buy Solana using BTC, GBP, USD or EURO
 
-We would recommend using Changelly for a fast transfer to buy Solana.
+We would recommend using [Changelly](/link/changelly) for a fast transfer to buy Solana.
 
-<iframe width="100%" height="100%" frameborder='none' src="[https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3](https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3 "https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3")">Can't load widget</iframe>
+{{< notice "note" >}} Disclaimer: This widget contains affiliate links to [**Changelly**](/link/changelly). {{< /notice >}}
+
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
+
+{{< iframe"[https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3](https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3 "https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3")">}}
 
 ## Useful Links
 
-Telegram: [https://t.me/solana](https://t.me/solana)
+**Official Website**: [https://solana.com](https://solana.com "https://solana.com")
 
-Website: [https://solana.com](https://solana.com "https://solana.com")
+**Telegram**: [https://t.me/solana](https://t.me/solana)
 
-Newsletter: [https://solana.com/newsletter](https://solana.com/newsletter "https://solana.com/newsletter")
+**Medium**: [https://medium.com/solana-labs](https://medium.com/solana-labs "https://medium.com/solana-labs")
 
-Medium: [https://medium.com/solana-labs](https://medium.com/solana-labs "https://medium.com/solana-labs")
+**GitHub**: [https://github.com/solana-labs](https://github.com/solana-labs "https://github.com/solana-labs")
 
-GitHub: [https://github.com/solana-labs](https://github.com/solana-labs "https://github.com/solana-labs")
+**Twitter**: [https://twitter.com/solana](https://twitter.com/solana "https://twitter.com/solana")
 
-Twitter: [https://twitter.com/solana](https://twitter.com/solana "https://twitter.com/solana")
+**Podcast**: [https://solana.com/podcast](https://solana.com/podcast "https://solana.com/podcast")
 
-Podcast: [https://solana.com/podcast](https://solana.com/podcast "https://solana.com/podcast")
+**Network Stats:** [https://solanabeach.io](https://solanabeach.io "https://solanabeach.io")
 
-Network Stats: [https://solanabeach.io](https://solanabeach.io "https://solanabeach.io")
+**Docs**: [https://docs.solana.com/](https://docs.solana.com/ "https://docs.solana.com/")
 
-Docs: [https://docs.solana.com/](https://docs.solana.com/ "https://docs.solana.com/")
+**Discord**: [https://solana.com/discord](https://solana.com/discord "https://solana.com/discord")
 
-Discord: [https://solana.com/discord](https://solana.com/discord "https://solana.com/discord")
+**Whitepaper**: [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf "https://solana.com/solana-whitepaper.pdf")
 
-Whitepaper: [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf "https://solana.com/solana-whitepaper.pdf")
-
-Tokenomics: [https://solana.com/tokens](https://solana.com/tokens "https://solana.com/tokens")
+**Tokenomics**: [https://solana.com/tokens](https://solana.com/tokens "https://solana.com/tokens")
