@@ -62,7 +62,7 @@ The Solana White paper was published in November 2017, with the Mainnet Beta lau
 
 We would recommend using [Changelly](/link/changelly) for a fast transfer to buy Solana.
 
-{{< notice "note" >}} Disclaimer: This widget contains affiliate links to [**Changelly**](/link/changelly). {{< /notice >}}
+{{< notice "note" >}} Disclaimer This widget contains affiliate links to [**Changelly**](/link/changelly). {{< /notice >}}
 
 > [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
 
