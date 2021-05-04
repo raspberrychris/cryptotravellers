@@ -1,7 +1,7 @@
 +++
 author = "Luna Sanchez"
 categories = ["What is", "How To Buy"]
-date = ""
+date = 2021-05-03T23:00:00Z
 description = ""
 image = "/uploads/how-to-buy-solana.png"
 tags = ["SOL", "Solana"]
