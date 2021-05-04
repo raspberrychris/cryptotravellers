@@ -66,7 +66,7 @@ We would recommend using [Changelly](/link/changelly) for a fast transfer to buy
 
 > [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
 
-{{< iframe"[https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3](https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3 "https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3")">}}
+{{< iframe"https://widget.changelly.com?from=btc%2Cusd%2Cgbp%2Ceur&to=sol&amount=1&address=&fromDefault=btc&toDefault=sol&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3">}}
 
 ## Useful Links
 
