@@ -10,7 +10,7 @@ toc = true
 url = "buy-solana"
 
 +++
-**Solana** is steadily becoming one of the most talked about Cryptocurrencies of 2021 and at the time of writing is in the top 15 Crypto currencies by Market cap.
+**Solana is steadily becoming one of the most talked about Cryptocurrencies of 2021 and at the time of writing is in the top 15 Crypto currencies by Market cap.** is steadily becoming one of the most talked about Cryptocurrencies of 2021 and at the time of writing is in the top 15 Crypto currencies by Market cap.
 
 ![solana-market-cap](/uploads/solana-market-cap.png)
 
