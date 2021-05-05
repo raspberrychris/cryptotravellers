@@ -28,7 +28,7 @@ Solana is a distributed web-scale blockchain that offers fast, scalable, secure 
 
 Anatoly Yakovenko - the most experienced person behind Solana- is also now it's CEO
 
-Anatoly Yakovenko - who has been a core part of this project from the beginning - is now managing director and CEO. His professional career started at Qualcomm, where he quickly progressed and became a senior staff engineer manager in 2015. Yakovenko later on found success as a software engineer at Dropbox. [Raj Gokal ](https://www.linkedin.com/in/rajgokal)is a Solana Co-founder and has [been active on Reddit forums recently.](https://www.reddit.com/r/solana/comments/n26ywr/solana_cofounder_here_just_want_to_say_thank_you/)
+[Anatoly Yakovenko](https://www.linkedin.com/in/anatoly-yakovenko) - who has been a core part of this project from the beginning and is a co-founder. His professional career started at Qualcomm, where he quickly progressed and became a senior staff engineer manager in 2015. Yakovenko later on found success as a software engineer at Dropbox. [Raj Gokal ](https://www.linkedin.com/in/rajgokal)is a Solana Co-founder and has [been active on Reddit forums recently.](https://www.reddit.com/r/solana/comments/n26ywr/solana_cofounder_here_just_want_to_say_thank_you/)
 
 ## What Makes Solana Unique?
 
