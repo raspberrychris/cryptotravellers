@@ -13,6 +13,8 @@ url = ""
 +++
 ## What is Dogecoin?
 
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 [**Dogecoin (DOGE)**](/buy-dogecoin) **is a cryptocurrency that was born in 2013 when an Australian programmer named** [**Jackson Palmer**](https://twitter.com/ummjackson?lang=en) **tweeted:**
 
 > _"Investing in Dogecoin, pretty sure it's the next big thing."_
