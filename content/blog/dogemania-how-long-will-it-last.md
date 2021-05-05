@@ -31,15 +31,15 @@ Investor interest in Dogecoin has been so strong that the RobinHood trading plat
 
 ## The Dogefather - Elon Musk
 
-Elon Musk has played a contributory part recently into accelerating the growth of Dogecoin. He has posted a number of tweets on Twitter that reference the coin and has referred to himself as the [Dogefather on Twitter.](https://twitter.com/elonmusk/status/1387290679794089986)
+The richest man in the world, Elon Musk, has played a contributory part recently into accelerating the growth of Dogecoin. He has posted a number of tweets on Twitter that reference the coin and has referred to himself as the [Dogefather on Twitter](https://twitter.com/elonmusk/status/1387290679794089986) in classic Elon style.
 
 ## Endorsement from Snoop Dogg
 
-Snoop Dogg has also also been a [strong supporter of dogecoin](https://twitter.com/SnoopDogg/status/1358141965930426368), even releasing an NFT collection named "Snoop Dogge Coins" referencing Doge.
+Snoop Dogg has also also been a [strong supporter of dogecoin](https://twitter.com/SnoopDogg/status/1358141965930426368), even releasing an NFT collection named ["Snoop Dogge Coins"](https://crypto.com/nft/drops-event/80b2e021d4cbfbc43789db5377ecf1ed?asset=b83421fd5a0b33d99987c85abdc7e29f&edition=60dc354e71d71a84d2bbb1e6311baafc) referencing Doge in an audio voice over.
 
 ## Is it a bubble? Will it mature into a usable currency?!
 
-Many experienced traders are either staying completely clear of Dogecoin as they see it as too risky an investment, or alternatively they are buying the dips and banking all the way to the top - this ofcourse is a high risk, high return strategy and you shouldn't rush to put your life savings into is a meme coin if you are just starting out in crypto.
+Many experienced traders are either staying completely clear of [Dogecoin]() as they see it as too risky an investment, or alternatively they are buying the dips and banking all the way to the top - this ofcourse is a high risk, high return strategy and you shouldn't rush to put your life savings into is a meme coin if you are just starting out in crypto.
 
 New investors to the space may get FOMO not realising that the coin could crash dramatically once the whales have had their fun.  Some twitter users have [drawn parallels between Doge and XRP](https://twitter.com/lowstrife/status/1389794278096965632?s=20).  It is definitely a good idea to do as much research as you can before you make a serious investment decision.
 
@@ -51,8 +51,11 @@ There have been various teasers that Elon Musk will be mentioning or even showca
 
 Bitcoin's share price has been on a major downtrend for some time now, and with Bitcoin dominance at an all-time low of 46.02%, many analysts are questioning what this means for other altcoins - especially those that are not among the Top 20 coins by market cap.
 
-Where can I buy dogecoin?
+## Where can I buy dogecoin?
 
 You can buy Dogecoin on the following exchanges.  We recommend using Crypto.com as you get $25 using this link.
 
+`<iframe width="100%" height="100%" frameborder='none' src="`[`https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3`]( "https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3")`">Can't load widget</iframe>`
+
+  
  
