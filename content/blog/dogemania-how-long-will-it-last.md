@@ -19,13 +19,13 @@ url = ""
 
 _![dogecoin-jackson-palmer](/uploads/palmer-dogecoin-tweet-next-big-thing.png)_
 
-_(via @ummjackson, Twitter)_
+_(via @_[_ummjackson_](https://twitter.com/ummjackson?lang=en)_, Twitter)_
 
-What started out as a joke has turned into one of the most popular cryptocurrencies on earth. A lot of people are wondering how long "dogemania" will last. Although it may seem strange, [Dogecoin](/buy-dogecoin) has a net worth of more than $86 billion and has now overtaken Honda in market capitalisation, and is hot on the heels of General Motors Co. - a company founded in 1908 - over a hundred years ago!  (Just let that sink in)....
+What started out as a joke has turned into one of the most popular cryptocurrencies on earth. A lot of people are wondering how long "dogemania" will last. Although it may seem strange, [Dogecoin](/buy-dogecoin) has a net worth of more than $86 billion and has now overtaken Honda in market capitalisation, and is hot on the heels of [General Motors Co](https://en.wikipedia.org/wiki/General_Motors). - a company founded in 1908 - over a hundred years ago!  (Just let that sink in).... a meme crypto coin started 8 years ago now has a similar Market Cap to General Motors Co...
 
 ![dogecoin-market-cap-general-motors](/uploads/dogecoin-market-cap.png)
 
-[Dogecoin](/buy-dogecoin) has given some of the highest returns this year growing by a staggering 11,000% in 2021, even Bitcoin by comparison has a return of just over 90%. Dogecoin's rise started in February following Elon Musk tweeting about the topic.
+Despite it being the quirky oddball coin amongst giants in the space, [Dogecoin](/buy-dogecoin) has given some of the highest returns this year growing by a staggering 11,000% in 2021, even Bitcoin by comparison has a return of just over 90%. Dogecoin's rise started in February following Elon Musk tweeting about the topic.
 
 Investor interest in Dogecoin has been so strong that the RobinHood trading platform crashed following interest in Dogecoin.
 
