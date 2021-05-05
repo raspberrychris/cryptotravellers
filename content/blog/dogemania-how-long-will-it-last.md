@@ -7,7 +7,7 @@ image = "/uploads/dogemania.png"
 tags = ["DOGE", "Dogecoin"]
 title = "Dogemania - How long will it last?"
 toc = true
-url = ""
+url = "dogemania-how-long-will-it-last"
 
 +++
 ## What is Dogecoin?
