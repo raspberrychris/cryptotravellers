@@ -40,6 +40,10 @@ The richest man in the world, Elon Musk, has played a contributory part recently
 
 ## Endorsement from Snoop Dogg
 
+![snoop-doge](/uploads/etkw62ivcaemi7e.jpg)
+
+(Via [Snoop Dogg](https://twitter.com/SnoopDogg/status/1358141965930426368) Twitter.com)
+
 Snoop Dogg has also also been a [strong supporter of dogecoin](https://twitter.com/SnoopDogg/status/1358141965930426368), even releasing an NFT collection named ["Snoop Dogge Coins"](https://crypto.com/nft/drops-event/80b2e021d4cbfbc43789db5377ecf1ed?asset=b83421fd5a0b33d99987c85abdc7e29f&edition=60dc354e71d71a84d2bbb1e6311baafc) referencing Doge in an audio voice over.
 
 ## Is it a bubble? Will it mature into a usable currency?!
