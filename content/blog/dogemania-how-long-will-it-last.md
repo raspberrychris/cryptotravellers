@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = []
 date = 2021-05-04T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/dogemania.png"
 tags = ["DOGE", "Dogecoin"]
 title = "Dogemania - How long will it last?"
@@ -23,7 +22,11 @@ _![dogecoin-jackson-palmer](/uploads/palmer-dogecoin-tweet-next-big-thing.png)_
 
 _(via @_[_ummjackson_](https://twitter.com/ummjackson?lang=en)_, Twitter)_
 
-What started out as a joke has turned into one of the most popular cryptocurrencies on earth. A lot of people are wondering how long "dogemania" will last. Although it may seem strange, [Dogecoin](/buy-dogecoin) has a net worth of more than $86 billion and has now overtaken Honda in market capitalisation, and is hot on the heels of [General Motors Co](https://en.wikipedia.org/wiki/General_Motors). - a company founded in 1908 - over a hundred years ago!  (Just let that sink in).... a meme crypto coin started 8 years ago now has a similar Market Cap to General Motors Co...
+## It started as a Joke..
+
+![](/uploads/eziom51wqaewkg5.png)(Via Twitter [@NicholasM1](https://twitter.com/NicholasM1/status/1383184295846629382))
+
+[Dogecoin](/buy-dogecoin) has a net worth of more than $86 billion and has now overtaken Honda in market capitalisation, and is hot on the heels of [General Motors Co](https://en.wikipedia.org/wiki/General_Motors). - a company founded in 1908 - over a hundred years ago!  (Just let that sink in).... a meme crypto coin started 8 years ago now has a similar Market Cap to General Motors Co...
 
 ![dogecoin-market-cap-general-motors](/uploads/dogecoin-market-cap.png)
 
@@ -43,7 +46,7 @@ Snoop Dogg has also also been a [strong supporter of dogecoin](https://twitter.c
 
 Many experienced traders are either staying completely clear of [Dogecoin]() as they see it as too risky an investment, or alternatively they are buying the dips and banking all the way to the top - this ofcourse is a high risk, high return strategy and you shouldn't rush to put your life savings into is a meme coin if you are just starting out in crypto.
 
-New investors to the space may get FOMO not realising that the coin could crash dramatically once the whales have had their fun.  Some twitter users have [drawn parallels between Doge and XRP](https://twitter.com/lowstrife/status/1389794278096965632?s=20).  It is definitely a good idea to do as much research as you can before you make a serious investment decision.
+New investors to the space may get FOMO not realising that the coin could crash dramatically once the whales have had their fun.  Some twitter users have [drawn parallels between Doge and XRP](https://twitter.com/lowstrife/status/1389794278096965632?s=20).  It is definitely a good idea to do as much research as you can before you make a serious investment decision on any crypto, let alone Doge.
 
 ## Elon Musk Hosting SNL
 
@@ -53,10 +56,18 @@ There have been various teasers that Elon Musk will be mentioning or even showca
 
 Bitcoin's share price has been on a major downtrend for some time now, and with Bitcoin dominance at an all-time low of 46.02%, many analysts are questioning what this means for other altcoins - especially those that are not among the Top 20 coins by market cap.
 
-## Where can I buy dogecoin?
+## Where can I buy Dogecoin?
 
-You can buy Dogecoin on the following exchanges.  We recommend using Crypto.com as you get $25 using this link.
+You can buy Dogecoin on the following exchanges.  We recommend using [Crypto.com as you get $25 using this link.](/link/sign-up-crypto-dot-com)
 
-`<iframe width="100%" height="100%" frameborder='none' src="`[`https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3`]( "https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3")`">Can't load widget</iframe>`
+* [Coinbase](/link/coinbase) (Get $10 using this link)
+* [OKEx](/link/okex)
+* [Changelly](/link/changelly)
+
+## Buy Dogecoin with Changelly
+
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies, we recommend Changelly as being one of the easiest to use exchanges, you can even use the widget below or visit their site [here](/link/changelly).
+
+{{< iframe "https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3" >}}
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
