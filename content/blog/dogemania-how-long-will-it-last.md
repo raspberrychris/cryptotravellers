@@ -57,5 +57,4 @@ You can buy Dogecoin on the following exchanges.  We recommend using Crypto.com 
 
 `<iframe width="100%" height="100%" frameborder='none' src="`[`https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3`]( "https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3")`">Can't load widget</iframe>`
 
-  
- 
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
