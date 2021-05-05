@@ -68,9 +68,9 @@ You can buy Dogecoin on the following exchanges.  We recommend using [Crypto.com
 * [OKEx](/link/okex)
 * [Changelly](/link/changelly)
 
-## Buy Dogecoin with Changelly
+## Buy Dogecoin with USD, EUR, GBP with Changelly
 
-> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies, we recommend Changelly as being one of the easiest to use exchanges, you can even use the widget below or visit their site [here](/link/changelly).
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies, we recommend Changelly as being one of the easiest to use exchanges, you can even use the widget below buying in USD, EUR, GBP or BTC or visit their site [here](/link/changelly).
 
 {{< iframe "https://widget.changelly.com?from=btc%2Cusd%2Ceur%2Cgbp&to=doge&amount=1&address=&fromDefault=btc&toDefault=doge&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3" >}}
 
