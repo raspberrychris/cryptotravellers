@@ -12,6 +12,8 @@ url = "blockchain-domains-explained"
 +++
 **Blockchain domains can be used to build websites that are resistant to censorship. Traditional domain assets like Google Domains or GoDaddy, which store information on your behalf in their data centres, can be taken down by court orders and company bureaucracy.**
 
+{{< notice "note" >}} Disclaimer: This post contains affiliate links.  {{< /notice >}}
+
 > **A blockchain domain is controlled directly by yourself, so it's impossible for a third party to take it from you - no matter what.**
 
 The blockchain domain is a decentralised, peer-to-peer network that allows users to register and transfer their domains without involvement of a third party.
@@ -64,9 +66,13 @@ Opera have [recently announced ](https://cointelegraph.com/news/web-browser-oper
 
 ![hello-web3-decentralised-nft-domains](/uploads/opera-unstopabble-screenshot-domains-nft.png)
 
-## What is the best bit about blockchain domains?
+## What about in countries with internet censorship?
 
-Once you have bought them, there are no renewal fees.  For project websites this might not be a big deal, but for companies this actually make business sense from an economic perspective to take ownership of a domain that is actually a fixed asset rather than one that you are paying for the use of yearly.
+Opera and Unstoppable domains have stressed that if you live in a country with internet censorship, you may still need a [**VPN**](/link/nord-vpn) to access a decentralised website.
+
+> _“Just as with the current web, if users are facing those types of issues they would need to use VPNs or a similar tool. Decentralised websites solve a user’s ability to publish — it’s on the publishing side rather than on the viewing side. Right now, you can't publish using a traditional domain registrar if you're in a place that is limiting free speech. Whereas, with decentralised website tools, you could. So it’s about the publishing and not the viewing.”_ - [Via Cointelegraph](https://cointelegraph.com/news/opera-becomes-first-major-browser-to-integrate-crypto-domain-extension)
+
+## What are the key features of blockchain domains and decentralised websites?
 
 ![](/uploads/web3-decentralisation-ownership-security.png)
 
@@ -82,6 +88,8 @@ You can use Unstoppable domains to purchase a NFT Domain. Unstoppable domains ha
 
 **Use our link to** [**get your .crypto domain name now**](/link/unstoppable-domains) **with Unstoppable**
 
-## **Who are Unstoppable Domains?**
+## Who are Unstoppable Domains?
 
-[Unstoppable Domains](/link/unstoppable-domains) is a San Francisco-based company building the universal naming system for the decentralised web. The company is backed by Draper Associates and Boost VC and has received grants from the Ethereum Foundation.
+[**Unstoppable Domains**](/link/unstoppable-domains) is a San Francisco-based company building the universal naming system for the decentralised web. The company is backed by Draper Associates and Boost VC and has received grants from the Ethereum Foundation.
+
+## 
