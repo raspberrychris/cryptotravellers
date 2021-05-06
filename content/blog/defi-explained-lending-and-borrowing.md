@@ -11,7 +11,7 @@ url = "defi-explained"
 [menu.main]
 name = "Defi Explained"
 parent = "Guides"
-weight = 2
+weight = 3
 
 +++
 ## What is Decentralised Finance? (DeFi)

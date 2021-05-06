@@ -11,7 +11,7 @@ url = "what-are-nfts"
 [menu.main]
 name = "NFTs"
 parent = "Guides"
-weight = 1
+weight = 2
 
 +++
 ## NFTs: Non Fungible Tokens. What are they?

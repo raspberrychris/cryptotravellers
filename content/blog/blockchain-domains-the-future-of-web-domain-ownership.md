@@ -8,6 +8,10 @@ tags = ["NFTs", "Blockchain Domains"]
 title = "Blockchain Domains: The Future of Web Domain Ownership?"
 toc = true
 url = "blockchain-domains-explained"
+[menu.main]
+name = "Blockchain Domains Explained"
+parent = "Guides"
+weight = 1
 
 +++
 **Blockchain domains can be used to build websites that are resistant to censorship. Traditional domain assets like Google Domains or GoDaddy, which store information on your behalf in their data centres, can be taken down by court orders and company bureaucracy.**
