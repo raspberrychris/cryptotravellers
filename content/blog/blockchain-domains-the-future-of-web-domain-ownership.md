@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Blockchain Domains"]
 date = 2021-05-05T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/blockchain-domains-explained.png"
 tags = ["NFTs", "Blockchain Domains"]
 title = "Blockchain Domains: The Future of Web Domain Ownership?"
@@ -11,7 +10,7 @@ toc = true
 url = "blockchain-domains-explained"
 
 +++
-**Blockchain domains can be used to build websites that are resistant to censorship. Traditional domain assets like Google Domains or GoDaddy, which store information on your behalf in their data centres, can be taken down by court orders and company bureaucracy.** 
+**Blockchain domains can be used to build websites that are resistant to censorship. Traditional domain assets like Google Domains or GoDaddy, which store information on your behalf in their data centres, can be taken down by court orders and company bureaucracy.**
 
 > **A blockchain domain is controlled directly by yourself, so it's impossible for a third party to take it from you - no matter what.**
 
@@ -53,11 +52,11 @@ Blockchain Domains are the future of web domain ownership and will help us make 
 
 ## What is a .crypto domain?
 
-The .crypto domain is minted as a nonfungible token (NFT) on the ethereum blockchain, the pricing starts at around $40 but can sell for as much as $100,000.  
+The .crypto domain is minted as a nonfungible token (NFT) on the ethereum blockchain, the pricing starts at around $40 but can sell for as much as $100,000.
 
 ## What can you do with a blockchain domain? (Video)
 
-https://youtu.be/Tdr6XoVAqeo
+{{< youtube Tdr6XoVAqeo >}}
 
 ## How do I view a decentralised domain name?
 
