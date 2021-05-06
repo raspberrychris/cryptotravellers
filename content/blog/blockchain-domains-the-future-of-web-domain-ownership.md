@@ -44,7 +44,7 @@ Blockchain domains have existed since 2010 and they’re still growing in popula
 
 The decentralised web is the perfect place for blockchain domain owners because it allows them to store their data without fear of losing it - or getting it stolen. That’s not all: since blockchain domains are generated and stored on multiple computers, they also make censorship impossible. This means that there's no way for any blockchain domain owner to be completely shut down.
 
-Blockchain Domains are the future of web domain ownership and will help us make the internet more accessible for everyone.
+> Blockchain Domains are the future of web domain ownership and will help us make the internet more accessible for everyone.
 
 ## Can I build a website with a decentralised domain?
 
