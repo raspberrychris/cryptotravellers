@@ -62,13 +62,15 @@ The .crypto domain is minted as a nonfungible token (NFT) on the ethereum blockc
 
 ## How do I view a decentralised domain name?
 
-Opera have [recently announced ](https://cointelegraph.com/news/web-browser-opera-integrates-crypto-domain-names-for-users-on-any-device)that you can "surf the decentralised web" on Opera, and they now offer full integration of .crypto names available to be viewed on any platform.  Once you have downloaded Opera you can visit [helloweb3.crypto](helloweb3.crypto) and the capability to surf decentralised domains is now built into the Opera browser - Amazing.
+Opera, the web browser company, have [recently announced ](https://cointelegraph.com/news/web-browser-opera-integrates-crypto-domain-names-for-users-on-any-device)that you can "surf the decentralised web" natively on Opera, and they now offer full integration of .**crypto** names available to be viewed on any platform.  Once you have [downloaded Opera ](https://www.opera.com/download)you can visit [helloweb3.crypto](helloweb3.crypto) and the capability to surf decentralised domains is now built into the Opera browser - Amazing.
+
+**Download Opera here:** [**https://www.opera.com/download**](https://www.opera.com/download "https://www.opera.com/download")
 
 ![hello-web3-decentralised-nft-domains](/uploads/opera-unstopabble-screenshot-domains-nft.png)
 
 ## What about in countries with internet censorship?
 
-Opera and Unstoppable domains have stressed that if you live in a country with internet censorship, you may still need a [**VPN**](/link/nord-vpn) to access a decentralised website.
+Opera and Unstoppable domains have stressed that if you live in a country with internet censorship, you may still need a [**VPN**](/link/nord-vpn) to access a decentralised website.  (We personally use and recommend [**Nord VPN**](/link/nord-vpn) and in our opinion they are the #1 choice as a VPN provider).  Nord has been the Editors Choice of [PC Mag](https://pcmag.com/) for 2 years in a row, and has also been chosen by [VPN Mentor](https://www.vpnmentor.com/) as "The Best VPN Overall".  Nord operates on all major devices.
 
 > _“Just as with the current web, if users are facing those types of issues they would need to use VPNs or a similar tool. Decentralised websites solve a user’s ability to publish — it’s on the publishing side rather than on the viewing side. Right now, you can't publish using a traditional domain registrar if you're in a place that is limiting free speech. Whereas, with decentralised website tools, you could. So it’s about the publishing and not the viewing.”_ - [Via Cointelegraph](https://cointelegraph.com/news/opera-becomes-first-major-browser-to-integrate-crypto-domain-extension)
 
