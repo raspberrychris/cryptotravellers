@@ -4,14 +4,16 @@ categories = ["Blockchain Domains"]
 date = 2021-05-05T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/blockchain-domains-explained.png"
 tags = ["NFTs", "Blockchain Domains"]
-title = "Blockchain Domains: The Future of Web Domain Ownership"
+title = "Blockchain Domains: The Future of Web Domain Ownership?"
 toc = true
 url = "blockchain-domains-explained"
 
 +++
-**Blockchain domains can be used to build websites that are resistant to censorship. Traditional domain assets like Google Domains or GoDaddy, which store information on your behalf in their data centres, can be taken down by court orders and company bureaucracy. The blockchain is controlled directly by yourself, so it's impossible for a third party to take it from you - no matter what.**
+**Blockchain domains can be used to build websites that are resistant to censorship. Traditional domain assets like Google Domains or GoDaddy, which store information on your behalf in their data centres, can be taken down by court orders and company bureaucracy.** 
+
+> **A blockchain domain is controlled directly by yourself, so it's impossible for a third party to take it from you - no matter what.**
 
 The blockchain domain is a decentralised, peer-to-peer network that allows users to register and transfer their domains without involvement of a third party.
 
@@ -47,11 +49,15 @@ Blockchain Domains are the future of web domain ownership and will help us make 
 
 ## Can I build a website with a decentralised domain?
 
-Yes. Using a blockchain domain means that you can create decentralised websites. You can point your blockchain domain name to a website on a peer-to-peer hosting platform like IPFS, for example. It’s also possible to connect domains to social media accounts to verify identity and set up things like email and chat protocols associated with your domain.
+**Yes**. Using a blockchain domain means that you can create decentralised websites, and many already exist. You can point your blockchain domain name to a website on a peer-to-peer hosting platform like IPFS, for example. It’s also possible to connect domains to social media accounts to verify identity and set up things like email and chat protocols associated with your domain.
 
-## How do I view a decentralised name?
+## What is a .crypto domain?
 
-Opera have recently announced that you can "surf the decentralised web" on Opera.  Once you have downloaded Opera you can visit [helloweb3.crypto](helloweb3.crypto) and the capability to surf decentralised domains is now built into the Opera browser - Amazing.
+The .crypto domain is minted as a nonfungible token (NFT) on the ethereum blockchain, the pricing starts at around $40 but can sell for as much as $100,000.  
+
+## How do I view a decentralised domain name?
+
+Opera have [recently announced ](https://cointelegraph.com/news/web-browser-opera-integrates-crypto-domain-names-for-users-on-any-device)that you can "surf the decentralised web" on Opera, and they now offer full integration of .crypto names available to be viewed on any platform.  Once you have downloaded Opera you can visit [helloweb3.crypto](helloweb3.crypto) and the capability to surf decentralised domains is now built into the Opera browser - Amazing.
 
 ![hello-web3-decentralised-nft-domains](/uploads/opera-unstopabble-screenshot-domains-nft.png)
 
