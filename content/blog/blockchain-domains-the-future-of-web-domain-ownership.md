@@ -55,6 +55,10 @@ Blockchain Domains are the future of web domain ownership and will help us make 
 
 The .crypto domain is minted as a nonfungible token (NFT) on the ethereum blockchain, the pricing starts at around $40 but can sell for as much as $100,000.  
 
+## What can you do with a blockchain domain? (Video)
+
+https://youtu.be/Tdr6XoVAqeo
+
 ## How do I view a decentralised domain name?
 
 Opera have [recently announced ](https://cointelegraph.com/news/web-browser-opera-integrates-crypto-domain-names-for-users-on-any-device)that you can "surf the decentralised web" on Opera, and they now offer full integration of .crypto names available to be viewed on any platform.  Once you have downloaded Opera you can visit [helloweb3.crypto](helloweb3.crypto) and the capability to surf decentralised domains is now built into the Opera browser - Amazing.
@@ -71,12 +75,14 @@ Once you have bought them, there are no renewal fees.  For project websites this
 
 ## How do I register a blockchain domain?
 
-You can use Unstoppable domains to register a .crypto domain. They’re a blockchain-based domain name system that lets you register a .crypto domain without the need for any extra software.
+You can use [Unstoppable domains](/link/unstoppable-domains) to register a .crypto domain. They’re a blockchain-based domain name system that lets you register a .crypto domain without the need for any extra software.
 
 ## How do I get an NFT Domain?
 
 You can use Unstoppable domains to purchase a NFT Domain. Unstoppable domains has registered over 540,000 domains names to date and they are big business. win.crypto sold for a record $100,000.
 
+**Use our link to** [**get your .crypto domain name now**](/link/unstoppable-domains) **with Unstoppable**
+
 ## **Who are Unstoppable Domains?**
 
-Unstoppable Domains is a San Francisco-based company building the universal naming system for the decentralised web. The company is backed by Draper Associates and Boost VC and has received grants from the Ethereum Foundation.
+[Unstoppable Domains](/link/unstoppable-domains) is a San Francisco-based company building the universal naming system for the decentralised web. The company is backed by Draper Associates and Boost VC and has received grants from the Ethereum Foundation.
