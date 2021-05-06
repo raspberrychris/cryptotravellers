@@ -13,17 +13,15 @@ url = "blockchain-domains-explained"
 +++
 **Blockchain domains can be used to build websites that are resistant to censorship. Traditional domain assets like Google Domains or GoDaddy, which store information on your behalf in their data centres, can be taken down by court orders and company bureaucracy. The blockchain is controlled directly by yourself, so it's impossible for a third party to take it from you - no matter what.**
 
-The blockchain domain is a decentralised, peer-to-peer network that allows users to register and transfer their domains without involvement of a third party. 
+The blockchain domain is a decentralised, peer-to-peer network that allows users to register and transfer their domains without involvement of a third party.
 
 Blockchains operate on the principle of consensus, which means there are no central authorities or middlemen involved in cross-domain transactions. This makes blockchain domains ideal for web developers who want to create an online marketplace where users can buy and sell website names with ease.
 
-Blockchain domains also offer three benefits over traditional domain registration:
+**Blockchain domains also offer three benefits over traditional domain registration:**
 
-1) They're more secure because blockchain networks use encryption;
-
-2) They reduce costs by bypassing the need for intermediaries;
-
-3) They allow user anonymity as well as privacy protection due to the nature of blockchain technology.
+1. They're more secure because blockchain networks use encryption;
+2. They reduce costs by bypassing the need for intermediaries;
+3. They allow user anonymity as well as privacy protection due to the nature of blockchain technology.
 
 ## Blockchain Domains: How do they work?
 
@@ -49,15 +47,21 @@ Blockchain Domains are the future of web domain ownership and will help us make 
 
 ## Can I build a website with a decentralised domain?
 
-Yes. Using a blockchain domain means that you can create decentralised websites. You can point your blockchain domain name to a website on a peer-to-peer hosting platform like IPFS, for example. It’s also possible to connect domains to social media accounts to verify identity and set up things like email and chat protocols associated with your domain.  
+Yes. Using a blockchain domain means that you can create decentralised websites. You can point your blockchain domain name to a website on a peer-to-peer hosting platform like IPFS, for example. It’s also possible to connect domains to social media accounts to verify identity and set up things like email and chat protocols associated with your domain.
 
-How do I view a decentralised name?
+## How do I view a decentralised name?
 
-Opera have recently announced 
+Opera have recently announced that you can "surf the decentralised web" on Opera.  Once you have downloaded Opera you can visit [helloweb3.crypto](helloweb3.crypto) and the capability to surf decentralised domains is now built into the Opera browser - Amazing.
+
+![hello-web3-decentralised-nft-domains](/uploads/opera-unstopabble-screenshot-domains-nft.png)
 
 ## What is the best bit about blockchain domains?
 
-Once you have bought them, there are no renewal fees.
+Once you have bought them, there are no renewal fees.  For project websites this might not be a big deal, but for companies this actually make business sense from an economic perspective to take ownership of a domain that is actually a fixed asset rather than one that you are paying for the use of yearly.
+
+![](/uploads/web3-decentralisation-ownership-security.png)
+
+(Above: Opera lists the 3 benefits of the decentralised web).
 
 ## How do I register a blockchain domain?
 
