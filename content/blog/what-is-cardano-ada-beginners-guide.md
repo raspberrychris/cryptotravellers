@@ -47,7 +47,7 @@ Cardano is not dead nor dying. Cardano has been at the top of the cryptocurrency
 
 ## Are Cardano Fees High?
 
-No. Cardano fees are low in comparison to other cryptocurrencies like Bitcoin and Ethereum, with a typical transaction fee of $0.01 USD (at the time of writing). This is due to their consensus algorithm called Ouroboros which utilises Proof-of-Stake rather than power hungry mining hardware as seen on competing blockchains.
+No. Cardano fees are low in comparison to other cryptocurrencies like Bitcoin and Ethereum. This is due to their consensus algorithm called [Ouroboros](https://cardano.org/ouroboros/) which utilises Proof-of-Stake rather than power hungry mining hardware as seen on competing blockchains.
 
 **Cardano Fee Structure:** [**https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html**](https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html "https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html")
 
