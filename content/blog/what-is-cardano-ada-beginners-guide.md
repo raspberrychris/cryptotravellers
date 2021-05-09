@@ -16,7 +16,7 @@ url = "what-is-cardano-ada-beginners-guide"
 
 ![cardano-logo](/uploads/logo-cardano.png)
 
-{{< notice "note" >}} This post contains affiliate links and we will receive a commission. {{< /notice >}}
+{{< notice "note" >}} This post contains affiliate links. {{< /notice >}}
 
 [**Cardano**](/buy-cardano) is a decentralised cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
 
@@ -346,3 +346,5 @@ Read our article on:
 * Pool.pm [https://pool.pm/](https://pool.pm/ "https://pool.pm/")
 * PoolStats [https://poolstats.org/](https://poolstats.org/ "https://poolstats.org/")
 * PoolPeek [https://poolpeek.com/](https://poolpeek.com/ "https://poolpeek.com/")
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
