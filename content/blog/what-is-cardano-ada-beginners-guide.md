@@ -137,11 +137,15 @@ In Cardano's system, a process called \`Ouroboros\` generates new blocks. To exe
 
 As the price of Cardano ADA continues to rise there have been an increasing number of sophisticated (and non sophisticated scams that are targeting Cardano investors.  Charles Hoskinson has been very vocal that Cardano Never gives away any ADA.  Despite this warning there have been YouTube live events that have featured older interviews with Charles in that encourage people to send money in exchange for more Cardano "rewards".
 
-![](https://i.redd.it/t30vs1vshzx61.jpg)
+![charles-hoskinson-giveaway-scams-youtube](https://i.redd.it/t30vs1vshzx61.jpg)
 
-[https://youtu.be/06Wo6tjqef0](https://youtu.be/06Wo6tjqef0 "https://youtu.be/06Wo6tjqef0")
+## Charles Hoskinson on Cardano Giveaway Scams (Video)
+
+{{< youtube 06Wo6tjqef0 >}}
 
 ## Cardano Price Predictions 2021
+
+One of the most common questions around Cardano ADA is people are always asking what price it will reach.
 
 ### Will Cardano Reach $10?
 
