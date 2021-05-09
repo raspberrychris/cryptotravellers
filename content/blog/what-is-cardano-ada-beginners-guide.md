@@ -245,13 +245,19 @@ The Trezor Model T supports Cardano, but the other Trezor models currently don't
 
 ## Can you Buy Cardano With Paypal?
 
+Yes, if you use Coinbase, you can purchase Cardano with Paypal.  [Coinbase have supported Cardano](https://blog.coinbase.com/cardano-ada-is-now-available-on-coinbase-dd30c1e0d93a) since the 19th March.
+
 ## Can you Buy Cardano Without KYC Verification or ID?
+
+You can use Ocean X, Binance to buy Cardano without KYC.
 
 ## How to Buy Cardano Without Fees?
 
+The cheapest deal on fees we found was [**OKex **](/link/okex)which have trading fees of 0.08%/0.1% and a withdrawal fee of 1.0 ADA.  Binance, Bitthumb, Bitfinex also have similar fee levels.
+
 ## What is Cardano doing in Ethiopia?
 
-## Cardano Like Bitcoin
+## 
 
 ## Cardano vs other Cryptos
 
