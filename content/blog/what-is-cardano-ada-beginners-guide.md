@@ -75,9 +75,7 @@ Cardano have created a [staking calculator ](https://cardano.org/calculator/)tha
 
 ## Are Cardano Pools Safe?
 
-\- Cardano pools are safe if the pool is well maintained and has a good reputation.
-
-\- There have been incidents of malicious Cardano mining, but these cases were rare.
+\- Cardano pools are safe if the pool is well maintained and have a good reputation.  Ensure to do your research before hand.
 
 ## What Are Cardano Staking Rewards?
 
