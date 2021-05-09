@@ -3,10 +3,9 @@ author = "Luna Sanchez"
 categories = ["What is"]
 date = 2021-05-08T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/what-is-cardano-ada-beginners-guide.png"
 tags = ["ADA", "Cardano"]
-title = "What is Cardano (ADA)? - Beginners Guide"
+title = "What is Cardano (ADA)? - A Beginner's Guide"
 toc = true
 url = "what-is-cardano-ada-beginners-guide"
 
@@ -81,7 +80,18 @@ Cardano have created a [staking calculator ](https://cardano.org/calculator/)tha
 
 ## Are Cardano Pools Safe?
 
-Cardano pools are safe if the pool is well maintained and have a good reputation.  Ensure to do your research before hand.
+Cardano pools are safe if the pool is well maintained and have a good reputation.  Ensure to do your research before hand.  Use our stake pool comparison sites below to make an informed decision.
+
+### Stake Pool Comparison Sites
+
+* PoolTool [https://pooltool.io/](https://pooltool.io/ "https://pooltool.io/")
+* Adapools [https://adapools.org/](https://adapools.org/ "https://adapools.org/")
+* ADAex [https://adaex.org/](https://adaex.org/ "https://adaex.org/")
+* Cardanoscan [https://cardanoscan.io/](https://cardanoscan.io/ "https://cardanoscan.io/")
+* AdaTools [https://adatools.io/](https://adatools.io/ "https://adatools.io/")
+* Pool.pm [https://pool.pm/](https://pool.pm/ "https://pool.pm/")
+* PoolStats [https://poolstats.org/](https://poolstats.org/ "https://poolstats.org/")
+* PoolPeek [https://poolpeek.com/](https://poolpeek.com/ "https://poolpeek.com/")
 
 ## What Are Cardano Staking Rewards?
 
@@ -155,13 +165,21 @@ One of the most common questions around Cardano ADA is people are always asking 
 
 \- ADA can be purchased on many different cryptocurrency exchanges, such as [Coinbase](/link/coinbase) and [OKEx](/link/okex) for example.
 
+\- You can also buy Cardano ADA using [Crypto.com.  (And get $25)](/link/sign-up-crypto-dot-com) if you sign up for their metal cards.
+
+**Read our** [**Crypto.com Review here.**](https://cryptotravellers.com/crypto-com-review/)
+
 ## When Cardano On Coinbase?
 
 Cardano is already active on [Coinbase and you can sign up here.](/link/coinbase)
 
+![cardano-coinbase](/uploads/0_astmpmih3ud9iifs.png)
+
 ## Cardano Where To Store?
 
 Once you have purchased your Cardano (ADA) you can store your Cardano either on an Exchange or it is advised to store it in a wallet such as the [Daedelus](https://daedaluswallet.io/) or [Yoroi wallet.](https://yoroi-wallet.com/)
+
+![](/uploads/daedalus-wallet.gif)
 
 ## Which Cardano On Trust Wallet?
 
@@ -251,7 +269,7 @@ The Trezor Model T supports Cardano, but the other Trezor models currently don't
 
 ## Can you Buy Cardano With Paypal?
 
-Yes, if you use Coinbase, you can purchase Cardano with Paypal.  [Coinbase have supported Cardano](https://blog.coinbase.com/cardano-ada-is-now-available-on-coinbase-dd30c1e0d93a) since the 19th March.
+Yes, if you use [Coinbase](/link/coinbase), you can purchase Cardano with Paypal.  [Coinbase have supported Cardano](https://blog.coinbase.com/cardano-ada-is-now-available-on-coinbase-dd30c1e0d93a) since the 19th March.
 
 ## Can you Buy Cardano Without KYC Verification or ID?
 
