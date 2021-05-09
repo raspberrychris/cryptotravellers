@@ -179,6 +179,12 @@ Is Cardano Open Source? - Yes, the team behind ADA seeks input from people all a
 
 ## Can you use Cardano For NFTs?
 
+Cardano have had interest from [Occam](https://twitter.com/OccamFi?s=20) and Bondly to grow NFT and DeFi use on their platform.
+
+**Mark Berger**, President of the Occam Association, said:
+
+> **“Bondly has emerged as an NFT leader and together, we believed our partnership, and by extension the Cardano ecosystem, is a natural fit. Together, we will pursue opportunities to incubate NFT startups and bring high-quality projects across our respective launchpad infrastructure.”**
+
 ## Cardano Is A Good Investment?
 
 Yes.  Cardano is still a relatively new project compared to some of the other more established crypto projects in the space.  Purely from a research standpoint and development perspective Cardano has spent a lot of time trying to create their vision of what the perfect cryptocurrency looks like.  They may not be the fastest, but their processes are well thought through and the project generally seems like a force for good rather than some other Alt Coins that are clearly just there to ride the cryptowave.
