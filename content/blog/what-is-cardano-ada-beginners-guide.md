@@ -79,7 +79,7 @@ Cardano have created a [staking calculator ](https://cardano.org/calculator/)tha
 
 ## What Are Cardano Staking Rewards?
 
-      Cardano offers a consensus algorithm called Ouroboros. Besides being distributed, it also provides Cardano with rewards for creating blocks and maintaining the blockchain (more on this below).
+Cardano offers a consensus algorithm called Ouroboros. Besides being distributed, it also provides Cardano with rewards for creating blocks and maintaining the blockchain (more on this below).
 
 \- Cardano's Proof of Stake system is known as "[Ouroboros](https://cardano.org/ouroboros/)." This unique security mechanism has been argued by many experts to be one of the best in the world.
 
