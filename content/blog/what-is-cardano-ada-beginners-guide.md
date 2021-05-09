@@ -57,13 +57,13 @@ No. Cardano fees are low in comparison to other cryptocurrencies like [Bitcoin](
 
 ## Are Cardano Stake Pools Safe?
 
-Yes. Cardano stake pools are safe due to the fact that they can only use ADA and not other cryptocurrencies, which means there is no risk of investment loss outside of this pool like on Bitcoin or Ethereum's mining setups.
+Yes. Cardano [stake pools](https://cardano.org/stake-pool-operation/) are safe due to the fact that they can only use ADA and not other cryptocurrencies, which means there is no risk of investment loss outside of this pool like on Bitcoin or Ethereum's mining setups.
 
-The primary disadvantage in using a Cardano stakepool is you will be sharing all rewards with everyone else  in the pool.
+The primary disadvantage in using a Cardano stake pool is you will be sharing all rewards with everyone else in the pool.
 
 Notwithstanding, Cardano stake pools are still a viable investment and can earn large returns. There is also no risk of losing value due to other currencies or tokens being used in mining which may lead to significant losses on investments elsewhere.
 
-No matter what your needs are as an ADA holder, there should be some sort  Cardano is a versatile cryptocurrency.
+No matter what your needs are as an ADA holder, there should be some sort Cardano is a versatile cryptocurrency.
 
 ## Are Cardano Coins Limited?
 
@@ -121,7 +121,7 @@ Cardano operates on a proof of stake model rather than a proof of work, meaning 
 
 Cardano is a Proof-of-Stake (PoS) cryptocurrency, which means that any Cardano user can be rewarded with new ADA tokens if they allow their wallet to connect to the network and act as a “staking node”. Staking nodes will receive newly minted coins in return for helping maintain the security of   Cardano’s blockchain. These nodes are randomly chosen to create new blocks of transactions and receive rewards in the form of Cardano tokens for completing a set number of successful “confirmations” - or verifications that their block conforms to Cardano rules. Blocks can take minutes, hours, days, weeks, or even months to Convert Cardano (ADA) to Other Cryptocurrencies
 
-Converting any cryptocurrency can be done at many online exchanges. This is usually as simple as inputting the wallet address of the currency that you want to receive and a desired payment amount, then waiting for your new coins to arrive in your account. Some popular options are Changelly,
+Converting any cryptocurrency can be done at many online exchanges. This is usually as simple as inputting the wallet address of the currency that you want to receive and a desired payment amount, then waiting for your new coins to arrive in your account. Some popular options are [Changelly](/link/changelly),
 
 ## How Will Cardano Change The World?
 
@@ -151,15 +151,21 @@ One of the most common questions around Cardano ADA is people are always asking 
 
 ## What Exchanges can you buy Cardano on?
 
+\- ADA can be purchased on many different cryptocurrency exchanges, such as [Coinbase](/link/coinbase) and [OKEx](/link/okex) for example.
+
 ## When Cardano On Coinbase?
+
+Cardano is already active on [Coinbase and you can sign up here.](/link/coinbase)
 
 ## Cardano Where To Buy Uk?
 
 ## Cardano Where To Store?
 
-Once you have purchased your Cardano (ADA) you can store your Cardano either on an Exchange or it is advised to store it in a wallet such as the Daedelus or Yoroi wallet.
+Once you have purchased your Cardano (ADA) you can store your Cardano either on an Exchange or it is advised to store it in a wallet such as the [Daedelus](https://daedaluswallet.io/) or [Yoroi wallet.](https://yoroi-wallet.com/)
 
 ## Which Cardano On Trust Wallet?
+
+According to the [Trust Wallet assets](https://trustwallet.com/assets) page, Cardano is not yet supported.
 
 ## Who Owns Cardano? Who Created Cardano?
 
@@ -205,13 +211,11 @@ Cardano is just starting it's NFT journey as we write.  Charles has indicated on
 
 ## Cardano Is A Good Investment?
 
-We think it is in the long term, but please do your own research.  Cardano is still a relatively new project compared to some of the other more established crypto projects in the space.  Purely from a research standpoint and development perspective Cardano has spent a lot of time trying to create their vision of what the perfect cryptocurrency looks like.  They may not be the fastest, but their processes are well thought through and the project generally seems like a force for good rather than some other Alt Coins that are clearly just there to ride the cryptowave.
+We think it is in the long term, but please do your own research (and this does not represent financial advice)!.  Cardano is still a relatively new project compared to some of the other more established crypto projects in the space.  Purely from a research standpoint and development perspective Cardano has spent a lot of time trying to create their vision of what the perfect cryptocurrency looks like.  They may not be the fastest, but their processes are well thought through and the project generally seems like a force for good rather than some other Alt Coins that are clearly just there to ride the cryptowave.
 
 ## Is Cardano The Next Bitcoin?
 
 \- Cardano is one of the most popular cryptocurrencies in the world.
-
-\- ADA can be purchased on many different cryptocurrency exchanges, such as [Coinbase](/link/coinbase) and [OKEx](/link/okex) for example.
 
 \- People are very excited about Cardano because it seems to have everything going for it: a passionate team, an ambitious vision, solid technological under
 
@@ -255,23 +259,23 @@ You can use Ocean X, Binance to buy Cardano without KYC.
 
 The cheapest deal on fees we found was [**OKex **](/link/okex)which have trading fees of 0.08%/0.1% and a withdrawal fee of 1.0 ADA.  Binance, Bitthumb, Bitfinex also have similar fee levels.
 
-## What is Cardano doing in Ethiopia?
+## How to buy Cardano with BTC, USD, GBP or EUR
 
-## 
+`<iframe width="100%" height="100%" frameborder='none' src="https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3">Can't load widget</iframe>`
 
 ## Cardano vs other Cryptos
 
-### Cardano Vs Near?
+### Cardano Vs Near
 
 ### Cardano Vs Ethereum
 
 ### Cardano Vs Chainlink
 
-### Cardano Vs Litecoin?
+### Cardano Vs Litecoin
 
 ### Cardano Vs Vechain
 
-### Cardano Vs Polkadot
+Cardano Vs Polkadot - [https://cryptotravellers.com/cardano-vs-polkadot/](https://cryptotravellers.com/cardano-vs-polkadot/ "https://cryptotravellers.com/cardano-vs-polkadot/")
 
 ### Cardano Vs Bitcoin
 
