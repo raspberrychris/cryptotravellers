@@ -4,14 +4,14 @@ categories = ["What is"]
 date = 2021-05-08T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/what-is-cardano-ada-beginners-guide.png"
 tags = ["ADA", "Cardano"]
 title = "What is Cardano (ADA)? - Beginners Guide"
 toc = true
 url = "what-is-cardano-ada-beginners-guide"
 
 +++
-## What is Cardano (ADA)? 
+## What is Cardano (ADA)?
 
 > **_"Cardano_ is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods.  ... \[Cardano is\] A new type of currency. A new means of transaction. Direct. Secure. From Anywhere. For Everyone" - Via** [**Cardano.org**](https://cardano.org/)
 
@@ -27,7 +27,7 @@ The Cardano project is named after the mathematician, scientist and philosopher 
 
 ## What is ADA?
 
-Cardano's token ADA is named after Ada Lovelace: a 19th-century mathematician who is recognised as the first computer programmer, and is the daughter of the poet Lord Byron.
+Cardano's token ADA is named after [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace): a 19th-century mathematician who is recognised as the first computer programmer, and is the daughter of the poet [Lord Byron.](https://en.wikipedia.org/wiki/Lord_Byron)
 
 ## What can you do with ADA?
 
@@ -37,35 +37,37 @@ ADA is a digital currency and as such can be used as an exchange of value withou
 
 No, Cardano is not a competitor to the Polkadot project. Cardano’s goal is create a platform for global financial services that can be trusted and used by anybody in any part of the world. This will use blockchain technology and it does have some similarities with what Polkadot aims to do - however there are  a few differences.
 
-The Cardano team, in partnership with the Ethiopian government, is working on a project called “Africa Green Paper” - which focuses entirely on using blockchain technology to solve Africa’s biggest problems: poor infrastructure and lack of access to finance.
+The Cardano team, in [partnership with the Ethiopian government](https://www.coindesk.com/from-paper-to-cardano-blockchain-iohk-in-ethiopia) is currently using blockchain technology to resolve the issue of fake certifications in Education and give students in Ethiopia a way to record their progress using  NFC cards.
 
-Polkadot aims to create an entirely new internet for  decentralized networks, where many different blockchains will be able to form interconnected spaces. Cardano is not focusing on achieving this goal in the same way - they are instead creating a platform that provides an environment for decentralized applications.
+Polkadot aims to create an entirely new internet for  decentralised networks, where many different blockchains will be able to form interconnected spaces. Cardano is not focusing on achieving this goal in the same way - they are instead creating a platform that provides an environment for decentralised applications.
 
 ## Why do some people say Cardano Is Dead?
 
-Cardano is not dead nor dying. Cardano has been at the top of the cryptocurrency market for a while now.  Cardano is currently the 6th largest coin by Market Capitalisation.  Cardano is also relatively new compared to many of its competitors.
+Cardano is not dead nor dying. Cardano has been at the top of the cryptocurrency market for a while now.  [Cardano is currently in the top 10 by coin by Market Capitalisation](https://coinmarketcap.com/currencies/cardano/).  Cardano is also relatively new compared to many of its competitors.
 
-## Are Cardano Fees High?     
+## Are Cardano Fees High?
 
 No. Cardano fees are low in comparison to other cryptocurrencies like Bitcoin and Ethereum, with a typical transaction fee of $0.01 USD (at the time of writing). This is due to their consensus algorithm called Ouroboros which utilises Proof-of-Stake rather than power hungry mining hardware as seen on competing blockchains.
 
-## Are Cardano Stake Pools Safe?    
+**Cardano Fee Structure:** [**https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html**](https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html "https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html")
 
-Yes. Cardano stake pools are safe due to the fact that they can only use ADA and not other cryptocurrencies, which means there is no risk of investment loss outside of this pool like on Bitcoin or Ethereum's mining setups. 
+## Are Cardano Stake Pools Safe?
+
+Yes. Cardano stake pools are safe due to the fact that they can only use ADA and not other cryptocurrencies, which means there is no risk of investment loss outside of this pool like on Bitcoin or Ethereum's mining setups.
 
 The primary disadvantage in using a Cardano stakepool is you will be sharing all rewards with everyone else  in the pool.
 
-Notwithstanding, Cardano stake pools are still a viable investment and can earn large returns. There is also no risk of losing value due to other currencies or tokens being used in mining which may lead to significant losses on investments elsewhere. 
+Notwithstanding, Cardano stake pools are still a viable investment and can earn large returns. There is also no risk of losing value due to other currencies or tokens being used in mining which may lead to significant losses on investments elsewhere.
 
-No matter what your needs are as an ADA holder, there should be some sort  Cardano is a versatile cryptocurrency that can be mined or staked. 
+No matter what your needs are as an ADA holder, there should be some sort  Cardano is a versatile cryptocurrency that can be mined or staked.
 
-Cardano (ADA) is an open-source, decentralised blockchain and smart contract platform with the goal of providing all people in the world equal access to financial services. Cardano adheres to scientific philosophy and embraces principles like peer-reviewed research as well as being made    
+Cardano (ADA) is an open-source, decentralised blockchain and smart contract platform with the goal of providing all people in the world equal access to financial services. Cardano adheres to scientific philosophy and embraces principles like peer-reviewed research as well as being made
 
 ## Are Cardano Coins Limited?
 
-Cardano has a finite supply, with an estimated total of 45 billion ADA in circulation and approximately 31.112 million Cardano coins left to be mined from the current reward system. That means that there are only about 350 thousand more Cardano's available for mining before we reach the maximum number possible. The idea behind this is that Cardano's price will increase as the number of coins mined gradually decreases. 
+Cardano has a finite supply, with an estimated total of 45 billion ADA in circulation and approximately 31.112 million Cardano coins left to be mined from the current reward system. That means that there are only about 350 thousand more Cardano's available for mining before we reach the maximum number possible. The idea behind this is that Cardano's price will increase as the number of coins mined gradually decreases.
 
-## Is Cardano Mining Profitable? 
+## Is Cardano Mining Profitable?
 
 Mining is less profitable than it was in 2017, with transactions fees now averaging around $0.26 per transaction due to high demand for space on the network and increased competition among miners.
 
@@ -79,7 +81,7 @@ Mining is less profitable than it was in 2017, with transactions fees now averag
 
       Cardano offers a consensus algorithm called Ouroboros. Besides being distributed, it also provides Cardano with rewards for creating blocks and maintaining the blockchain (more on this below).
 
-\- Cardano's Proof of Stake system is known as "Ouroboros." This unique security mechanism has been argued by many experts to be one of the best in the world.
+\- Cardano's Proof of Stake system is known as "[Ouroboros](https://cardano.org/ouroboros/)." This unique security mechanism has been argued by many experts to be one of the best in the world.
 
 \- In a PoS system, people who own tokens are allowed to participate and earn rewards for maintaining the blockchain ledger through individual nodes on their computers
 
@@ -105,7 +107,7 @@ Cardano also features a language called Haskell that enables developers to write
 
 Cardano also uses two unique features called Ouroboros, which is Cardano's Proof-of-Stake algorithm to verify transactions, and has a significant focus on making sure the system is as scalable as possible. The other feature of Cardano is called the Cardano Settlement Layer, which handles ADA transactions.
 
-Cardano's goal is to eventually become a system that can manage smart contracts and digital assets with formal verification of code and secure data storage. It also aims to be able to conduct high-volume instantaneous transactions while maintaining low transaction fees.            
+Cardano's goal is to eventually become a system that can manage smart contracts and digital assets with formal verification of code and secure data storage. It also aims to be able to conduct high-volume instantaneous transactions while maintaining low transaction fees.
 
 ## Can Cardano Be Mined?
 
@@ -117,13 +119,13 @@ The Cardano Settlement Layer process handles the sending and receiving of digita
 
 Cardano is a Proof-of-Stake (PoS) cryptocurrency, which means that any Cardano user can be rewarded with new ADA tokens if they allow their wallet to connect to the network and act as a “staking node”. Staking nodes will receive newly minted coins in return for helping maintain the security of   Cardano’s blockchain. These nodes are randomly chosen to create new blocks of transactions and receive rewards in the form of Cardano tokens for completing a set number of successful “confirmations” - or verifications that their block conforms to Cardano rules. Blocks can take minutes, hours, days, weeks, or even months to Convert Cardano (ADA) to Other Cryptocurrencies
 
-Converting any cryptocurrency can be done at many online exchanges. This is usually as simple as inputting the wallet address of the currency that you want to receive and a desired payment amount, then waiting for your new coins to arrive in your account. Some popular options are Changelly,     
+Converting any cryptocurrency can be done at many online exchanges. This is usually as simple as inputting the wallet address of the currency that you want to receive and a desired payment amount, then waiting for your new coins to arrive in your account. Some popular options are Changelly,
 
 ## How Will Cardano Change The World?
 
 \- Cardano is a smart contract platform that supports complex computations.
 
-\- It is an open source, decentralised and public blockchain network with high security levels, which includes many advanced features such as decentralized applications (Dapp), sidechains and quantum resistance signatures. 
+\- It is an open source, decentralised and public blockchain network with high security levels, which includes many advanced features such as decentralized applications (Dapp), sidechains and quantum resistance signatures.
 
 \- The aim of Cardano is to compete with Ethereum by providing more
 
@@ -133,9 +135,9 @@ In Cardano's system, a process called \`Ouroboros\` generates new blocks. To exe
 
 \##What is the Cardano Giveaway Scam?
 
-As the price of Cardano ADA continues to rise there have been an increasing number of sophisticated (and non sophisticated scams that are targeting Cardano investors.  Charles Hoskinson has been very vocal that Cardano Never gives away any ADA.  Despite this warning there have been YouTube live events that have featured older interviews with Charles in that encourage people to send money in exchange for more Cardano "rewards".  
+As the price of Cardano ADA continues to rise there have been an increasing number of sophisticated (and non sophisticated scams that are targeting Cardano investors.  Charles Hoskinson has been very vocal that Cardano Never gives away any ADA.  Despite this warning there have been YouTube live events that have featured older interviews with Charles in that encourage people to send money in exchange for more Cardano "rewards".
 
-Charles has made a video on this scam here. 
+Charles has made a video on this scam here.
 
 [https://www.reddit.com/r/cardano/comments/n81ml0/a_direct_tweet_from_charles_hoskinson_warning/](https://www.reddit.com/r/cardano/comments/n81ml0/a_direct_tweet_from_charles_hoskinson_warning/ "https://www.reddit.com/r/cardano/comments/n81ml0/a_direct_tweet_from_charles_hoskinson_warning/")
 
@@ -165,17 +167,17 @@ Once you have purchased your Cardano (ADA) you can store your Cardano either on 
 
 ## Who Owns Cardano? Who Created Cardano?
 
-The team that designed and developed ADA is led by one of the co-founders of Ethereum, Charles Hoskinson. 
+The team that designed and developed ADA is led by one of the co-founders of Ethereum, Charles Hoskinson.
 
 How Does Cardano Work? - Unlike Bitcoin (BTC) or other cryptocurrencies, which use a single public ledger where all transactions are recorded in blocks mined with computers and then stored on      the chain, Cardano uses a more complex system. It has two parallel blockchains which are open to independent verification and validation from outside parties via “interactive proof-of-work” protocol.
 
-Is Cardano Open Source? - Yes, the team behind ADA seeks input from people all around the world for future development of Cardano.     
+Is Cardano Open Source? - Yes, the team behind ADA seeks input from people all around the world for future development of Cardano.
 
 ## Cardano Roadmap
 
-\- Cardano is still in its early days and has a long way to go before it becomes the next big thing. 
+\- Cardano is still in its early days and has a long way to go before it becomes the next big thing.
 
-\- The team behind ADA plans for Cardano to be built with scalability, interoperability, sustainability (environmental), and improving regulatory compliance as the key focuses. 
+\- The team behind ADA plans for Cardano to be built with scalability, interoperability, sustainability (environmental), and improving regulatory compliance as the key focuses.
 
 ## Who Accepts Cardano?
 
@@ -185,9 +187,9 @@ Is Cardano Open Source? - Yes, the team behind ADA seeks input from people all a
 
 ## Is Cardano The Next Bitcoin?
 
-\- Cardano is one of the most popular cryptocurrencies in the world. 
+\- Cardano is one of the most popular cryptocurrencies in the world.
 
-\- ADA can be purchased on many different cryptocurrency exchanges, such as Binance and OKEx for example. 
+\- ADA can be purchased on many different cryptocurrency exchanges, such as Binance and OKEx for example.
 
 \- People are very excited about Cardano because it seems to have everything going for it: a passionate team, an ambitious vision, solid technological under
 
@@ -195,7 +197,7 @@ Is Cardano Open Source? - Yes, the team behind ADA seeks input from people all a
 
 You can look at the Cardano Block explorer here:
 
-[https://explorer.cardano.org/en](https://explorer.cardano.org/en "https://explorer.cardano.org/en") 
+[https://explorer.cardano.org/en](https://explorer.cardano.org/en "https://explorer.cardano.org/en")
 
 ## Which is the best Cardano Hardware Wallet?
 
