@@ -15,9 +15,11 @@ url = "what-is-cardano-ada-beginners-guide"
 
 > **_"Cardano_ is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods.  ... \[Cardano is\] A new type of currency. A new means of transaction. Direct. Secure. From Anywhere. For Everyone" - Via** [**Cardano.org**](https://cardano.org/)
 
-[**Cardano**](/buy-cardano) is a decentralised cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
-
 ![cardano-logo](/uploads/logo-cardano.png)
+
+{{< notice "note" >}} This post contains affiliate links and we will receive a commission. {{< /notice >}}
+
+[**Cardano**](/buy-cardano) is a decentralised cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
 
 Cardano has three core principles: academic rigour, robust engineering, and an inclusive community. This blog post will discuss what makes Cardano different than other cryptocurrencies on the market today.
 
@@ -147,7 +149,7 @@ As the price of Cardano ADA continues to rise there have been an increasing numb
 
 ## Cardano Price Predictions 2021
 
-One of the most common questions around Cardano ADA is people are always asking what price it will reach.  Following [Dogecoin-mania](/dogemania), it seems like there are no rules anymore and it would be unfair on Cardano to even predict what is likely for the Cryptocurrency. 
+One of the most common questions around Cardano ADA is people are always asking what price it will reach.  Following [Dogecoin-mania](/dogemania), it seems like there are no rules anymore and it would be unfair on Cardano to even predict what is likely for the Cryptocurrency.
 
 ## What Exchanges can you buy Cardano on?
 
@@ -156,8 +158,6 @@ One of the most common questions around Cardano ADA is people are always asking 
 ## When Cardano On Coinbase?
 
 Cardano is already active on [Coinbase and you can sign up here.](/link/coinbase)
-
-## Cardano Where To Buy Uk?
 
 ## Cardano Where To Store?
 
@@ -219,6 +219,8 @@ We think it is in the long term, but please do your own research (and this does 
 
 \- People are very excited about Cardano because it seems to have everything going for it: a passionate team, an ambitious vision, solid technological under
 
+\- To say it is "the next Bitcoin" is a huge step though, although the technology is seen as 3rd generation technology it is not yet got the mass adoption that Bitcoin has.
+
 ## Cardano Block Explorer?
 
 You can look at the Cardano Block explorer here:
@@ -239,7 +241,7 @@ You can look at the Cardano Block explorer here:
 
 ## Does Cardano work With Ledger?
 
-Yes, you can Send/Receive as well as Stake your Cardano with the Ledger Nano X and the Nano S.
+Yes, you can Send/Receive as well as Stake your Cardano with the [Ledger Nano X](/link/ledger) and the [Ledger Nano S](/link/ledger).
 
 **Browse the Ledger range** [**here**](/link/ledger)**.**
 
@@ -257,34 +259,72 @@ You can use Ocean X, Binance to buy Cardano without KYC.
 
 ## How to Buy Cardano Without Fees?
 
-The cheapest deal on fees we found was [**OKex **](/link/okex)which have trading fees of 0.08%/0.1% and a withdrawal fee of 1.0 ADA.  Binance, Bitthumb, Bitfinex also have similar fee levels.
+The cheapest deal on fees we found was  [**OKex  **](/link/okex)which have trading fees of 0.08%/0.1% and a withdrawal fee of 1.0 ADA.  Binance, Bitthumb, Bitfinex also have similar fee levels.
 
 ## How to buy Cardano with BTC, USD, GBP or EUR
 
-`<iframe width="100%" height="100%" frameborder='none' src="https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3">Can't load widget</iframe>`
+We would recommend using [Changelly](/link/changelly) for a fast transfer to buy Cardano.
+
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
+
+{{< iframe"https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0hx0fv2345i88&payment_id=&v=3"}}
 
 ## Cardano vs other Cryptos
 
-### Cardano Vs Near
+Read our article on: 
 
-### Cardano Vs Ethereum
-
-### Cardano Vs Chainlink
-
-### Cardano Vs Litecoin
-
-### Cardano Vs Vechain
-
-Cardano Vs Polkadot - [https://cryptotravellers.com/cardano-vs-polkadot/](https://cryptotravellers.com/cardano-vs-polkadot/ "https://cryptotravellers.com/cardano-vs-polkadot/")
-
-### Cardano Vs Bitcoin
-
-### Cardano Vs Algorand
-
-### Cardano Vs Polkadot
-
-### Cardano Vs Xrp
-
-### Cardano Vs Bitcoin
+**Cardano Vs Polkadot** - [https://cryptotravellers.com/cardano-vs-polkadot/](https://cryptotravellers.com/cardano-vs-polkadot/ "https://cryptotravellers.com/cardano-vs-polkadot/")
 
 ## Useful Links
+
+### Main Websites
+
+* Cardano [https://cardano.org/](https://cardano.org/ "https://cardano.org/")
+* Cardano Foundation [https://cardanofoundation.org/](https://cardanofoundation.org/ "https://cardanofoundation.org/")
+* Input Output [https://iohk.io/](https://iohk.io/ "https://iohk.io/")
+* Emurgo [https://emurgo.io/](https://emurgo.io/ "https://emurgo.io/")
+
+### Discord
+
+* Cardano Community [https://discord.gg/tSBW96WpKZ](https://discord.gg/tSBW96WpKZ "https://discord.gg/tSBW96WpKZ")
+* Project Catalyst [https://discord.gg/PjqxryAStG](https://discord.gg/PjqxryAStG "https://discord.gg/PjqxryAStG")
+
+### Telegram
+
+**Cardano community**
+
+* Announcement: [https://t.me/CardanoAnnouncements](https://t.me/CardanoAnnouncements)
+* Project Catalyst Annoucements [https://t.me/cardanocatalyst](https://t.me/cardanocatalyst)
+* Cardano Official: [https://t.me/Cardano](https://t.me/Cardano)
+* Cardano Developers: [https://t.me/CardanoDevelopersOfficial](https://t.me/CardanoDevelopersOfficial)
+* Cardano StakePool Work Group: [https://t.me/CardanoStakePoolWorkgroup](https://t.me/CardanoStakePoolWorkgroup)
+* Cardano Governance: [https://t.me/CardanoGovernanceOfficial](https://t.me/CardanoGovernanceOfficial)
+* Cardano Trading: [https://t.me/CardanoTradingOfficial](https://t.me/CardanoTradingOfficial)
+* Cardano Japan: [https://t.me/CardanoJapanOfficial](https://t.me/CardanoJapanOfficial)
+* Cardano Japan Trading: [https://t.me/CardanoJapanTrading](https://t.me/CardanoJapanTrading)
+* Cardano Korea: [https://t.me/CardanoKoreaOfficial](https://t.me/CardanoKoreaOfficial)
+* Cardano Korea Trading: [https://t.me/CardanoKoreaTrading](https://t.me/CardanoKoreaTrading)
+* Cardano China: [https://t.me/CardanoChinaOfficial](https://t.me/CardanoChinaOfficial)
+* Cardano Dutch and Flemish Official: [https://t.me/CardanoDutchOfficial](https://t.me/CardanoDutchOfficial)
+* Cardano German: [https://t.me/CardanoGermanOfficial](https://t.me/CardanoGermanOfficial)
+* Cardano Spanish Official: [https://t.me/CardanoSpanishOfficial](https://t.me/CardanoSpanishOfficial)
+* Cardano Portuguese Official: [https://t.me/CardanoPortugueseOfficial](https://t.me/CardanoPortugueseOfficial)
+* Cardano North-America Official: [https://t.me/CardanoNorthAmericaOfficial](https://t.me/CardanoNorthAmericaOfficial)
+
+### Official YouTube Channels
+
+* Charles Hoskinson [https://www.youtube.com/c/charleshoskinsoncrypto/videos](https://www.youtube.com/c/charleshoskinsoncrypto/videos "https://www.youtube.com/c/charleshoskinsoncrypto/videos")
+* Cardano Foundation: [https://www.youtube.com/c/cardanofoundation](https://www.youtube.com/c/cardanofoundation "https://www.youtube.com/c/cardanofoundation")
+* EMURGO: [https://www.youtube.com/c/EMURGO](https://www.youtube.com/c/EMURGO "https://www.youtube.com/c/EMURGO")
+* IOHK: [https://www.youtube.com/c/IohkIo](https://www.youtube.com/c/IohkIo "https://www.youtube.com/c/IohkIo")
+
+### Stake Pool Comparison Sites
+
+* PoolTool [https://pooltool.io/](https://pooltool.io/ "https://pooltool.io/")
+* Adapools [https://adapools.org/](https://adapools.org/ "https://adapools.org/")
+* ADAex [https://adaex.org/](https://adaex.org/ "https://adaex.org/")
+* Cardanoscan [https://cardanoscan.io/](https://cardanoscan.io/ "https://cardanoscan.io/")
+* AdaTools [https://adatools.io/](https://adatools.io/ "https://adatools.io/")
+* Pool.pm [https://pool.pm/](https://pool.pm/ "https://pool.pm/")
+* PoolStats [https://poolstats.org/](https://poolstats.org/ "https://poolstats.org/")
+* PoolPeek [https://poolpeek.com/](https://poolpeek.com/ "https://poolpeek.com/")
