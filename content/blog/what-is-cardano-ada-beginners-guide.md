@@ -103,7 +103,7 @@ Cardano's [smart contracts](https://roadmap.cardano.org/en/goguen/) can be consi
 
 This a question a lot of new investors ask when they are considering what to invest in.  Cardano is a cryptocurrency and blockchain project that has its own distributed ledger. Cardano seeks to provide users with even more privacy than Ethereum while also making the user experience as easy-to-use as possible for developers, which can then create DApps on top of Cardano's platform. Cardano uses a Proof-of-Stake  algorithm to verify transactions, and has a significant focus on making sure the system is as scalable as possible.
 
-Cardano also features a language called Haskell that enables developers to write code in a "pluggable" way, meaning they can choose among different back-end languages such as C++ and Rust without having to rewrite it all from scratch. 
+Cardano also features a language called Haskell that enables developers to write code in a "pluggable" way, meaning they can choose among different back-end languages such as C++ and Rust without having to rewrite it all from scratch.
 
 Cardano also uses two unique features called Ouroboros, which is Cardano's Proof-of-Stake algorithm to verify transactions, and has a significant focus on making sure the system is as scalable as possible. The other feature of Cardano is called the Cardano Settlement Layer, which handles ADA transactions.
 
@@ -137,11 +137,9 @@ In Cardano's system, a process called \`Ouroboros\` generates new blocks. To exe
 
 As the price of Cardano ADA continues to rise there have been an increasing number of sophisticated (and non sophisticated scams that are targeting Cardano investors.  Charles Hoskinson has been very vocal that Cardano Never gives away any ADA.  Despite this warning there have been YouTube live events that have featured older interviews with Charles in that encourage people to send money in exchange for more Cardano "rewards".
 
-Charles has made a video on this scam here.
+![](https://i.redd.it/t30vs1vshzx61.jpg)
 
-[https://www.reddit.com/r/cardano/comments/n81ml0/a_direct_tweet_from_charles_hoskinson_warning/](https://www.reddit.com/r/cardano/comments/n81ml0/a_direct_tweet_from_charles_hoskinson_warning/ "https://www.reddit.com/r/cardano/comments/n81ml0/a_direct_tweet_from_charles_hoskinson_warning/")
-
-\***
+[https://youtu.be/06Wo6tjqef0](https://youtu.be/06Wo6tjqef0 "https://youtu.be/06Wo6tjqef0")
 
 ## Cardano Price Predictions 2021
 
