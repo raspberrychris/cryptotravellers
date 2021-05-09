@@ -67,9 +67,11 @@ Cardano has a finite supply, with an estimated total of 45 billion ADA in circul
 
 ![](/uploads/total-supply-cardano-ada.png)
 
-## Is Cardano Mining Profitable?
+## Is Cardano Staking Profitable?
 
-Mining is less profitable than it was in 2017, with transactions fees now averaging around $0.26 per transaction due to high demand for space on the network and increased competition among miners.
+Cardano have created a [staking calculator ](https://cardano.org/calculator/)that enables you to work out what rewards you will receive based on your ADA investment.  In our example below, a 10,000 ADA investment you could expect to receive $811 on a yearly basis.
+
+![](/uploads/ada-rewards-calculator.png)
 
 ## Are Cardano Pools Safe?
 
