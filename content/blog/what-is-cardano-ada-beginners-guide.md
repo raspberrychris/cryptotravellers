@@ -133,7 +133,7 @@ Converting any cryptocurrency can be done at many online exchanges. This is usua
 
 In Cardano's system, a process called \`Ouroboros\` generates new blocks. To execute this process, there is a set of nodes that are randomly chosen and run in parallel to come up with solutions for the next block. This randomization prevents any one person from manipulating the network because they would need at least 51% of  the total number of nodes running to accomplish such a task.  This is just one way Cardano attempts to create an egalitarian system, giving more power and control back into the hands of the people.
 
-\##What is the Cardano Giveaway Scam?
+## What is the Cardano Giveaway Scam?
 
 As the price of Cardano ADA continues to rise there have been an increasing number of sophisticated (and non sophisticated scams that are targeting Cardano investors.  Charles Hoskinson has been very vocal that Cardano Never gives away any ADA.  Despite this warning there have been YouTube live events that have featured older interviews with Charles in that encourage people to send money in exchange for more Cardano "rewards".
 
