@@ -15,7 +15,7 @@ url = "what-is-cardano-ada-beginners-guide"
 
 > **_"Cardano_ is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods.  ... \[Cardano is\] A new type of currency. A new means of transaction. Direct. Secure. From Anywhere. For Everyone" - Via** [**Cardano.org**](https://cardano.org/)
 
-[**Cardano**](/buy-cardano) is a cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
+[**Cardano**](/buy-cardano) is a decentralised cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
 
 ![cardano-logo](/uploads/logo-cardano.png)
 
