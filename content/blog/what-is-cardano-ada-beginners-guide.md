@@ -87,11 +87,13 @@ Cardano offers a consensus algorithm called Ouroboros. Besides being distributed
 
 ## What Are Cardano Smart Contracts?
 
-Cardano's smart contracts can be considered "a little smarter than Ethereum." The reason for this is that they are able to work with many different types of cryptocurrencies, not just ADA.
+Cardano's [smart contracts](https://roadmap.cardano.org/en/goguen/) can be considered "a little smarter than [Ethereum](/buy-ethereum)." The reason for this is that they are able to work with many different types of cryptocurrencies, not just ADA.
+
+> Goguen will also see improvements to the core Cardano offering. Most significantly, the addition of a multi-currency ledger will extend the usefulness of Cardano even further, enabling users to create new natively-supported tokens. This will allow the creation of fungible and non-fungible tokens, supporting the creation of new cryptocurrencies on Cardano as well as the tokenization of many types of digital and physical assets. Another benefit will be easier integration of smart contracts and DApps involving multiple cryptocurrencies. - Via [Cardano.org](https://roadmap.cardano.org/en/goguen/)
 
 \- This makes them more flexible and allows them to do much more in terms of functionality.
 
-\- Cardano smart contracts are also written in a  programming  language called Plutus, which is similar to Haskell.
+\- Cardano smart contracts are also written in a  programming  language called [Plutus](https://developers.cardano.org/en/programming-languages/plutus/overview/), which is similar to Haskell.
 
 \- One of the best features of Cardano smart contracts is that they are designed for formal verification. This means that every action will be mathematically checked and verified before it gets sent out on the network.
 
