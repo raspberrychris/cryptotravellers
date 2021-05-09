@@ -147,15 +147,7 @@ As the price of Cardano ADA continues to rise there have been an increasing numb
 
 ## Cardano Price Predictions 2021
 
-One of the most common questions around Cardano ADA is people are always asking what price it will reach.
-
-### Will Cardano Reach $10?
-
-### Will Cardano Reach $100?
-
-### Will Cardano Reach 1000?
-
-### Will Cardano Reach $1?
+One of the most common questions around Cardano ADA is people are always asking what price it will reach.  Following [Dogecoin-mania](/dogemania), it seems like there are no rules anymore and it would be unfair on Cardano to even predict what is likely for the Cryptocurrency. 
 
 ## What Exchanges can you buy Cardano on?
 
@@ -205,19 +197,23 @@ You can look at the Cardano Block explorer here:
 
 ## Which is the best Cardano Hardware Wallet?
 
-Ledger Nano X – \[best hardware wallet for Cardano wallet for staking\]
+Ledger Nano X – Best hardware wallet for Cardano wallet for staking
 
-Trezor Model T – \[trustworthy hardware wallet for Cardano\]
+Trezor Model T – trustworthy hardware wallet for Cardano
 
-Ledger Nano S – \[Old but tried & tested wallet for ADA coins\]
+Ledger Nano S – Older but tried & tested wallet for ADA coins
 
-AdaLite – \[Oldest Web wallet for Cardano\]
+Daedelus - Cardano's main Wallet for Desktop
 
-Yoroi – \[Best Cardano wallet for iOS mobile & Web browser\]
+Yoroi – Best Cardano wallet for iOS mobile & Web browser
 
 ## Does Cardano work With Ledger?
 
+Yes.  You can browse Ledgers compa
+
 ## Does Cardano work with Trezor?
+
+The Trezor Model T supports Cardano, but the other Trezor models currently don't support Cardano.
 
 ## Can you Buy Cardano With Paypal?
 
