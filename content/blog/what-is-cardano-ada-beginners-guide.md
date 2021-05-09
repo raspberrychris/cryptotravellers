@@ -17,7 +17,7 @@ url = "what-is-cardano-ada-beginners-guide"
 
 **Cardano** is a cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
 
-![](/uploads/logo-cardano.png)
+![cardano-logo](/uploads/logo-cardano.png)
 
 Cardano has three core principles: academic rigour, robust engineering, and an inclusive community. This blog post will discuss what makes Cardano different than other cryptocurrencies on the market today.
 
@@ -42,6 +42,8 @@ No, Cardano is not a competitor to the Polkadot project. Cardano’s goal is cre
 The Cardano team, in [partnership with the Ethiopian government](https://www.coindesk.com/from-paper-to-cardano-blockchain-iohk-in-ethiopia) is currently using blockchain technology to resolve the issue of fake certifications in Education and give students in Ethiopia a way to record their progress using  NFC cards.
 
 Polkadot aims to create an entirely new internet for  decentralised networks, where many different blockchains will be able to form interconnected spaces. Cardano is not focusing on achieving this goal in the same way - they are instead creating a platform that provides an environment for decentralised applications.
+
+**For a comparison of** [**Cardano vs Polkadot check out our blog post here.**](/cardano-vs-polkadot)
 
 ## Why do some people say Cardano Is Dead?
 
@@ -73,7 +75,7 @@ Cardano has a finite supply, with an estimated total of 45 billion ADA in circul
 
 Cardano have created a [staking calculator ](https://cardano.org/calculator/)that enables you to work out what rewards you will receive based on your ADA investment.  In our example below, a 10,000 ADA investment you could expect to receive $811 on a yearly basis.
 
-![](/uploads/ada-rewards-calculator.png)
+![cardano-staking-calculator](/uploads/ada-rewards-calculator.png)
 
 ## Are Cardano Pools Safe?
 
@@ -111,7 +113,7 @@ Cardano's goal is to eventually become a system that can manage smart contracts 
 
 ## Can Cardano Be Mined?
 
-Cardano operate on a proof of stake model rather than a proof of work, meaning it can't be mined. Cardano's Proof-of-Stake algorithm is called Ouroboros and it allows users to stake ADA in order to verify transactions.
+Cardano operates on a proof of stake model rather than a proof of work, meaning it can't be mined per se. Cardano's Proof-of-Stake algorithm is called **Ouroboros** and it allows users to stake ADA in order to verify transactions.
 
 [The Cardano Settlement Layer](https://why.cardano.org/en/introduction/designing-in-layers/) process handles the sending and receiving of digital assets like ADA or other cryptocurriences among parties while the smart contracts side manages any type of agreement between
 
