@@ -201,15 +201,17 @@ Cardano have had interest from [Occam](https://twitter.com/OccamFi?s=20) and Bon
 
 > **“Bondly has emerged as an NFT leader and together, we believed our partnership, and by extension the Cardano ecosystem, is a natural fit. Together, we will pursue opportunities to incubate NFT startups and bring high-quality projects across our respective launchpad infrastructure.”**
 
+Cardano is just starting it's NFT journey as we write.  Charles has indicated on his YouTube that the first NFT will be an image of him that was drawn by a fan.
+
 ## Cardano Is A Good Investment?
 
-Yes.  Cardano is still a relatively new project compared to some of the other more established crypto projects in the space.  Purely from a research standpoint and development perspective Cardano has spent a lot of time trying to create their vision of what the perfect cryptocurrency looks like.  They may not be the fastest, but their processes are well thought through and the project generally seems like a force for good rather than some other Alt Coins that are clearly just there to ride the cryptowave.
+We think it is in the long term, but please do your own research.  Cardano is still a relatively new project compared to some of the other more established crypto projects in the space.  Purely from a research standpoint and development perspective Cardano has spent a lot of time trying to create their vision of what the perfect cryptocurrency looks like.  They may not be the fastest, but their processes are well thought through and the project generally seems like a force for good rather than some other Alt Coins that are clearly just there to ride the cryptowave.
 
 ## Is Cardano The Next Bitcoin?
 
 \- Cardano is one of the most popular cryptocurrencies in the world.
 
-\- ADA can be purchased on many different cryptocurrency exchanges, such as Binance and OKEx for example.
+\- ADA can be purchased on many different cryptocurrency exchanges, such as [Coinbase](/link/coinbase) and [OKEx](/link/okex) for example.
 
 \- People are very excited about Cardano because it seems to have everything going for it: a passionate team, an ambitious vision, solid technological under
 
@@ -221,19 +223,21 @@ You can look at the Cardano Block explorer here:
 
 ## Which is the best Cardano Hardware Wallet?
 
-Ledger Nano X – Best hardware wallet for Cardano wallet for staking
+[Ledger Nano X](/link/ledger) – Best hardware wallet for Cardano wallet for staking
 
-Trezor Model T – trustworthy hardware wallet for Cardano
+[Trezor Model T](/link/trezor-model-t) – trustworthy hardware wallet for Cardano
 
-Ledger Nano S – Older but tried & tested wallet for ADA coins
+[Ledger Nano S](/link/ledger) – Older but tried & tested wallet for ADA coins
 
-Daedelus - Cardano's main Wallet for Desktop
+[Daedelus](https://daedaluswallet.io/) - Cardano's main Wallet for Desktop
 
-Yoroi – Best Cardano wallet for iOS mobile & Web browser
+[Yoroi](https://yoroi-wallet.com/) – Best Cardano wallet for iOS mobile & Web browser
 
 ## Does Cardano work With Ledger?
 
-Yes.  You can browse Ledgers compa
+Yes, you can Send/Receive as well as Stake your Cardano with the Ledger Nano X and the Nano S.
+
+**Browse the Ledger range** [**here**](/link/ledger)**.**
 
 ## Does Cardano work with Trezor?
 
