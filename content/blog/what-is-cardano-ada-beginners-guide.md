@@ -17,7 +17,9 @@ url = "what-is-cardano-ada-beginners-guide"
 
 **Cardano** is a cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
 
-Cardano has three core principles: academic rigour, robust engineering, and an inclusive community. This blog post will discuss what makes Cardono different than other cryptocurrencies on the market today.
+![](/uploads/logo-cardano.png)
+
+Cardano has three core principles: academic rigour, robust engineering, and an inclusive community. This blog post will discuss what makes Cardano different than other cryptocurrencies on the market today.
 
 > "A platform built for a sustainable future, to help people work better together, trust one another, and build global solutions to global problems." Via [Cardano.org](https://cardano.org/)
 
@@ -75,11 +77,11 @@ Cardano have created a [staking calculator ](https://cardano.org/calculator/)tha
 
 ## Are Cardano Pools Safe?
 
-\- Cardano pools are safe if the pool is well maintained and have a good reputation.  Ensure to do your research before hand.
+Cardano pools are safe if the pool is well maintained and have a good reputation.  Ensure to do your research before hand.
 
 ## What Are Cardano Staking Rewards?
 
-Cardano offers a consensus algorithm called Ouroboros. Besides being distributed, it also provides Cardano with rewards for creating blocks and maintaining the blockchain (more on this below).
+Cardano offers a consensus algorithm called **Ouroboros**. Besides being distributed, it also provides Cardano with rewards for creating blocks and maintaining the blockchain (more on this below).
 
 \- Cardano's Proof of Stake system is known as "[Ouroboros](https://cardano.org/ouroboros/)." This unique security mechanism has been argued by many experts to be one of the best in the world.
 
@@ -97,15 +99,11 @@ Cardano's [smart contracts](https://roadmap.cardano.org/en/goguen/) can be consi
 
 \- One of the best features of Cardano smart contracts is that they are designed for formal verification. This means that every action will be mathematically checked and verified before it gets sent out on the network.
 
-"This allows us to use a process known as "formal analysis,"
-
 ## Can Cardano Overtake Ethereum?
 
-Cardano is a cryptocurrency and blockchain project that has its own distributed ledger. Cardano seeks to provide users with even more privacy than Ethereum while also making the user experience as easy-to-use as possible for developers, which can then create Dapps on top of Cardano's platform. Cardano uses a Proof-of-Stake  algorithm to verify transactions, and has a significant focus on making sure the system is as scalable as possible.
+This a question a lot of new investors ask when they are considering what to invest in.  Cardano is a cryptocurrency and blockchain project that has its own distributed ledger. Cardano seeks to provide users with even more privacy than Ethereum while also making the user experience as easy-to-use as possible for developers, which can then create DApps on top of Cardano's platform. Cardano uses a Proof-of-Stake  algorithm to verify transactions, and has a significant focus on making sure the system is as scalable as possible.
 
-Cardano's ADA token was created in September 2015 (called Cardano Settlement Layer) and it became operational in January 2017 with the creation of its own blockchain. It was originally named BitShares Plus before evolving into what we know today as  Cardano, which is a more apt name for the project.
-
-Cardano also features a language called Haskell that enables developers to write code in a "pluggable" way, meaning they can choose among different back-end languages such as C++ and Rust without having to rewrite it all from scratch. Cardano's goal is to enable  developers to code in a way that is more secure and reliable than languages like C++.
+Cardano also features a language called Haskell that enables developers to write code in a "pluggable" way, meaning they can choose among different back-end languages such as C++ and Rust without having to rewrite it all from scratch. 
 
 Cardano also uses two unique features called Ouroboros, which is Cardano's Proof-of-Stake algorithm to verify transactions, and has a significant focus on making sure the system is as scalable as possible. The other feature of Cardano is called the Cardano Settlement Layer, which handles ADA transactions.
 
@@ -115,7 +113,7 @@ Cardano's goal is to eventually become a system that can manage smart contracts 
 
 Cardano operate on a proof of stake model rather than a proof of work, meaning it can't be mined. Cardano's Proof-of-Stake algorithm is called Ouroboros and it allows users to stake ADA in order to verify transactions.
 
-The Cardano Settlement Layer process handles the sending and receiving of digital assets like Ada or other cryptocurriences among parties while the smart contracts side manages any type of agreement between
+[The Cardano Settlement Layer](https://why.cardano.org/en/introduction/designing-in-layers/) process handles the sending and receiving of digital assets like ADA or other cryptocurriences among parties while the smart contracts side manages any type of agreement between
 
 ## How Cardano Staking Works?
 
@@ -127,7 +125,7 @@ Converting any cryptocurrency can be done at many online exchanges. This is usua
 
 \- Cardano is a smart contract platform that supports complex computations.
 
-\- It is an open source, decentralised and public blockchain network with high security levels, which includes many advanced features such as decentralized applications (Dapp), sidechains and quantum resistance signatures.
+\- It is an open source, decentralised and public blockchain network with high security levels, which includes many advanced features such as decentralised applications (DDpp), sidechains and quantum resistance signatures.
 
 \- The aim of Cardano is to compete with Ethereum by providing more
 
