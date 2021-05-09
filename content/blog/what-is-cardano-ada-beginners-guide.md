@@ -177,6 +177,22 @@ Is Cardano Open Source? - Yes, the team behind ADA seeks input from people all a
 
 ## Who Accepts Cardano?
 
+Below are a list of links that provide information of merchants that accept Cardano.  If you know of any more please let us know by [contacting us](/contact), or leave a comment below.
+
+[https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada](https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada "https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada")
+
+[https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada-part-2](https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada "https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada")
+
+[https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada-part-3](https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada "https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada")
+
+[https://emurgo.io/en/blog/cardano-ada-payment-tamuken](https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada "https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada")
+
+[https://www.metaps.com/press/en/518-metaps-plus-cryptocard-en](https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada "https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada")
+
+[https://blog.travala.com/travala-com-adds-cardano-ada-as-payment-option-to-book-at-over-1-65-million-hotels-globally/](https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada "https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada")
+
+[https://medium.com/cotinetwork/adapay-solution-is-now-live-13b5ca506f37](https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada "https://emurgo.io/en/blog/introducing-more-merchants-accepting-cardano-ada")
+
 ## Can you use Cardano For NFTs?
 
 Cardano have had interest from [Occam](https://twitter.com/OccamFi?s=20) and Bondly to grow NFT and DeFi use on their platform.
