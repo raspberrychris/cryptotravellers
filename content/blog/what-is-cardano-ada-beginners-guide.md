@@ -285,11 +285,11 @@ We would recommend using [Changelly](/link/changelly) for a fast transfer to buy
 
 > [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
 
-https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0h_0fv2345i88&payment_id=&v=3_
+{{< iframe"https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0h_0fv2345i88&payment_id=&v=3_">}}
 
 ## Cardano vs other Cryptos
 
-Read our article on: 
+Read our article on:
 
 **Cardano Vs Polkadot** - [https://cryptotravellers.com/cardano-vs-polkadot/](https://cryptotravellers.com/cardano-vs-polkadot/ "https://cryptotravellers.com/cardano-vs-polkadot/")
 
