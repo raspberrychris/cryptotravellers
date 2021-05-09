@@ -17,7 +17,7 @@ url = "what-is-cardano-ada-beginners-guide"
 
 **Cardano** is a cryptocurrency and open source project that is seeking to improve the world through technological progress. Cardano was created as a result of scientific research, engineering thought leadership, and input from many expert stakeholders and leading academics around the globe. The team behind Cardano aims to create a platform for global financial services that can be trusted that exists outside of our current centralised financial system.
 
-Cardano has three core principles: academic rigor, robust engineering, and an inclusive community. This blog post will discuss what makes Cardono different than other cryptocurrencies on the market today.
+Cardano has three core principles: academic rigour, robust engineering, and an inclusive community. This blog post will discuss what makes Cardono different than other cryptocurrencies on the market today.
 
 > "A platform built for a sustainable future, to help people work better together, trust one another, and build global solutions to global problems." Via [Cardano.org](https://cardano.org/)
 
@@ -47,7 +47,7 @@ Cardano is not dead nor dying. Cardano has been at the top of the cryptocurrency
 
 ## Are Cardano Fees High?
 
-No. Cardano fees are low in comparison to other cryptocurrencies like Bitcoin and Ethereum. This is due to their consensus algorithm called [Ouroboros](https://cardano.org/ouroboros/) which utilises Proof-of-Stake rather than power hungry mining hardware as seen on competing blockchains.
+No. Cardano fees are low in comparison to other cryptocurrencies like [Bitcoin](/buy-bitcoin) and [Ethereum](/buy-ethereum). This is due to their consensus algorithm called [Ouroboros](https://cardano.org/ouroboros/) which utilises Proof-of-Stake rather than power hungry mining hardware as seen on competing blockchains.
 
 **Cardano Fee Structure:** [**https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html**](https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html "https://docs.cardano.org/en/latest/explore-cardano/cardano-fee-structure.html")
 
@@ -59,13 +59,13 @@ The primary disadvantage in using a Cardano stakepool is you will be sharing all
 
 Notwithstanding, Cardano stake pools are still a viable investment and can earn large returns. There is also no risk of losing value due to other currencies or tokens being used in mining which may lead to significant losses on investments elsewhere.
 
-No matter what your needs are as an ADA holder, there should be some sort  Cardano is a versatile cryptocurrency that can be mined or staked.
-
-Cardano (ADA) is an open-source, decentralised blockchain and smart contract platform with the goal of providing all people in the world equal access to financial services. Cardano adheres to scientific philosophy and embraces principles like peer-reviewed research as well as being made
+No matter what your needs are as an ADA holder, there should be some sort  Cardano is a versatile cryptocurrency.
 
 ## Are Cardano Coins Limited?
 
-Cardano has a finite supply, with an estimated total of 45 billion ADA in circulation and approximately 31.112 million Cardano coins left to be mined from the current reward system. That means that there are only about 350 thousand more Cardano's available for mining before we reach the maximum number possible. The idea behind this is that Cardano's price will increase as the number of coins mined gradually decreases.
+Cardano has a finite supply, with an estimated total of 45 billion ADA in circulation. The idea behind this is that Cardano's price will increase as the number of coins available gradually decreases.
+
+![](/uploads/total-supply-cardano-ada.png)
 
 ## Is Cardano Mining Profitable?
 
