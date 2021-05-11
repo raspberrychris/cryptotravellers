@@ -19,11 +19,13 @@ url = "how-anonymous-is-bitcoin"
 
 ## A Brief History of Bitcoin
 
-To start off with Bitcoin's history: It was created by a programmer under the alias of [Satoshi Nakamoto](/who-is-satoshi-nakamoto/) in 2008 and released as open-source software in 2009. The idea behind it was to create a form of currency that's not tied with traditional banking systems.
+To start off with Bitcoin's history: It was created by a programmer under the alias of [Satoshi Nakamoto](/who-is-satoshi-nakamoto/) in 2008 and released as open-source software in 2009. The idea behind it was to create a form of currency that's not tied to traditional banking systems.  Satoshi's Genesis Block referenced the financial crisis of 2009 by quoting [the front page of the Times.](https://www.thetimes.co.uk/article/chancellor-alistair-darling-on-brink-of-second-bailout-for-banks-n9l382mn62h)
+
+![genesis-block-satoshi-chancellor-on-brink-of-second-bailout](https://news.bitcoin.com/wp-content/uploads/2020/01/64r6nx1k72821.jpg)
 
 This digital cryptocurrency arose from the idea for an independent, non-traditional form of payment and has become a popular means of transferring money online. Bitcoin is not fully anonymous since it's possible to trace transactions back to their originator through their Bitcoin address.
 
-## How anonymous is a Bitcoin wallet?
+## How Anonymous is a Bitcoin wallet?
 
 A Bitcoin wallet is a type of virtual bank account that allows users to send or receive Bitcoins, pay for goods or save their money. Bitcoin wallets allow you to access your Bitcoin address but not much else about yourself without additional security measures such as encryption and anonymity tools like Tor.
 
@@ -108,6 +110,6 @@ The threat of CBDCs though is very real as they are state controlled. When you h
 
 ## What Could a Crackdown on Cash mean?
 
-The issue of anonymity at the moment is not a key factor for choosing a coin at the moment. We are still in the early stages of crypto adoption and decide to invest our life savings into a coin that Snoop Dogg recommended as it has a Meme Dog on the front of it.
+The issue of anonymity at the moment is not a key factor for choosing a coin at the moment. (We are still in the early stages of crypto adoption and decide to invest our life savings into a coin that Snoop Dogg recommended as it has a Meme Dog on the front of it).  All jokes aside, we currently have a privacy secure method of conducting transactions using cash.  If this was taken away we would have to find an alternative.
 
 The main reasons for investing at the moment is to make more money and get rich. People are looking to make the most gains and are willing to put their money wherever it gets the most returns. However, if there was a crackdown on cash and it was removed from the system then there would be an overwhelming demand for coins to adopt more privacy centric features.
