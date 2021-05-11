@@ -13,7 +13,7 @@ url = "how-anonymous-is-bitcoin"
 +++
 ## How Anonymous is Bitcoin?
 
-**Just How Anonymous is Bitcoin?** That is the question that has become a hot topic since Edward Snowden slammed Bitcoin's privacy credentials.  Bitcoin has become a popular cryptocurrency in recent years. But is bitcoin really anonymous? It's a question that you should ask yourself before investing your hard-earned money into this digital cryptocurrency. In this article we'll explore the history of Bitcoin and find out how it works to determine if it's truly an anonymous form of payment or not.
+**Just How Anonymous is Bitcoin?** That is the question that has become a hot topic since [Edward Snowden slammed Bitcoin's privacy credentials](https://cryptopotato.com/bitcoins-privacy-sucks-says-edward-snowden/).  Bitcoin has become a popular cryptocurrency in recent years. But is Bitcoin really anonymous? It's a question that you should ask yourself before investing your hard-earned money into this digital cryptocurrency. In this article we'll explore the history of Bitcoin and find out how it works to determine if it's truly an anonymous form of payment or not.
 
 > "Bitcoin is really failing comprehensively on the privacy angle," - Edward Snowdon
 
@@ -21,21 +21,21 @@ url = "how-anonymous-is-bitcoin"
 
 To start off with Bitcoin's history: It was created by a programmer under the alias of [Satoshi Nakamoto](/who-is-satoshi-nakamoto/) in 2008 and released as open-source software in 2009. The idea behind it was to create a form of currency that's not tied with traditional banking systems.
 
-This digital cryptocurrency arose from the idea for an independent, non-traditional form of payment and has become a popular means of transferring money online. Bitcoin is not fully anonymous since it's possible to trace transactions back to their originator through their Bitcoin addresses.
+This digital cryptocurrency arose from the idea for an independent, non-traditional form of payment and has become a popular means of transferring money online. Bitcoin is not fully anonymous since it's possible to trace transactions back to their originator through their Bitcoin address.
 
-## How anonymous is a bitcoin wallet?
+## How anonymous is a Bitcoin wallet?
 
-A Bitcoin wallet is a type of virtual bank account that allows users to send or receive bitcoins, pay for goods or save their money. Bitcoin wallets allow you to access your Bitcoin address but not much else about yourself without additional security measures such as encryption and anonymity tools like Tor.
+A Bitcoin wallet is a type of virtual bank account that allows users to send or receive Bitcoins, pay for goods or save their money. Bitcoin wallets allow you to access your Bitcoin address but not much else about yourself without additional security measures such as encryption and anonymity tools like Tor.
 
-A Bitcoin wallet typically stores the private key which allows you to receive bitcoins and a public address, for transactions. It can also store one or more passwords that give access to your account with varying levels of security; make sure not to forget them!
+A Bitcoin wallet typically stores the private key which allows you to receive Bitcoins and a public address, for transactions. It can also store one or more passwords that give access to your account with varying levels of security; make sure not to forget them!
 
-## How anonymous are bitcoin transactions?
+## How anonymous are Bitcoin transactions?
 
 Bitcoin transactions are designed to be secure, anonymous and untraceable. Bitcoin has often been linked with criminal activity in the media because it it is perceived as offering a higher degree of anonymity than more traditional currency options.
 
 ## How to get a Bitcoin wallet anonymously
 
-To create a bitcoin wallet anonymously, you can use an online tool such as Tor or a [VPN](/link/nord-vpn) to help protect your anonymity when registering for new bitcoin wallets. You may also want to create more than one bitcoin address and establish different levels of security in order to obtain the balance that is most appropriate for your needs.
+To create a Bitcoin wallet anonymously, you can use an online tool such as Tor or a [VPN](/link/nord-vpn) to help protect your anonymity when registering for new Bitcoin wallets. You may also want to create more than one Bitcoin address and establish different levels of security in order to obtain the balance that is most appropriate for your needs.
 
 ## How Is Bitcoin Tracked?
 
@@ -58,9 +58,9 @@ Some ways to protect your privacy include using a different Bitcoin address for 
 
 Never publish your Bitcoin address online or anywhere else that someone could easily copy it from. Publishing your Bitcoin address on websites and social media for example, is not a good idea when it comes to protecting your privacy.
 
-## Anonymity vs. privacy
+## Anonymity vs. Privacy
 
-\- Bitcoin is not fully anonymous, but it's possible to increase anonymity by breaking down bitcoins into smaller units.
+\- Bitcoin is not fully anonymous, but it's possible to increase anonymity by breaking down Bitcoins into smaller units.
 
 \- Bitcoin can be used for online purchases and money transfers between peers without revealing one’s identity (that is, if the transaction doesn't require verification).
 
@@ -68,11 +68,9 @@ Never publish your Bitcoin address online or anywhere else that someone could ea
 
 \- Bitcoin addresses are not linked to any personal information or real world identities.
 
-\- There are various ways of generating bitcoin addresses and they're all equal in anonymity unless one chooses to disclose their identity by linking them with a phone number, email address or other identifying feature.
+\- There are various ways of generating Bitcoin addresses and they're all equal in anonymity unless one chooses to disclose their identity by linking them with a phone number, email address or other identifying feature.
 
-Bitcoin is, by design, not as anonymous as one might think. It’s possible to increase anonymity though by breaking down bitcoins into smaller units. Bitcoin can be used for online purchases and money transfers between peers without revealing one’s identity (that is, if the transaction doesn't require verification). When crypto coins are spent on.
-
-The bitcoin network is not controlled or regulated by any government, organisation
+Bitcoin is, by design, not as anonymous as one might think. It’s possible to increase anonymity though by breaking down Bitcoins into smaller units. Bitcoin can be used for online purchases and money transfers between peers without revealing one’s identity (that is, if the transaction doesn't require verification). 
 
 ## IP address anonymity
 
@@ -82,36 +80,34 @@ Bitcoin's public ledger is not only the world’s most complete accounting of Bi
 
 ## What is a Bitcoin Address?
 
-A bitcoin address is a long string of letters and numbers, which creates an account. It's not necessarily anonymous to have just one bitcoin account because the IP addresses are public and can be linked back to any transactions that person has made in their lifetime.
+A Bitcoin address is a long string of letters and numbers, which creates an account. It's not necessarily anonymous to have just one Bitcoin account because the IP addresses are public and can be linked back to any transactions that person has made in their lifetime.
 
 Bitcoin exchanges need a name and an account to run transactions through which is not anonymous at all. Bitcoin miners have their own transactions that they can link back to their IP addresses as well.
 
-Bitcoin and other cryptocurrencies are anonymous. They don't use names or emails. Bitcoin transactions needs a name for every account which is not anonymous at all as the IP address can be linked to any transaction that person has made in their lifetime. The original bitcoin white paper was published by Satoshi Nakamoto back in
+Bitcoin and other cryptocurrencies are anonymous. They don't use names or emails. Bitcoin transactions needs a name for every account which is not anonymous at all as the IP address can be linked to any transaction that person has made in their lifetime. The original Bitcoin white paper was published by Satoshi Nakamoto back in
 
 ## Edward Snowden and Bitcoin
 
-Since the release of Edward Snowden's information back in 2013, we've learned that bitcoin is not as anonymous as it seems. With a public ledger system like bitcoin, all transactions are recorded and available for anyone to see at any given time. This can be problematic because your IP address could be linked with those transactions which many people want to
+Since the release of Edward Snowden's information back in 2013, we've learned that bitcoin is not as anonymous as it seems. With a public ledger system like bitcoin, all transactions are recorded and available for anyone to see at any given time. 
 
-Bitcoin transactions needs a name for every account which is not anonymous at all as the IP address can be linked to any transaction that person has made in their lifetime. The original bitcoin white paper was published by Satoshi Nakamoto back in 2008 and he explained it as an electronic payment system based on cryptographic proof instead of trust, allowing merchants to sell goods
-
-This is not anonymous at all. The bitcoin transaction records are public so it could be traced back to the person that made the payment and their IP address as well. Bitcoin transactions needs a name for every account which is not anonymous at all as the IP address can be linked with those transactions which many people want to keep private."
+This is not anonymous at all. The bitcoin transaction records are public so it could be traced back to the person that made the payment and their IP address as well. 
 
 ## Summary and Final Thoughts
 
-If you're looking for a completely anonymous currency, Bitcoin might not be the best choice. However, there are other alternatives to bitcoin that currently provide better anonymity such as Pirate Chain, Monero, Zcash as examples.
+If you're looking for a completely anonymous currency, Bitcoin might not be the best choice. However, there are other alternatives to Bitcoin that currently provide better anonymity such as Pirate Chain, Monero, Zcash as examples.
 
 ## Which Coins are more privacy focused than Bitcoin?
 
 Many of the coins in existence today are more privacy focused than Bitcoin because they don't have a public ledger like Bitcoin. There's Monero, Zcash and Dash that all offer higher anonymity features than Bitcoin but there isn’t one single digital currency with absolute anonymity, although Pirate Chain claims to be as close as possible to this ideal.
 
-## CBDCs - Central Bank Digital Currencies - The opposite of Privacy
+## CBDCs - Central Bank Digital Currencies - The Opposite of Privacy
 
-Central Bank Digital Currencies sound interesting when you first hear about them as they appear to be showing that countries at a state level are willing to adopt a "Bitcoin format" of currency. The UK's proposed CBDC has even been nicknamed "Britcoin" to show some kind of similarity to its proposed offering and Bitcoin.
+Central Bank Digital Currencies sound interesting when you first hear about them as they appear to be showing that countries at a state level are willing to adopt a "Bitcoin format" of currency. The UK's proposed CBDC has even been nicknamed "[Britcoin](https://uk.finance.yahoo.com/news/britcoin-central-bank-digital-currency-explainer-pound-bitcoin-cryptocurrency-230123323.html)" to show some kind of similarity to its proposed offering and Bitcoin.
 
-The threat of CBDCs though is very real as they are state controlled. When you hear that China is already testing their Digital Yuan CBDC, you can see where this is going. Governments can not currently track every single transaction we make as we use physical cash. If we migrate to a CBDC style currency then you can expect the gradual removal of cash as a method of payment and a push for the CBDC.
+The threat of CBDCs though is very real as they are state controlled. When you hear that China is [already testing their Digital Yuan](https://theconversation.com/chinas-digital-currency-could-be-the-future-of-money-but-does-it-threaten-global-stability-160560) CBDC, you can see where this is going. Governments can not currently track every single transaction we make as we use physical cash. If we migrate to a CBDC style currency then you can expect the gradual removal of cash as a method of payment and a push for the CBDC. Central banks would be keen to do this and the enthusiasm to kill cash is 
 
-## What could a crackdown on Cash mean?
+## What Could a Crackdown on Cash mean?
 
 The issue of anonymity at the moment is not a key factor for choosing a coin at the moment. We are still in the early stages of crypto adoption and decide to invest our life savings into a coin that Snoop Dogg recommended as it has a Meme Dog on the front of it.
 
-The main reasons for investing at the moment is to make more money and get rich. People are looking to make the most gains and are willing to put there money wherever it gets the most returns. However, if there was a crackdown on cash and it was removed from the system then there would be an overwhelming demand for coins to adopt more privacy centric features.
+The main reasons for investing at the moment is to make more money and get rich. People are looking to make the most gains and are willing to put their money wherever it gets the most returns. However, if there was a crackdown on cash and it was removed from the system then there would be an overwhelming demand for coins to adopt more privacy centric features.
