@@ -31,9 +31,7 @@ A Bitcoin wallet is a type of virtual bank account that allows users to send or 
 
 A Bitcoin wallet typically stores the private key which allows you to receive Bitcoins and a public address, for transactions. It can also store one or more passwords that give access to your account with varying levels of security; make sure not to forget them!
 
-Wallets can be software or hardware based.
-
-**We recommend the** [**Trezor Model T**](/link/trezor-model-t) **in combination with** [**Exodus Wallet**](https://www.exodus.com/)**, see the below video for more details.**
+**We recommend the** [**Trezor Model T**](/link/trezor-model-t) **in combination with** [**Exodus Wallet**](https://www.exodus.com/) **to get advanced security across a wide range of cryptocurrencies.  See the below video for more details.**
 
 https://youtu.be/Hpl9oG4Tyds
 
