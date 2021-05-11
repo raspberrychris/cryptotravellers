@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Bitcoin", "Privacy"]
 date = 2021-05-10T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-anonymous-is-bitcoin.png"
 tags = ["Privacy", "Bitcoin"]
 title = "How Anonymous is Bitcoin?"
@@ -123,3 +122,5 @@ The issue of anonymity at the moment is not a key factor for choosing a cryptocu
 ## Summary and Final Thoughts
 
 If you're looking for a completely anonymous currency, Bitcoin might not be the best choice at the moment. However, there are other alternatives to Bitcoin that currently provide better anonymity such as [Pirate Chain](/buy-pirate-chain), [Monero](/buy-monero), Zcash as examples.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
