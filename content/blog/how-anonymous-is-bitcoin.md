@@ -19,7 +19,7 @@ url = "how-anonymous-is-bitcoin"
 
 ## A Brief History of Bitcoin
 
-To start off with Bitcoin's history: It was created by a programmer under the alias of Satoshi Nakamoto in 2008 and released as open-source software in 2009. The idea behind it was to create a form of currency that's not tied with traditional banking systems.
+To start off with Bitcoin's history: It was created by a programmer under the alias of [Satoshi Nakamoto](/who-is-satoshi-nakamoto/) in 2008 and released as open-source software in 2009. The idea behind it was to create a form of currency that's not tied with traditional banking systems.
 
 This digital cryptocurrency arose from the idea for an independent, non-traditional form of payment and has become a popular means of transferring money online. Bitcoin is not fully anonymous since it's possible to trace transactions back to their originator through their Bitcoin addresses.
 
@@ -33,15 +33,15 @@ A Bitcoin wallet typically stores the private key which allows you to receive bi
 
 Bitcoin transactions are designed to be secure, anonymous and untraceable. Bitcoin has often been linked with criminal activity in the media because it it is perceived as offering a higher degree of anonymity than more traditional currency options.
 
-## How to get a bitcoin wallet anonymously
+## How to get a Bitcoin wallet anonymously
 
-To create a bitcoin wallet anonymously, you can use an online tool such as Tor or a VPN to help protect your anonymity when registering for new bitcoin wallets. You may also want to create more than one bitcoin address and establish different levels of security in order to obtain the balance that is most appropriate for your needs.
+To create a bitcoin wallet anonymously, you can use an online tool such as Tor or a [VPN](/link/nord-vpn) to help protect your anonymity when registering for new bitcoin wallets. You may also want to create more than one bitcoin address and establish different levels of security in order to obtain the balance that is most appropriate for your needs.
 
 ## How Is Bitcoin Tracked?
 
 Bitcoin is not fully anonymous since it's possible to trace transactions back to their originator through their Bitcoin addresses.
 
-This means that if you buy something online with Bitcoins and an individual or company has the address, then they can see what coins were transferred from your wallet and how many of them are in there at any given time.
+This means that if you buy something online with Bitcoin and an individual or company has the address, then they can see what coins were transferred from your wallet and how many of them are in there at any given time.
 
 ## What Are Some Ways To Protect Your Privacy?
 
@@ -72,7 +72,7 @@ Never publish your Bitcoin address online or anywhere else that someone could ea
 
 Bitcoin is, by design, not as anonymous as one might think. It’s possible to increase anonymity though by breaking down bitcoins into smaller units. Bitcoin can be used for online purchases and money transfers between peers without revealing one’s identity (that is, if the transaction doesn't require verification). When crypto coins are spent on.
 
-The bitcoin network is not controlled or regulated by any government, organization
+The bitcoin network is not controlled or regulated by any government, organisation
 
 ## IP address anonymity
 
