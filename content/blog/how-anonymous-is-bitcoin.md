@@ -31,6 +31,12 @@ A Bitcoin wallet is a type of virtual bank account that allows users to send or 
 
 A Bitcoin wallet typically stores the private key which allows you to receive Bitcoins and a public address, for transactions. It can also store one or more passwords that give access to your account with varying levels of security; make sure not to forget them!
 
+Wallets can be software or hardware based.
+
+**We recommend the** [**Trezor Model T**](/link/trezor-model-t) **in combination with** [**Exodus Wallet**](https://www.exodus.com/)**, see the below video for more details.**
+
+https://youtu.be/Hpl9oG4Tyds
+
 ## How anonymous are Bitcoin transactions?
 
 Bitcoin transactions are designed to be secure, anonymous and untraceable. Bitcoin has often been linked with criminal activity in the media because it it is perceived as offering a higher degree of anonymity than more traditional currency options.
