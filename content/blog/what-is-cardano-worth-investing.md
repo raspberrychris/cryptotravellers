@@ -2,7 +2,7 @@
 title: What is Cardano, is it worth investing in?
 image: images/post/08.webp
 date: 2021-01-24T18:19:25.000+06:00
-author: Lubana Era
+author: Luna Sanchez
 tags:
 - Cardano
 categories:
