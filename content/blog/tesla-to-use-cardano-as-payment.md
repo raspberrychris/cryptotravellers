@@ -4,18 +4,18 @@ categories = []
 date = 2021-05-12T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/cardano-x-tesla.png"
 tags = ["Elon Musk", "Tesla"]
 title = "Tesla to use Cardano as payment?"
 toc = true
-url = "tesla-cardano-partnership"
+url = "tesla-cardano-deal"
 
 +++
-## Cardano x Tesla
+## Cardano x Tesla? 
 
-A new rumour has begun circulating the on Crypto Twitter that Tesla will be using [Cardano](/link/buy-cardano) as their cryptocurrency payment system. Elon Musk, CEO of Tesla and SpaceX, is a strong believer in cryptocurrencies and blockchain technology.  We have seen him speak vocally about Bitcoin and [Dogecoin](/link/buy-dogecoin), even doing a skit on [Dogecoin on SNL](https://www.bloomberg.com/opinion/articles/2021-05-10/dogecoin-and-elon-musk-on-snl-it-s-a-hustle-but-it-s-the-people-s-hustle) that ended with "It's a hustle."  Following his appearance on SNL the price of Dogecoin came crashing down.  
+A new rumour has begun circulating the on Crypto Twitter that Tesla will be using [Cardano](/link/buy-cardano) as their cryptocurrency payment system. Elon Musk, CEO of Tesla and SpaceX, is a strong believer in cryptocurrencies and blockchain technology.  We have seen him speak vocally about Bitcoin and [Dogecoin](/link/buy-dogecoin), even doing a skit on [Dogecoin on SNL](https://www.bloomberg.com/opinion/articles/2021-05-10/dogecoin-and-elon-musk-on-snl-it-s-a-hustle-but-it-s-the-people-s-hustle) that ended with "It's a hustle."  Following his appearance on SNL the price of Dogecoin came crashing down.
 
-Elon has been quoted saying "cryptocurrency would be used for all transactions" in the future. This coming from one of the most successful entrepreneurs on Earth. 
+Elon has been quoted saying "cryptocurrency would be used for all transactions" in the future. This coming from one of the most successful entrepreneurs on Earth.
 
 ## What is Cardano?
 
@@ -29,7 +29,7 @@ The platform seeks to deliver more advanced features than any protocol previousl
 
 > “Cryptocurrency is a good idea on many levels and we believe it has a promising future, but this cannot come at a great cost to the environment.
 >
-> “We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.” 
+> “We are concerned about rapidly increasing use of fossil fuels for Bitcoin mining and transactions, especially coal, which has the worst emissions of any fuel.”
 >
 > \- Elon Musk
 
@@ -39,11 +39,11 @@ With Bitcoin's Price crashing on the 13th April, many investors decided to switc
 
 ## How more energy efficient is Cardano than Bitcoin?
 
-Cardano is amazingly 1.6 million times more energy efficient than Bitcoin according to Cardano's founder Charles Hoskinson.
+Cardano is amazingly **1.6 million times more energy efficient than Bitcoin** according to Cardano's founder Charles Hoskinson.
 
 ![](/uploads/cardano-ceo-energy-efficient-than-bitcoin.png)
 
-## How well do Charles and Elon know each other?
+## Do Charles and Elon Musk know each other?
 
 ![](/uploads/dhcnwy7vqaeh3tv-1.jpg)
 
