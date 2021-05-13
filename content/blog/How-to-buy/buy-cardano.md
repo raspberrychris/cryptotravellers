@@ -71,3 +71,15 @@ Once this is complete you will be shown the home page of the Daedelus app.  From
 ## How do I send Cardano to my wallet?
 
 The final step in the process is to use the exchange where you originally purchased your Cardano to complete a 'Send' of your ADA to your Daedelus wallet address we previously copied.
+
+## How to Buy Cardano Without Fees?
+
+The cheapest deal on fees we found was  [**OKex  **](/link/okex)which have trading fees of 0.08%/0.1% and a withdrawal fee of 1.0 ADA.  Binance, Bitthumb, Bitfinex also have similar fee levels.
+
+## How to buy Cardano with BTC, USD, GBP or EUR
+
+We would recommend using [Changelly](/link/changelly) for a fast transfer to buy Cardano.
+
+> [**Changelly**](/link/changelly) provides a fast and secure way to exchange and purchase 150+ cryptocurrencies.
+
+{{< iframe"[https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0h_0fv2345i88&payment_id=&v=3_](https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0h_0fv2345i88&payment_id=&v=3_ "https://widget.changelly.com?from=btc%2Cgbp%2Cusd%2Ceur&to=ada&amount=100&address=&fromDefault=gbp&toDefault=ada&theme=default&merchant_id=3sc0h_0fv2345i88&payment_id=&v=3_")">}}
