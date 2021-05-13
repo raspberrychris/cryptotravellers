@@ -1,11 +1,11 @@
 +++
 author = "Luna Sanchez"
-categories = []
+categories = ["Cardano", "Bitcoin"]
 date = 2021-05-12T23:00:00Z
 description = ""
 draft = true
 image = "/uploads/cardano-x-tesla.png"
-tags = ["Elon Musk", "Tesla"]
+tags = ["Bitcoin", "Cardano", "Elon Musk", "Tesla"]
 title = "Tesla to use Cardano as payment?"
 toc = true
 url = "tesla-cardano-deal"
@@ -13,7 +13,7 @@ url = "tesla-cardano-deal"
 +++
 ## Cardano x Tesla? 
 
-A new rumour has begun circulating the on Crypto Twitter that Tesla will be using [Cardano](/link/buy-cardano) as their cryptocurrency payment system. Elon Musk, CEO of Tesla and SpaceX, a man who these days needs no introduction, is a strong believer in cryptocurrencies and blockchain technology.  
+A new rumour has begun circulating on Crypto Twitter that Tesla will be using [Cardano](/link/buy-cardano) as their cryptocurrency payment system. Elon Musk, CEO of Tesla and SpaceX, a man who these days needs no introduction, is a strong believer in cryptocurrencies and blockchain technology.  
 
 We have seen him speak vocally about Bitcoin and [Dogecoin](/link/buy-dogecoin), even doing a skit on [Dogecoin on SNL](https://www.bloomberg.com/opinion/articles/2021-05-10/dogecoin-and-elon-musk-on-snl-it-s-a-hustle-but-it-s-the-people-s-hustle) that ended with the punchline "It's a hustle!"  Following his appearance on SNL the price of Dogecoin came crashing down.
 
@@ -53,7 +53,7 @@ Cardano is amazingly **1.6 million times more energy efficient than Bitcoin** ac
 
 The two innovators are both aware of each other and have even been photographed together. Charles has even invited Elon to his farm to have "The Cardano conversation".  The phrasing of Charles's tweet is interesting as the use of "Finally going to have" sounds like they have been planning to have a discussion on Cardano for some time now.
 
-Is there a possibility that there could be a new collaboration around the corner for Cardano and Tesla?  Let's admit it, stranger things have happened this year with Doge going to the moon and back following Elon's twitter feed.
+Is there a possibility that there could be a new collaboration around the corner for Cardano and Tesla?  Let's admit it, stranger things have happened this year with Doge going to the moon (and back to earth) following Elon's twitter feed movements.
 
 ![charles-hoskinson-elon-musk-cardano-conversation](/uploads/charleshoskinson-cardano-conversation.png)
 
@@ -61,10 +61,14 @@ Is there a possibility that there could be a new collaboration around the corner
 
 ## Cardano is the number 1 PoS blockchain
 
-[Cardano](/link/buy-cardano) is the largest Altcoin by market cap to be committed to a Proof of stake system.  According to [Coinmarket Cap](https://coinmarketcap.com/), Cardano is the 4th largest Market Cap.
+[Cardano](/link/buy-cardano) is the largest Alt Coin by market cap to be committed to a Proof of stake system.  According to [Coinmarket Cap](https://coinmarketcap.com/), Cardano is the 4th largest Market Cap.
 
 ![cardano-market-capitalisation](/uploads/cardano-4th-market-cap.png)
 
 ## Conclusion
 
-It is fun to speculate on potential deals and it is interesting to see how far the crypto market can be easily swayed by a couple of tweets by the richest man in the world.  One of the positive things about the Cardano project is that it is decentralised, its environmental credentials through minimal energy usage also put it in a very good position as a top candidate for Elon to consider if he is looking for an alternative to Bitcoin for purchases of Tesla Cars.   Hoskinson's quirky, but intellectual enthusiasm for crypto currency would make a good match for  
+It is interesting to speculate on potential deals and it is interesting to see how far the crypto market can be easily swayed by a couple of tweets by the richest man in the world. 
+
+One of the positive elements about the Cardano project is that it is decentralised, its environmental credentials through minimal energy usage also put it in a very good position as a top candidate for Elon to consider if he is looking for an alternative to Bitcoin for purchases of Tesla Cars.   
+
+Hoskinson's quirky humour and intellectual enthusiasm for crypto currency would make a good match for Musk's similar personality.
