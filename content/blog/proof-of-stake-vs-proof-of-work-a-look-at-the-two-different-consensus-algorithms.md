@@ -4,14 +4,14 @@ categories = ["Proof of Work", "Proof of Stake"]
 date = 2021-05-13T23:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/uploads/proof-of-stake-vs-proof-of-work.png"
 tags = ["Proof of Work", "Proof of Stake"]
 title = "Proof of Stake vs Proof of Work: A look at the two different consensus algorithms"
 toc = true
 url = ""
 
 +++
-Proof of work and Proof of stake are two different consensus algorithms that secure a blockchain network. Proof of Stake is gaining popularity because it requires less energy than proof of work, but there are some trade-offs to consider. In this article, we'll explore the differences between these two algorithms in more detail.
+**Proof of Work (PoW)** and **Proof of Stake (PoS)** are two different consensus algorithms that secure a blockchain network. Proof of Stake is gaining popularity recently because it requires less energy than proof of work, but there are some trade-offs to consider. In this article, we'll explore the differences between these two algorithms in more detail.
 
 ## Proof of Stake VS Proof of Work: The Basics
 
@@ -19,9 +19,9 @@ Proof of stake and proof of work are both consensus algorithms. Proof of stake u
 
 The Proof of Stake (PoS) system awards a miner according to the number of coins they hold. For example, someone owning 10% of all minted coins will have greater ability to mine blocks and validate transactions than anyone with less than 1%.
 
-Proof of work requires all miners to attempt solving a complex sum, with the winner chosen by the person or group who has the most powerful or quantity of hardware devices.
+Proof of work by contrast, requires all miners to attempt solving a complex sum, with the winner chosen by the person or group who has the most powerful or quantity of hardware devices.
 
-Proof of work (PoW) is the act of one party providing proof to others that a certain amount of computational effort has been expended for some purpose. Verifiers can then confirm this expenditure with minimal effort themselves. Proof of work is more complex than proof-of-stake, because miners have to solve complicated mathematical problems.
+Proof of work is the act of one party providing **proof to others** that a certain amount of computational effort has been expended for some purpose. Verifiers can then confirm this expenditure with minimal effort themselves. Proof of work is considered more complex than proof-of-stake, because miners have to solve complicated mathematical problems.
 
 ## Is Proof of Stake better than Proof of Work?
 
@@ -29,7 +29,7 @@ Electricity Consumption and energy usage is one of the big differences between P
 
 ## PoW Adoption VS PoS Adoption
 
-Bitcoin pioneered the Proof-of-Work system, but it's no longer a sensible solution. Every transaction would take about 10 minutes to confirm. Bitcoin transactions can only handle 7 transactions per second.  The transaction fees have increased significantly since 2009. For instance, Bitcoin was useful for transferring small amounts when the project first started. But today, it can cost up to $40 per transfer during its busiest period.
+Bitcoin pioneered the Proof-of-Work system, but for some it's no longer seen as a sensible solution. Every transaction can take about 10 minutes to confirm. Bitcoin transactions can only handle 7 transactions per second.  The transaction fees have also increased significantly since 2009. For instance, Bitcoin was useful for transferring small amounts when the project first started. But today, it can cost up to $40 per transfer during its busiest period, with the average transfer fee being around $23.
 
 ## Proof of Work: How are Transactions Verified?
 
@@ -37,7 +37,7 @@ Bitcoin transactions require a 10-minute pre-processing interval before being ap
 
 Every block must be verified by miners to confirm that it meets certain standards. In order for the Bitcoin network to avoid a third-party, somebody needs to use their computational power and solve a puzzle known as Proof of Work.
 
-Once this is achieved, not only is the transaction marked as valid, but it is also posted to the public blockchain for everybody to view. 
+Once this is achieved, not only is the transaction marked as valid, but it is also posted to the public blockchain for everybody to view.
 
 With Proof of Work, people are rewarded with additional crypto coins at the conclusion of their work. Transactions are verified in round-time periods by an individual selected to lead the round, called a miner.
 
@@ -49,7 +49,7 @@ Proof of Stake and Proof of Work have existed since the cryptocurrency era. Prot
 
 ## Is Ethereum Proof-of Work or Stake?
 
-The Ethereum mining algorithm is called Ethash. It’s a memory-hard proof of work function that requires asymptotically more time than an ordinary PoW to provide the same level of security against specialised hardware attacks. 
+The Ethereum mining algorithm is called Ethash. It’s a memory-hard proof of work function that requires asymptotically more time than an ordinary PoW to provide the same level of security against specialised hardware attacks.
 
 ## What is pure proof of stake?
 
@@ -75,7 +75,7 @@ Bitcoin is a proof-of-work cryptocurrency that was created to be mined on GPUs a
 
 ## What is the 51% Attack?
 
-A 51% attack refers to a scenario where more than half the total mining power on the network is controlled by one entity. 
+A 51% attack refers to a scenario where more than half the total mining power on the network is controlled by one entity.
 
 ## Can Bitcoin become proof of stake?
 
