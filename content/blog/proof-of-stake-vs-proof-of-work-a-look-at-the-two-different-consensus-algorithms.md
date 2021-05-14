@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Proof of Work", "Proof of Stake"]
 date = 2021-05-13T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/proof-of-stake-vs-proof-of-work.png"
 tags = ["Proof of Work", "Proof of Stake"]
 title = "Proof of Stake vs Proof of Work"
@@ -43,9 +42,9 @@ With Proof of Work, people are rewarded with additional crypto coins at the conc
 
 Compared to Proof of Work, one of the biggest advantages of Proof of Stake is that it creates a fairer system, and one that is not based on the individual or group with the most expensive hardware.
 
-## Which Crypto is proof of stake?
+## Which Crypto is PoS?
 
-Proof of Stake and Proof of Work have existed since the cryptocurrency era. Protocals such as Peercoin, Blackcoin, Nxt, Cardano, and Algorand use a proof-of-stake system while Ethereum is switching to Proof of Stake in 2021.
+Proof of Stake and Proof of Work have existed since the cryptocurrency era. Protocals such as Peercoin, Blackcoin, Nxt, [Cardano](/buy-cardano), and Algorand use a proof-of-stake system while [Ethereum](/buy-ethereum) is switching to Proof of Stake in 2021.
 
 ## Is Ethereum Proof-of Work or Stake?
 
@@ -81,4 +80,6 @@ A 51% attack refers to a scenario where more than half the total mining power on
 
 ## Proof of Work VS Proof of Stake: The Conclusion
 
-It could be argued that proof of work is a more democratic system than proof-of stake. Proof of stake requires participants to have at least some coins in the network, which creates an economic barrier not found with PoW if you have the right equipment.  PoS is currently the more popular option due to many people's environmental concerns.  Despite  the fact that [76% of Bitcoin miners are using renewable energy sources](https://www.cnbc.com/video/2021/04/26/ark-investments-analyst-says-76-percent-of-bitcoin-miners-are-using-renewable-energy.html).
+It could be argued that proof of work is a more democratic system than proof-of stake. Proof of stake requires participants to have at least some coins in the network, which creates an economic barrier not found with PoW if you have the right equipment.  PoS is currently the more popular option due to many people's environmental concerns.  Despite  the fact that [76% of Bitcoin miners are using renewable energy sources](https://www.cnbc.com/video/2021/04/26/ark-investments-analyst-says-76-percent-of-bitcoin-miners-are-using-renewable-energy.html).  
+
+**Which do you think is better?  Let us know in the comments section below.**
