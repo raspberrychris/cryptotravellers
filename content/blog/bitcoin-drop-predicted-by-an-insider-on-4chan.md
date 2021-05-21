@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Bitcoin Drop"]
 date = 2021-05-20T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-to-buy.png"
 tags = ["4Chan", "Bitcoin"]
 title = "Bitcoin drop predicted by an insider on 4Chan? "
@@ -23,7 +22,7 @@ The anonymous insider implied that he worked for a large company within the PRC.
 
 ## Will Bitcoin go to $70K?
 
-The insider also seems to suggest that this is a coordinated effort designed to liquidate a single stakeholder and goes as far as to suggest that the price of Bitcoin will go to $70k following the stakeholder’s liquidation.   
+The insider also seems to suggest that this is a coordinated effort designed to liquidate a single stakeholder and goes as far as to suggest that the price of Bitcoin will go to $70k following the stakeholder’s liquidation.
 
 ## The 2nd Follow Up Message: “Going Short Until $25k”
 
@@ -31,8 +30,10 @@ The insider also seems to suggest that this is a coordinated effort designed to 
 
 (Via 4Chan)
 
-Another follow up message has also surfaced which says they will “Go Short on BTC, 25k is the current target.”  
+Another follow up message has also surfaced which says they will “Go Short on BTC, 25k is the current target.”
 
 ## Final Thoughts
 
 The progress that has been made on the BTC price this year now seems very far away.  The $64K highs of only a few weeks ago now seem like a distant memory.  Will BTC rise to 70K in the near future?  What do you think?  Remember to exercise caution with any trades that you make during this period as the market is highly volatile at the moment.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
