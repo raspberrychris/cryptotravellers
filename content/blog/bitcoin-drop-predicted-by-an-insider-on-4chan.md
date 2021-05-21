@@ -11,9 +11,9 @@ toc = false
 url = ""
 
 +++
-# Bitcoin drop predicted by an insider on 4Chan
+# Bitcoin Drop Predicted by an Insider On 4Chan
 
-A widely shared message on the 4Chan message board has got the crypto community talking recently, the message posted by an anonymous user claiming to be an ‘insider’ says that he is part of a coordinated effort to 
+A widely shared message on the 4Chan message board has got the crypto community talking recently, the message posted by an anonymous user claiming to be an ‘insider’ says that he is part of a coordinated effort to liquidate a stakeholder.
 
 ![](/uploads/b632783b-041d-466c-8270-3366b4b1b245.png)
 
