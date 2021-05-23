@@ -4,14 +4,14 @@ categories = ["Crypto adoption"]
 date = ""
 description = ""
 draft = true
-image = ""
+image = "/uploads/how-to-buy-2.png"
 tags = ["UK", "Banks", "Crypto"]
 title = "Crypto "
 toc = true
 url = "crypto-friendly-banks-uk"
 
 +++
-Finding a Crypto friendly UK bank is not always as straight forward as it would seem. The following list will outline some of the best crypto friendly UK banks we've seen recently.
+**Finding a Crypto friendly UK bank is not always as straight forward as it would seem. The following list will outline some of the best crypto friendly UK banks we've seen in the market.**
 
 ## What makes a bank Crypto Friendly?
 
@@ -19,13 +19,11 @@ When choosing a new bank, it is important to find a crypto-friendly institution 
 
 If your bank is crypto friendly it should allow you to:
 
-Credit and debit cards issued by the bank can be used to buy and sell crypto.
+* Credit and debit cards issued by the bank can be used to buy and sell crypto.
+* Wire transfers to cryptocurrency exchanges and similar entities.
+* Investing in cryptocurrency is gaining more and more popularity, but the market is volatile. If you want to get cash back from some of your investment, it's important that you work with a crypto-friendly bank.
 
-Wire transfers to cryptocurrency exchanges and similar entities.
-
-Investing in cryptocurrency is gaining more and more popularity, but the market is volatile. If you want to get cash back from some of your investment, it's important that you work with a crypto-friendly bank.
-
-## Crypto Friendly Bank list
+## Crypto Friendly UK Bank List
 
 1. Barclays Bank
 2. Monzo
