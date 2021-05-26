@@ -8,6 +8,10 @@ tags = ["Pirate Chain"]
 title = "How to Buy Pirate Chain"
 toc = true
 url = "buy-pirate-chain"
+[menu.main]
+name = "Pirate Chain"
+parent = "How to Buy"
+weight = 10
 
 +++
 ## What is Pirate Chain?

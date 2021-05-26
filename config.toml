@@ -29,22 +29,17 @@ weight = 4
 name = "CRO"
 parent = "How to Buy"
 url = "buy-cro/"
-weight = 10
-[[menu.main]]
-name = "Reef"
-parent = "How to Buy"
-url = "buy-reef/"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "Nexo"
 parent = "How to Buy"
 url = "buy-nexo/"
-weight = 9
+weight = 7
 [[menu.main]]
 name = "Polkadot"
 parent = "How to Buy"
 url = "buy-polkadot/"
-weight = 6
+weight = 11
 [[menu.main]]
 name = "Ethereum"
 parent = "How to Buy"

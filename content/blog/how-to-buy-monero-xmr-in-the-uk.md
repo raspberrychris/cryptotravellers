@@ -11,7 +11,7 @@ url = "buy-monero-xmr"
 [menu.main]
 name = "Monero"
 parent = "How to Buy"
-weight = 8
+weight = 6
 
 +++
 {{< notice "note" >}} Disclaimer: This post contains affiliate links. {{< /notice >}}
