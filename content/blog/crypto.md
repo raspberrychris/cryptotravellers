@@ -6,9 +6,9 @@ description = ""
 draft = true
 image = "/uploads/how-to-buy-2.png"
 tags = ["UK", "Banks", "Crypto"]
-title = "Crypto "
+title = "Crypto Friendly Banks (UK Guide)"
 toc = true
-url = "crypto-friendly-banks-uk"
+url = "crypto-friendly-banks-uk-guide"
 
 +++
 **Finding a Crypto friendly UK bank is not always as straight forward as it would seem. The following list will outline some of the best crypto friendly UK banks we've seen in the market.**
