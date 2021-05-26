@@ -11,7 +11,7 @@ url = "buy-filecoin"
 [menu.main]
 name = "Filecoin"
 parent = "How to Buy"
-weight = 10
+weight = 11
 
 +++
 ## The Ultimate Guide to Buying and Selling Filecoin

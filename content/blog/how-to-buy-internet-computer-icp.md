@@ -8,6 +8,10 @@ tags = ["ICP", "Internet Computer"]
 title = "How to Buy Internet Computer (ICP)"
 toc = true
 url = "how-to-buy-internet-computer"
+[menu.main]
+name = "Internet Computer (ICP)"
+parent = "How to Buy"
+weight = 5
 
 +++
 ## What is Internet Computer (ICP)?

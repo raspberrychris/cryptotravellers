@@ -98,4 +98,4 @@ You can use Unstoppable domains to purchase a NFT Domain. Unstoppable domains ha
 
 [**Unstoppable Domains**](/link/unstoppable-domains) is a San Francisco-based company building the universal naming system for the decentralised web. The company is backed by Draper Associates and Boost VC and has received grants from the Ethereum Foundation.
 
-## 
+##
