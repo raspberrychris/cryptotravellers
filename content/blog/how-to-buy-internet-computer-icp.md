@@ -62,7 +62,7 @@ Currently the answer is no, however it is only a matter of time until [Ledger](/
 
 Use our link below to get $10 free of crypto when you invest $100.
 
-[**Claim your $10 Free**](/link/coinbase) **on Coinbase if you invest $100 when buying Internet Computer**
+> [**Claim your $10 Free**](/link/coinbase) **on Coinbase if you invest $100 when buying Internet Computer**
 
 # What is CanCan?
 
