@@ -13,6 +13,8 @@ url = ""
 +++
 ## What is Internet Computer (ICP)?
 
+{{< notice "note" >}} This post contains affiliate links. {{< /notice >}}
+
 ICP offers a new form of digital currency and payment system. Internet Computer Coin has been designed to provide users with an easier way to make payments, lower fees for merchants, and have the ability to trade their coins with other cryptocurrencies.
 
 With Internet Computer there are a maximum of 469 million tokens, though only 123 million currently swim in circulation.
@@ -52,3 +54,5 @@ Currently the answer is no, however it is only a matter of time until [Ledger](/
 ## How to buy internet computer coin?
 
 [Coinbase](/link/coinbase) currently [supports ICP since May 10th 2021](https://blog.coinbase.com/internet-computer-icp-is-now-available-on-coinbase-c28027f333d3) and you can buy Internet Computer on their platform. ICP trading is supported on [Coinbase Pro](/link/coinbase).
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
