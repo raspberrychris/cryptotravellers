@@ -20,7 +20,7 @@ weight = 5
 
 ICP offers a new form of digital currency and payment system. Internet Computer Coin has been designed to provide users with an easier way to make payments, lower fees for merchants, and have the ability to trade their coins with other cryptocurrencies.
 
-With Internet Computer there are a maximum of 469 million tokens, though only 123 million currently swim in circulation.
+With Internet Computer there are a maximum of 469 million tokens, though only 123 million currently are in circulation.
 
 ## What is Internet Computer?
 
