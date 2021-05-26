@@ -1,14 +1,13 @@
 +++
-author = ""
-categories = []
-date = ""
+author = "Luna Sanchez"
+categories = ["How To Buy", "Internet Computer"]
+date = 2021-05-25T23:00:00Z
 description = ""
-draft = true
-image = ""
-tags = []
+image = "/uploads/how-to-buy-internet-computer.png"
+tags = ["ICP", "Internet Computer"]
 title = "How to Buy Internet Computer (ICP)"
-toc = false
-url = ""
+toc = true
+url = "how-to-buy-internet-computer"
 
 +++
 ## What is Internet Computer (ICP)?
@@ -21,7 +20,9 @@ With Internet Computer there are a maximum of 469 million tokens, though only 12
 
 ## What is Internet Computer?
 
-[https://youtu.be/DYVPq_vMB8w](https://youtu.be/DYVPq_vMB8w "https://youtu.be/DYVPq_vMB8w")
+{{< youtube DYVPq_vMB8w >}}
+
+(Above: Internet Computer Explained Video)
 
 The launch of Internet Computer Token on May 10, 2021, quickly led to the coin becoming 8th in value by market capitalisation. The internet computer coin is a new cryptocurrency from the DFINITY foundation with an impressive team of cryptography experts.
 
@@ -31,7 +32,7 @@ Mr Williams said the project will let developers abandon traditional IT and big 
 
 One of the problems with most other blockchain-based tokens is their lack of scalability. If you have more than a few thousand people trying to transact on your network at once, it will slow down significantly.
 
-Internet Computer Coin (ICC) can process transactions in less than a second, and at fraction of the cost when compared to using Ethereum.
+Internet Computer Coin (ICC) can process transactions in less than a second, and at fraction of the cost when compared to using [Ethereum](/buy-ethereum).
 
 ## How does it work?
 
@@ -47,6 +48,10 @@ Internet computer would then host data and software, creating a global computing
 
 Unlike other smart contract enabled blockchains with quick processing times, ICP launched **with** decentralised apps already operating on its blockchain. Some programs on the network include a decentralised exchange (DEX), social media platform (Similar to TikTok) and a messaging app. These protocols should contribute to ICP adoption which will set it up well for this cryptocurrency bull market.
 
+## Is ICP a good investment?
+
+Only time will tell! Although ICP seems to have done exceptionally well so far.  So well that it has led to scepticism of the project's credentials on [Reddit](https://www.reddit.com/r/CryptoCurrency/comments/n9ogt9/wtf_is_internet_computer_icp_coin/).  Always do thorough research if you intend to invest in a particular crypto currency such as Internet Computer.
+
 ## Can you store ICP on a hardware wallet?
 
 Currently the answer is no, however it is only a matter of time until [Ledger](/link/ledger) and [Trezor](/link/trezor-model-t) will add ICP to their list of supported cryptos in our opinion.
@@ -54,5 +59,21 @@ Currently the answer is no, however it is only a matter of time until [Ledger](/
 ## How to buy internet computer coin?
 
 [Coinbase](/link/coinbase) currently [supports ICP since May 10th 2021](https://blog.coinbase.com/internet-computer-icp-is-now-available-on-coinbase-c28027f333d3) and you can buy Internet Computer on their platform. ICP trading is supported on [Coinbase Pro](/link/coinbase).
+
+Use our link below to get $10 free of crypto when you invest $100.
+
+[**Claim your $10 Free**](/link/coinbase) **on Coinbase if you invest $100 when buying Internet Computer**
+
+# What is CanCan?
+
+CanCan is Internet Computer's open version of TikTok.  There is an explainer video below that showcases the app.
+
+{{< youtube xcGVQqTou-4 >}}
+
+## Useful Links
+
+DFINITY Website [https://dfinity.org/](https://dfinity.org/ "https://dfinity.org/")
+
+Coinbase Help on Internet Computer: [https://help.coinbase.com/en/coinbase/getting-started/crypto-education/ICP](https://help.coinbase.com/en/coinbase/getting-started/crypto-education/ICP "https://help.coinbase.com/en/coinbase/getting-started/crypto-education/ICP")
 
 {{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
