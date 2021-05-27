@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Crypto adoption"]
 date = 2021-05-26T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/how-to-buy-2.png"
 tags = ["UK", "Banks", "Crypto"]
 title = "Crypto Friendly UK Banks "
@@ -34,7 +33,7 @@ For instance we have had reports from our readers that banks like HSBC and First
 
 ![barclays-crypto-friendly](https://www.moneyexpert.com/wp-content/uploads/2018/09/barclays-4-logo-png-transparent.png)
 
-One of the most proactive partners in regards to crypto is Barclays. They allow their customers to use credit and debit cards for transactions, as well as conduct cryptocurrency purchase with a safe and secure environment.
+One of the most proactive partners in regards to crypto is [Barclays](https://www.barclays.co.uk/). They allow their customers to use credit and debit cards for transactions, as well as conduct cryptocurrency purchase with a safe and secure environment.
 
 ### Monzo
 
@@ -44,13 +43,13 @@ One of the most proactive partners in regards to crypto is Barclays. They allow 
 
 > "So, we don’t have any issue with sensible, personal use of your account for Bitcoin trading. Obviously there are some platforms, like Coinbase, where 3DSecure is implemented and therefore our cards won’t currently work. Therefore, there shouldn’t be a problem unless you’re transferring huge sums." - Monzo Customer Support.
 
-It is not exactly clear what the Monzo support what is meant by "huge sums" although we haven't had any reports from our readers of Monzo blocking any transactions unlike other banks.
+It is not exactly clear what the [**Monzo**](https://monzo.com/) support what is meant by "huge sums" although we haven't had any reports from our readers of Monzo blocking any transactions unlike other banks.
 
 ### RBS
 
 ![rbs-crypto-friendly](https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/RBS_logo.svg/1280px-RBS_logo.svg.png)
 
-RBS is a bank that many customers report having no issues with when dealing with cryptocurrency is RBS. You can use their credit or debit cards to buy crypto, and also withdraw or deposit freely.
+[**RBS**](https://personal.rbs.co.uk/) is a bank that many customers report having no issues with when dealing with cryptocurrency is RBS. You can use their credit or debit cards to buy crypto, and also withdraw or deposit freely.
 
 ### Revolut
 
@@ -64,21 +63,21 @@ RBS is a bank that many customers report having no issues with when dealing with
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/TSB_logo_2013.svg/1200px-TSB_logo_2013.svg.png)
 
-TSB Bank allows you to purchase bitcoin with credit and debit cards without any problems depositing or withdrawing that crypto into your exchange account. Know, however, that banks have the right to flag transactions as being large and ask for more information before completing a transaction.
+[TSB](https://www.tsb.co.uk/personal/) Bank allows you to purchase bitcoin with credit and debit cards without any problems depositing or withdrawing that crypto into your exchange account. Know, however, that banks have the right to flag transactions as being large and ask for more information before completing a transaction.
 
 ### 
 
-Nationwide
+### Nationwide
 
 ![nationwide-crypto-friendly](https://logos-world.net/wp-content/uploads/2021/04/Nationwide-Logo.png)
 
-Nationwide has been open to accept debit card purchases by cryptocurrency exchanges, when we tested we reported no issues with transferring currency back and forth from Crypto exchanges.
+[Nationwide](https://www.nationwide.co.uk/) has been open to accept debit card purchases by cryptocurrency exchanges, when we tested we reported no issues with transferring currency back and forth from Crypto exchanges.
 
 ### NatWest
 
 ![natwest-crypto-friendly](https://www.natwestgroup.com/content/dam/natwestgroup_com/natwestgroup/images/image.dim.360.nat-west.png)
 
-Natwest, owned by RBS, is the latest UK bank to support crypto-purchases. Customers can deposit to cryptocurrency exchanges and withdraw funds from these platforms seamlessly.
+[Natwest](https://personal.natwest.com/personal.html), owned by RBS, is the latest UK bank to support crypto-purchases. Customers can deposit to cryptocurrency exchanges and withdraw funds from these platforms seamlessly.
 
 ## Which UK Banks are unfriendly towards Crypto?
 
