@@ -7,7 +7,7 @@ image = "/uploads/apple-move-into-crypto.png"
 tags = ["News", "Cryptocurrency", "Apple"]
 title = "Apple to Move in to Crypto?"
 toc = true
-url = ""
+url = "apple-to-move-into-crypto"
 
 +++
 ## Apple Hiring Business Development Manager with 5+ years experience in Cryptocurrencies
