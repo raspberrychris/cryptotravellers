@@ -98,3 +98,5 @@ The volatility of cryptocurrency means that it poses a risk to the banks as well
 Many of the cryptocurrency exchanges are not FCA approved.  Always do your research before investing in any cryptocurrency.
 
 We hope you found this article on crypto friendly banks useful.  If you have any experience of banks blocking your transactions, drop a note in the comment section and we will update the list.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
