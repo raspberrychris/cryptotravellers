@@ -16,7 +16,7 @@ weight = 10
 +++
 ## What is Pirate Chain?
 
-Pirate Chain is a decentralised cryptocurrency based on the Bitcoin core, with modifications to add privacy and anonymity features. Pirate Chain differs from other cryptocurrencies in that it allows users to remain anonymous. The key to this is through its use of Mimblewimble which encrypts transactions within blocks. Furthermore, PirateChain does not have any traditional miners and instead uses something called “Bootstraps” which are created by nodes with high online availability time and large amounts of coins in their wallets.
+[**Pirate Chain**](https://pirate.black/) is a decentralised cryptocurrency based on the [Bitcoin](/buy-bitcoin) core, with modifications to add privacy and anonymity features. **Pirate Chain** differs from other cryptocurrencies in that it allows users to remain anonymous. The key to this is through its use of Mimblewimble which encrypts transactions within blocks. Furthermore, PirateChain does not have any traditional miners and instead uses something called “Bootstraps” which are created by nodes with high online availability time and large amounts of coins in their wallets.
 
 Pirate Chain is the first cryptocurrency to implement a mandatory, private-only usage of zk-SNARK - one of the best and most highly acclaimed privacy protocols in the industry.
 
@@ -29,6 +29,8 @@ Pirate Chain’s default is that all transactions are invisible to the public, m
 There is no direct way to buy ARRR with Fiat, but you can use the below services to buy Bitcoin and then convert it using Changelly.
 
 ## How can I Buy Pirate Chain?
+
+Looking to buy Pirate Chain?  This guide will explain step by step how to buy Pirate Chain:
 
 ### Step 1
 
