@@ -35,6 +35,10 @@ For instance we have had reports from our readers that banks like HSBC and First
 
 One of the most proactive partners in regards to crypto is [Barclays](https://www.barclays.co.uk/). They allow their customers to use credit and debit cards for transactions, as well as conduct cryptocurrency purchase with a safe and secure environment.
 
+**Update**:  [Customers of Barclays and Monzo have been complaining of making crypto deposits on exchanges according to the Telegraph](https://www.coindesk.com/starling-blocks-crypto-exchanges)
+
+When contacted by the Telegraph, Barclays said that they had not put any restrictions on accounts (In a similar way to HSBC/First Direct).
+
 ### Monzo
 
 ![monzo-crypto-friendly](https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Monzo_logo.svg/1200px-Monzo_logo.svg.png)
@@ -44,6 +48,10 @@ One of the most proactive partners in regards to crypto is [Barclays](https://ww
 > "So, we don’t have any issue with sensible, personal use of your account for Bitcoin trading. Obviously there are some platforms, like Coinbase, where 3DSecure is implemented and therefore our cards won’t currently work. Therefore, there shouldn’t be a problem unless you’re transferring huge sums." - Monzo Customer Support.
 
 It is not exactly clear what the [**Monzo**](https://monzo.com/) support what is meant by "huge sums" although we haven't had any reports from our readers of Monzo blocking any transactions unlike other banks.
+
+**Update**:  [Customers of Barclays and Monzo have been complaining of making crypto deposits on exchanges according to the Telegraph](https://www.coindesk.com/starling-blocks-crypto-exchanges)\]
+
+Monzo declined to comment when they were contacted by the Telegraph regarding this claim.
 
 ### RBS
 
