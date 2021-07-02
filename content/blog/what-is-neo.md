@@ -19,20 +19,20 @@ The blockchain company that has created a new era of smart economy is NEO. The f
 
 NEO is a revolutionary platform that seeks to build and establish its own economic system with the help of digital identity, smart assets, and contracts. NEO’s unique Digital Identity Solution allows users to have their identities on one blockchain which links them back into real-world identification in compliance with regulations like KYC/AML. This ensures privacy while also meeting regulatory requirements for our prospective future economy!
 
-Leveraging NEO’s identity system, network participants can log and exchange a wide variety of assets in the platform. For example, a user can register their gold as an asset on the blockchain before it leaves China to engage with international markets while still retaining legal protection for that asset by Chinese law.  
-   
- Leveraging NEO's Identity System (NEO-ID), Network Participants Can Log And Exchange A Wide Variety Of Assets In The Platform -
+Leveraging NEO’s identity system, network participants can log and exchange a wide variety of assets in the platform. For example, a user can register their gold as an asset on the blockchain before it leaves China to engage with international markets while still retaining legal protection for that asset by Chinese law.
+
+Leveraging NEO's Identity System (NEO-ID), Network Participants Can Log And Exchange A Wide Variety Of Assets In The Platform -
 
 NEO not only reduces the risk of fraud or bad actors, but also increases consumer confidence in transactions. This is because each item can be assigned a digital identity that provides transparency and trust for all parties involved.
 
-The NEO blockchain is an open platform that builds on the original idea of smart contracts. Users are able to securely trade their registered and legally protected digital assets using a powerful smar contract protocol called NEOContract, which offers high speeds for JIT compilations while retaining flexibility in programming languages like Java or Python.   
- What makes this different from others? Well, you can use it with major programming languages unlike other platforms who only offer limited selections!
+The NEO blockchain is an open platform that builds on the original idea of smart contracts. Users are able to securely trade their registered and legally protected digital assets using a powerful smar contract protocol called NEOContract, which offers high speeds for JIT compilations while retaining flexibility in programming languages like Java or Python.  
+What makes this different from others? Well, you can use it with major programming languages unlike other platforms who only offer limited selections!
 
 The NEO blockchain employs smart contracts to create its own proprietary tokens, which use different standards than Ethereum's. Switcheo and Ontology are two of the more popular NEP-5 token projects on NEO while O3 Foundry uses a decentralized application programming interface (dAPI) for creating new non-fungible tokens through NEP-11.
 
-By using smart contract technology, the NEO team has established a crypto-economy that can meet all of its demands. The two coins are used to ensure stability in transactions and voting rights on network projects. As well as being the primary currency for more than just one transaction type, new coinage is created when needed through “mining” instead of traditional minting methods like printing presses or engraving trades into gold bars; this process makes it easier for NEO supporters without any programming experience to find a way onto their favorite blockchain project!  
-   
- The initial set up plan was designed so there would be 100 million total units out there with 50% locked away from circulation forever (released according to an annual amount determined by consensus vote). This means
+By using smart contract technology, the NEO team has established a crypto-economy that can meet all of its demands. The two coins are used to ensure stability in transactions and voting rights on network projects. As well as being the primary currency for more than just one transaction type, new coinage is created when needed through “mining” instead of traditional minting methods like printing presses or engraving trades into gold bars; this process makes it easier for NEO supporters without any programming experience to find a way onto their favorite blockchain project!
+
+The initial set up plan was designed so there would be 100 million total units out there with 50% locked away from circulation forever (released according to an annual amount determined by consensus vote). This means
 
 When conducting a transaction on NEO, there is always an associated cost. This charge for transactions can be thought of as both a safety mechanism and economic incentive by nodes in the network to weed out spam or malicious activity; this fee goes towards validating these blocks that are confirmed every 15-20 seconds on the blockchain. Unlike Ethereum where gas prices are paid with ether (gwei), fees in NEO have been converted into GAS coins which generate from adding new blocks onto their chain about every 20 seconds
 
@@ -48,16 +48,12 @@ NASH: A decentralized exchange by City of Zion, a major NEO contributor, seeks t
 
 NEO is a Chinese-based cryptocurrency that has been gaining traction for the past few years. NEO’s ability to bring on new users and businesses, while still maintaining regulatory compliance sets it up well in preparation for widespread adoption of their platform by more people from around the world.
 
-The NEO platform is the first decentralized, community-driven network that will ultimately be governed by its users. The team behind this innovative technology has created a digital asset (NEO) that represents ownership of shares in their company and voting rights on development decisions through consensus algorithm called Delegated Byzantine Fault Tolerance.(DBFT).  
-   
- The DBFT ensures for scalability as it does not rely on one single node to generate new blocks, but can instead use hundreds or even thousands due to an optimized block generation process employing multiple rounds of assertions among nodes before generating new ones.
+The NEO platform is the first decentralized, community-driven network that will ultimately be governed by its users. The team behind this innovative technology has created a digital asset (NEO) that represents ownership of shares in their company and voting rights on development decisions through consensus algorithm called Delegated Byzantine Fault Tolerance.(DBFT).
+
+The DBFT ensures for scalability as it does not rely on one single node to generate new blocks, but can instead use hundreds or even thousands due to an optimized block generation process employing multiple rounds of assertions among nodes before generating new ones.
 
 NEO is a blockchain-based project that includes the NEO Foundation. The foundation works to implement updates, address technical challenges, and promote long term success of the platform through fundraising and outreach to help fund initiatives in these areas.
 
-The Chinese government wants to utilize blockchain technology for its transparency and democratic voting systems, but they are also a centralized institution who want control over the ecosystem. NEO’s decentralized consensus protocol allows them to have both with their hybridized governance structure: A semi-centralized non-profit foundation that ensures stability of funding as well as technological research; centralization in the form of core team members whose goal is security and growth; combined with decentralization through individual holders that enjoy complete ownership rights so long as any token deposits remain unsold during an ICO.  
-   
- Regulators and enterprises in China consider this hybridized governance structure to be one of NEO's key selling points because it offers many benefits from both traditional organizations structures (such as increased efficiency) while
+The Chinese government wants to utilize blockchain technology for its transparency and democratic voting systems, but they are also a centralized institution who want control over the ecosystem. NEO’s decentralized consensus protocol allows them to have both with their hybridized governance structure: A semi-centralized non-profit foundation that ensures stability of funding as well as technological research; centralization in the form of core team members whose goal is security and growth; combined with decentralization through individual holders that enjoy complete ownership rights so long as any token deposits remain unsold during an ICO.
 
-Cryptopedia is a one-stop shop for all your cryptocurrency needs. You'll find in-depth articles about crypto mining, businesses accepting bitcoin payments, and what you need to know before investing in any digital currencies. Cryptopedia also provides an up-to date list of the most popular cryptocurrencies as well as how they compare with each other according to their market caps: Bitcoin; Ethereum; Litecoin  
-   
- Cryptocurrency has garnered quite some attention over the past few years without slowing down at any point - it's been coined "the world's new currency." And while this sounds like something from out of science fiction or a strange thing that only happens on TV shows (think Silicon Valley), there are plenty of reasons why emerging technologies such as
+Regulators and enterprises in China consider this hybridized governance structure to be one of NEO's key selling points because it offers many benefits from  traditional organizations structures.
