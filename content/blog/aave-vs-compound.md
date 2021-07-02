@@ -12,13 +12,11 @@ url = "aave-vs-compound"
 +++
 ## What is Aave?
 
-[**Aave**](https://aave.com/) is a platform that started life as ETHlend and has grown to be an influential force in the DeFi (Decentralized Financial) space. The upstart company often challenges other platforms such as Maker and Uniswap.![aave-logo](/uploads/bd78b0b8-fbed-4146-9d87-50a2f2ed5825-1618897425-9eeb71edf1cd4eca826b03ef806908c2a8e408da.png)
+[**Aave**](https://aave.com/) is a platform that started life as ETHlend and has grown to be an influential force in the DeFi (Decentralized Financial) space. The upstart company often challenges other platforms such as Maker and Uniswap.
 
 > **Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. - Aave.com**
 
 ## What is Compound?
-
-![compound-logo](/uploads/compound-comp-logo.png)
 
 The newest crypto-integrated investment platform, Compound, has seen unprecedented success with investors in the past few weeks. Not only does it include a suite of features for cryptocurrency enthusiasts and novice traders alike to make investing as easy as possible (such as line graphs showing six months' worth of data), but its governance tokens have doubled their values since June 20th due to major exchanges like Coinbase announcing that they would add COMP into their list of tradable currencies.
 
