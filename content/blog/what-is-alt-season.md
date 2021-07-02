@@ -69,3 +69,5 @@ Over time, Bitcoin's dominance will wane. This is due to the fact that there are
 The market is constantly changing and will continue to do so for the foreseeable future. As of now, Bitcoin still holds a significant share in this ever-changing crypto world; however, we can’t know what it will be like tomorrow or next week as there are always “alt seasons” where those who learn how to play their cards right may reap great rewards.
 
 The markets change every day but one thing that seems certain for at least the near future is Bitcoin's representation within it which has been very stable despite all its ups and downs over recent years with other coins fluctuating more significantly due largely in part because they have less liquidity than BTC while others seem not even existent on some exchanges when you log into them only hours.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
