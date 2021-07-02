@@ -4,8 +4,8 @@ categories = []
 date = 2021-07-01T23:00:00Z
 description = ""
 draft = true
-image = ""
-tags = ["Aave"]
+image = "/uploads/aave-vs-compound.png"
+tags = ["Vs", "Compound", "Aave"]
 title = "Aave vs Compound"
 toc = false
 url = ""
@@ -29,7 +29,7 @@ DEXs are a great way to lend cryptocurrencies. Since they're peer-to-peer, there
 
 This means that there is no third-party organization, like a bank or lender, to hold and distribute capital for one party to lend it out. So instead of this role being fulfilled by banks (a human institution), smart contracts execute the terms automatically once certain criteria are met.
 
-There are many benefits to DeFi than traditional finance models. One of the most prominent is that it does not require a third-party's participation in order for transactions to take place, which means more money goes back into your pockets and less out. 
+There are many benefits to DeFi than traditional finance models. One of the most prominent is that it does not require a third-party's participation in order for transactions to take place, which means more money goes back into your pockets and less out.
 
 In addition, there are no fees or charges associated with using Decentralized Finance platforms - this can be an attractive option when juggling other expenses like rent payment costs!
 
@@ -59,6 +59,8 @@ When borrowing cryptocurrency through platforms like Lendingblock or SALT loans 
 
 Crypto collateral will be liquidated in the event that its value dips below an established threshold. Investors can choose to put up a variety of digital currencies as long as they meet certain requirements like being "liquid".
 
+## What is meant by the phrase Crypto Collateral?
+
 The term “crypto collateral” refers to any form of cryptocurrency which has been pledged by investors who are seeking financing through various types of crypto-backed loans, including margin lending and peer-to-peer (P2P) borrowing. When taking out a loan with this type of backing, there is always some risk involved because it often comes at the expense or volatility inherent in cryptocurrencies; for example - if you borrow money against your Bitcoin holdings but then have negative market movements on top too many other factors such as hacking or
 
 Much of arbitrage either in centralized markets or DeFi works on borrowed money. When you borrow cash, that's called debt and it can be a scary thing if the person borrowing from you doesn't pay back their loan when they said they would. But loans are necessary for any kind of business to thrive - even those who trade short-term financial assets like securities with an eye toward making profit based on small price differences between various offerings
@@ -67,15 +69,15 @@ Much trading takes place through what is known as "borrowing" funds (debt). Loan
 
 This arbitrage opportunity is a perfect example of the power that cryptocurrency traders have. They take advantage of price differences on different exchanges by quickly buying and selling assets, which results in profit for them when they sell it at an exchange where prices are higher than other places.
 
-Beginning in the 1990s, people began to use a technology called blockchain. Blockchain is capable of carrying out transactions and storing data without any kind of central authority figure like banks or governments monitoring them. This new form of currency can be traded with other cryptocurrencies through an online exchange such as Coinbase - but it comes at a cost! One example: if you purchase $1 worth Amazon stock using Bitcoin on January 1st 2019 (even though this isn't possible), then by December 31 2018 that same dollar will now have been reduced down to only 50 cents because Bitcoin has depreciated so much from its highest point ever ($20k) since being introduced back in 2009-2010 - not including all those extra fees for trading which are pretty hefty too!
+Beginning in the 1990s, people began to use a technology called blockchain. Blockchain is capable of carrying out transactions and storing data without any kind of central authority figure like banks or governments monitoring them. This new form of currency can be traded with other cryptocurrencies through an online exchange such as Coinbase - but it comes at a cost! One example: if you purchase $1 worth Amazon stock using Bitcoin on January 1st 2019 (even though this isn't possible), then by December 31 2018 that same dollar will now have been reduced down to only 50 cents because Bitcoin has depreciated so much from its highest point ever since being introduced back in 2009-2010 - not including all those extra fees for trading which are pretty hefty too!
 
 Flash loans were created to help speculators exploit arbitrage opportunities. The loan is made and retrieved in the same contract, making an entire transaction block where a user can purchase and sell assets within seconds of each other without having to worry about any consequences.
 
-Aave's rates and Compound's rates change frequently (as all DeFi platform rates do), but Aave tends to offer 2% higher on most assets. We recommend checking for yourself, as this information could change any time we finish writing this sentence.
+Aave's rates and Compound's rates change frequently (as all DeFi platform rates do), but Aave tends to offer 2% higher on most assets. We recommend checking for yourself, as this information could change any time.
 
-Aave offers a range of different market-driven interest rate plans that can be customized based on the investor’s preference. They currently provide an average APR around 3%. The lowest is 1%, while the highest has been reported at 6%.  These figures are subject to change if you happen to read these words after they're published!
+Aave offers a range of different market-driven interest rate plans that can be customized based on the investor’s preference. They currently provide an average APR around 3%. The lowest is 1%, while the highest has been reported at 6%.  These figures are obviously subject to change, so ensure you do your own research beforehand.
 
-Recently, the world has been introduced to a new type of cryptocurrency - Aave. This currency is designed to be used in day-to-day transactions and provides greater benefits than other cryptocurrencies because it offers Flash Loans as well as more variety when choosing which coins you want your money invested in.
+Aave is designed to be used in day-to-day transactions and provides greater benefits than other cryptocurrencies because it offers Flash Loans as well as more variety when choosing which coins you want your money invested in.
 
 Compound Chain is a blockchain that will be able to provide money market and financial services across multiple networks. Unlike most of the DeFi exchanges currently, which can only operate in one network such as Ethereum Blockchain, Compound Chain will be able to swiftly interlink with any other blockchains or networks
 
@@ -86,3 +88,5 @@ Maker Dao is the market leader in cryptocurrency lending DeFi Exchanges, but the
 Celsius and Linus are both cryptocurrencies with passive income opportunities. Celsius has the potential for an in-kind interest rate while also functioning as a lending platform, whereas Linus only offers what is essentially a savings account.
 
 Celsius vs. Linus makes for an interesting comparison between two unique cryptocurrency investment accounts: one that pays you more than just your original deposit (in-kind interest) but does not offer any other credit or debit features; the other offering nothing aside from cash remittances at rates comparable to traditional banks' saving accounts (<1%).
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
