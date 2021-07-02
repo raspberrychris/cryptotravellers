@@ -1,14 +1,14 @@
 +++
-author = ""
-categories = []
-date = ""
+author = "Luna Sanchez"
+categories = ["What is", "Neo"]
+date = 2021-07-02T23:00:00Z
 description = ""
 draft = true
 image = ""
-tags = []
+tags = ["What is", "Neo"]
 title = "What is NEO?"
-toc = false
-url = ""
+toc = true
+url = "what-is-neo"
 
 +++
 NEO is a blockchain that aims to use the power of smart contracts and digital certificates in order to create an innovative, efficient economy. It was founded by Antshares Company Limited (now NEO Global Development), which also launched Ontology Network as well. In 2017 its name changed from AntShares into Neo - walking on both feet with Chinese philosophy! The founding team envisioned that it would be China's answer for Ethereum: building this platform aimed at driving cryptocurrency adoption within the growing Chinese market - but they're not alone anymore. Just like every other major player in crypto space, there are plenty of competitors out there who want their chance too; even some claiming to dominate NEO already have a foot up over them due-to being built first or
