@@ -1,23 +1,28 @@
 +++
 author = "Luna Sanchez"
-categories = []
+categories = ["VS", "Aave", "Compound"]
 date = 2021-07-01T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/aave-vs-compound.png"
 tags = ["Vs", "Compound", "Aave"]
 title = "Aave vs Compound"
-toc = false
-url = ""
+toc = true
+url = "aave-vs-compound"
 
 +++
 ## What is Aave?
 
-Aave is a platform that started life as ETHlend and has grown to be an influential force in the DeFi (Decentralized Financial) space. The upstart company often challenges other platforms such as Maker, Uniswap, or Curve Finance.
+[**Aave**](https://aave.com/) is a platform that started life as ETHlend and has grown to be an influential force in the DeFi (Decentralized Financial) space. The upstart company often challenges other platforms such as Maker and Uniswap.![aave-logo](/uploads/bd78b0b8-fbed-4146-9d87-50a2f2ed5825-1618897425-9eeb71edf1cd4eca826b03ef806908c2a8e408da.png)
+
+> **Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. - Aave.com**
 
 ## What is Compound?
 
+![compound-logo](/uploads/compound-comp-logo.png)
+
 The newest crypto-integrated investment platform, Compound, has seen unprecedented success with investors in the past few weeks. Not only does it include a suite of features for cryptocurrency enthusiasts and novice traders alike to make investing as easy as possible (such as line graphs showing six months' worth of data), but its governance tokens have doubled their values since June 20th due to major exchanges like Coinbase announcing that they would add COMP into their list of tradable currencies.
+
+> **Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications. - Compound.com**
 
 Aave and Compound offer cryptocurrency investors an opportunity to borrow funds against their crypto tokens as collateral, or lend them out for fairly competitive interest rates. Aave is a newer platform that offers a few unique features not found on other competing platforms like Compound, like giving lenders the option of setting their own lending terms in order to get involved with more riskier investments than they might otherwise typically be comfortable with, without having any say about what happens when those loans are repaid by borrowers who fail (or refuse) to pay up. There have been some reports that it has grown very quickly in popularity over the last year because of these additional benefits.
 
