@@ -12,9 +12,9 @@ url = "dogecoin-vs-shiba-inu"
 +++
 ## Dogecoin
 
-As you may be aware, [Dogecoin](https://cryptotravellers.com/buy-dogecoin/) was initially created as a joke. It was started in 2013 by Jackson Palmer and Billy Markus. The currency is styled after the Doge internet meme in an effort to poke fun at cryptocurrency's fervor for Bitcoin-based projects that are doomed from their inception because of unnecessary complexity (see: Neo & Bee). However, it does have some utility - even if its initial conception might seem pretty tongue-inwithless!
+As you may be aware, [Dogecoin](https://cryptotravellers.com/buy-dogecoin/) was initially created as a joke. It was started in 2013 by Jackson Palmer and Billy Markus. The currency is styled after the Doge internet meme in an effort to poke fun at cryptocurrency's fervor for Bitcoin-based projects that are doomed from their inception because of unnecessary complexity.  
 
-Dogecoin has been forked off Litecoin which means they share similar similarities with bitcoin such as supply limitations on coins mined per day or week but there is one key difference; unlike Bitcoin’s capped limit of how many can ever exist, DOGE has no
+Dogecoin has been forked off Litecoin which means they share similar similarities with Bitcoin such as supply limitations on coins mined per day or week but there is one key difference; unlike Bitcoin’s capped limit of how many can ever exist, **DOGE has no limit.**
 
 Interest of cryptocurrency began surging after entrepreneur Elon Musk became involved, mentioning it both repeatedly as well as during an iconic Saturday Night Live performance. This led to 'Doge Mania' where many celebrities/influencers also joined together in promoting interest towards DOGE (a prominent Bitcoin alternative), leading up its peak before he noticed his post was deleted from twitter - but not for long!
 
