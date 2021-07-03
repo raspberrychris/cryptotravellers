@@ -3,7 +3,6 @@ author = "Luna Sanchez"
 categories = ["Vs", "Shiba Inu", "Dogecoin"]
 date = 2021-07-02T23:00:00Z
 description = ""
-draft = true
 image = "/uploads/dogecoin-vs-shibainu.png"
 tags = ["DOGE", "SHIB"]
 title = "Dogecoin vs Shiba Inu"
@@ -47,4 +46,6 @@ The SHIB community is passionate, however, and therefore another significant pri
 
 ## Final Thoughts
 
-Both [Dogecoin](https://cryptotravellers.com/buy-dogecoin/) and Shiba Inu have incredible potential. Dogecoin was considered a complete joke just a few years ago and 2021 saw many people profit and make incredible gains from the rise in Doge's price.  They also carry plenty risks which are based on the fact that a lot of price movement is based on speculation and celebrity endorsement.  With Dogecoin you need to watch Elon Musk's twitter feed like a hawk to monitor movements, with Shib it is still under the radar largely but it also has built an impressive community of fans and investors in a short space of time.  Supporters who adored them helped bring about their prices through their enthusiasm.    
+Both [Dogecoin](https://cryptotravellers.com/buy-dogecoin/) and Shiba Inu have incredible potential. Dogecoin was considered a complete joke just a few years ago and 2021 saw many people profit and make incredible gains from the rise in Doge's price.  They also carry plenty risks which are based on the fact that a lot of price movement is based on speculation and celebrity endorsement.  With Dogecoin you need to watch Elon Musk's twitter feed like a hawk to monitor movements, with Shib it is still under the radar largely but it also has built an impressive community of fans and investors in a short space of time.  Supporters who adored them helped bring about their prices through their enthusiasm.
+
+{{< notice "note" >}} **Disclaimer:** [Cryptotravellers](https://cryptotravellers.com) or the author are not a financial advisor and the information in this article is not financial advice and should not be construed in this way. {{< /notice >}}
