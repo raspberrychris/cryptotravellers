@@ -1,7 +1,7 @@
 +++
 author = "Luna Sanchez"
 categories = ["Ocean Protocol"]
-date = 2021-07-05T23:00:00Z
+date = 2021-07-04T23:00:00Z
 description = ""
 image = "/uploads/what-is-ocean-protocol.png"
 tags = ["Ocean Protocol"]
