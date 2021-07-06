@@ -28,7 +28,7 @@ Ocean is a decentralized network that provides a single cryptocurrency, Ocean (O
 
 The new cryptocurrency, Ocean (OCEAN) token appears designed to provide an easy way exchange within its global ecosystem where all participants benefit from having it due primarily because there's always someone who will need what you have - making everyone successful together.
 
-For the past five months, Ocean Token has seen exponential growth. 
+For the past five months, Ocean Token has seen exponential growth.
 
 In an attempt to make the market for second-hand cars more transparent, sgCarMart has built Singapore’s first marketplace dedicated solely to supplying accurate information about used car history. There are many citizens in Singapore who purchase these vehicles because of their affordability and emissions levels but there is a lack of transparency when it comes to informing consumers on whether or not those same benefits would be available if they were buying new cars instead. The Ocean Protocol will help solve this problem by providing a way for buyers and sellers alike can ensure that any potential issues with condition before committing to buy, while also making sure that whomever purchases them was aware from the beginning what kind of commitment they're taking part in through shared data regarding pollution levels and tax rates within our
 
@@ -47,3 +47,11 @@ Working to keep up with the rapidly changing technological landscape is no easy 
 Each new product we see on store shelves has been designed by someone who was probably just as clueless about programming or design software back then, but now their knowledge base spans across every aspect of the field from UI/UX design all way through code writing and database creation so there really isn't any excuse not knowing what you're doing other than laziness these days! Aspiring developers needn’t worry too much though; nowadays even if your
 
 People are always looking for ways to make life easier and these two technologies might be the answer. Ocean is a blockchain protocol that connects many different marketplaces together so you can access data from all of them at once - just like what an ecosystem does.
+
+## Useful Links
+
+Oceanprotocol.com	[https://oceanprotocol.com/](https://oceanprotocol.com/ "https://oceanprotocol.com/")
+
+Source code	[https://github.com/oceanprotocol](https://github.com/oceanprotocol "https://github.com/oceanprotocol")
+
+Whitepaper	[https://oceanprotocol.com/tech-whitepaper.pdf](https://oceanprotocol.com/tech-whitepaper.pdf "https://oceanprotocol.com/tech-whitepaper.pdf")
