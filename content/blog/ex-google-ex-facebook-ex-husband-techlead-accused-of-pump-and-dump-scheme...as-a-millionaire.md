@@ -1,7 +1,7 @@
 +++
 author = "Luna Sanchez"
 categories = ["TechLead"]
-date = 2021-07-09T23:00:00Z
+date = 2021-07-08T23:00:00Z
 description = ""
 image = "/uploads/tech-lead-pump-and-dump-alleged.png"
 tags = ["TechLead"]
