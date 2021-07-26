@@ -16,7 +16,7 @@ url = "how-to-buy-bitcoin-uk"
 
 In this step by step guide we will show you some of the best ways to purchase Bitcoin in the UK.
 
-**What's the best way to buy bitcoin?** I'm going to show you where you can get it without getting completely and unnecessarily ripped off.
+**What's the best way to** [**buy bitcoin**](https://cryptotravellers.com/buy-bitcoin)**?** I'm going to show you where you can get it without getting completely and unnecessarily ripped off.
 
 ### The best places to buy Bitcoin
 
