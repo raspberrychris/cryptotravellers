@@ -20,20 +20,20 @@ In this step by step guide we will show you some of the best ways to purchase Bi
 
 ### The best places to buy Bitcoin
 
-* Coinbase Pro
-* Crypto.com
+* [Coinbase Pro](/link/coinbase)
+* [Crypto.com](/link/sign-up-crypto-dot-com)
 * CoinJar
 * Luno
 * Wirex
 * Solidi & Bittylicious
 * Coinfloor
-* Localbitcoins
+* [Localbitcoins](/link/local-bitcoins)
 
 ## 1. Coinbase Pro
 
 ![coinbase-pro](/uploads/coinbase-pro-exchange.png "Coinbase Pro")
 
-Coinbase Pro is a cheap way to buy bitcoin in the UK. They were granted an e-money license, which no other major cryptocurrency exchange had before them! This big deal means that you can deposit British Pounds (GBP) via Faster Payments - and it's been one of Coinbase’s best features for years now!
+[Coinbase](/link/coinbase) Pro is a cheap way to [buy bitcoin](/buy-bitcoin) in the UK. They were granted an e-money license, which no other major cryptocurrency exchange had before them! This big deal means that you can deposit British Pounds (GBP) via Faster Payments - and it's been one of Coinbase’s best features for years now!
 
 A recent upgrade has made their GBP deposits even cheaper than ever: just 0.5% on all transfers from your bank account*.
 
@@ -41,7 +41,7 @@ A recent upgrade has made their GBP deposits even cheaper than ever: just 0.5% o
 
 ![crypto-com](/uploads/kapture-2021-03-28-at-17-46-04.gif "Crypto.com")
 
-Crypto.com is a service that allows you to buy bitcoin through GBP deposits and has 0% fees! Crypto.com also offers the option of buying cryptocurrencies at real exchange rates, but this only works for EURO (EUR) deposits right now because it's temporarily disabled in other currencies with them having temporary workarounds currently available on their site as well if interested in using those methods instead or even until they can fix everything up again which will be within 24 hours according to an email received by one user who contacted customer support about Bitcoin being unavailable there during these times while crypto markets are open so should not have any problems converting into BTC/ETH once more eventually soon enough without causing major issues including anything else needed like ID verification etc
+[Crypto.com](/link/sign-up-crypto-dot-com) is a service that allows you to buy bitcoin through GBP deposits and has 0% fees! [Crypto.com](/link/sign-up-crypto-dot-com) also offers the option of buying cryptocurrencies at real exchange rates, but this only works for EURO (EUR) deposits right now because it's temporarily disabled in other currencies with them having temporary workarounds currently available on their site as well if interested in using those methods instead or even until they can fix everything up again which will be within 24 hours according to an email received by one user who contacted customer support about Bitcoin being unavailable there during these times while crypto markets are open so should not have any problems converting into BTC/ETH once more eventually soon enough without causing major issues including anything else needed like ID verification etc
 
 ## 3. CoinJar
 
@@ -57,7 +57,7 @@ You'll be charged a 1% fixed fee when you purchase bitcoins through this service
 
 Established in 2013, Luno is a UK-based cryptocurrency broker that’s made it simple to buy bitcoin (and other popular cryptocurrencies). When you deposit GBP with a bank transfer from the UK, you will be charged 1.5% when buying or selling bitcoins - which may seem like high fees at first glance. However, I found their rates are usually close to what they should actually cost!
 
-You can also purchase altcoins through credit card and PayPal as long as your own those payment methods linked up on your account page. Currently there are only eleven coins available for users: Bitcoin Cash ABC/BCH; Ethereum ETH; Litecoin LTC; Ripple XRP ; Stellar XLM ; Monero XMR
+You can also purchase altcoins through credit card and PayPal as long as your own those payment methods linked up on your account page. Currently there are only eleven coins available for users: Bitcoin Cash ABC/BCH; [Ethereum](/buy-ethereum) ETH; Litecoin LTC; Ripple XRP ; Stellar XLM ; [Monero XMR](/buy-monero)
 
 ## 5. Wirex
 
@@ -81,7 +81,7 @@ Coinfloor is a reputable UK bitcoin exchange that focuses on connection traders,
 
 ![local-bitcoins](/uploads/local-bitcoins.png "Local Bitcoins")
 
-Localbitcoins is a site that aims to convert your local currency into the cryptocurrency bitcoin. You can post ads on this website for conversion rates and payment methods, or browse through other people's postings if you're interested in exchanging currencies with them!
+[Localbitcoins](/link/local-bitcoins) is a site that aims to convert your local currency into the cryptocurrency bitcoin. You can post ads on this website for conversion rates and payment methods, or browse through other people's postings if you're interested in exchanging currencies with them!
 
 **Payment Methods available include:**
 
