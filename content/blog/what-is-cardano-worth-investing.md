@@ -16,17 +16,17 @@ url: what-is-cardano-ada
 
 ## What is Cardano? Is it a cryptocurrency? Is it similar to Bitcoin?
 
-The short answer would probably be "no".  Cardano is very different to Bitcoin.
+The short answer would probably be "no".  [Cardano](/buy-cardano) is very different to Bitcoin.
 
 ![](https://pixabay.com/get/gf708be5e8b2bc58100cf9f26ca9a969624a39e7a5297087a25badea95730daec7ffae67e7533e41b417448bc9e279ced_640.jpg)
 
-Today, we will introduce Cardano and discuss how and why it's expected to turn into one of the most important cryptocurrency worldwide. We will likewise attempt to answer the following concerns - **What is Cardano?** **Is Cardano a good investment?"** and **Should I purchase Cardano in 2021?**
+Today, we will introduce [Cardano](/buy-cardano) and discuss how and why it's expected to turn into one of the most important cryptocurrency worldwide. We will likewise attempt to answer the following concerns - **What is Cardano?** **Is Cardano a good investment?"** and **Should I** [**purchase Cardano**](/buy-cardano) **in 2021?**
 
 ## What Is Cardano?
 
 ![cardano-logo](/uploads/logo-cardano.png "cardano")
 
-Cardano is a decentralised platform that allows individuals to carry out deals beyond borders and release wise agreements and decentralised apps (dApps). Cardano was introduced in 2017 to restore rely on economies through the integration of technology and likewise to allow unbanked individuals to gain access to monetary services.
+[Cardano](/buy-cardano) is a decentralised platform that allows individuals to carry out deals beyond borders and release wise agreements and decentralised apps (dApps). [Cardano](/buy-cardano) was introduced in 2017 to restore rely on economies through the integration of technology and likewise to allow unbanked individuals to gain access to monetary services.
 
 Interestingly, Cardano's creators Jeremy Wood and Charles Hoskinson dealt with the Ethereum ecosystem, but then the team split.
 
@@ -34,11 +34,11 @@ Interestingly, Cardano's creators Jeremy Wood and Charles Hoskinson dealt with t
 
 That said, Cardano is not your average digital property. It is defined as a third-generation cryptocurrency with potential application in supply chain traceability and governance.
 
-This indicates that Cardano may overtake Bitcoin, a first-generation cryptocurrency, by solving its scalability problems; Cardano may also overtake Ethereum, a second-generation cryptocurrency, by supplying a much safer peer-reviewed platform for clever agreements.
+This indicates that [Cardano](/buy-cardano) may overtake Bitcoin, a first-generation cryptocurrency, by solving its scalability problems; Cardano may also overtake Ethereum, a second-generation cryptocurrency, by supplying a much safer peer-reviewed platform for clever agreements.
 
 As Cardano designers specified, they attempt to "supply a more balanced and sustainable environment that much better represent the needs of its users along with other systems looking for combination."
 
-Additionally, Cardano differentiated itself from other cryptos as it brought in teachers and scientists to integrate peer-reviewed and scholastic concepts into its design.
+Additionally, [Cardano](/buy-cardano) differentiated itself from other cryptos as it brought in teachers and scientists to integrate peer-reviewed and scholastic concepts into its design.
 
 No surprise that Cardano managed to raise $62 million during its Initial Coin offering (ICO) and started working together with high-level companies across FinTech and academic sectors.
 
@@ -46,11 +46,11 @@ No surprise that Cardano managed to raise $62 million during its Initial Coin of
 
 ## How Does Cardano Work?
 
-Cardano is a third-generation coin that intends to enhance scalability, interoperability, and sustainability to reach large-scale blockchain adoption.
+[Cardano is a third-generation coin](/buy-cardano) that intends to enhance scalability, interoperability, and sustainability to reach large-scale blockchain adoption.
 
-Its development has been supported so far by three different organisations: the Cardano Foundation that manages the advancement of the Cardano community; Input Output Hong Kong (IOHK) that constructs the blockchain; and EMURGO that looks after the promotion of Cardano's business applications.
+Its development has been supported so far by three different organisations: the Cardano Foundation that manages the advancement of the Cardano community; [Input Output Hong Kong (IOHK)](https://iohk.io/) that constructs the blockchain; and [EMURGO](https://emurgo.io/) that looks after the promotion of Cardano's business applications.
 
-Note that Cardano's advancement is set up in 5 stages or eras: Byron, Shelley, Goguen, Basho and Voltaire, with Goguen being arranged for this year.
+Note that Cardano's advancement is set up in 5 stages or eras: [Byron](https://roadmap.cardano.org/en/byron/), [Shelley](https://roadmap.cardano.org/en/shelley/), [Goguen](https://roadmap.cardano.org/en/goguen/), [Basho](https://roadmap.cardano.org/en/basho/) and [Voltaire](https://roadmap.cardano.org/en/voltaire/), with Goguen being arranged for this year.
 
 A distinct feature of Cardano is its 2 layers: the Cardano Settlement Layer (CSL) used as a balance journal to settle deals and the Control Layer utilized for wise contracts. This separation permits organisations to custom-make the style and personal privacy of their agreements.
 
