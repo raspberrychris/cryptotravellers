@@ -16,7 +16,7 @@ url = "why-is-dogecoin-going-up"
 
 ![](/uploads/308-3087903_1x-dogecoin-cryptocoin-gold-plated-doge-collective-air.png)
 
-Dogecoin continued to soar after the looming public debut of Coinbase, which is a cryptocurrency exchange. But most of the surge can be attributed to Elon Musk's ongoing performance in Dogecoin-focused tweets.
+[Dogecoin](/buy-dogecoin) continued to soar after the looming public debut of [Coinbase](/link/coinbase), which is a cryptocurrency exchange. But most of the surge can be attributed to Elon Musk's ongoing performance in Dogecoin-focused tweets.
 
 Elon Musk has made a habit of posting on Twitter occasionally and causing traders to go crazy.
 
@@ -28,7 +28,7 @@ On 15th April, Elon Musk [shared a tweet](https://twitter.com/elonmusk/status/13
 
 ## Will Dogecoin make me rich?
 
-Many people think Dogecoin is a terrible investment because it’s meant to always get cheaper, but the recent surge has proven that wrong. Now, investors are looking for a way to cash in on what was once thought of as a worst-case scenario type of coin.
+Many people think [Dogecoin](/buy-dogecoin) is a terrible investment because it’s meant to always get cheaper, but the recent surge has proven that wrong. Now, investors are looking for a way to cash in on what was once thought of as a worst-case scenario type of coin.
 
 > Dogecoin is up more than 2,600% this year. This cryptocurrency is certainly making waves, and has seen celebrity interest from Elon Musk and Snoop Dogg.
 
